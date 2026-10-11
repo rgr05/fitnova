@@ -1,5 +1,20 @@
 [
   {
+    "titulo_original": "Bildschirmzeit und Depressionen: Zwillings-Studie rüttelt an Handy-Alarm",
+    "resumen_original": "",
+    "idioma": "de",
+    "fuente": "Frankfurter Rundschau",
+    "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFBGbEdfbDRyWFc1SkhCU0VrRHNYQmZpQlhQZE5kdlhXaXB0R01xU3ZJNDBQMUxySlpLNXVMSExGUDBIOFcxbnJTcVN3YU5UYjh1VVVfcHdtS0dFTTNJbTFRQmRFWWducm54dHFFb3hzVldKQjJhVjcweEhqR240UWo1eU5rS0NwY1ZvMDhGRXBFRjZRT3B5TjBDMXpCMk1IaWRpLVM3LVlmMHhET0dmNmtTelg?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-11T13:11:00+00:00",
+    "id": "55961aee",
+    "traducida": true,
+    "titulo": "Tiempo de pantalla y depresión: el estudio de Géminis sacude la alarma del teléfono móvil",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "tiempo-de-pantalla-y-depresion-el-estudio-de-geminis-sacude-la-alarma-55961aee"
+  },
+  {
     "titulo_original": "Effekte auf Lebergesundheit und Sterberisiko: Diese kühle Variante der Mittelmeerdiät hat Forscher überrascht",
     "resumen_original": "",
     "idioma": "de",
@@ -23,11 +38,19 @@
     "imagen": "",
     "fecha": "2026-10-11T10:34:53+00:00",
     "traducida": true,
-    "titulo": "¿Reducir los ultraprocesados también mejora la salud mental?",
-    "resumen": "",
-    "categoria": "Salud mental",
+    "titulo": "¿Reducir los alimentos ultraprocesados mejora también la salud mental?",
+    "resumen": "Un artículo de Focus plantea si disminuir el consumo de alimentos ultraprocesados puede tener efectos positivos sobre el estado de ánimo. La noticia no incluye más detalles en la información disponible.",
+    "categoria": "Nutrición",
     "id": "290a0c29",
-    "slug": "reducir-los-ultraprocesados-tambien-mejora-la-salud-mental-290a0c29"
+    "slug": "reducir-los-ultraprocesados-tambien-mejora-la-salud-mental-290a0c29",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El titular de Focus plantea la pregunta de si reducir el consumo de alimentos ultraprocesados mejora también la salud mental. Con la información disponible no podemos saber qué estudio la respalda, cuántas personas participaron ni qué resultados concretos se describen.",
+      "contexto": "Los alimentos ultraprocesados son productos industriales con muchos ingredientes añadidos, como azúcares, grasas, aditivos o almidones modificados, y suelen ser ricos en calorías y pobres en fibra y nutrientes. Numerosos estudios observacionales han relacionado un consumo elevado de estos productos con peor salud cardiometabólica y con mayor riesgo de depresión y ansiedad. Aun así, estas investigaciones no demuestran por sí solas que el alimento sea la causa, y los ensayos que comparan dietas con distinto grado de procesamiento son todavía escasos.",
+      "ten_en_cuenta": "Como el medio no ofrece entradilla ni detalles del estudio, no podemos confirmar si se trata de un ensayo, un estudio observacional o una revisión, ni el tamaño de la muestra. Una relación entre alimentación y ánimo no implica que cambiar la dieta sea la única ni la principal causa de una mejora, y conviene leer la fuente original antes de sacar conclusiones."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true
   },
   {
     "titulo_original": "Insomnia linked to higher risk of dementia, suicide, stroke and other major health issues: Study",
@@ -53,11 +76,19 @@
     "imagen": "",
     "fecha": "2026-10-11T04:32:03+00:00",
     "traducida": true,
-    "titulo": "Comer aceite de oliva antes que los carbohidratos tiene un efecto sorprendente sobre el azúcar en la sangre",
-    "resumen": "Un simple cambio en el orden en que come sus alimentos podría ayudar a prevenir los picos de azúcar en la sangre. Los científicos descubrieron que dar aceite de oliva a los ratones antes que los carbohidratos ralentizaba la digestión y activaba una sorprendente combinación de hormonas y señales nerviosas que ayudaban a regular el azúcar en la sangre,...",
+    "titulo": "Tomar aceite de oliva antes que los hidratos de carbono frena los picos de azúcar en ratones",
+    "resumen": "Un estudio con ratones sugiere que tomar aceite de oliva antes que los hidratos de carbono ralentiza la digestión y activa hormonas y señales nerviosas que ayudan a regular la glucosa en sangre. La entradilla no detalla más resultados.",
     "categoria": "Nutrición",
     "id": "d5c8c80a",
-    "slug": "comer-aceite-de-oliva-antes-que-los-carbohidratos-tiene-un-efecto-sorp-d5c8c80a"
+    "slug": "comer-aceite-de-oliva-antes-que-los-carbohidratos-tiene-un-efecto-sorp-d5c8c80a",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, los investigadores dieron aceite de oliva a ratones antes de los hidratos de carbono. Observaron que la digestión se ralentizaba y que se activaba una combinación de hormonas y señales nerviosas que ayudaba a regular el azúcar en sangre. El texto presenta esto como una posible forma de prevenir los picos de glucosa al cambiar el orden en que se comen los alimentos.",
+      "contexto": "Los picos de glucosa tras las comidas se asocian a un mayor riesgo de problemas metabólicos a largo plazo, por lo que el ritmo al que se absorben los azúcares es un tema de interés en nutrición. En general, se sabe que las grasas y la fibra enlentecen el vaciado del estómago y la absorción de los hidratos, y que el orden de los alimentos en una comida puede influir en la respuesta glucémica. Aun así, el efecto concreto de esta secuencia en personas requiere más investigación.",
+      "ten_en_cuenta": "El estudio se realizó en ratones, y los resultados en animales no siempre se trasladan a las personas. La entradilla es breve y no indica el tamaño de la muestra, la cantidad de aceite usada ni la magnitud del efecto. Conviene esperar a estudios en humanos antes de extraer conclusiones prácticas."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true
   },
   {
     "titulo_original": "A plastic once thought harmless may be fueling fatty liver disease",
@@ -99,10 +130,18 @@
     "fecha": "2026-10-10T17:15:00+00:00",
     "traducida": true,
     "titulo": "Poco tiempo, gran efecto: lo que aporta el entrenamiento de fuerza corto",
-    "resumen": "",
+    "resumen": "Un artículo de FIT FOR FUN aborda los beneficios del entrenamiento de fuerza breve. Por el titular, se centra en si sesiones cortas merecen la pena.",
     "categoria": "Entrenamiento",
     "id": "83129262",
-    "slug": "poco-tiempo-gran-efecto-lo-que-aporta-el-entrenamiento-de-fuerza-corto-83129262"
+    "slug": "poco-tiempo-gran-efecto-lo-que-aporta-el-entrenamiento-de-fuerza-corto-83129262",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, el artículo trata sobre los beneficios del entrenamiento de fuerza de corta duración. No tenemos el texto completo ni la entradilla, así que no podemos detallar qué datos, estudios o recomendaciones concretas incluye.",
+      "contexto": "Las guías de salud internacionales recomiendan hacer actividades de fortalecimiento muscular al menos dos días a la semana, porque ayudan a mantener la masa y la fuerza muscular a lo largo de la vida. Para muchas personas, el principal obstáculo es el tiempo, por eso interesa saber si sesiones breves pueden aportar beneficios útiles.",
+      "ten_en_cuenta": "Con solo el titular no podemos saber qué estudio o fuente respalda la afirmación, ni cuánto dura exactamente la sesión ni qué resultados se midieron. Conviene leer el artículo original antes de sacar conclusiones y tener en cuenta que la duración ideal depende de cada persona y sus objetivos."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true
   },
   {
     "titulo_original": "Studie zeigt: Nur 4 Minuten Training pro Tag können die Fitness verbessern",
