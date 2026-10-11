@@ -13,6 +13,10 @@ La web está alojada en **GitHub Pages** (GitHub, Inc.). Como en cualquier visit
 
 Las tipografías y los iconos se sirven desde la propia web, así que tu navegador no se conecta con otros servicios para cargarlos.
 
+## Enlaces de afiliado de Amazon
+
+Algunas guías de compra incluyen enlaces de afiliado de Amazon (consulta [cómo elegimos los productos](como-elegimos-los-productos.html)). En nuestra web esos enlaces no instalan cookies. Si haces clic en uno, pasas a Amazon, que usa sus propias cookies para saber que llegaste desde aquí y asignarnos la comisión. A partir de ese momento se aplica el aviso de privacidad de Amazon, enlazado al pie de su web.
+
 Las noticias enlazan a medios externos. Al hacer clic, sales de Sudor y Ciencia y se aplica la política de privacidad de cada medio.
 
 ## Cambios
