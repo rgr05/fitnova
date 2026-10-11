@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% set tema_activo = "Guías" %}
+{% block titulo %}{{ guia.titulo }} | {{ config.nombre }}{% endblock %}
+{% block descripcion %}{{ guia.descripcion }}{% endblock %}
+{% block og_tipo %}article{% endblock %}
+{% block robots %}{% if not guia.revisado %}<meta name="robots" content="noindex, follow">{% endif %}{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org", "@type": "Article",
+  "headline": guia.titulo, "description": guia.descripcion, "inLanguage": "es",
+  "datePublished": guia.fecha_iso, "dateModified": guia.actualizado_iso,
+  "author": ({"@type": "Person", "name": config.autor} if guia.revisado else {"@type": "Organization", "name": config.nombre}),
+  "publisher": {"@type": "Organization", "name": config.nombre, "url": url_absoluta()}
+} | tojson }}</script>
+{% endblock %}
+{% block contenido %}
+<div class="articulo">
+  <article class="cuerpo">
+    <nav class="migas" aria-label="Estás en">
+      <a href="{{ ruta() }}">Portada</a><span aria-hidden="true">/</span><a href="{{ ruta('guias/') }}">Guías</a>
+    </nav>
+    <div class="meta"><span class="cat">{{ guia.categoria }}</span><span>{{ guia.lectura }} min de lectura, actualizada el <time datetime="{{ guia.actualizado_iso }}">{{ guia.actualizado_iso | fecha_corta }}</time></span></div>
+    <h1>{{ guia.titulo }}</h1>
+    <p class="entradilla">{{ guia.descripcion }}</p>
+    <p class="aviso-ia">
+      <i class="ph ph-{{ 'seal-check' if guia.revisado else 'sparkle' }}" aria-hidden="true"></i>
+      <span>
+        {% if guia.revisado %}<strong>Revisada por {{ config.autor }}.</strong>{% else %}<strong>Guía redactada con ayuda de IA</strong> a partir de las fuentes citadas al final. Pendiente de revisión editorial.{% endif %}
+        Información general: no sustituye el consejo de un profesional sanitario.
+      </span>
+    </p>
+    <div class="prosa">{{ guia.contenido | safe }}</div>
+  </article>
+  {% if otras %}
+  <aside class="relacionadas" aria-labelledby="t-otras">
+    <h2 class="seccion-titulo" id="t-otras">Otras guías</h2>
+    <ul>
+      {% for g in otras %}
+      <li><a href="{{ ruta('guias/' ~ g.slug ~ '.html') }}"><h3 class="titular">{{ g.titulo }}</h3></a><div class="meta"><span>{{ g.lectura }} min de lectura</span></div></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+</div>
+{% endblock %}

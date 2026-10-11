@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block titulo %}{{ titulo }} | {{ config.nombre }}{% endblock %}
+{% block descripcion %}{{ descripcion or config.descripcion }}{% endblock %}
+{% block contenido %}
+<div class="articulo" style="grid-template-columns:1fr">
+  <article class="cuerpo">
+    <h1>{{ titulo }}</h1>
+    <div class="prosa">{{ contenido | safe }}</div>
+  </article>
+</div>
+{% endblock %}

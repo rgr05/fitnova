@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block titulo %}Buscar | {{ config.nombre }}{% endblock %}
+{% block robots %}<meta name="robots" content="noindex, follow">{% endblock %}
+{% block contenido %}
+<header class="cabecera-listado"><h1 id="titulo-busqueda">Buscando…</h1></header>
+<div class="lista" id="resultados" data-indice="{{ ruta('buscar.json') }}" style="padding-bottom:72px"></div>
+<noscript><p class="vacio">El buscador necesita JavaScript. Puedes navegar por temas desde el menú.</p></noscript>
+{% endblock %}

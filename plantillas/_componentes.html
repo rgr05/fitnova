@@ -1,0 +1,38 @@
+{# Piezas reutilizables #}
+
+{% macro meta(n) %}
+<div class="meta">
+  <span class="cat">{{ n.categoria }}</span>
+  <span>{{ n.fuente }}, <time datetime="{{ n.fecha }}" data-relativo>{{ n.fecha | fecha_corta }}</time></span>
+  {% if n.comentario %}<span class="sello"><i class="ph ph-seal-check" aria-hidden="true"></i>Revisado</span>{% endif %}
+</div>
+{% endmacro %}
+
+{% macro foto(n, carga="lazy") %}
+{% if n.imagen %}<div class="foto"><img src="{{ n.imagen }}" alt="" loading="{{ carga }}" referrerpolicy="no-referrer"></div>{% endif %}
+{% endmacro %}
+
+{% macro fila(n, i=0) %}
+<article class="fila aparece {{ '' if n.imagen else 'sin-foto' }}" style="--i:{{ [i, 6] | min }}">
+  <div>
+    {{ meta(n) }}
+    <a href="{{ n.url }}"><h3 class="titular">{{ n.titulo }}</h3></a>
+    {% if n.resumen %}<p class="resumen">{{ n.resumen }}</p>{% endif %}
+  </div>
+  {% if n.imagen %}<a href="{{ n.url }}" tabindex="-1" aria-hidden="true">{{ foto(n) }}</a>{% endif %}
+</article>
+{% endmacro %}
+
+{% macro panel_guias(guias) %}
+{% if guias %}
+<section class="panel">
+  <h2>Guías para empezar</h2>
+  <ul class="lista-guias">
+    {% for g in guias %}
+    <li><a href="{{ ruta('guias/' ~ g.slug ~ '.html') }}"><strong>{{ g.titulo }}</strong><span>{{ g.lectura }} min de lectura</span></a></li>
+    {% endfor %}
+  </ul>
+  <a class="boton-secundario" href="{{ ruta('guias/') }}">Ver todas las guías</a>
+</section>
+{% endif %}
+{% endmacro %}

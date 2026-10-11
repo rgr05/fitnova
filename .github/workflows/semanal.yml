@@ -1,0 +1,29 @@
+# Cada lunes abre un aviso (issue) con las noticias destacadas que conviene revisar.
+name: Destacados para revisar
+
+on:
+  schedule:
+    - cron: "43 6 * * 1"   # lunes a las 6:43 UTC (8:43 en España en horario de verano)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  aviso:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Preparar la lista
+        run: python destacados.py > aviso.md
+      - name: Abrir el aviso en GitHub
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Destacados para revisar · semana del $(date +%d/%m)" --body-file aviso.md

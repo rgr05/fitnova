@@ -37,12 +37,13 @@ jobs:
       - name: Instalar librerías
         run: pip install -r requirements.txt
 
-      - name: Buscar y traducir noticias
+      - name: Buscar, explicar y publicar noticias
         run: python fitnova.py
         env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
 
-      - name: Guardar las noticias traducidas
+      - name: Guardar los datos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

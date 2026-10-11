@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% from "_componentes.html" import fila, panel_guias %}
+{% set tema_activo = tema %}
+{% set intro = {
+  "Entrenamiento": "Estudios y novedades sobre ejercicio, fuerza, cardio y movimiento, explicados para aplicarlos en tu día a día.",
+  "Nutrición": "Lo que dice la ciencia sobre alimentación, proteínas, dietas y suplementos, sin modas ni exageraciones.",
+  "Sueño": "Investigaciones sobre el descanso, el insomnio y cómo dormir mejor.",
+  "Salud mental": "Estrés, ansiedad, bienestar emocional y hábitos que ayudan a la mente.",
+  "Salud general": "Prevención, hábitos saludables y otras noticias de salud que te interesan."
+} %}
+{% block titulo %}{{ tema }}: últimas noticias explicadas | {{ config.nombre }}{% endblock %}
+{% block descripcion %}{{ intro[tema] }}{% endblock %}
+{% block contenido %}
+<header class="cabecera-listado">
+  <h1>{{ tema }}</h1>
+  <p>{{ intro[tema] }}</p>
+</header>
+<section class="mas" style="border-top:0;padding-top:8px">
+  <div>
+    {% if noticias %}
+    <div class="lista" data-paginar="15">
+      {% for n in noticias %}{{ fila(n, loop.index0) }}{% endfor %}
+    </div>
+    {% else %}
+    <div class="vacio"><i class="ph ph-newspaper" aria-hidden="true"></i><h2>Aún no hay noticias de este tema</h2><p>Vuelve en unas horas: la web se actualiza sola varias veces al día.</p></div>
+    {% endif %}
+  </div>
+  <aside class="lateral">{{ panel_guias(guias | selectattr("categoria", "equalto", tema) | list or guias[:3]) }}</aside>
+</section>
+{% endblock %}

@@ -3,16 +3,18 @@ Fitnova · Recopilador de noticias de fitness, salud y autocuidado.
 
 Qué hace, paso a paso:
   1. Lee los feeds RSS de feeds.json (en cualquier idioma).
-  2. Limpia cada noticia y descarta las antiguas y las repetidas.
-  3. Traduce título y resumen al español (solo las noticias nuevas).
-  4. Clasifica cada noticia en una categoría.
-  5. Guarda todo en data/noticias.json y genera la web en site/index.html.
+  2. Limpia cada noticia y descarta las repetidas.
+  3. Si hay clave de Claude (ANTHROPIC_API_KEY), la IA filtra, titula, clasifica y explica
+     cada noticia nueva (ia.py). Si no, se traduce automáticamente y se clasifica por palabras clave.
+  4. Guarda todo en data/noticias.json.
+  5. Genera la web completa en site/ (web.py).
 
 Uso:
   python fitnova.py          -> ejecución real (necesita internet)
   python fitnova.py --demo   -> usa noticias de ejemplo, sin internet
 """
 
+import hashlib
 import html
 import json
 import os
@@ -27,15 +29,17 @@ from urllib.request import Request, urlopen
 
 import feedparser
 
+import ia
+import web
+
 # ---------------------------------------------------------------- Ajustes
 CARPETA = Path(__file__).parent
 FEEDS = CARPETA / "feeds.json"
 DATOS = CARPETA / "data" / "noticias.json"
-PLANTILLA = CARPETA / "plantilla.html"
-WEB = CARPETA / "site" / "index.html"
 INFORME = CARPETA / "data" / "informe.json"   # resumen de la última ejecución
 
-DIAS_A_CONSERVAR = 7        # noticias más antiguas se descartan
+DIAS_ARCHIVO = 180          # cada noticia conserva su página durante medio año
+MAX_IA_POR_EJECUCION = 60   # tope de noticias que la IA procesa en cada ejecución (controla el gasto)
 MAX_POR_FEED = 15           # para no saturar la web con una sola fuente
 MAX_CARACTERES_RESUMEN = 280
 
@@ -237,8 +241,17 @@ def noticias_demo() -> list[dict]:
          "Estirar antes de correr: qué dice la evidencia",
          "El calentamiento dinámico parece más útil que los estiramientos estáticos.", "corredora-calle"),
     ]
+    categorias = ["Entrenamiento", "Sueño", "Entrenamiento", "Salud mental", "Nutrición",
+                  "Salud general", "Nutrición", "Salud mental", "Entrenamiento"]
     return [{
-        "titulo_original": orig, "resumen_original": "", "titulo": es, "resumen": resumen, "traducida": True,
+        "titulo_original": orig, "resumen_original": "", "titulo": es, "resumen": resumen,
+        "traducida": True, "procesada_ia": True, "relevante": True,
+        "categoria": categorias[n], "puntuacion": 9 - n,
+        "explicacion": {
+            "que_dice": "Texto de ejemplo para el modo demo. Aquí la IA explica qué cuenta la noticia.",
+            "contexto": "Aquí explica por qué importa y qué se sabe en general sobre el tema.",
+            "ten_en_cuenta": "Aquí señala los matices: tamaño del estudio, tipo de estudio, etc.",
+        },
         "idioma": idioma, "fuente": "Fuente de ejemplo", "enlace": "https://example.com",
         "imagen": f"https://picsum.photos/seed/{semilla}/1200/800" if semilla else "",
         "fecha": (ahora - timedelta(hours=4 * n + 1)).isoformat(),
@@ -246,10 +259,25 @@ def noticias_demo() -> list[dict]:
 
 
 # ---------------------------------------------------------------- Programa
+def identificador(noticia: dict) -> str:
+    return hashlib.sha1(clave_duplicado(noticia["titulo_original"]).encode()).hexdigest()[:8]
+
+
+def traducir_noticia(noticia: dict) -> bool:
+    """Plan B sin IA: traducción automática + clasificación por palabras clave."""
+    titulo = traducir(noticia["titulo_original"], noticia["idioma"])
+    resumen = traducir(noticia["resumen_original"], noticia["idioma"]) if titulo else None
+    noticia["traducida"] = titulo is not None
+    noticia["titulo"] = titulo or noticia["titulo_original"]
+    noticia["resumen"] = resumen if resumen is not None else noticia["resumen_original"]
+    noticia["categoria"] = clasificar(noticia["titulo"] + " " + noticia["resumen"])
+    return noticia["traducida"]
+
+
 def main():
     demo = "--demo" in sys.argv
 
-    # 1. Noticias que ya teníamos (así no volvemos a traducirlas)
+    # 1. Noticias que ya teníamos (así no volvemos a procesarlas)
     guardadas = json.loads(DATOS.read_text("utf-8")) if DATOS.exists() and not demo else []
     por_clave = {clave_duplicado(n["titulo_original"]): n for n in guardadas}
 
@@ -264,62 +292,85 @@ def main():
             leidas = leer_feed(feed)
             recuento_fuentes[feed["nombre"]] = len(leidas)
             recogidas += leidas
-
-    # 3. Añadir las nuevas (sin repetir) y traducir lo que falte
     for noticia in recogidas:
         clave = clave_duplicado(noticia["titulo_original"])
         if clave and clave not in por_clave:
             por_clave[clave] = noticia
 
-    # Quitamos las antiguas antes de traducir, para no gastar tiempo en ellas
-    limite = datetime.now(timezone.utc) - timedelta(days=DIAS_A_CONSERVAR)
+    limite = datetime.now(timezone.utc) - timedelta(days=DIAS_ARCHIVO)
     noticias = [n for n in por_clave.values() if datetime.fromisoformat(n["fecha"]) >= limite]
+    noticias.sort(key=lambda n: n["fecha"], reverse=True)   # de más reciente a más antigua
 
-    nuevas = fallidas = 0
+    # 3. Procesar lo pendiente: con IA si hay clave; si no (o si falla), con traducción
+    usar_ia = ia.disponible() and not demo
+    print("IA de Claude:", "activada" if usar_ia else "no configurada (solo traducción)")
+    con_ia = traducidas = fallidas = 0
+    fallos_ia_seguidos = 0
+    errores_ia = []
     for noticia in noticias:
-        if "titulo" in noticia and not necesita_traduccion(noticia):
-            continue   # ya estaba traducida
-        titulo = traducir(noticia["titulo_original"], noticia["idioma"])
-        resumen = traducir(noticia["resumen_original"], noticia["idioma"]) if titulo else None
-        noticia["traducida"] = titulo is not None
-        noticia["titulo"] = titulo or noticia["titulo_original"]
-        noticia["resumen"] = resumen if resumen is not None else noticia["resumen_original"]
-        noticia["categoria"] = clasificar(noticia["titulo"] + " " + noticia["resumen"])
-        if noticia["traducida"]:
-            nuevas += 1
-        else:
-            fallidas += 1
-        if all(f >= MAX_FALLOS_SEGUIDOS for f in _fallos_seguidos.values()):
-            print("Ningún traductor responde: lo reintentaremos en la próxima ejecución.")
-            break
-        time.sleep(0.3)   # no saturar al traductor
-    print(f"Traducidas {nuevas} noticias; {fallidas} fallidas (se reintentarán la próxima vez).")
+        noticia.setdefault("id", identificador(noticia))
+        quiere_ia = usar_ia and not noticia.get("procesada_ia")
+        quiere_traduccion = "titulo" not in noticia or necesita_traduccion(noticia)
+        if not (quiere_ia or quiere_traduccion):
+            continue
 
-    # 4. Ordenar de más reciente a más antigua
-    noticias.sort(key=lambda n: n["fecha"], reverse=True)
+        if quiere_ia and con_ia < MAX_IA_POR_EJECUCION and fallos_ia_seguidos < 3:
+            try:
+                noticia.update(ia.procesar(noticia))
+                noticia["procesada_ia"] = noticia["traducida"] = True
+                con_ia += 1
+                fallos_ia_seguidos = 0
+            except Exception as error:
+                fallos_ia_seguidos += 1
+                mensaje = f"{type(error).__name__}: {error}"[:200]
+                print(f"   ! IA: {mensaje}")
+                if mensaje not in errores_ia and len(errores_ia) < 5:
+                    errores_ia.append(mensaje)
 
-    # 5. Guardar datos y generar la web
+        if not noticia.get("procesada_ia") and quiere_traduccion:
+            if all(f >= MAX_FALLOS_SEGUIDOS for f in _fallos_seguidos.values()):
+                fallidas += 1
+                continue
+            if traducir_noticia(noticia):
+                traducidas += 1
+            else:
+                fallidas += 1
+            time.sleep(0.3)   # no saturar al traductor
+
+    # La dirección de cada página se fija una sola vez (no debe cambiar nunca, por el SEO)
+    for noticia in noticias:
+        noticia.setdefault("id", identificador(noticia))
+        if "titulo" in noticia and "slug" not in noticia:
+            noticia["slug"] = f"{web.slug(noticia['titulo'])}-{noticia['id']}"
+
+    print(f"IA: {con_ia} procesadas. Traducción: {traducidas} traducidas, {fallidas} pendientes.")
+
+    # 4. Guardar datos
     if not demo:   # en demo no ensuciamos los datos reales
         DATOS.parent.mkdir(exist_ok=True)
         DATOS.write_text(json.dumps(noticias, ensure_ascii=False, indent=2), "utf-8")
+
+    # 5. Generar la web con las noticias relevantes y ya listas
+    publicables = [n for n in noticias if n.get("relevante", True) and "slug" in n]
+    paginas = web.generar(publicables, demo=demo)
+    print(f"Web generada: {len(publicables)} noticias, {paginas} páginas -> site/")
+
+    if not demo:
         informe = {
             "fecha": datetime.now(timezone.utc).isoformat(),
             "por_fuente": recuento_fuentes,
-            "noticias_publicadas": len(noticias),
-            "traducidas_ahora": nuevas,
-            "traducciones_fallidas": fallidas,
-            "pendientes_de_traducir": sum(necesita_traduccion(n) for n in noticias),
+            "noticias_en_archivo": len(noticias),
+            "noticias_publicadas": len(publicables),
+            "descartadas_por_ia": sum(1 for n in noticias if n.get("relevante") is False),
+            "procesadas_con_ia_ahora": con_ia,
+            "ia_activada": usar_ia,
+            "errores_ia": errores_ia,
+            "traducidas_ahora": traducidas,
+            "pendientes": sum(1 for n in noticias if "slug" not in n or (usar_ia and not n.get("procesada_ia"))),
             "traducidas_por_servicio": {k: ESTADISTICAS[k] for k in ("google", "mymemory")},
             "errores_de_traduccion": ESTADISTICAS["errores"],
         }
         INFORME.write_text(json.dumps(informe, ensure_ascii=False, indent=2), "utf-8")
-
-    web = PLANTILLA.read_text("utf-8")
-    web = web.replace("__NOTICIAS__", json.dumps(noticias, ensure_ascii=False).replace("</", "<\\/"))
-    web = web.replace("__ACTUALIZADO__", datetime.now(timezone.utc).isoformat())
-    WEB.parent.mkdir(exist_ok=True)
-    WEB.write_text(web, "utf-8")
-    print(f"Web generada con {len(noticias)} noticias -> {WEB}")
 
 
 if __name__ == "__main__":

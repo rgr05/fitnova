@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% from "_componentes.html" import meta, foto, fila, panel_guias %}
+{% block titulo %}{{ config.nombre }} | Noticias de fitness, nutrición, sueño y salud mental{% endblock %}
+{% block jsonld %}
+<script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "WebSite", "name": config.nombre, "url": url_absoluta(), "inLanguage": "es", "potentialAction": {"@type": "SearchAction", "target": url_absoluta("buscar.html") ~ "?q={q}", "query-input": "required name=q"}} | tojson }}</script>
+{% endblock %}
+{% block contenido %}
+{% if lider %}
+<section class="portada">
+  <article class="principal aparece {{ '' if lider.imagen else 'sin-foto' }}">
+    <a href="{{ lider.url }}">
+      {{ foto(lider, "eager") }}
+      {{ meta(lider) }}
+      <h1 class="titular">{{ lider.titulo }}</h1>
+    </a>
+    {% if lider.resumen %}<p class="entradilla">{{ lider.resumen }}</p>{% endif %}
+  </article>
+  {% if recientes %}
+  <section class="recientes" aria-labelledby="t-recientes">
+    <h2 class="seccion-titulo" id="t-recientes">Lo más reciente</h2>
+    <ol>
+      {% for n in recientes %}
+      <li class="aparece" style="--i:{{ loop.index }}"><a href="{{ n.url }}"><div><h3 class="titular">{{ n.titulo }}</h3>{{ meta(n) }}</div></a></li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+</section>
+
+{% if destacados | length >= 3 %}
+<section class="destacados" aria-labelledby="t-destacados">
+  <header>
+    <h2 id="t-destacados">Lo más importante de la semana</h2>
+    <p>Elegido por su utilidad para el día a día</p>
+  </header>
+  <div class="carril">
+    {% for n in destacados %}
+    <a class="destacado" href="{{ n.url }}">
+      <span class="puesto">{{ loop.index }}</span>
+      <div class="meta"><span class="cat">{{ n.categoria }}</span>{% if n.comentario %}<span class="sello"><i class="ph ph-seal-check" aria-hidden="true"></i>Revisado</span>{% endif %}</div>
+      <h3 class="titular">{{ n.titulo }}</h3>
+      {% if loop.first and n.resumen %}<p>{{ n.resumen }}</p>{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="mas">
+  <div>
+    <h2 class="seccion-titulo">Más noticias</h2>
+    <div class="lista" data-paginar="15">
+      {% for n in resto %}{{ fila(n, loop.index0) }}{% endfor %}
+    </div>
+  </div>
+  <aside class="lateral">
+    <section class="panel">
+      <h2>Esta semana en {{ config.nombre }}</h2>
+      <dl class="cifras">
+        <div><dt>noticias</dt><dd>{{ total_semana }}</dd></div>
+        <div><dt>medios</dt><dd>{{ fuentes }}</dd></div>
+        <div><dt>idiomas</dt><dd>{{ idiomas_n }}</dd></div>
+      </dl>
+      <p>Leemos medios y revistas científicas en varios idiomas y te contamos lo importante en español, con su contexto.</p>
+    </section>
+    {{ panel_guias(guias) }}
+  </aside>
+</section>
+{% else %}
+<section class="vacio">
+  <i class="ph ph-newspaper" aria-hidden="true"></i>
+  <h2>Aún no hay noticias</h2>
+  <p>Vuelve en unas horas: la web se actualiza sola varias veces al día.</p>
+</section>
+{% endif %}
+{% endblock %}

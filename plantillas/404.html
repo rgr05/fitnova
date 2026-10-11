@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block titulo %}Página no encontrada | {{ config.nombre }}{% endblock %}
+{% block robots %}<meta name="robots" content="noindex">{% endblock %}
+{% block contenido %}
+<section class="vacio">
+  <i class="ph ph-compass" aria-hidden="true"></i>
+  <h2>Esta página no existe</h2>
+  <p>Puede que la noticia se haya retirado o que el enlace esté mal escrito.</p>
+  <a class="boton" href="{{ ruta() }}">Ir a la portada</a>
+</section>
+{% endblock %}

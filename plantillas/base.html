@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% set titulo_completo %}{% block titulo %}{{ config.nombre }}{% endblock %}{% endset %}
+{% set descripcion_pagina %}{% block descripcion %}{{ config.descripcion }}{% endblock %}{% endset %}
+<title>{{ titulo_completo | trim }}</title>
+<meta name="description" content="{{ descripcion_pagina | trim }}">
+<link rel="canonical" href="{{ url_absoluta('' if pagina == 'index.html' else pagina) }}">
+{% block robots %}{% endblock %}
+<meta property="og:site_name" content="{{ config.nombre }}">
+<meta property="og:locale" content="es_ES">
+<meta property="og:type" content="{% block og_tipo %}website{% endblock %}">
+<meta property="og:title" content="{{ titulo_completo | trim }}">
+<meta property="og:description" content="{{ descripcion_pagina | trim }}">
+<meta property="og:url" content="{{ url_absoluta('' if pagina == 'index.html' else pagina) }}">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#f3f4f2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1110" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230b7a52'/%3E%3Ctext x='16' y='22.5' font-family='Arial' font-weight='700' font-size='18' fill='%23fbfbfa' text-anchor='middle'%3Ef%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="{{ ruta('estilos.css') }}">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1" defer></script>
+<link rel="alternate" type="application/xml" title="Mapa del sitio" href="{{ ruta('sitemap.xml') }}">
+{% block jsonld %}{% endblock %}
+</head>
+<body>
+<header class="cabecera">
+  <div class="contenedor">
+    <div class="barra">
+      <a class="logo" href="{{ ruta() }}" aria-label="{{ config.nombre }}, portada">fit<span>nova</span></a>
+      <span class="fecha-hoy" id="fecha-hoy" data-actualizado="{{ actualizado }}"></span>
+      <form class="buscador" action="{{ ruta('buscar.html') }}" role="search">
+        <label class="solo-lectores" for="buscador">Buscar en Fitnova</label>
+        <i class="ph ph-magnifying-glass" aria-hidden="true"></i>
+        <input id="buscador" name="q" type="search" placeholder="Buscar noticias y guías" autocomplete="off">
+      </form>
+    </div>
+    <nav class="temas" aria-label="Temas">
+      <a class="tema" href="{{ ruta() }}" {% if pagina == 'index.html' %}aria-current="page"{% endif %}>Portada</a>
+      {% for t in temas %}
+      <a class="tema" href="{{ ruta('temas/' ~ slug(t) ~ '.html') }}" {% if tema_activo == t %}aria-current="page"{% endif %}>{{ t }}</a>
+      {% endfor %}
+      <a class="tema" href="{{ ruta('guias/') }}" {% if tema_activo == 'Guías' %}aria-current="page"{% endif %}>Guías</a>
+    </nav>
+  </div>
+</header>
+
+<main class="contenedor">
+{% block contenido %}{% endblock %}
+</main>
+
+<footer>
+  <div class="contenedor pie">
+    <nav aria-label="Pie de página">
+      <a href="{{ ruta('guias/') }}">Guías</a>
+      <a href="{{ ruta('sobre.html') }}">Sobre {{ config.nombre }}</a>
+      <a href="{{ ruta('privacidad.html') }}">Privacidad</a>
+    </nav>
+    <p>{{ config.nombre }} reúne noticias de medios de todo el mundo y las explica en español con ayuda de inteligencia artificial. Cada noticia enlaza a su fuente original. El contenido es informativo y no sustituye el consejo de un profesional sanitario.</p>
+    <p>© {{ anio }} {{ config.nombre }}</p>
+  </div>
+</footer>
+<script src="{{ ruta('app.js') }}" defer></script>
+</body>
+</html>

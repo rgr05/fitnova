@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% set tema_activo = "Guías" %}
+{% block titulo %}Guías de entrenamiento, nutrición y descanso | {{ config.nombre }}{% endblock %}
+{% block descripcion %}Guías claras y basadas en la evidencia para empezar a cuidarte: ejercicio, proteína, fuerza y sueño.{% endblock %}
+{% block contenido %}
+<header class="cabecera-listado">
+  <h1>Guías</h1>
+  <p>Lo básico que conviene saber para cuidarte, explicado con claridad y con las fuentes a la vista.</p>
+</header>
+<div class="rejilla-guias">
+  {% for g in guias %}
+  <a class="tarjeta-guia aparece" style="--i:{{ loop.index0 }}" href="{{ ruta('guias/' ~ g.slug ~ '.html') }}">
+    <div class="meta"><span class="cat">{{ g.categoria }}</span><span>{{ g.lectura }} min de lectura</span></div>
+    <h2 class="titular">{{ g.titulo }}</h2>
+    <p>{{ g.descripcion }}</p>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}
