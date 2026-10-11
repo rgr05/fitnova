@@ -1,0 +1,65 @@
+# Fitnova: busca noticias, las traduce y publica la web en GitHub Pages.
+name: Actualizar Fitnova
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"   # cada 4 horas (hora UTC), en el minuto 17
+  workflow_dispatch:          # botón "Run workflow" para lanzarlo a mano
+  push:
+    branches: [main]          # y cada vez que cambies algo del proyecto
+
+permissions:
+  contents: write   # para guardar data/noticias.json en el repositorio
+  pages: write      # para publicar la web
+  id-token: write
+
+concurrency:
+  group: fitnova
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - name: Descargar el proyecto
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar librerías
+        run: pip install -r requirements.txt
+
+      - name: Buscar y traducir noticias
+        run: python fitnova.py
+
+      - name: Guardar las noticias traducidas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/noticias.json
+          if git diff --cached --quiet; then
+            echo "No hay noticias nuevas que guardar."
+          else
+            git commit -m "Actualizar noticias"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaquetar la web
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Publicar la web
+        id: publicar
+        uses: actions/deploy-pages@v4

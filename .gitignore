@@ -1,0 +1,3 @@
+# Se generan solos en cada ejecución
+site/
+__pycache__/

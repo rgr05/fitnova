@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fitnova | Noticias de fitness, salud y autocuidado</title>
+<meta name="description" content="Las noticias más recientes de fitness, nutrición, sueño y salud mental de todo el mundo, traducidas al español.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&display=swap">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<style>
+  /* Sistema de diseño
+     - Paleta: neutros fríos + un único acento verde.
+     - Formas: imágenes con radio 12px; buscador y botones en píldora; pestañas sin radio.
+     - Tema: automático (claro / oscuro según el sistema). */
+  :root {
+    --fondo: #f3f4f2;
+    --superficie: #fbfbfa;
+    --texto: #141615;
+    --suave: #565b58;
+    --linea: #dcdfdc;
+    --acento: #0b7a52;
+    --acento-fondo: #dcefe6;
+    --radio: 12px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fondo: #0f1110;
+      --superficie: #171a18;
+      --texto: #eceeed;
+      --suave: #9ba39e;
+      --linea: #272c29;
+      --acento: #52d49c;
+      --acento-fondo: #15322a;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--fondo); color: var(--texto);
+    font: 16px/1.55 Geist, ui-sans-serif, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+  img { display: block; max-width: 100%; }
+  .contenedor { max-width: 1240px; margin: 0 auto; padding: 0 16px; }
+  @media (min-width: 768px) { .contenedor { padding: 0 32px; } }
+  .solo-lectores { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+  /* ---------- Cabecera ---------- */
+  .cabecera { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--fondo) 88%, transparent);
+              backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-bottom: 1px solid var(--linea); }
+  .barra { display: flex; align-items: center; gap: 24px; height: 64px; }
+  .logo { font-weight: 700; font-size: 1.45rem; letter-spacing: -0.04em; }
+  .logo span { color: var(--acento); }
+  .fecha-hoy { color: var(--suave); font-size: .875rem; }
+  .buscador { margin-left: auto; position: relative; width: min(300px, 40vw); }
+  .buscador i { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--suave); font-size: 1.05rem; }
+  .buscador input {
+    width: 100%; height: 40px; padding: 0 16px 0 40px; border-radius: 999px;
+    border: 1px solid var(--linea); background: var(--superficie); color: var(--texto); font: inherit; font-size: .95rem;
+  }
+  .buscador input::placeholder { color: var(--suave); }
+  .buscador input:focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
+
+  .temas { display: flex; gap: 28px; overflow-x: auto; scrollbar-width: none; }
+  .temas::-webkit-scrollbar { display: none; }
+  .tema {
+    flex: none; background: none; border: 0; padding: 12px 0; font: inherit; font-size: .95rem; font-weight: 500;
+    color: var(--suave); cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -1px;
+  }
+  .tema:hover { color: var(--texto); }
+  .tema[aria-pressed="true"] { color: var(--texto); border-bottom-color: var(--acento); }
+  .tema:focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
+
+  @media (max-width: 640px) {
+    .fecha-hoy { display: none; }
+    .buscador { width: auto; flex: 1; }
+  }
+
+  /* ---------- Metadatos comunes ---------- */
+  .meta { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; font-size: .82rem; color: var(--suave); }
+  .meta .cat { color: var(--acento); font-weight: 600; }
+  .traduccion { font-size: .8rem; color: var(--suave); }
+  .traduccion summary { cursor: pointer; width: fit-content; list-style: none; display: inline-flex; align-items: center; gap: 6px; }
+  .traduccion summary::-webkit-details-marker { display: none; }
+  .traduccion summary:hover { color: var(--texto); }
+  .traduccion p { margin: 6px 0 0; font-style: italic; }
+  .foto { overflow: hidden; border-radius: var(--radio); background: var(--linea); }
+  .foto img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s cubic-bezier(.16,1,.3,1); }
+  a:hover .foto img { transform: scale(1.03); }
+  .titular { font-weight: 600; letter-spacing: -0.02em; line-height: 1.2; margin: 0; text-wrap: balance; }
+  a:hover .titular { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; text-decoration-color: var(--acento); }
+
+  /* ---------- Portada ---------- */
+  .portada { display: grid; gap: 40px; padding: 32px 0 48px; }
+  @media (min-width: 1024px) { .portada { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 48px; padding-top: 40px; } }
+
+  .principal { display: grid; gap: 18px; }
+  .principal .foto { aspect-ratio: 16 / 9; }
+  @media (min-width: 1024px) { .principal .foto { aspect-ratio: 2 / 1; } }
+  .principal .titular { font-size: clamp(1.75rem, 3.4vw, 2.6rem); line-height: 1.1; letter-spacing: -0.03em; }
+  .principal.sin-foto .titular { font-size: clamp(2rem, 4.6vw, 3.4rem); }
+  .principal .entradilla { margin: 0; color: var(--suave); font-size: 1.08rem; max-width: 60ch; }
+
+  .recientes h2, .mas h2 { font-size: 1rem; font-weight: 600; margin: 0 0 4px; letter-spacing: -0.01em; }
+  .recientes ol { list-style: none; margin: 0; padding: 0; counter-reset: n; }
+  .recientes li { border-top: 1px solid var(--linea); padding: 18px 0; counter-increment: n; }
+  .recientes li:first-child { border-top: 0; }
+  .recientes a { display: grid; grid-template-columns: 2.2rem 1fr; gap: 0 4px; }
+  .recientes a::before { content: counter(n); font-family: "Geist Mono", ui-monospace, monospace; font-size: 1.4rem; color: var(--acento); line-height: 1.1; }
+  .recientes .titular { font-size: 1.05rem; margin-bottom: 8px; }
+
+  /* ---------- Más noticias ---------- */
+  .mas { display: grid; gap: 40px; padding: 40px 0 72px; border-top: 1px solid var(--linea); }
+  @media (min-width: 1024px) { .mas { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 48px; } }
+  .lista { display: grid; }
+  .fila { display: grid; grid-template-columns: minmax(0, 1fr) 200px; gap: 24px; padding: 24px 0; border-top: 1px solid var(--linea); align-items: start; }
+  .fila:first-of-type { border-top: 0; padding-top: 12px; }
+  .fila.sin-foto { grid-template-columns: 1fr; }
+  .fila .foto { aspect-ratio: 3 / 2; }
+  .fila .titular { font-size: 1.3rem; margin: 8px 0; }
+  .fila .resumen { margin: 0 0 10px; color: var(--suave); font-size: .97rem; max-width: 62ch; }
+  @media (max-width: 640px) {
+    .fila { grid-template-columns: minmax(0, 1fr) 96px; gap: 16px; }
+    .fila .titular { font-size: 1.08rem; }
+    .fila .resumen { display: none; }
+  }
+
+  .lateral { align-self: start; position: sticky; top: 140px; display: grid; gap: 20px;
+             background: var(--superficie); border: 1px solid var(--linea); border-radius: var(--radio); padding: 24px; }
+  .lateral h2 { margin: 0; font-size: 1.15rem; letter-spacing: -0.02em; }
+  .lateral p { margin: 0; color: var(--suave); font-size: .95rem; }
+  .cifras { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 0; }
+  .cifras div { display: grid; gap: 2px; }
+  .cifras dt { order: 2; font-size: .8rem; color: var(--suave); }
+  .cifras dd { order: 1; margin: 0; font-family: "Geist Mono", ui-monospace, monospace; font-size: 1.6rem; color: var(--texto); }
+  @media (max-width: 1023px) { .lateral { position: static; } }
+
+  /* ---------- Estado vacío ---------- */
+  .vacio { padding: 96px 0 120px; display: grid; justify-items: start; gap: 12px; max-width: 520px; }
+  .vacio i { font-size: 2rem; color: var(--acento); }
+  .vacio h2 { margin: 0; font-size: 1.5rem; letter-spacing: -0.02em; }
+  .vacio p { margin: 0; color: var(--suave); }
+  .boton { margin-top: 8px; height: 40px; padding: 0 20px; border-radius: 999px; border: 0; cursor: pointer;
+           background: var(--acento); color: var(--superficie); font: inherit; font-weight: 600; }
+  .boton:active { transform: scale(.98); }
+
+  /* ---------- Pie ---------- */
+  footer { border-top: 1px solid var(--linea); padding: 32px 0 48px; color: var(--suave); font-size: .875rem; }
+  footer p { margin: 0; max-width: 70ch; }
+
+  /* ---------- Movimiento (solo si el usuario no lo ha desactivado) ---------- */
+  @media (prefers-reduced-motion: no-preference) {
+    .aparece { animation: aparece .6s cubic-bezier(.16,1,.3,1) both; animation-delay: calc(var(--i, 0) * 60ms); }
+    @keyframes aparece { from { opacity: 0; transform: translateY(12px); } }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .foto img { transition: none; }
+  }
+</style>
+</head>
+<body>
+<header class="cabecera">
+  <div class="contenedor">
+    <div class="barra">
+      <a class="logo" href="./">fit<span>nova</span></a>
+      <span class="fecha-hoy" id="fecha-hoy"></span>
+      <label class="buscador">
+        <span class="solo-lectores">Buscar noticias</span>
+        <i class="ph ph-magnifying-glass" aria-hidden="true"></i>
+        <input id="buscador" type="search" placeholder="Buscar noticias" autocomplete="off">
+      </label>
+    </div>
+    <nav class="temas" id="temas" aria-label="Temas"></nav>
+  </div>
+</header>
+
+<main class="contenedor" id="contenido"></main>
+
+<footer>
+  <div class="contenedor">
+    <p>Fitnova reúne titulares de medios de todo el mundo y los traduce automáticamente al español. Cada noticia enlaza a su fuente original. El contenido es informativo y no sustituye el consejo de un profesional sanitario.</p>
+  </div>
+</footer>
+
+<script>
+  // El script de Python sustituye estas dos marcas por los datos reales
+  const NOTICIAS = __NOTICIAS__;
+  const ACTUALIZADO = "__ACTUALIZADO__";
+
+  const IDIOMAS = { en: "inglés", fr: "francés", de: "alemán", it: "italiano", pt: "portugués" };
+  const TEMAS = ["Todo", "Entrenamiento", "Nutrición", "Sueño", "Salud mental", "Salud general"];
+  let temaActivo = "Todo";
+
+  const escapar = t => { const d = document.createElement("div"); d.textContent = t || ""; return d.innerHTML; };
+
+  function haceCuanto(fechaISO) {
+    const min = Math.round((Date.now() - new Date(fechaISO)) / 60000);
+    if (min < 60) return `hace ${Math.max(min, 1)} min`;
+    const h = Math.round(min / 60);
+    if (h < 24) return `hace ${h} h`;
+    const d = Math.round(h / 24);
+    return d === 1 ? "ayer" : `hace ${d} días`;
+  }
+
+  // Si una imagen no carga, quitamos su hueco y la noticia pasa a formato solo texto
+  function imagenRota(img) {
+    const bloque = img.closest(".principal, .fila");
+    img.closest(".foto").remove();
+    if (bloque) bloque.classList.add("sin-foto");
+  }
+
+  const foto = (n, extra = "") => n.imagen
+    ? `<div class="foto"><img src="${escapar(n.imagen)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="imagenRota(this)" ${extra}></div>`
+    : "";
+
+  const meta = n => `
+    <div class="meta"><span class="cat">${escapar(n.categoria)}</span><span>${escapar(n.fuente)}, ${haceCuanto(n.fecha)}</span></div>`;
+
+  const traduccion = n => n.idioma === "es" ? "" : `
+    <details class="traduccion">
+      <summary><i class="ph ph-translate" aria-hidden="true"></i>Traducido del ${IDIOMAS[n.idioma] || n.idioma}</summary>
+      <p lang="${escapar(n.idioma)}">${escapar(n.titulo_original)}</p>
+    </details>`;
+
+  const enlace = n => `href="${escapar(n.enlace)}" target="_blank" rel="noopener"`;
+
+  function principal(n) {
+    return `
+      <article class="principal aparece ${n.imagen ? "" : "sin-foto"}">
+        <a ${enlace(n)} style="display:grid;gap:18px">
+          ${foto(n, 'fetchpriority="high" loading="eager"')}
+          ${meta(n)}
+          <h1 class="titular">${escapar(n.titulo)}</h1>
+        </a>
+        ${n.resumen ? `<p class="entradilla">${escapar(n.resumen)}</p>` : ""}
+        ${traduccion(n)}
+      </article>`;
+  }
+
+  function reciente(n, i) {
+    return `
+      <li class="aparece" style="--i:${i + 1}">
+        <a ${enlace(n)}>
+          <div>
+            <h3 class="titular">${escapar(n.titulo)}</h3>
+            ${meta(n)}
+          </div>
+        </a>
+      </li>`;
+  }
+
+  function fila(n, i) {
+    return `
+      <article class="fila aparece ${n.imagen ? "" : "sin-foto"}" style="--i:${Math.min(i, 6)}">
+        <div>
+          ${meta(n)}
+          <a ${enlace(n)}><h3 class="titular">${escapar(n.titulo)}</h3></a>
+          ${n.resumen ? `<p class="resumen">${escapar(n.resumen)}</p>` : ""}
+          ${traduccion(n)}
+        </div>
+        ${n.imagen ? `<a ${enlace(n)} tabindex="-1" aria-hidden="true">${foto(n)}</a>` : ""}
+      </article>`;
+  }
+
+  function lateral() {
+    const fuentes = new Set(NOTICIAS.map(n => n.fuente)).size;
+    const idiomas = new Set(NOTICIAS.map(n => n.idioma)).size;
+    return `
+      <aside class="lateral">
+        <h2>Esta semana en Fitnova</h2>
+        <dl class="cifras">
+          <div><dt>noticias</dt><dd>${NOTICIAS.length}</dd></div>
+          <div><dt>fuentes</dt><dd>${fuentes}</dd></div>
+          <div><dt>idiomas</dt><dd>${idiomas}</dd></div>
+        </dl>
+        <p>Leemos medios y revistas científicas en varios idiomas y te traemos lo más relevante, traducido y ordenado por temas.</p>
+      </aside>`;
+  }
+
+  function vacio(hayBusqueda) {
+    return `
+      <section class="vacio">
+        <i class="ph ph-newspaper" aria-hidden="true"></i>
+        <h2>${hayBusqueda ? "No hemos encontrado nada" : "Aún no hay noticias aquí"}</h2>
+        <p>${hayBusqueda ? "Prueba con otra palabra o busca en todos los temas." : "Vuelve en unas horas: la web se actualiza sola varias veces al día."}</p>
+        ${hayBusqueda || temaActivo !== "Todo" ? `<button class="boton" onclick="reiniciar()">Ver todas las noticias</button>` : ""}
+      </section>`;
+  }
+
+  function pintar() {
+    const busqueda = document.getElementById("buscador").value.trim().toLowerCase();
+    const visibles = NOTICIAS.filter(n =>
+      (temaActivo === "Todo" || n.categoria === temaActivo) &&
+      `${n.titulo} ${n.resumen} ${n.fuente}`.toLowerCase().includes(busqueda));
+
+    const contenido = document.getElementById("contenido");
+    if (!visibles.length) { contenido.innerHTML = vacio(Boolean(busqueda)); return; }
+
+    const [lider, ...resto] = visibles;
+    const recientes = resto.slice(0, 4);
+    const demas = resto.slice(4);
+
+    contenido.innerHTML = `
+      <section class="portada">
+        ${principal(lider)}
+        ${recientes.length ? `
+          <section class="recientes" aria-label="Lo más reciente">
+            <h2>Lo más reciente</h2>
+            <ol>${recientes.map(reciente).join("")}</ol>
+          </section>` : lateral()}
+      </section>
+      ${demas.length ? `
+        <section class="mas">
+          <div>
+            <h2>Más noticias</h2>
+            <div class="lista">${demas.map(fila).join("")}</div>
+          </div>
+          ${lateral()}
+        </section>` : ""}`;
+  }
+
+  function reiniciar() {
+    document.getElementById("buscador").value = "";
+    temaActivo = "Todo";
+    document.querySelectorAll(".tema").forEach(b => b.setAttribute("aria-pressed", b.textContent === "Todo"));
+    pintar();
+  }
+
+  // Pestañas de temas
+  const nav = document.getElementById("temas");
+  TEMAS.forEach(tema => {
+    const b = document.createElement("button");
+    b.className = "tema";
+    b.textContent = tema;
+    b.setAttribute("aria-pressed", tema === temaActivo);
+    b.onclick = () => {
+      temaActivo = tema;
+      document.querySelectorAll(".tema").forEach(x => x.setAttribute("aria-pressed", x === b));
+      pintar();
+      window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+    };
+    nav.append(b);
+  });
+
+  document.getElementById("buscador").addEventListener("input", pintar);
+  const hoy = new Date().toLocaleDateString("es-ES", { weekday: "long", day: "numeric", month: "long" });
+  const hora = new Date(ACTUALIZADO).toLocaleTimeString("es-ES", { hour: "2-digit", minute: "2-digit" });
+  document.getElementById("fecha-hoy").textContent = `${hoy.charAt(0).toUpperCase() + hoy.slice(1)}. Actualizado a las ${hora}`;
+  pintar();
+</script>
+</body>
+</html>

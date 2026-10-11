@@ -1,0 +1,11 @@
+[
+  {"nombre": "ScienceDaily · Fitness",   "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/fitness.xml"},
+  {"nombre": "ScienceDaily · Nutrición", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml"},
+
+  {"nombre": "Google News (EN)", "idioma": "en", "url": "https://news.google.com/rss/search?q=fitness+OR+%22strength+training%22+OR+nutrition+when:7d&hl=en-US&gl=US&ceid=US:en"},
+  {"nombre": "Google News (ES)", "idioma": "es", "url": "https://news.google.com/rss/search?q=fitness+OR+entrenamiento+OR+nutrici%C3%B3n+when:7d&hl=es&gl=ES&ceid=ES:es"},
+  {"nombre": "Google News (FR)", "idioma": "fr", "url": "https://news.google.com/rss/search?q=fitness+OR+musculation+OR+nutrition+when:7d&hl=fr&gl=FR&ceid=FR:fr"},
+  {"nombre": "Google News (DE)", "idioma": "de", "url": "https://news.google.com/rss/search?q=fitness+OR+krafttraining+OR+ern%C3%A4hrung+when:7d&hl=de&gl=DE&ceid=DE:de"},
+  {"nombre": "Google News (IT)", "idioma": "it", "url": "https://news.google.com/rss/search?q=fitness+OR+allenamento+OR+alimentazione+when:7d&hl=it&gl=IT&ceid=IT:it"},
+  {"nombre": "Google News (PT)", "idioma": "pt", "url": "https://news.google.com/rss/search?q=fitness+OR+muscula%C3%A7%C3%A3o+OR+nutri%C3%A7%C3%A3o+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"}
+]
