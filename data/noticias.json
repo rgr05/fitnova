@@ -1,5 +1,30 @@
 [
   {
+    "titulo_original": "Qué es un nódulo pulmonar y cuál sería el pronóstico de la operación del Papa: “Es por prevención”",
+    "resumen_original": "León XIV informó a los fieles que será operado de un pequeño nódulo pulmonar detectado durante controles recientes. Infobae consultó a especialistas para explicar sus posibles causas, los criterios de evaluación y el pronóstico general de una intervención preventiva",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/salud/2026/10/11/que-es-un-nodulo-pulmonar-y-cual-seria-el-pronostico-de-la-operacion-del-papa-es-por-prevencion/",
+    "imagen": "https://www.infobae.com/resizer/v2/NHR4AUTSSJDQHN2JD66XH7BCKI.png?auth=3b27e0b5bb04552896b012df22bd592b856fe20b0b557160a935b7d73cbb32fa&smart=true&width=1536&height=1024",
+    "fecha": "2026-10-11T14:13:40+00:00",
+    "id": "9dee769b",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Qué es un nódulo pulmonar y qué se sabe de una operación preventiva, según especialistas",
+    "resumen": "León XIV anunció que será operado de un pequeño nódulo pulmonar detectado en controles recientes. Especialistas explican qué es un nódulo pulmonar y cómo se evalúa.",
+    "categoria": "Salud general",
+    "explicacion": {
+      "que_dice": "Según la entradilla, León XIV informó a los fieles de que será operado de un pequeño nódulo pulmonar detectado durante controles recientes, y la intervención se presenta como preventiva. Infobae consultó a especialistas para explicar las posibles causas del nódulo, los criterios de evaluación y el pronóstico general de este tipo de operación. El texto disponible no da más detalles sobre el caso concreto.",
+      "contexto": "Un nódulo pulmonar es una pequeña zona redondeada en el pulmón que suele detectarse en una radiografía o una tomografía realizadas por otro motivo. La mayoría son benignos, aunque se valoran según su tamaño, su aspecto y los factores de riesgo de cada persona, como el tabaco. Por eso su manejo suele incluir pruebas de imagen y, en algunos casos, seguimiento periódico o cirugía.",
+      "ten_en_cuenta": "La información procede de un resumen periodístico de la entradilla y no incluye datos clínicos del caso. Cada nódulo se evalúa de forma individual, así que conviene consultar a un profesional sanitario ante cualquier hallazgo propio."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "que-es-un-nodulo-pulmonar-y-que-se-sabe-de-una-operacion-preventiva-se-9dee769b"
+  },
+  {
     "titulo_original": "3 razones por las que conviene comer batatas con cáscara, según una dietista",
     "resumen_original": "Prepararla sin pelar permite aprovechar mejor su aporte de fibra, minerales y compuestos antioxidantes, siempre después de una correcta limpieza",
     "idioma": "es",
@@ -3998,6 +4023,31 @@
     "puntuacion": 4,
     "procesada_ia": true,
     "version_ia": 2
+  },
+  {
+    "titulo_original": "¿Comer menos ultraprocesados puede ayudar cuando tienes depresión?",
+    "resumen_original": "",
+    "idioma": "es",
+    "fuente": "Vida y Salud",
+    "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pc2xvOWUxem1hakR5bldXd3VDbU9oaVRZWkZYeEFhNWJBSlFraEVKYkpkYkNuWWFQbVo4cFlvSUNOWDVuN0tPQ0c1MWQ1X3NoZHBHa2RQSU94V3BsdXlnVVBmd21vNWxSQjlNY2szYVNndWZiYmExZ3h3?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-07T06:07:29+00:00",
+    "id": "aa483be8",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "¿Comer menos ultraprocesados puede ayudar si tienes depresión?",
+    "resumen": "Una noticia plantea si reducir los alimentos ultraprocesados podría ser útil para las personas con depresión. La información disponible se limita al titular.",
+    "categoria": "Salud mental",
+    "explicacion": {
+      "que_dice": "La noticia se pregunta si comer menos alimentos ultraprocesados puede ayudar a las personas con depresión. El medio no incluye más detalles, así que no sabemos qué estudio o fuente lo respalda ni qué resultados se encontraron.",
+      "contexto": "La relación entre la alimentación y la salud mental es un tema de investigación activo. En general, los estudios observacionales suelen asociar patrones con más alimentos frescos y menos productos muy procesados con mejor bienestar psicológico, aunque eso no demuestra por sí solo una relación de causa y efecto. La depresión es una condición que requiere evaluación y tratamiento profesional.",
+      "ten_en_cuenta": "Solo tenemos el titular, sin entradilla ni datos del estudio, por lo que no podemos valorar la solidez de la evidencia. Cambiar la dieta no sustituye el tratamiento de la depresión; conviene consultar con un profesional de la salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "comer-menos-ultraprocesados-puede-ayudar-si-tienes-depresion-aa483be8"
   },
   {
     "titulo_original": "La alimentación en enfermedades reumáticas: ni dietas milagro ni suplementos contra la inflamación",
