@@ -1,5 +1,30 @@
 [
   {
+    "titulo_original": "3 razones por las que conviene comer batatas con cáscara, según una dietista",
+    "resumen_original": "Prepararla sin pelar permite aprovechar mejor su aporte de fibra, minerales y compuestos antioxidantes, siempre después de una correcta limpieza",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/salud/2026/10/11/3-razones-por-las-que-conviene-comer-batatas-con-cascara-segun-una-dietista/",
+    "imagen": "https://www.infobae.com/resizer/v2/VEDPPXINIFEEBAXJGJ6TFR3L7Y.png?auth=d1147faebf2d00d765546dbf18a205056d335a5b1f6a315d09489729459fea0c&smart=true&width=2752&height=1536",
+    "fecha": "2026-10-11T14:06:25+00:00",
+    "id": "8c3b76cb",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "titulo": "Por qué conviene comer la batata con cáscara, según una dietista",
+    "resumen": "Una dietista explica que cocinar la batata sin pelar ayuda a aprovechar su fibra, sus minerales y sus antioxidantes, siempre que antes se limpie bien.",
+    "categoria": "Nutrición",
+    "explicacion": {
+      "que_dice": "La noticia recoge la recomendación de una dietista de preparar la batata con cáscara. Según la entradilla, así se aprovechan mejor su aporte de fibra, sus minerales y sus compuestos antioxidantes, siempre después de una correcta limpieza. La información disponible no da más detalles sobre cada una de las razones.",
+      "contexto": "La fibra y otros compuestos vegetales se concentran en parte en la piel de algunas frutas y hortalizas, por lo que pelarlas puede reducir su aporte. Las recomendaciones de organismos como la OMS insisten en consumir a diario verduras, hortalizas y frutas variadas. Si se come la piel, conviene lavar bien el alimento y descartar las zonas dañadas o con moho.",
+      "ten_en_cuenta": "Se trata de la opinión de una profesional, y la entradilla no menciona estudios ni cifras concretas. Si tienes una dieta específica o problemas digestivos, consulta con tu médico o con un dietista-nutricionista."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "por-que-conviene-comer-la-batata-con-cascara-segun-una-dietista-8c3b76cb"
+  },
+  {
     "titulo_original": "Bildschirmzeit und Depressionen: Zwillings-Studie rüttelt an Handy-Alarm",
     "resumen_original": "",
     "idioma": "de",
@@ -109,10 +134,20 @@
     "fecha": "2026-10-11T11:40:05+00:00",
     "id": "5da84d89",
     "traducida": true,
-    "titulo": "¿Qué es un nódulo de pulmón como el que tiene el papa León XIV?",
-    "resumen": "El papa León XIV anunció este domingo, tras el rezo del Ángelus, que deberá operarse «en los próximos días» de un nódulo en un pulmón que le ha sido detectado en una fase «muy inicial y bien localizado». ¿En qué consiste esta lesión pulmonar que puede ser benigna o maligna?…",
+    "titulo": "Qué es un nódulo de pulmón, la lesión que llevará al papa León XIV a operarse",
+    "resumen": "El papa León XIV anunció que será operado en los próximos días de un nódulo pulmonar detectado en una fase muy inicial. La noticia explica en qué consiste esta lesión, que puede ser benigna o maligna.",
     "categoria": "Salud general",
-    "slug": "que-es-un-nodulo-de-pulmon-como-el-que-tiene-el-papa-leon-xiv-5da84d89"
+    "slug": "que-es-un-nodulo-de-pulmon-como-el-que-tiene-el-papa-leon-xiv-5da84d89",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El papa León XIV anunció tras el Ángelus que deberá operarse en los próximos días de un nódulo en un pulmón, detectado en una fase «muy inicial y bien localizada». El texto disponible plantea la pregunta de qué es esta lesión, que puede ser benigna o maligna, pero el fragmento que tenemos no desarrolla más detalles médicos sobre su caso.",
+      "contexto": "Un nódulo pulmonar es una pequeña zona redondeada que se ve en una prueba de imagen del pulmón. Se encuentran con cierta frecuencia, a veces por casualidad, y muchos son benignos. Para saber qué son y qué seguimiento necesitan, los médicos tienen en cuenta características como su tamaño, su aspecto y los factores de riesgo de cada persona.",
+      "ten_en_cuenta": "La noticia es un anuncio sobre la salud de una persona concreta y no describe un estudio científico. Sobre el caso particular, solo cabe esperar la información que facilite el equipo médico. Si alguien tiene un nódulo detectado, lo indicado es consultar con su médico, que valorará qué pruebas o tratamiento son necesarios."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "«Existe un contraste brutal entre la reputación de Johnson & Johnson y su comportamiento real»",
@@ -599,10 +634,20 @@
     "fecha": "2026-10-10T23:51:14+00:00",
     "id": "b8a423b1",
     "traducida": true,
-    "titulo": "Una carrera de solidaridad y esperanza frente al suicidio: \"A veces basta con acercarse a una persona y decir '¿te puedo ayudar?\"",
-    "resumen": "Javier Jiménez, superviviente de la muerte de su hija, refleja el esfuerzo de los familiares por lograr una mayor sensibilización frente a este grave problema social. Se vuelca en promover la escucha y el acompañamiento a los jóvenes que sufren. Leer",
-    "categoria": "Entrenamiento",
-    "slug": "una-carrera-de-solidaridad-y-esperanza-frente-al-suicidio-a-veces-bast-b8a423b1"
+    "titulo": "Una carrera solidaria contra el suicidio y el testimonio de una familia que busca escuchar a los jóvenes",
+    "resumen": "Javier Jiménez, que perdió a su hija por suicidio, impulsa una iniciativa solidaria para sensibilizar sobre este problema y ofrecer escucha y acompañamiento a los jóvenes que lo sufren.",
+    "categoria": "Salud mental",
+    "slug": "una-carrera-de-solidaridad-y-esperanza-frente-al-suicidio-a-veces-bast-b8a423b1",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge el testimonio de Javier Jiménez, superviviente de la muerte de su hija, y el esfuerzo de los familiares por dar más visibilidad al suicidio. Según el titular, la iniciativa es una carrera solidaria, y el mensaje central es que a veces basta con acercarse a una persona y preguntarle si puede ayudarla. La entradilla no ofrece más detalles sobre el evento ni sobre cifras.",
+      "contexto": "El suicidio es un problema grave de salud pública que la OMS considera prevenible. Hablar del tema de forma abierta, sin tabúes, y preguntar directamente a una persona cómo está cuando se la nota mal son pautas que las guías de prevención recomiendan. Si alguien piensa en hacerse daño, lo más importante es buscar apoyo inmediato: en España existe la Línea 024 de atención a la conducta suicida.",
+      "ten_en_cuenta": "Es un testimonio personal y una iniciativa de sensibilización, no un estudio, así que no aporta datos ni demuestra la eficacia de ninguna medida concreta. La noticia original no da más detalles sobre el evento ni sobre el alcance de la iniciativa."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Los expertos en psicología coinciden: un perro puede aportar compañía, rutina y beneficios para la salud mental en momentos de soledad",
@@ -2539,10 +2584,20 @@
     "fecha": "2026-10-08T16:19:42+00:00",
     "id": "842fffd9",
     "traducida": true,
-    "titulo": "Toni Pérez, fisioterapeuta: «Correr nutre las articulaciones. Quien opine que es malo tiene un error en su cabeza»",
-    "resumen": "Correr continúa arrastrando una creencia difícil de desterrar: que el impacto repetido contra el suelo termina desgastando inevitablemente las rodillas. El f isioterapeuta y divulgador Toni Pérez, conocido en redes sociales como Fisioteduca, rechaza esa asociación automática y…",
+    "titulo": "Un fisioterapeuta defiende que correr nutre las articulaciones y cuestiona que desgasten las rodillas",
+    "resumen": "El fisioterapeuta Toni Pérez rechaza la idea de que el impacto repetido al correr desgaste inevitablemente las rodillas. La entradilla no detalla sus argumentos.",
     "categoria": "Entrenamiento",
-    "slug": "toni-perez-fisioterapeuta-correr-nutre-las-articulaciones-quien-opine-842fffd9"
+    "slug": "toni-perez-fisioterapeuta-correr-nutre-las-articulaciones-quien-opine-842fffd9",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, el fisioterapeuta y divulgador Toni Pérez, conocido en redes como Fisioteduca, cuestiona la creencia de que el impacto repetido contra el suelo desgasta de forma inevitable las rodillas. Sostiene que correr nutre las articulaciones. La noticia original no da más detalles sobre sus argumentos.",
+      "contexto": "El cartílago articular no tiene un aporte sanguíneo directo y se nutre sobre todo a partir del líquido sinovial, que se renueva con el movimiento y la carga moderada. Por eso, en general, las sociedades científicas recomiendan mantenerse activo. Aun así, el efecto de correr depende de factores como la carga de entrenamiento, la técnica y la historia de lesiones de cada persona.",
+      "ten_en_cuenta": "Es la opinión de un profesional, no el resultado de un estudio, y la entradilla no explica sus fuentes. Si ya tienes dolor o molestias en rodillas o articulaciones, conviene consultar con un fisioterapeuta o médico antes de cambiar tu rutina."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "¿22 millones de paneles solares? El reto energético de los centros de datos de Madrid",
@@ -2829,10 +2884,20 @@
     "fecha": "2026-10-08T13:41:43+00:00",
     "id": "b5ace206",
     "traducida": true,
-    "titulo": "Premio Nobel de Física para Francis Halzen por el experimento que atrapó neutrinos cósmicos",
-    "resumen": "La Real Academia de las Ciencias de Suecia reconoce al científico belga por idear un espectacular telescopio enterrado en el hielo del Polo Sur, en colaboración con el español Enrique Zas",
+    "titulo": "Premio Nobel de Física para Francis Halzen por el experimento que detectó neutrinos cósmicos",
+    "resumen": "La Real Academia de las Ciencias de Suecia premia al científico belga por diseñar un gran telescopio enterrado en el hielo del Polo Sur para captar neutrinos cósmicos.",
     "categoria": "Salud general",
-    "slug": "premio-nobel-de-fisica-para-francis-halzen-por-el-experimento-que-atra-b5ace206"
+    "slug": "premio-nobel-de-fisica-para-francis-halzen-por-el-experimento-que-atra-b5ace206",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia informa de que el Nobel de Física se concede a Francis Halzen por idear un telescopio de neutrinos instalado en el hielo antártico, en colaboración con el científico español Enrique Zas. No aborda ninguna aplicación para la salud.",
+      "contexto": "Es un logro de la física de partículas y la astronomía. No tiene relación directa con el ejercicio, la alimentación, el sueño, la salud mental ni el autocuidado de las personas.",
+      "ten_en_cuenta": "Al no tratarse de un tema de salud o bienestar, no hay conclusiones que trasladar a la vida diaria. Es una noticia de ciencia básica sin aplicación práctica para el lector de Fitnova."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Fallece un hombre por mpox en el Hospital Donostia de San Sebastián",
@@ -2844,10 +2909,20 @@
     "fecha": "2026-10-08T12:26:00+00:00",
     "id": "e84ae0dd",
     "traducida": true,
-    "titulo": "Fallece un hombre por mpox en el Hospital Donostia de San Sebastián",
-    "resumen": "El Servicio Vasco de Salud inicia una vacunación acelerada del personal sanitario del centro y controla a un centenar de contactos Leer",
+    "titulo": "Muere un hombre por mpox en el Hospital Donostia de San Sebastián",
+    "resumen": "El Servicio Vasco de Salud ha iniciado la vacunación acelerada del personal sanitario del centro y el seguimiento de un centenar de contactos.",
     "categoria": "Salud general",
-    "slug": "fallece-un-hombre-por-mpox-en-el-hospital-donostia-de-san-sebastian-e84ae0dd"
+    "slug": "fallece-un-hombre-por-mpox-en-el-hospital-donostia-de-san-sebastian-e84ae0dd",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un hombre ha fallecido por mpox en el Hospital Donostia de San Sebastián. El Servicio Vasco de Salud está vacunando de forma acelerada al personal sanitario del centro y controla a un centenar de contactos. La noticia original no da más detalles.",
+      "contexto": "La mpox es una enfermedad infecciosa causada por un virus, que se transmite principalmente por contacto estrecho. Las autoridades sanitarias gestionan los brotes con vacunación, seguimiento de contactos y medidas de prevención. Para el día a día, la información útil suele estar en las recomendaciones oficiales de salud pública.",
+      "ten_en_cuenta": "Es una noticia local sobre la gestión de un caso concreto, sin datos sobre el origen del contagio ni sobre la evolución del brote. No aporta pautas de prevención para el lector general. Ante dudas sobre mpox, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Prescripción diferida de antibióticos: una medida prevista para reducir usos innecesarios",
@@ -2859,10 +2934,20 @@
     "fecha": "2026-10-08T12:24:49+00:00",
     "id": "f29e59ea",
     "traducida": true,
-    "titulo": "Prescripción diferida de antibióticos: una medida prevista para reducir usos innecesarios",
-    "resumen": "La Agencia Española de Medicamentos y Productos Sanitarios (Aemps) está trabajando con las comunidades autónomas para implantar en todas la prescripción diferida de antibióticos, que implica retrasar 2 o 3 días el tratamiento para comprobar si los síntomas de una infección…",
+    "titulo": "La AEMPS prepara la implantación de la prescripción diferida de antibióticos en todas las comunidades",
+    "resumen": "La AEMPS trabaja con las comunidades autónomas para extender la prescripción diferida de antibióticos, que consiste en esperar 2 o 3 días antes de iniciar el tratamiento para ver cómo evolucionan los síntomas.",
     "categoria": "Salud general",
-    "slug": "prescripcion-diferida-de-antibioticos-una-medida-prevista-para-reducir-f29e59ea"
+    "slug": "prescripcion-diferida-de-antibioticos-una-medida-prevista-para-reducir-f29e59ea",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La Agencia Española de Medicamentos y Productos Sanitarios (AEMPS) trabaja con las comunidades autónomas para implantar en todas ellas la prescripción diferida de antibióticos. Esta medida consiste en retrasar el tratamiento 2 o 3 días para comprobar cómo evolucionan los síntomas de la infección. Su objetivo es reducir usos innecesarios de antibióticos. La noticia original no da más detalles sobre cómo se aplicará ni sobre los plazos.",
+      "contexto": "Los antibióticos actúan contra las bacterias, no contra los virus, que causan la mayoría de los catarros y de las infecciones respiratorias leves. El uso innecesario de antibióticos favorece la aparición de resistencias, que la OMS considera una de las grandes amenazas para la salud pública. Por eso se promueven estrategias para usarlos solo cuando realmente hacen falta.",
+      "ten_en_cuenta": "Según la noticia, es una medida en preparación y no un cambio ya aplicado en todo el país, y la entradilla está incompleta. No conviene decidir por cuenta propia si tomar o no un antibiótico: consulte siempre con su médico o profesional sanitario."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Premio Nobel de Literatura: cómo Anne Carson descubrió nuevas posibilidades en el lenguaje",
@@ -2874,10 +2959,20 @@
     "fecha": "2026-10-08T11:32:44+00:00",
     "id": "2e384cb9",
     "traducida": true,
-    "titulo": "Premio Nobel de Literatura: cómo Anne Carson descubrió nuevas posibilidades en el lenguaje",
-    "resumen": "En una época en la que la investigación académica y la escritura creativa suelen considerarse actividades independientes, Carson ha demostrado hasta qué punto están íntimamente relacionadas.",
+    "titulo": "Anne Carson y la relación entre investigación académica y escritura creativa",
+    "resumen": "Un artículo sobre cómo la poeta Anne Carson ha mostrado la relación entre la investigación académica y la escritura creativa. No trata de salud, nutrición, sueño ni bienestar.",
     "categoria": "Salud general",
-    "slug": "premio-nobel-de-literatura-como-anne-carson-descubrio-nuevas-posibilid-2e384cb9"
+    "slug": "premio-nobel-de-literatura-como-anne-carson-descubrio-nuevas-posibilid-2e384cb9",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla, la noticia habla de la obra de Anne Carson y de cómo combina la investigación académica con la escritura creativa, dos actividades que a menudo se consideran independientes. La información original no da más detalles.",
+      "contexto": "Fitnova se centra en noticias sobre ejercicio, alimentación, descanso, salud mental y autocuidado. Este tema pertenece al ámbito literario y no tiene una aplicación directa para cuidar la salud física o mental en el día a día.",
+      "ten_en_cuenta": "No se trata de una noticia de salud, por lo que no se aplica la evaluación de evidencia científica. Por eso no se incluye en la sección de bienestar."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Los sanitarios voluntarios que cuidan en la acampada de Sol",
@@ -2889,10 +2984,20 @@
     "fecha": "2026-10-08T11:15:35+00:00",
     "id": "15f7ad92",
     "traducida": true,
-    "titulo": "Los sanitarios voluntarios que cuidan en la acampada de Sol",
-    "resumen": "Después de la muerte de Maricarmen Abascal, la mujer de 87 años que fue desahuciada en Madrid, la acampada de la Puerta del Sol recupera la normalidad y esa pequeña ciudad, con sus calles y sus plazas, con servicios autogestionados, continua adelante. Destacan los puestos de…",
+    "titulo": "Los sanitarios voluntarios que atienden en la acampada de la Puerta del Sol",
+    "resumen": "Tras la muerte de una vecina desahuciada en Madrid, la acampada de la Puerta del Sol sigue funcionando con servicios autogestionados, entre ellos puestos de atención sanitaria voluntaria.",
     "categoria": "Salud general",
-    "slug": "los-sanitarios-voluntarios-que-cuidan-en-la-acampada-de-sol-15f7ad92"
+    "slug": "los-sanitarios-voluntarios-que-cuidan-en-la-acampada-de-sol-15f7ad92",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia describe cómo la acampada de la Puerta del Sol, en Madrid, ha vuelto a la normalidad tras la muerte de una mujer desahuciada en la ciudad. Según la entradilla, el campamento mantiene servicios autogestionados, y se destacan los puestos de atención sanitaria voluntaria. La noticia original no da más detalles.",
+      "contexto": "Se trata de una protesta social relacionada con la vivienda y el desahucio, más que de un tema de salud en sentido estricto. Por eso su aplicación práctica para el cuidado personal de la salud física o mental es limitada.",
+      "ten_en_cuenta": "La entradilla es breve y no detalla qué atención sanitaria se presta ni en qué condiciones. No aporta datos verificables sobre salud."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
@@ -2904,10 +3009,20 @@
     "fecha": "2026-10-08T10:50:47+00:00",
     "id": "e74c71db",
     "traducida": true,
-    "titulo": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
-    "resumen": "La informática estadounidense, que dirigió los programas de vuelo de las misiones lunares y popularizó el término “ingeniería de software”, ha fallecido a los 90 años",
+    "titulo": "Muere Margaret Hamilton, la informática que dirigió el software de vuelo de las misiones lunares",
+    "resumen": "La informática estadounidense que dirigió los programas de vuelo de las misiones lunares ha fallecido a los 90 años.",
     "categoria": "Salud general",
-    "slug": "muere-margaret-hamilton-la-mujer-que-enseno-al-ordenador-del-apolo-a-n-e74c71db"
+    "slug": "muere-margaret-hamilton-la-mujer-que-enseno-al-ordenador-del-apolo-a-n-e74c71db",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia informa del fallecimiento de Margaret Hamilton, informática estadounidense que dirigió los programas de vuelo de las misiones lunares y popularizó el término «ingeniería de software». La entradilla no da más detalles.",
+      "contexto": "Es una noticia biográfica sobre la trayectoria profesional de una pionera de la informática. No aporta información sobre ejercicio, alimentación, sueño, salud mental ni prevención, por lo que no tiene una aplicación directa para el cuidado de la salud en el día a día.",
+      "ten_en_cuenta": "La noticia no trata sobre salud ni aporta evidencia científica. Por su contenido, no se recomienda extraer conclusiones para el bienestar personal."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Mehr Kraft durch Schokoladenduft? Was Forscher im Beintraining beobachteten",
@@ -2944,10 +3059,20 @@
     "fecha": "2026-10-08T09:21:59+00:00",
     "id": "49af8b64",
     "traducida": true,
-    "titulo": "Congelar tejido testicular antes de la quimioterapia: el avance que podría permitir tener hijos años después",
-    "resumen": "Un joven de 19 años se convierte en el segundo paciente del mundo en recibir de vuelta su propio tejido congelado antes de recibir quimioterapia. Este paso abre la puerta a preservar la paternidad en niños prepúberes Leer",
+    "titulo": "Congelar tejido testicular antes de la quimioterapia: un avance para tener hijos en el futuro",
+    "resumen": "Un joven de 19 años es el segundo paciente del mundo en recibir de vuelta su tejido testicular congelado antes de la quimioterapia. La técnica podría abrir la puerta a preservar la paternidad en niños prepúberes.",
     "categoria": "Salud general",
-    "slug": "congelar-tejido-testicular-antes-de-la-quimioterapia-el-avance-que-pod-49af8b64"
+    "slug": "congelar-tejido-testicular-antes-de-la-quimioterapia-el-avance-que-pod-49af8b64",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un joven de 19 años se ha convertido en el segundo paciente del mundo en recibir de vuelta su propio tejido testicular congelado antes de empezar la quimioterapia. La noticia señala que este paso podría abrir la puerta a preservar la paternidad en niños prepúberes. La información original no da más detalles.",
+      "contexto": "Las personas que van a recibir tratamientos contra el cáncer que pueden afectar a la fertilidad pueden hablar con su equipo médico sobre opciones de preservación. Es un ámbito clínico especializado y en evolución, que se decide caso por caso con especialistas.",
+      "ten_en_cuenta": "La noticia describe un avance clínico muy concreto y todavía poco extendido, con pocos casos documentados. No aporta datos de resultados ni de seguridad, y no es un consejo aplicable al día a día. Cualquier decisión sobre fertilidad debe tomarse con un especialista."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Las vacunas de la gripe y la covid-19, ¿juntas o por separado?",
@@ -2959,10 +3084,20 @@
     "fecha": "2026-10-08T08:54:31+00:00",
     "id": "42c3e304",
     "traducida": true,
-    "titulo": "Las vacunas de la gripe y la covid-19, ¿juntas o por separado?",
-    "resumen": "Administrar las vacunas frente a la gripe y la covid-19 de forma conjunta en brazos distintos es seguro y no disminuye la respuesta inmunitaria. Sin embargo, los destinatarios de ambas vacunas no coinciden del todo.",
+    "titulo": "Vacunas de la gripe y la covid-19: ¿se pueden poner juntas en brazos distintos?",
+    "resumen": "Según la noticia, administrar la vacuna de la gripe y la de la covid-19 a la vez, en brazos distintos, es seguro y no reduce la respuesta inmunitaria. Los grupos a los que se recomienda cada una no coinciden del todo.",
     "categoria": "Salud general",
-    "slug": "las-vacunas-de-la-gripe-y-la-covid-19-juntas-o-por-separado-42c3e304"
+    "slug": "las-vacunas-de-la-gripe-y-la-covid-19-juntas-o-por-separado-42c3e304",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia afirma que poner ambas vacunas de forma conjunta, cada una en un brazo distinto, es seguro y no disminuye la respuesta inmunitaria. También señala que los destinatarios de la vacuna de la gripe y los de la covid-19 no coinciden del todo. La entradilla no da más detalles sobre los datos en que se basa.",
+      "contexto": "La vacunación frente a la gripe y la covid-19 forma parte de las recomendaciones de salud pública, sobre todo para personas con más riesgo de complicaciones y para algunos grupos concretos. Los calendarios y los grupos recomendados se actualizan y varían según el país, por lo que conviene consultar las pautas oficiales de la comunidad o del sistema sanitario correspondiente.",
+      "ten_en_cuenta": "La entradilla es breve y no describe el estudio ni sus participantes, así que no es posible valorar la solidez de la evidencia. Si te preguntas si te conviene ponerte ambas vacunas el mismo día, consulta con tu médico o tu centro de salud."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Viel zu tun und trotzdem weniger depressive Symptome? Das zeigt eine Studie",
@@ -3049,10 +3184,20 @@
     "fecha": "2026-10-08T05:12:59+00:00",
     "id": "bcdd41b2",
     "traducida": true,
-    "titulo": "David Céspedes, experto en longevidad: «El ayuno intermitente todos los días no es bueno para el tejido graso, le agredes, terminas comiendo más y no adelgazas»",
-    "resumen": "No existe una fórmula mágica, pero sí que hay patrones de alimentación que están más asociados a una vida más longeva que otros. Y es que que la comida es clave para el envejecimiento saludable es, a estas alturas, una verdad incuestionable.El camino hacia el centenarismo sin…",
+    "titulo": "Un experto en longevidad cuestiona el ayuno intermitente diario: dice que puede acabar en comer más",
+    "resumen": "David Céspedes, experto en longevidad, considera que el ayuno intermitente diario no es buena idea porque, según él, puede llevar a comer más y no adelgazar. La entrevista insiste en que no hay una fórmula mágica para envejecer bien.",
     "categoria": "Nutrición",
-    "slug": "david-cespedes-experto-en-longevidad-el-ayuno-intermitente-todos-los-d-bcdd41b2"
+    "slug": "david-cespedes-experto-en-longevidad-el-ayuno-intermitente-todos-los-d-bcdd41b2",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "En una entrevista publicada en ABC Bienestar, David Céspedes sostiene que el ayuno intermitente practicado todos los días no es bueno para el tejido graso, que puede hacer que la persona acabe comiendo más y que no ayuda a adelgazar. La entradilla añade que no existe una fórmula mágica para la longevidad, aunque hay patrones de alimentación más asociados a una vida larga. El texto disponible no detalla más argumentos ni datos.",
+      "contexto": "El ayuno intermitente alterna periodos con y sin comida. Según la evidencia disponible, suele producir pérdida de peso sobre todo porque reduce el consumo total de calorías, y su eficacia depende mucho de si la persona puede mantenerlo a largo plazo. Las recomendaciones de salud pública coinciden en que importa el patrón de alimentación global, la actividad física y el descanso. Cualquier cambio de dieta conviene plantearlo con un profesional sanitario.",
+      "ten_en_cuenta": "Se trata de la opinión de un experto recogida en una entrevista, no de un estudio, y el texto disponible no aporta datos ni fuentes que la respalden. Las opiniones sobre el ayuno intermitente varían entre especialistas, así que conviene consultar a un profesional antes de cambiar la alimentación."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Adiós al mito: el ejercicio regular impulsa las notas académicas en adolescentes",
@@ -3114,10 +3259,20 @@
     "fecha": "2026-10-08T03:30:01+00:00",
     "id": "6e48aab7",
     "traducida": true,
-    "titulo": "Barcelona y Madrid tosen, Copenhague y París respiran: las ciudades limpias no son una utopía",
-    "resumen": "La capital danesa se sitúa en lo alto del ‘ranking’ de calidad del aire por convertir la movilidad saludable en una opción cómoda y asequible",
+    "titulo": "Copenhague lidera el ranking de calidad del aire gracias a una movilidad saludable cómoda y asequible",
+    "resumen": "Según la noticia, la capital danesa encabeza un ranking de calidad del aire por hacer que moverse de forma saludable sea una opción cómoda y asequible para sus habitantes.",
     "categoria": "Salud general",
-    "slug": "barcelona-y-madrid-tosen-copenhague-y-paris-respiran-las-ciudades-limp-6e48aab7"
+    "slug": "barcelona-y-madrid-tosen-copenhague-y-paris-respiran-las-ciudades-limp-6e48aab7",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia señala que Copenhague se sitúa en lo alto del ranking de calidad del aire por convertir la movilidad saludable en una opción cómoda y asequible. El titular compara esta situación con Barcelona y Madrid. La información original no da más detalles sobre el ranking ni sobre las medidas concretas.",
+      "contexto": "La contaminación del aire es un factor de riesgo reconocido para la salud cardiovascular y respiratoria, según la OMS. Desplazarse a pie o en bicicleta es una forma habitual de añadir actividad física a la rutina diaria, y las políticas urbanas influyen en que sea una opción práctica.",
+      "ten_en_cuenta": "La entradilla es breve y no explica qué mide el ranking, con qué método se elabora ni cuándo se publicó. No se puede saber a partir de la noticia cuánto influye cada medida en la calidad del aire."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Carlos Briones, divulgador: “No podemos dejar un móvil a un chaval para que no moleste y luego reprocharle que le dedique horas”",
@@ -3129,10 +3284,20 @@
     "fecha": "2026-10-08T03:30:01+00:00",
     "id": "10be673b",
     "traducida": true,
-    "titulo": "Carlos Briones, divulgador: “No podemos dejar un móvil a un chaval para que no moleste y luego reprocharle que le dedique horas”",
-    "resumen": "Con un perfil de verdadero sabio renacentista y una capacidad innata para transmitir su conocimiento, este astrobiólogo es además un comunicador que no concibe la ciencia sin las humanidades",
+    "titulo": "Carlos Briones, divulgador: la responsabilidad sobre el uso del móvil de los menores",
+    "resumen": "Entrevista con el astrobiólogo y divulgador Carlos Briones, que reflexiona sobre el uso del móvil por parte de los adolescentes. La entradilla disponible solo describe su perfil como comunicador.",
     "categoria": "Salud general",
-    "slug": "carlos-briones-divulgador-no-podemos-dejar-un-movil-a-un-chaval-para-q-10be673b"
+    "slug": "carlos-briones-divulgador-no-podemos-dejar-un-movil-a-un-chaval-para-q-10be673b",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según el titular, Carlos Briones sostiene que no se puede dar un móvil a un chaval para que no moleste y después reprocharle que le dedique horas. La entradilla solo presenta su perfil como divulgador. La información disponible no da más detalles.",
+      "contexto": "El uso intensivo de pantallas en la adolescencia es un tema de interés para las familias por su posible relación con el descanso y el bienestar emocional. Las recomendaciones habituales giran en torno a la supervisión adulta y a establecer normas claras sobre el tiempo de uso.",
+      "ten_en_cuenta": "Es una entrevista de opinión sobre un tema general, no un estudio. La información disponible es muy limitada y no permite valorar sus argumentos completos."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "La santé mentale au travail se dégrade",
@@ -3194,10 +3359,20 @@
     "fecha": "2026-10-07T19:29:09+00:00",
     "id": "f17db30b",
     "traducida": true,
-    "titulo": "Maricarmen, la mujer de 87 años desahuciada en Madrid, muere tras dos semanas en el hospital",
-    "resumen": "Maricarmen Abascal, la mujer de 87 años que fue desahuciada el pasado 23 de septiembre en Madrid, ha muerto tras quince días ingresada en el Hospital Gregorio Marañón, de Madrid. El sindicato de Inquilinas ha informado en un comunicado de la muerte de la mujer, que fue…",
+    "titulo": "Muere una mujer de 87 años desahuciada en Madrid tras dos semanas hospitalizada",
+    "resumen": "Una mujer de 87 años desahuciada en Madrid el pasado 23 de septiembre ha fallecido tras quince días ingresada en el Hospital Gregorio Marañón, según informa el Sindicato de Inquilinas.",
     "categoria": "Salud general",
-    "slug": "maricarmen-la-mujer-de-87-anos-desahuciada-en-madrid-muere-tras-dos-se-f17db30b"
+    "slug": "maricarmen-la-mujer-de-87-anos-desahuciada-en-madrid-muere-tras-dos-se-f17db30b",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según el comunicado del Sindicato de Inquilinas recogido por EFE Salud, una mujer de 87 años que fue desahuciada el 23 de septiembre en Madrid ha muerto tras quince días ingresada en el Hospital Gregorio Marañón. La entradilla no ofrece más detalles sobre las circunstancias de su muerte.",
+      "contexto": "Esta noticia trata sobre un desahucio y sus consecuencias sociales, no sobre un hallazgo de salud. Fitnova se centra en información útil para el cuidado físico y mental cotidiano, así que no encaja en nuestras líneas editoriales.",
+      "ten_en_cuenta": "La información procede de un comunicado de un sindicato y la entradilla es breve, por lo que no se pueden establecer las causas de la muerte ni otros hechos relevantes para la salud."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Remédio sem hormônios para menopausa também melhora o sono",
@@ -3259,10 +3434,20 @@
     "fecha": "2026-10-07T18:00:09+00:00",
     "id": "8ac5c79e",
     "traducida": true,
-    "titulo": "La tortuga ‘Jonathan’ tiene 194 años y en sus genes se esconden los secretos de la longevidad",
-    "resumen": "El animal terrestre de mayor edad tiene una combinación de variantes genéticas que le permiten envejecer con mucha más eficacia",
+    "titulo": "La tortuga Jonathan, de 194 años, y los genes que podrían explicar su longevidad",
+    "resumen": "Según la noticia, Jonathan, el animal terrestre de mayor edad, tiene una combinación de variantes genéticas que le permitiría envejecer con más eficacia.",
     "categoria": "Salud general",
-    "slug": "la-tortuga-jonathan-tiene-194-anos-y-en-sus-genes-se-esconden-los-secr-8ac5c79e"
+    "slug": "la-tortuga-jonathan-tiene-194-anos-y-en-sus-genes-se-esconden-los-secr-8ac5c79e",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según el titular y la entradilla, la tortuga Jonathan es el animal terrestre de mayor edad conocido y tiene una combinación de variantes genéticas que le permitiría envejecer con más eficacia. La noticia original no da más detalles sobre el estudio.",
+      "contexto": "La genética influye en la longevidad, pero en las personas el envejecimiento depende sobre todo de factores como la actividad física, la alimentación, el descanso y el control de enfermedades. Los genes de una especie animal no se trasladan directamente a la vida diaria de una persona.",
+      "ten_en_cuenta": "Es una noticia sobre genética animal, sin aplicación práctica clara para el cuidado de la salud. La entradilla no detalla el método ni las conclusiones, así que conviene leer la fuente original antes de sacar conclusiones."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Cómo organizar una empresa familiar para facilitar su salida a los mercados de internacionales",
@@ -3274,10 +3459,20 @@
     "fecha": "2026-10-07T17:32:50+00:00",
     "id": "d718a4e8",
     "traducida": true,
-    "titulo": "Cómo organizar una empresa familiar para facilitar su salida a los mercados de internacionales",
-    "resumen": "Cuando los miembros de una empresa familiar ocupan puestos operativos, facilitan la internacionalización, pero si dominan el equipo directivo, buscarán sobre todo preservar el control y la autonomía.",
+    "titulo": "Cómo organizar una empresa familiar para facilitar su salida a mercados internacionales",
+    "resumen": "Un análisis sobre la gestión de empresas familiares y su expansión internacional. Sugiere que el papel de los miembros de la familia en la dirección influye en si priorizan crecer o mantener el control.",
     "categoria": "Salud general",
-    "slug": "como-organizar-una-empresa-familiar-para-facilitar-su-salida-a-los-mer-d718a4e8"
+    "slug": "como-organizar-una-empresa-familiar-para-facilitar-su-salida-a-los-mer-d718a4e8",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla, cuando los miembros de una empresa familiar ocupan puestos operativos facilitan la internacionalización, pero si dominan el equipo directivo tienden a priorizar el control y la autonomía. La noticia original no da más detalles.",
+      "contexto": "Este tema pertenece a la gestión empresarial y no a la salud física ni mental. Fitnova se centra en ejercicio, nutrición, sueño, salud mental y autocuidado, por lo que no aporta utilidad directa para cuidar la salud en el día a día.",
+      "ten_en_cuenta": "La entradilla no describe la metodología ni la muestra del análisis. Al tratarse de gestión empresarial, no conviene extrapolar sus conclusiones a temas de salud."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "No todo lo que es posible es deseable: lo que la filosofía aporta a la ingeniería",
@@ -3289,10 +3484,20 @@
     "fecha": "2026-10-07T17:32:11+00:00",
     "id": "146c6254",
     "traducida": true,
-    "titulo": "No todo lo que es posible es deseable: lo que la filosofía aporta a la ingeniería",
-    "resumen": "Una solución técnica puede estar bien diseñada y al mismo tiempo ser una mala idea: por eso, es imprescindible la mirada filosófica en ingeniería.",
+    "titulo": "No todo lo que es posible es deseable: el papel de la filosofía en la ingeniería",
+    "resumen": "Un artículo defiende que una solución técnica puede estar bien diseñada y, aun así, ser una mala idea, por lo que la reflexión filosófica tiene un papel en la ingeniería.",
     "categoria": "Salud general",
-    "slug": "no-todo-lo-que-es-posible-es-deseable-lo-que-la-filosofia-aporta-a-la-146c6254"
+    "slug": "no-todo-lo-que-es-posible-es-deseable-lo-que-la-filosofia-aporta-a-la-146c6254",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "El texto sostiene que una solución técnica puede funcionar bien desde el punto de vista del diseño y, a la vez, no ser deseable. Según la entradilla, por eso la mirada filosófica resulta necesaria en la ingeniería. La información disponible no da más detalles.",
+      "contexto": "La noticia trata sobre ética e ingeniería y no tiene relación directa con la salud física o mental de la persona lectora en su día a día. No aporta conocimiento aplicable al cuidado personal.",
+      "ten_en_cuenta": "Es un artículo de opinión sobre filosofía de la ingeniería, no un estudio científico sobre salud. Solo se ha podido leer el titular y la entradilla."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Un estudio afirma que esta es la mejor hora para dejar de comer antes de irnos a dormir para mejorar la salud del corazón: \"No se consigue un sueño profundo y reparador si se ha hecho una comida abundante\"",
@@ -3379,10 +3584,20 @@
     "fecha": "2026-10-07T15:00:47+00:00",
     "id": "ba771d09",
     "traducida": true,
-    "titulo": "La era de los relojes nucleares ya está aquí: el nuevo tictac para explorar las leyes de la física",
-    "resumen": "Científicos chinos y europeos presentan sendos prototipos que abren una nueva era en la medición del tiempo usando como ‘péndulo’ el torio-229",
+    "titulo": "Científicos chinos y europeos presentan prototipos de relojes nucleares basados en el torio-229",
+    "resumen": "Investigadores de China y Europa han presentado prototipos de relojes nucleares que usan el torio-229 como oscilador para medir el tiempo. Es un avance de física y metrología, sin aplicación directa en salud.",
     "categoria": "Salud general",
-    "slug": "la-era-de-los-relojes-nucleares-ya-esta-aqui-el-nuevo-tictac-para-expl-ba771d09"
+    "slug": "la-era-de-los-relojes-nucleares-ya-esta-aqui-el-nuevo-tictac-para-expl-ba771d09",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia explica que científicos chinos y europeos han presentado prototipos de relojes nucleares que emplean el torio-229 como 'péndulo'. Según el titular, estos dispositivos abrirían una nueva etapa en la medición del tiempo y en el estudio de las leyes de la física. La entradilla no da más detalles técnicos.",
+      "contexto": "Este tema pertenece a la física y a la metrología, no a la salud. Los relojes atómicos actuales ya son la base de la medición precisa del tiempo, por ejemplo en las redes de comunicación y los sistemas de navegación por satélite. No tiene una aplicación directa para el cuidado físico o mental de las personas.",
+      "ten_en_cuenta": "Es una noticia de investigación básica en física sin relación con el ejercicio, la alimentación, el descanso ni el bienestar. La información disponible es muy breve y no permite valorar sus detalles técnicos."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "STUDIO: DORMIRE CON IL CANE NON RIDUCE DURATA E QUALITA’ DEL SONNO",
@@ -3519,10 +3734,20 @@
     "fecha": "2026-10-07T12:19:45+00:00",
     "id": "d1bf834d",
     "traducida": true,
-    "titulo": "La despedida de Messi de la selección argentina abre un proceso de duelo en el jugador… y en la afición",
-    "resumen": "Ha tocado el cielo y la gloria durante 21 años con la Albiceleste. Lionel Messi, desbordado de emoción, se ha despedido de la selección argentina. Cuando las luces del estadio se apagan, los ídolos se enfrentan a un proceso de duelo. No solo ellos, también ese vacío se instala…",
-    "categoria": "Salud general",
-    "slug": "la-despedida-de-messi-de-la-seleccion-argentina-abre-un-proceso-de-due-d1bf834d"
+    "titulo": "La despedida de Messi de la selección argentina y el duelo de jugadores y aficionados",
+    "resumen": "Una noticia deportiva sobre la despedida de Messi de la selección argentina y el vacío emocional que, según el texto, sienten el jugador y la afición.",
+    "categoria": "Salud mental",
+    "slug": "la-despedida-de-messi-de-la-seleccion-argentina-abre-un-proceso-de-due-d1bf834d",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia cuenta que Lionel Messi se ha despedido de la selección argentina, tras una trayectoria de 21 años con el equipo. Según la entradilla, el final de este tipo de etapas puede abrir un proceso de duelo tanto en el jugador como en la afición. La información disponible no da más detalles.",
+      "contexto": "El duelo es una respuesta emocional normal ante una pérdida o un cambio importante, aunque no sea una muerte. Fuera del ámbito deportivo, los cambios de etapa vital pueden generar tristeza o sensación de vacío. Quien note un malestar que se prolonga puede hablar con un profesional de la salud mental.",
+      "ten_en_cuenta": "Es una noticia de carácter deportivo y periodístico, sin datos de estudios ni evidencia científica. El enfoque emocional es general y no describe investigaciones sobre el duelo."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Estudo relaciona consumo de fibras à qualidade do sono",
@@ -3559,10 +3784,20 @@
     "fecha": "2026-10-07T11:58:45+00:00",
     "id": "7ddcca44",
     "traducida": true,
-    "titulo": "Premio Nobel de Química para Henri Kagan y Kenso Soai por arrojar luz en el misterio de las asimetrías de la naturaleza",
-    "resumen": "Los galardonados explicaron un fenómeno molecular esencial en la producción de fármacos y que explica la crisis de la talidomida",
+    "titulo": "Premio Nobel de Química para Henri Kagan y Kenso Soai por estudiar las asimetrías moleculares",
+    "resumen": "La noticia recoge el Nobel de Química concedido a Henri Kagan y Kenso Soai por su trabajo sobre las asimetrías moleculares, un fenómeno ligado a la producción de fármacos.",
     "categoria": "Salud general",
-    "slug": "premio-nobel-de-quimica-para-henri-kagan-y-kenso-soai-por-arrojar-luz-7ddcca44"
+    "slug": "premio-nobel-de-quimica-para-henri-kagan-y-kenso-soai-por-arrojar-luz-7ddcca44",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según el titular y la entradilla, los galardonados explicaron un fenómeno molecular relacionado con la producción de fármacos y con la crisis de la talidomida. La noticia original no da más detalles.",
+      "contexto": "Es un tema de química básica que sustenta la fabricación de medicamentos. No tiene una aplicación directa para el cuidado diario de la salud de una persona.",
+      "ten_en_cuenta": "La información disponible es muy breve y no permite valorar el alcance del trabajo. Para entender su impacto en medicamentos concretos conviene acudir a fuentes especializadas."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "A Hot Bath May Lower Your Blood Pressure More Than a 30-Minute Workout Can, Study Reveals",
@@ -3623,11 +3858,21 @@
     "imagen": "",
     "fecha": "2026-10-07T07:10:00+00:00",
     "traducida": true,
-    "titulo": "Cuatro de cada diez mujeres jóvenes han tenido pensamientos suicidas: un estudio de Sant Boi destapa la brecha de género",
-    "resumen": "",
-    "categoria": "Salud general",
+    "titulo": "Cuatro de cada diez mujeres jóvenes han tenido pensamientos suicidas, según un estudio de Sant Boi",
+    "resumen": "Un estudio de Sant Boi recoge que cuatro de cada diez mujeres jóvenes han tenido pensamientos suicidas y apunta a una brecha de género en este asunto.",
+    "categoria": "Salud mental",
     "id": "3dce0645",
-    "slug": "cuatro-de-cada-diez-mujeres-jovenes-han-tenido-pensamientos-suicidas-u-3dce0645"
+    "slug": "cuatro-de-cada-diez-mujeres-jovenes-han-tenido-pensamientos-suicidas-u-3dce0645",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia informa de que cuatro de cada diez mujeres jóvenes han tenido pensamientos suicidas, según un estudio de Sant Boi, y señala una brecha de género. La información original se limita al titular: no da más detalles sobre la muestra, la metodología ni el rango de edad exacto.",
+      "contexto": "Los pensamientos suicidas son un tema serio de salud mental y se asocian con factores como la depresión, la ansiedad, el estrés intenso o el aislamiento. La OMS considera el suicidio un problema de salud pública prioritario y recomienda hablar del tema con cuidado y facilitar la petición de ayuda. Los estudios sobre salud mental suelen mostrar diferencias entre mujeres y hombres en la prevalencia de algunos trastornos, aunque el patrón varía según el contexto.",
+      "ten_en_cuenta": "Al no conocer el tamaño de la muestra, cómo se seleccionaron las participantes ni cómo se midieron los pensamientos suicidas, no se puede valorar su solidez ni su representatividad. Tener pensamientos suicidas no equivale a un intento. Si tú o alguien cercano lo está pasando, conviene hablar con un profesional de salud mental; en España existe la línea 024 de atención a la conducta suicida y, en una emergencia, el 112."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Researchers in various studies looking for participants",
@@ -3764,10 +4009,20 @@
     "fecha": "2026-10-07T05:14:00+00:00",
     "id": "a7e36e10",
     "traducida": true,
-    "titulo": "La alimentación en enfermedades reumáticas: ni dietas milagro ni suplementos contra la inflamación",
-    "resumen": "No existen alimentos prohibidos ni dietas capaces de curar las enfermedades reumáticas, afirma la Sociedad Española de Reumatología (SER) que, ante la proliferación de dietas milagro y suplementos que prometen reducir la inflamación o el dolor propios de estas patologías,…",
+    "titulo": "Alimentación y enfermedades reumáticas: sin dietas milagro ni suplementos contra la inflamación",
+    "resumen": "La Sociedad Española de Reumatología advierte de que no hay alimentos prohibidos ni dietas que curen las enfermedades reumáticas, y pide cautela ante las dietas y suplementos que prometen aliviar la inflamación o el dolor.",
     "categoria": "Nutrición",
-    "slug": "la-alimentacion-en-enfermedades-reumaticas-ni-dietas-milagro-ni-suplem-a7e36e10"
+    "slug": "la-alimentacion-en-enfermedades-reumaticas-ni-dietas-milagro-ni-suplem-a7e36e10",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La Sociedad Española de Reumatología (SER) afirma que no existen alimentos prohibidos para las personas con enfermedades reumáticas ni dietas capaces de curarlas. Ante la proliferación de dietas milagro y suplementos que prometen reducir la inflamación o el dolor, la entidad sale al paso de esas promesas. La noticia original no ofrece más detalles, ya que la entradilla aparece cortada.",
+      "contexto": "En general, las sociedades científicas recomiendan a las personas con enfermedades reumáticas una alimentación equilibrada y variada, adaptada a cada caso y a los tratamientos que reciban. Mantener un peso saludable ayuda a cuidar las articulaciones. Las dietas que prometen curar o eliminar la enfermedad no están respaldadas por la evidencia disponible, y conviene desconfiar de ellas.",
+      "ten_en_cuenta": "Es una recomendación de una sociedad profesional, no el resultado de un estudio concreto, y la noticia no detalla qué dietas o suplementos concretos se analizan. Antes de cambiar la dieta o tomar un suplemento, conviene consultar con el reumatólogo o con un profesional sanitario, sobre todo si se toman medicamentos."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Sommeil : l’heure du coucher qui réduit le risque cardiovasculaire",
@@ -3804,10 +4059,20 @@
     "fecha": "2026-10-07T03:30:01+00:00",
     "id": "d9e0747e",
     "traducida": true,
-    "titulo": "La mejor estrategia contra las superbacterias: esperar 48 horas para iniciar el antibiótico y solo tomarlo si los síntomas empeoran",
-    "resumen": "Sanidad y las comunidades impulsan la prescripción diferida para las infecciones respiratorias, una medida segura para prevenir las resistencias bacterianas que se topa con las reticencias de los pacientes",
+    "titulo": "Esperar 48 horas antes de tomar antibiótico en infecciones respiratorias, la estrategia que impulsa Sanidad",
+    "resumen": "Sanidad y las comunidades impulsan la prescripción diferida de antibióticos en infecciones respiratorias para frenar las resistencias bacterianas, aunque los pacientes son reticentes.",
     "categoria": "Salud general",
-    "slug": "la-mejor-estrategia-contra-las-superbacterias-esperar-48-horas-para-in-d9e0747e"
+    "slug": "la-mejor-estrategia-contra-las-superbacterias-esperar-48-horas-para-in-d9e0747e",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia explica que Sanidad y las comunidades impulsan la prescripción diferida en infecciones respiratorias: el paciente espera 48 horas antes de empezar el antibiótico y solo lo toma si los síntomas empeoran. Según el texto, es una medida segura para prevenir las resistencias bacterianas, aunque se encuentra con las reticencias de los pacientes. La entradilla no da más detalles sobre los datos que la respaldan ni sobre cómo se aplica.",
+      "contexto": "Los antibióticos actúan contra bacterias, no contra virus, y muchas infecciones respiratorias, como los resfriados, son víricas. Usarlos sin necesidad favorece que las bacterias desarrollen resistencias, lo que puede hacer que algunos tratamientos dejen de ser eficaces. Por eso organismos como la OMS insisten en un uso racional de los antibióticos y en seguir siempre la indicación médica.",
+      "ten_en_cuenta": "La entradilla es breve y no detalla qué evidencia respalda la medida ni cómo se aplica en la práctica. No conviene guardar ni dejar de tomar un antibiótico por cuenta propia: ante síntomas, consulta con tu profesional sanitario."
+    },
+    "puntuacion": 7,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Rosalind Franklin sí había visto la hélice: una foto olvidada cambia la historia de la estructura del ADN",
@@ -3819,10 +4084,20 @@
     "fecha": "2026-10-07T03:30:01+00:00",
     "id": "cf14589a",
     "traducida": true,
-    "titulo": "Rosalind Franklin sí había visto la hélice: una foto olvidada cambia la historia de la estructura del ADN",
-    "resumen": "Unas notas de la científica apuntando a la estructura helicoidal desmienten una vez más el relato distorsionado de su papel en el descubrimiento",
+    "titulo": "Una foto olvidada de Rosalind Franklin sugiere que sí vio la hélice del ADN",
+    "resumen": "Unas notas de la científica que apuntan a la estructura helicoidal matizan el relato habitual sobre su papel en el descubrimiento del ADN.",
     "categoria": "Salud general",
-    "slug": "rosalind-franklin-si-habia-visto-la-helice-una-foto-olvidada-cambia-la-cf14589a"
+    "slug": "rosalind-franklin-si-habia-visto-la-helice-una-foto-olvidada-cambia-la-cf14589a",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según el titular y la entradilla, unas notas de Rosalind Franklin que apuntan a la estructura helicoidal del ADN cuestionan la versión habitual sobre su papel en el descubrimiento. La noticia original no da más detalles.",
+      "contexto": "Es un tema de historia de la ciencia y no tiene una aplicación directa para cuidar la salud en el día a día. Su interés está en cómo se reconstruye el reparto de méritos en un descubrimiento científico.",
+      "ten_en_cuenta": "Solo tenemos el titular y una entradilla breve, así que no podemos valorar el alcance de las notas ni el contexto completo de la investigación histórica."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "¿Sirven las pastillas del colesterol para el glaucoma? Un inesperado efecto protector",
@@ -3834,10 +4109,20 @@
     "fecha": "2026-10-06T23:07:17+00:00",
     "id": "af6a55cd",
     "traducida": true,
-    "titulo": "¿Sirven las pastillas del colesterol para el glaucoma? Un inesperado efecto protector",
-    "resumen": "Las estatinas, los medicamentos más recetados del planeta para mantener a raya el colesterol y proteger las arterias, emergen ahora como una inesperada línea de defensa contra una de las principales causas de ceguera irreversible en el mundo. Una nueva investigación publicada en…",
+    "titulo": "Las estatinas, las pastillas del colesterol, se estudian como posible protección frente al glaucoma",
+    "resumen": "Una nueva investigación explora un posible efecto protector de las estatinas frente al glaucoma, una de las principales causas de ceguera irreversible. La noticia no indica la revista ni detalla los resultados.",
     "categoria": "Salud general",
-    "slug": "sirven-las-pastillas-del-colesterol-para-el-glaucoma-un-inesperado-efe-af6a55cd"
+    "slug": "sirven-las-pastillas-del-colesterol-para-el-glaucoma-un-inesperado-efe-af6a55cd",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recuerda que las estatinas son de los medicamentos más recetados para controlar el colesterol y proteger las arterias. Según el texto, podrían tener también un efecto protector frente al glaucoma, una de las principales causas de ceguera irreversible. El fragmento disponible se corta antes de nombrar la publicación y de explicar qué encontró el estudio.",
+      "contexto": "El glaucoma es un grupo de enfermedades que dañan el nervio óptico, a menudo asociadas a una presión elevada dentro del ojo. Suele avanzar sin síntomas en sus fases iniciales, por lo que el diagnóstico y el seguimiento con un oftalmólogo son importantes. Las estatinas se usan sobre todo para reducir el colesterol y en prevención cardiovascular, y su uso lo decide el médico. Que un fármaco se asocie con un efecto en el ojo no significa que sea un tratamiento para el glaucoma.",
+      "ten_en_cuenta": "Solo disponemos del titular y de una entradilla incompleta, así que no sabemos el tipo de estudio, su tamaño ni sus resultados. Una asociación no demuestra que el fármaco cause el efecto. No conviene empezar, dejar ni cambiar ningún medicamento por esta noticia; cualquier duda debe consultarse con el médico u oftalmólogo."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Dormi male? Per riposare meglio non contano le ore, ma questo gesto",
@@ -4024,10 +4309,20 @@
     "fecha": "2026-10-06T12:04:44+00:00",
     "id": "038c0811",
     "traducida": true,
-    "titulo": "La OMS pide a las autoridades rusas más información sobre el posible caso de peste en una trabajadora de un laboratorio de alta seguridad: esto es lo que se sabe hasta ahora de la potencial amenaza",
-    "resumen": "Por el momento, Rusia atribuye el caso a una \"neumonía de etiología desconocida\" y desmiente que haya implantado medidas de prevención de contagios Leer",
+    "titulo": "La OMS pide a Rusia más información sobre un posible caso de peste en un laboratorio",
+    "resumen": "La Organización Mundial de la Salud pide a las autoridades rusas más datos sobre un posible caso de peste en una trabajadora de un laboratorio de alta seguridad.",
     "categoria": "Salud general",
-    "slug": "la-oms-pide-a-las-autoridades-rusas-mas-informacion-sobre-el-posible-c-038c0811"
+    "slug": "la-oms-pide-a-las-autoridades-rusas-mas-informacion-sobre-el-posible-c-038c0811",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La OMS ha pedido a las autoridades rusas más información sobre un posible caso de peste en una trabajadora de un laboratorio de alta seguridad. Según la entradilla, Rusia atribuye el caso a una neumonía de etiología desconocida y niega haber aplicado medidas de prevención de contagios. La noticia original no da más detalles.",
+      "contexto": "Es un asunto de vigilancia sanitaria y de control de agentes infecciosos que gestionan las autoridades y los organismos internacionales. No tiene una aplicación directa en los hábitos de cuidado de la salud de la población general.",
+      "ten_en_cuenta": "La información disponible es limitada y procede de una entradilla que recoge posiciones enfrentadas. Para un seguimiento fiable conviene consultar fuentes oficiales como la OMS."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Europa intenta blindar frente a Estados Unidos las bases de datos esenciales para la investigación biomédica mundial",
@@ -4039,10 +4334,20 @@
     "fecha": "2026-10-06T11:49:42+00:00",
     "id": "51c53e0b",
     "traducida": true,
-    "titulo": "Europa intenta blindar frente a Estados Unidos las bases de datos esenciales para la investigación biomédica mundial",
-    "resumen": "Bruselas moviliza 65 millones de euros para evitar que los recortes de Trump pongan en riesgo recursos de los que depende la ciencia global",
+    "titulo": "La UE busca proteger frente a la política de EE. UU. bases de datos clave para la investigación biomédica",
+    "resumen": "Bruselas destina fondos para que ciertas bases de datos de investigación biomédica no se vean afectadas por los recortes de la Administración estadounidense. La noticia trata de política científica y financiación.",
     "categoria": "Salud general",
-    "slug": "europa-intenta-blindar-frente-a-estados-unidos-las-bases-de-datos-esen-51c53e0b"
+    "slug": "europa-intenta-blindar-frente-a-estados-unidos-las-bases-de-datos-esen-51c53e0b",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla, la Comisión Europea moviliza fondos para evitar que los recortes anunciados por la Administración de Trump pongan en riesgo recursos de los que depende la ciencia global. La noticia original no da más detalles sobre qué bases de datos concretas están en juego ni cómo se usarían.",
+      "contexto": "Las bases de datos científicas compartidas son herramientas que usan los investigadores para avanzar en el conocimiento médico. Su financiación y su gobernanza son asuntos de política científica, que influyen en la investigación pero no se traducen directamente en consejos para el día a día.",
+      "ten_en_cuenta": "Es una noticia sobre financiación e infraestructuras de investigación, sin efectos directos sobre hábitos de salud. La entradilla es breve y no detalla el alcance real de las medidas."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Sobrecarga laboral y problemas de salud mental: el círculo vicioso que agrava la crisis de plantillas médicas y enfermeras en Europa",
@@ -4079,10 +4384,20 @@
     "fecha": "2026-10-06T08:02:43+00:00",
     "id": "964d6336",
     "traducida": true,
-    "titulo": "La piel con rosácea, bajo control médico",
-    "resumen": "«La rosácea es una enfermedad inflamatoria crónica benigna de causa desconocida, con múltiples expresiones clínicas, que afecta predominantemente a nuestra cara, en concreto, a las mejillas, el dorso nasal, el mentón y la frente», destaca la Dra. Carmen Carranza Romero,…",
+    "titulo": "La rosácea, una enfermedad crónica de la piel que necesita control médico",
+    "resumen": "Una dermatóloga describe la rosácea como una enfermedad inflamatoria crónica y benigna, de causa desconocida, que suele afectar a la cara. El texto pone el foco en la importancia de su seguimiento médico.",
     "categoria": "Salud general",
-    "slug": "la-piel-con-rosacea-bajo-control-medico-964d6336"
+    "slug": "la-piel-con-rosacea-bajo-control-medico-964d6336",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La Dra. Carmen Carranza Romero explica que la rosácea es una enfermedad inflamatoria crónica y benigna, de causa desconocida, con varias formas de presentarse. Afecta sobre todo a mejillas, nariz, mentón y frente. La noticia original no da más detalles sobre tratamientos ni sobre el manejo de la enfermedad.",
+      "contexto": "La rosácea es una afección de la piel de larga duración, sin cura definitiva en la mayoría de los casos, pero que puede controlarse con tratamiento dermatológico adecuado. Se sabe que factores como la exposición solar, el calor, el estrés o algunos alimentos y bebidas pueden desencadenar brotes en algunas personas. Ante cualquier duda sobre la piel, lo recomendable es consultar con un dermatólogo.",
+      "ten_en_cuenta": "La información procede de una breve entradilla de una experta y no describe ningún estudio. Los desencadenantes y los tratamientos varían según cada persona, así que conviene consultar a un profesional antes de tomar decisiones."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "La soledad apenas aparece en X, pero es lo que más moviliza, según un estudio de UNIR",
@@ -4144,10 +4459,20 @@
     "fecha": "2026-10-06T06:30:59+00:00",
     "id": "230fef43",
     "traducida": true,
-    "titulo": "Los virus antiguos ocultos en nuestro genoma podrían reactivarse con la edad e influir en el envejecimiento",
-    "resumen": "Descubre cómo los virus antiguos del genoma podrían influir en el envejecimiento y qué investigan los científicos sobre este proceso.",
+    "titulo": "Virus antiguos ocultos en nuestro genoma podrían reactivarse con la edad e influir en el envejecimiento",
+    "resumen": "Según Muy Interesante, algunos virus antiguos integrados en el genoma humano podrían activarse con los años y afectar al envejecimiento. La noticia recoge lo que investigan los científicos sobre este proceso.",
     "categoria": "Salud general",
-    "slug": "los-virus-antiguos-ocultos-en-nuestro-genoma-podrian-reactivarse-con-l-230fef43"
+    "slug": "los-virus-antiguos-ocultos-en-nuestro-genoma-podrian-reactivarse-con-l-230fef43",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia explica que los virus antiguos presentes en nuestro genoma podrían influir en el envejecimiento, y que los científicos estudian este proceso. La entradilla no da más detalles sobre los experimentos, los resultados ni la forma en que se ha investigado.",
+      "contexto": "Parte de nuestro ADN procede de virus que infectaron a nuestros antepasados hace mucho tiempo y que quedaron integrados en el genoma. La investigación sobre el envejecimiento estudia desde hace años cómo cambia la expresión de los genes con la edad. Hoy no hay recomendaciones prácticas basadas en este tema.",
+      "ten_en_cuenta": "La información disponible es muy breve y no indica el tipo de estudio ni su tamaño. Se trata de investigación en curso, sin aplicación práctica clara para la vida diaria. Conviene leer el estudio original antes de sacar conclusiones."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Los pediatras urgen a pasar a la acción conjunta contra la obesidad infantil",
@@ -4159,10 +4484,20 @@
     "fecha": "2026-10-06T05:14:00+00:00",
     "id": "1078874f",
     "traducida": true,
-    "titulo": "Los pediatras urgen a pasar a la acción conjunta contra la obesidad infantil",
-    "resumen": "Los pediatras consideran que es necesario pasar a la acción de forma conjunta contra la obesidad infantil, una enfermedad «crónica, compleja y multifactorial», que afecta al 16 % de los menores de entre 6 y 9 años (el sobrepeso al 20 %). Reclaman que no se estigmatice ni…",
-    "categoria": "Nutrición",
-    "slug": "los-pediatras-urgen-a-pasar-a-la-accion-conjunta-contra-la-obesidad-in-1078874f"
+    "titulo": "Los pediatras piden actuar de forma conjunta contra la obesidad infantil",
+    "resumen": "Pediatras reclaman una acción conjunta frente a la obesidad infantil, que describen como una enfermedad crónica, compleja y multifactorial. Piden además que no se estigmatice a los menores.",
+    "categoria": "Salud general",
+    "slug": "los-pediatras-urgen-a-pasar-a-la-accion-conjunta-contra-la-obesidad-in-1078874f",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Los pediatras consideran necesario pasar a la acción de forma conjunta contra la obesidad infantil, a la que describen como una enfermedad «crónica, compleja y multifactorial». Según la entradilla, afecta al 16 % de los menores de entre 6 y 9 años, y el sobrepeso al 20 %. El texto se corta justo al explicar que reclaman que no se estigmatice, por lo que la noticia no da más detalles sobre sus propuestas.",
+      "contexto": "La obesidad infantil es un problema de salud pública que la Organización Mundial de la Salud considera multifactorial, ya que influyen la alimentación, la actividad física, el sueño y el entorno en el que crece el niño. Por eso, las respuestas suelen combinar varios frentes, como la familia, la escuela y el sistema sanitario. Señalar a los niños o a sus familias con culpa o burla puede afectar a su bienestar emocional y a su relación con la comida.",
+      "ten_en_cuenta": "Es la postura de un colectivo de profesionales, no un estudio con datos propios, y la entradilla está incompleta. Las medidas concretas no se detallan en la noticia. Ante cualquier preocupación sobre el peso o los hábitos de un menor, conviene consultar con su pediatra."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Fitness da adolescenti e salute mentale: uno studio indica un legame duraturo",
@@ -4249,10 +4584,20 @@
     "fecha": "2026-10-06T03:30:01+00:00",
     "id": "04e591c8",
     "traducida": true,
-    "titulo": "Las mujeres afectadas por los problemas de suministro de hormonas: “Esto no es un capricho, es una necesidad vital”",
-    "resumen": "Cuatro mujeres cuentan su experiencia buscando fármacos que ya son indispensables para ellas en la menopausia, la osteoporosis o la transición de género",
+    "titulo": "Mujeres que tienen dificultades para conseguir hormonas que necesitan para su salud",
+    "resumen": "Cuatro mujeres relatan sus dificultades para conseguir medicamentos hormonales que consideran imprescindibles en la menopausia, la osteoporosis o la transición de género.",
     "categoria": "Salud general",
-    "slug": "las-mujeres-afectadas-por-los-problemas-de-suministro-de-hormonas-esto-04e591c8"
+    "slug": "las-mujeres-afectadas-por-los-problemas-de-suministro-de-hormonas-esto-04e591c8",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge los testimonios de cuatro mujeres que explican su experiencia buscando fármacos hormonales que necesitan. Los casos se relacionan con la menopausia, la osteoporosis y la transición de género. Una de ellas resume el problema diciendo que no es un capricho, sino una necesidad vital. La entradilla no ofrece más datos sobre las causas del problema ni sobre su alcance.",
+      "contexto": "Las hormonas tienen un papel importante en la menopausia y en el tratamiento de la osteoporosis, y en la transición de género se usan bajo supervisión médica. La terapia hormonal de la menopausia se valora en algunos casos para aliviar síntomas, siempre según el perfil de cada persona. Interrumpir de forma brusca un tratamiento indicado por el médico puede tener consecuencias para la salud, por lo que los problemas de suministro preocupan tanto a pacientes como a profesionales.",
+      "ten_en_cuenta": "Se trata de testimonios personales, no de datos generales, y la entradilla no informa sobre el alcance del problema ni sobre sus causas. Si usas alguno de estos tratamientos, consulta con tu médico antes de cambiar o suspender nada."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Las redes y el ‘wellness’: cuando comer sano se convierte en una obligación moral",
@@ -4264,10 +4609,20 @@
     "fecha": "2026-10-06T03:30:01+00:00",
     "id": "03dc9163",
     "traducida": true,
-    "titulo": "Las redes y el ‘wellness’: cuando comer sano se convierte en una obligación moral",
-    "resumen": "Quizás haya que empezar a plantearse qué es realmente sano para cada uno de nosotros, independientemente de lo que digan los influencers",
+    "titulo": "Redes sociales y 'wellness': cuando comer sano se convierte en una obligación moral",
+    "resumen": "Un artículo reflexiona sobre cómo la cultura del bienestar en redes puede convertir la alimentación sana en un deber moral. Propone pensar qué es sano para cada persona, sin depender solo de lo que digan los influencers.",
     "categoria": "Nutrición",
-    "slug": "las-redes-y-el-wellness-cuando-comer-sano-se-convierte-en-una-obligaci-03dc9163"
+    "slug": "las-redes-y-el-wellness-cuando-comer-sano-se-convierte-en-una-obligaci-03dc9163",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El artículo analiza cómo la cultura del 'wellness' difundida en redes sociales puede hacer que comer sano pase de ser una opción a una obligación moral. Sugiere que quizá haya que plantearse qué es realmente sano para cada persona, independientemente de lo que digan los influencers. La noticia original no ofrece más detalles ni datos sobre estudios.",
+      "contexto": "La alimentación saludable se basa en pautas generales ampliamente aceptadas, como tomar variedad de alimentos frescos y limitar los ultraprocesados. Sin embargo, las necesidades concretas varían según la edad, la salud, la actividad física y las preferencias de cada persona. Cuando las normas alimentarias se viven con culpa o rigidez, pueden generar malestar emocional, por lo que se recomienda un enfoque flexible y, si hace falta, el apoyo de un profesional sanitario.",
+      "ten_en_cuenta": "Se trata de un texto de reflexión sobre la cultura alimentaria en redes, sin datos de estudios en la información disponible, por lo que no permite extraer conclusiones sobre efectos concretos. Para decisiones sobre la dieta personal, conviene consultar con un dietista-nutricionista o un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "MIT scientists find a hidden cancer risk of the keto diet",
@@ -4429,10 +4784,20 @@
     "fecha": "2026-10-05T16:26:11+00:00",
     "id": "0574b8f7",
     "traducida": true,
-    "titulo": "Creatina sin ejercicio: ¿todavía puede ayudar a desarrollar músculo?",
-    "resumen": "",
-    "categoria": "Entrenamiento",
-    "slug": "creatina-sin-ejercicio-todavia-puede-ayudar-a-desarrollar-musculo-0574b8f7"
+    "titulo": "Creatina sin ejercicio: ¿puede seguir ayudando a ganar músculo?",
+    "resumen": "Un artículo se pregunta si la creatina, un suplemento muy estudiado, puede favorecer el crecimiento muscular sin hacer ejercicio. La noticia original no aporta más detalles.",
+    "categoria": "Nutrición",
+    "slug": "creatina-sin-ejercicio-todavia-puede-ayudar-a-desarrollar-musculo-0574b8f7",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El artículo plantea si la creatina puede seguir ayudando a construir músculo cuando no se combina con entrenamiento. El titular es la única información disponible: el medio no incluye entradilla, así que no se detallan resultados, métodos ni fuentes concretas.",
+      "contexto": "La creatina es uno de los suplementos deportivos más estudiados. Las sociedades de nutrición deportiva coinciden en que sus efectos sobre la fuerza y la masa muscular se documentan sobre todo cuando se combina con entrenamiento de fuerza. Por eso, la pregunta de si actúa por sí sola es razonable, aunque la respuesta depende de estudios concretos que esta noticia no describe.",
+      "ten_en_cuenta": "Sin la entradilla ni el estudio original, no podemos saber qué se midió ni en qué condiciones. Antes de tomar cualquier suplemento, conviene consultar con un profesional sanitario, sobre todo si hay otras condiciones de salud o medicación."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Une étude a identifié un élément clé pour prévenir la maladie d'Alzheimer : quelque chose d'aussi simple que l'exercice physique",
@@ -4519,10 +4884,20 @@
     "fecha": "2026-10-05T15:08:11+00:00",
     "id": "374c21a9",
     "traducida": true,
-    "titulo": "¿A qué edad empieza el cuerpo a 'quejarse'? Un estudio demuestra que los peores dolores ocurren antes de los 55 años",
-    "resumen": "Un estudio con seis millones de personas de todo el planeta dibuja la radiografía real del dolor. Sus conclusiones demuestran que nos golpea mucho antes de lo esperado y que la falta de recursos lo multiplica a partir de la mediana edad Leer",
+    "titulo": "Un estudio con seis millones de personas sugiere que el dolor aparece antes de lo esperado",
+    "resumen": "Según la noticia, los peores dolores se darían antes de los 55 años, y la falta de recursos agravaría el dolor a partir de la mediana edad. La fuente original no da detalles del método.",
     "categoria": "Salud general",
-    "slug": "a-que-edad-empieza-el-cuerpo-a-quejarse-un-estudio-demuestra-que-los-p-374c21a9"
+    "slug": "a-que-edad-empieza-el-cuerpo-a-quejarse-un-estudio-demuestra-que-los-p-374c21a9",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, un estudio con seis millones de personas de todo el mundo analiza el dolor y concluye que aparece antes de lo que se suele esperar, y que los peores dolores se producen antes de los 55 años. Añade que la falta de recursos multiplica el dolor a partir de la mediana edad. La noticia original no ofrece más detalles sobre cómo se midió el dolor ni sobre el diseño del estudio.",
+      "contexto": "El dolor persistente es un problema de salud frecuente que puede afectar al descanso, al ánimo y a la vida diaria. Organismos como la OMS reconocen que factores sociales y económicos, como el acceso a la atención sanitaria, influyen en la salud. Mantener hábitos saludables y consultar a tiempo ante un dolor que se prolonga son recomendaciones habituales.",
+      "ten_en_cuenta": "Solo disponemos del titular y la entradilla, sin detalles del método, de qué tipo de dolor se trata ni de cómo se definieron los resultados. Un estudio de este tipo muestra asociaciones, no causas, y el titular habla de 'demostrar' con más seguridad de la que la información permite. Si el dolor persiste, conviene consultar a un profesional."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Eisbaden gilt als gesund – doch eine Studie zeigt ein mögliches Entzündungsrisiko",
@@ -4584,10 +4959,20 @@
     "fecha": "2026-10-05T12:18:32+00:00",
     "id": "bb9cb85f",
     "traducida": true,
-    "titulo": "¿Qué es la optogenética? Tres científicos ganan el Nobel de Medicina por sus avances en neurociencia",
-    "resumen": "El estadounidense Karl Deisseroth y los alemanes Peter Hegemann y Georg Nagel han sido galardonados con el Premio Nobel de Medicina o Fisiología 2026 «por sus descubrimientos sobre los canales iónicos activados por la luz y la optogenética» que «sientan las bases de una nueva…",
+    "titulo": "Tres científicos ganan el Nobel de Medicina 2026 por sus avances en optogenética",
+    "resumen": "Karl Deisseroth, Peter Hegemann y Georg Nagel reciben el Nobel de Medicina o Fisiología 2026 por sus descubrimientos sobre canales iónicos activados por luz y la optogenética.",
     "categoria": "Salud general",
-    "slug": "que-es-la-optogenetica-tres-cientificos-ganan-el-nobel-de-medicina-por-bb9cb85f"
+    "slug": "que-es-la-optogenetica-tres-cientificos-ganan-el-nobel-de-medicina-por-bb9cb85f",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia informa de que tres investigadores han recibido el Nobel de Medicina o Fisiología 2026 por sus trabajos sobre canales iónicos activados por la luz y la optogenética, que según el titular sientan las bases de una nueva línea de investigación. La entradilla está incompleta y la noticia original no da más detalles.",
+      "contexto": "La optogenética es una técnica de investigación en neurociencia que utiliza la luz para activar o desactivar neuronas concretas en modelos experimentales. Es una herramienta de laboratorio y, por ahora, no es un tratamiento de uso cotidiano para la población general.",
+      "ten_en_cuenta": "Se trata de un reconocimiento a investigación básica y no tiene aplicación directa en hábitos de salud, ejercicio, alimentación o descanso. Para cualquier cuestión de salud personal, conviene consultar a un profesional."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Premio Nobel de Medicina para Karl Deisseroth, Peter Hegemann y Georg Nagel por la técnica que permite controlar el cerebro con luz",
@@ -4599,10 +4984,20 @@
     "fecha": "2026-10-05T12:08:47+00:00",
     "id": "074e1848",
     "traducida": true,
-    "titulo": "Premio Nobel de Medicina para Karl Deisseroth, Peter Hegemann y Georg Nagel por la técnica que permite controlar el cerebro con luz",
-    "resumen": "El Instituto Karolinska de Estocolmo reconoce a los científicos creadores de la optogenética por sentar “las bases de una nueva era en la neurociencia”",
+    "titulo": "Premio Nobel de Medicina para la optogenética, la técnica que controla el cerebro con luz",
+    "resumen": "El Instituto Karolinska reconoce a Karl Deisseroth, Peter Hegemann y Georg Nagel por crear la optogenética, una herramienta que la neurociencia considera el inicio de una nueva era.",
     "categoria": "Salud general",
-    "slug": "premio-nobel-de-medicina-para-karl-deisseroth-peter-hegemann-y-georg-n-074e1848"
+    "slug": "premio-nobel-de-medicina-para-karl-deisseroth-peter-hegemann-y-georg-n-074e1848",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "El Instituto Karolinska de Estocolmo ha concedido el Premio Nobel de Medicina a Karl Deisseroth, Peter Hegemann y Georg Nagel por crear la optogenética. Según la noticia, sentaron las bases de una nueva era en la neurociencia. La entradilla no da más detalles sobre el trabajo ni sobre su aplicación.",
+      "contexto": "La optogenética usa proteínas sensibles a la luz para activar o silenciar neuronas concretas en experimentos de laboratorio. Es una herramienta de investigación básica que ayuda a entender cómo funcionan los circuitos cerebrales. Por ahora no es un tratamiento de uso cotidiano.",
+      "ten_en_cuenta": "La noticia es un reconocimiento científico, no un estudio sobre hábitos o salud, y no aporta conclusiones aplicables al día a día. Su interés es sobre todo para la investigación en neurociencia."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "El psiquiatra creador del protocolo Sevilla: \"Encontrar herramientas contra el suicidio es lo más importante casi que podemos hacer por la sociedad\"",
@@ -4614,10 +5009,20 @@
     "fecha": "2026-10-05T11:35:05+00:00",
     "id": "04f0d9ae",
     "traducida": true,
-    "titulo": "El psiquiatra creador del protocolo Sevilla: \"Encontrar herramientas contra el suicidio es lo más importante casi que podemos hacer por la sociedad\"",
-    "resumen": "En 30 sesiones de pulsos magnéticos, Álvaro Moleón modifica los circuitos neuronales para hacer desaparecer la depresión resistente acompañada de ansiedad Leer",
+    "titulo": "Un psiquiatra explica su protocolo de pulsos magnéticos para la depresión resistente con ansiedad",
+    "resumen": "Álvaro Moleón describe un tratamiento de 30 sesiones con pulsos magnéticos dirigido a la depresión resistente acompañada de ansiedad. En la entrevista defiende la importancia de encontrar herramientas contra el suicidio.",
     "categoria": "Salud mental",
-    "slug": "el-psiquiatra-creador-del-protocolo-sevilla-encontrar-herramientas-con-04f0d9ae"
+    "slug": "el-psiquiatra-creador-del-protocolo-sevilla-encontrar-herramientas-con-04f0d9ae",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, el psiquiatra Álvaro Moleón describe un protocolo de 30 sesiones de pulsos magnéticos que, según explica, actúa sobre los circuitos neuronales en la depresión resistente con ansiedad. El titular recoge además su idea de que encontrar herramientas contra el suicidio es una de las tareas más importantes para la sociedad. La noticia original no da más detalles sobre resultados ni sobre el método.",
+      "contexto": "La estimulación magnética transcraneal es una técnica no invasiva que se usa en algunos países como tratamiento para la depresión que no responde bien a los antidepresivos, y su disponibilidad y condiciones varían según el sistema sanitario. El suicidio es un problema de salud pública que requiere atención profesional, y en España existen líneas de atención a la conducta suicida que atienden de forma confidencial.",
+      "ten_en_cuenta": "Se trata de una entrevista con un especialista que presenta su propio protocolo, no de un estudio con resultados verificables en la noticia. Las expresiones como «hacer desaparecer» no reflejan necesariamente lo que ocurre en todos los pacientes. Cualquier tratamiento para la depresión debe valorarse con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Diabete a esordio precoce, gli effetti di attività fisica strutturata e dieta ipocalorica",
@@ -4654,10 +5059,20 @@
     "fecha": "2026-10-05T09:36:41+00:00",
     "id": "58a3b92c",
     "traducida": true,
-    "titulo": "Por qué el cuerpo humano evolucionó para correr largas distancias y cazar por persistencia",
-    "resumen": "Descubre cómo evolucionó el cuerpo humano para correr largas distancias y qué ventajas nos dieron la resistencia y la caza por persistencia.",
+    "titulo": "Por qué el cuerpo humano parece estar preparado para correr largas distancias",
+    "resumen": "Un artículo divulgativo explica cómo el cuerpo humano podría haber evolucionado para la resistencia y la caza por persistencia. La noticia original no detalla evidencias concretas.",
     "categoria": "Entrenamiento",
-    "slug": "por-que-el-cuerpo-humano-evoluciono-para-correr-largas-distancias-y-ca-58a3b92c"
+    "slug": "por-que-el-cuerpo-humano-evoluciono-para-correr-largas-distancias-y-ca-58a3b92c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El artículo plantea que el cuerpo humano evolucionó para correr largas distancias y que la resistencia y la caza por persistencia pudieron aportar ventajas a nuestros antepasados. La entradilla no indica qué estudios o datos respaldan estas ideas, así que no podemos saber con precisión en qué se basan.",
+      "contexto": "La hipótesis de la caza por persistencia, es decir, perseguir a una presa hasta agotarla, es un tema que se debate en antropología y evolución humana. Hoy se sabe que la capacidad de correr de forma sostenida depende de factores como la eficiencia del movimiento, la regulación de la temperatura corporal y la resistencia cardiovascular, que se pueden mejorar con entrenamiento regular.",
+      "ten_en_cuenta": "Se trata de un artículo divulgativo sin detalles sobre las fuentes, así que conviene tomar sus afirmaciones con cautela. Explicar el pasado evolutivo no demuestra por sí mismo qué tipo de entrenamiento es el más adecuado hoy; para planificar tu actividad física, consulta a un profesional."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Premio Nobel de Medicina para Karl Deisseroth, Peter Hegemann y Georg Nagel por sus descubrimientos en optogenética, que \"han abierto una nueva era en Neurociencias\"",
@@ -4669,10 +5084,20 @@
     "fecha": "2026-10-05T09:33:26+00:00",
     "id": "35f74835",
     "traducida": true,
-    "titulo": "Premio Nobel de Medicina para Karl Deisseroth, Peter Hegemann y Georg Nagel por sus descubrimientos en optogenética, que \"han abierto una nueva era en Neurociencias\"",
-    "resumen": "«La optogenética ofrece oportunidades para mapear el cerebro de una manera con la que antes solo podíamos soñar», ha señalado la Academia Sueca Leer",
+    "titulo": "Premio Nobel de Medicina a Karl Deisseroth, Peter Hegemann y Georg Nagel por la optogenética",
+    "resumen": "La noticia recoge la concesión del Nobel de Medicina a tres científicos por sus trabajos en optogenética, una técnica de neurociencia para estudiar el cerebro.",
     "categoria": "Salud general",
-    "slug": "premio-nobel-de-medicina-para-karl-deisseroth-peter-hegemann-y-georg-n-35f74835"
+    "slug": "premio-nobel-de-medicina-para-karl-deisseroth-peter-hegemann-y-georg-n-35f74835",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "El titular informa de que la Academia Sueca concede el Premio Nobel de Medicina a Karl Deisseroth, Peter Hegemann y Georg Nagel por sus descubrimientos en optogenética. Según la entradilla, la Academia destaca que esta técnica permite mapear el cerebro de un modo que antes era difícil de imaginar. La información disponible no da más detalles sobre los hallazgos.",
+      "contexto": "La optogenética es una herramienta de investigación que usa luz para activar o silenciar neuronas modificadas genéticamente. Se utiliza sobre todo en laboratorio para entender cómo funcionan los circuitos cerebrales. No es un tratamiento disponible para el público general.",
+      "ten_en_cuenta": "La noticia es de carácter informativo sobre un premio científico y no ofrece aplicaciones prácticas para el cuidado diario de la salud. Para cualquier duda sobre salud mental o física, conviene consultar a un profesional."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Sie müssen kein Trainingsexperte sein: Forscher finden simple Regel für Muskelaufbau",
@@ -4759,10 +5184,20 @@
     "fecha": "2026-10-05T06:14:00+00:00",
     "id": "6d005399",
     "traducida": true,
-    "titulo": "Seis mitos sobre la pérdida de audición: ni es la edad ni los audífonos",
-    "resumen": "La pérdida de audición, especialmente en las personas mayores, tiene que ser percibida como un problema de salud que debe prevenirse, diagnosticarse y tratarse y por eso es necesario combatir los mitos, como el de la edad o el fallo de los audífonos, para abordar esta afección y…",
+    "titulo": "Seis mitos sobre la pérdida de audición: no es solo cosa de la edad ni de los audífonos",
+    "resumen": "Un artículo de EFE Salud propone tratar la pérdida de audición como un problema de salud que se puede prevenir, diagnosticar y tratar, y desmonta mitos como que se debe solo a la edad o que los audífonos fallan.",
     "categoria": "Salud general",
-    "slug": "seis-mitos-sobre-la-perdida-de-audicion-ni-es-la-edad-ni-los-audifonos-6d005399"
+    "slug": "seis-mitos-sobre-la-perdida-de-audicion-ni-es-la-edad-ni-los-audifonos-6d005399",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El texto defiende que la pérdida de audición, sobre todo en personas mayores, debe verse como un problema de salud que hay que prevenir, diagnosticar y tratar. Para ello propone combatir mitos extendidos, como el de que es inevitable por la edad o el de que los audífonos no funcionan. La información disponible es un extracto breve y no detalla los otros mitos.",
+      "contexto": "La pérdida de audición es frecuente y no depende solo de la edad: también influyen la exposición prolongada a ruidos intensos, algunos medicamentos, infecciones y factores genéticos. Consultar pronto con un especialista ayuda a detectarla y, según cada caso, los audífonos u otras opciones pueden mejorar la calidad de vida.",
+      "ten_en_cuenta": "La noticia original es solo una entradilla cortada y no detalla los mitos ni las fuentes. Si notas cambios en tu audición, lo más prudente es consultar con un otorrinolaringólogo o un audiólogo."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Nazareth Castellanos y Antonio Basanta desgranan los beneficios de la lectura: nos hace mejores",
@@ -4774,10 +5209,20 @@
     "fecha": "2026-10-05T05:14:00+00:00",
     "id": "7483ad40",
     "traducida": true,
-    "titulo": "Nazareth Castellanos y Antonio Basanta desgranan los beneficios de la lectura: nos hace mejores",
-    "resumen": "La neurocientífica Nazareth Castellanos y el filólogo Antonio Basanta se han unido para escribir «Un regalo de los dioses», un libro que analiza la neurociencia de la lectura, sus beneficios en todos los sentidos, también para la salud, porque es una practica que, además de…",
-    "categoria": "Salud general",
-    "slug": "nazareth-castellanos-y-antonio-basanta-desgranan-los-beneficios-de-la-7483ad40"
+    "titulo": "Un libro de una neurocientífica y un filólogo analiza los beneficios de la lectura para el cerebro y la salud",
+    "resumen": "Una neurocientífica y un filólogo han publicado un libro sobre la neurociencia de la lectura y sus beneficios, también para la salud. La noticia no detalla datos concretos.",
+    "categoria": "Salud mental",
+    "slug": "nazareth-castellanos-y-antonio-basanta-desgranan-los-beneficios-de-la-7483ad40",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia presenta el libro «Un regalo de los dioses», escrito por la neurocientífica Nazareth Castellanos y el filólogo Antonio Basanta. Según la entradilla, la obra analiza la neurociencia de la lectura y sus beneficios en varios ámbitos, también en la salud. La información disponible no da más detalles sobre los argumentos ni sobre evidencias concretas.",
+      "contexto": "Leer es una actividad que muchas personas utilizan para desconectar y descansar, y se asocia con hábitos de bienestar en general. Aun así, el impacto de la lectura en la salud mental y cognitiva es un tema que se estudia con cautela y cuyos resultados concretos varían según la persona y el contexto.",
+      "ten_en_cuenta": "Se trata de un libro divulgativo presentado en prensa, no de un estudio científico. La entradilla está cortada y no aporta datos, muestras ni resultados que permitan valorar la evidencia."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Casi la mitad de las personas mayores ve difícil acceder a recursos de salud mental",
@@ -4839,10 +5284,20 @@
     "fecha": "2026-10-04T22:30:00+00:00",
     "id": "1568d7df",
     "traducida": true,
-    "titulo": "El móvil impacta en la calidad de vida como la renta o la educación",
-    "resumen": "Un macroestudio de ‘The Lancet’ relaciona el uso problemático de las pantallas con mayor riesgo para la salud mental, trastornos del sueño y disminución de la actividad física",
-    "categoria": "Sueño",
-    "slug": "el-movil-impacta-en-la-calidad-de-vida-como-la-renta-o-la-educacion-1568d7df"
+    "titulo": "El uso problemático del móvil se relaciona con más riesgo para la salud mental, el sueño y la actividad física",
+    "resumen": "Un macroestudio publicado en The Lancet asocia el uso problemático de las pantallas con mayor riesgo de problemas de salud mental, trastornos del sueño y menos actividad física.",
+    "categoria": "Salud general",
+    "slug": "el-movil-impacta-en-la-calidad-de-vida-como-la-renta-o-la-educacion-1568d7df",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un macroestudio publicado en The Lancet relaciona el uso problemático de las pantallas con un mayor riesgo para la salud mental, con trastornos del sueño y con una disminución de la actividad física. El titular añade que el móvil impactaría en la calidad de vida de forma comparable a la renta o la educación, pero la noticia original no explica cómo se midió esa comparación ni da más detalles.",
+      "contexto": "Las recomendaciones de organismos como la OMS insisten en la importancia de mantener una actividad física regular y de cuidar el descanso para proteger la salud. Cuanto más tiempo y más intensamente se usan las pantallas, más fácil es que se desplace el ejercicio o el sueño, aunque la relación exacta varía según cada persona.",
+      "ten_en_cuenta": "Se trata de una asociación: un estudio observacional de este tipo no demuestra que las pantallas causen estos problemas, y otros factores pueden influir. La noticia no detalla el diseño, la muestra ni la forma de medir el uso problemático, así que conviene leer el artículo original antes de sacar conclusiones."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "La UGR busca adultos que superaron un cáncer infantil para un estudio sobre salud y ejercicio",
@@ -4879,10 +5334,20 @@
     "fecha": "2026-10-04T03:30:01+00:00",
     "id": "4684d600",
     "traducida": true,
-    "titulo": "La cara oculta del éxito de Starship: Musk deja fuera de juego a la NASA con su plan para dominar el cielo",
-    "resumen": "SpaceX se va a centrar solo en su megacohete, para ampliar su red Starlink y llevar al espacio sus centros de datos de IA, antes que en viajar a la Luna o lanzar satélites para otras empresas",
+    "titulo": "SpaceX se centra en su megacohete Starship, Starlink y centros de datos espaciales de IA",
+    "resumen": "SpaceX prioriza su megacohete para ampliar la red Starlink y llevar al espacio centros de datos de IA, por delante de viajes a la Luna o satélites para otras empresas.",
     "categoria": "Salud general",
-    "slug": "la-cara-oculta-del-exito-de-starship-musk-deja-fuera-de-juego-a-la-nas-4684d600"
+    "slug": "la-cara-oculta-del-exito-de-starship-musk-deja-fuera-de-juego-a-la-nas-4684d600",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La entradilla indica que SpaceX se concentrará en su megacohete Starship para ampliar Starlink y llevar al espacio sus centros de datos de IA. Según el texto, esto va antes que viajar a la Luna o lanzar satélites para otras empresas. No hay datos de salud ni de estudios en la información disponible.",
+      "contexto": "Es una noticia sobre estrategia empresarial y espacial, sin relación directa con el ejercicio, la alimentación, el sueño, la salud mental o el autocuidado. Por eso no encaja en los temas de Fitnova.",
+      "ten_en_cuenta": "La información disponible es solo el titular y la entradilla, y trata de negocio y tecnología espacial, no de salud. No se aplica a la vida diaria de los lectores."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
@@ -5019,10 +5484,20 @@
     "fecha": "2026-10-02T23:47:31+00:00",
     "id": "5a09c808",
     "traducida": true,
-    "titulo": "Nicola D'Amelio, investigador: «Queremos tratar el cáncer utilizando el yogur como caballo de Troya»",
-    "resumen": "Lo primero que deja claro Nicola D'Amelio cuando comienza esta entrevista es que él no es médico ni biólogo de formación. «Soy químico puro», comenta amablemente a modo de advertencia. Pero su trayectoria, tras doctorarse en biología estructural, le ha llevado a acabar…",
+    "titulo": "Un investigador propone usar el yogur como «caballo de Troya» para tratar el cáncer",
+    "resumen": "En una entrevista, Nicola D'Amelio, que se describe como químico y no como médico ni biólogo, explica la idea de su equipo de tratar el cáncer usando el yogur como vehículo. La entradilla no detalla cómo funcionaría ni qué resultados hay.",
     "categoria": "Salud general",
-    "slug": "nicola-d-amelio-investigador-queremos-tratar-el-cancer-utilizando-el-y-5a09c808"
+    "slug": "nicola-d-amelio-investigador-queremos-tratar-el-cancer-utilizando-el-y-5a09c808",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "En una entrevista, Nicola D'Amelio explica que él no es médico ni biólogo, sino químico, y que su equipo quiere tratar el cáncer usando el yogur como «caballo de Troya». La entradilla no da más detalles sobre el método, las pruebas realizadas ni los resultados.",
+      "contexto": "El cáncer engloba muchas enfermedades distintas, y sus tratamientos validados (cirugía, radioterapia, quimioterapia, terapias dirigidas o inmunoterapia, según el caso) se evalúan en ensayos clínicos antes de usarse. Una idea que se plantea en laboratorio puede tardar años en demostrarse útil, si lo consigue. Ningún alimento sustituye al tratamiento oncológico indicado por un especialista.",
+      "ten_en_cuenta": "Se trata de una entrevista sin detalles sobre estudios, muestras ni resultados, así que no se puede valorar la solidez de la propuesta. Es una idea en una fase que no permite conclusiones para pacientes. Ante un diagnóstico de cáncer, conviene consultar al equipo oncológico."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "No tiene energía, no duerme y está irascible, quizá tenga 'inflammaging'",
@@ -5034,10 +5509,20 @@
     "fecha": "2026-10-02T23:17:01+00:00",
     "id": "74e7472a",
     "traducida": true,
-    "titulo": "No tiene energía, no duerme y está irascible, quizá tenga 'inflammaging'",
-    "resumen": "La inflamación es una respuesta sabia de nuestro organismo ante lo que interpreta como una agresión. Es lo que ocurre cuando nos damos un golpe o nos resfriamos: se activa para enviar una señal de alarma al sistema inmune y desaparece cuando el peligro ha pasado. La doctora…",
+    "titulo": "Cansancio, mal dormir e irritabilidad: ¿podría deberse a 'inflammaging'?",
+    "resumen": "La inflamación es normalmente una respuesta protectora que se apaga cuando desaparece la amenaza. Un artículo de ABC habla del 'inflammaging', una inflamación crónica de bajo grado, como posible explicación de un cuadro de síntomas.",
     "categoria": "Salud general",
-    "slug": "no-tiene-energia-no-duerme-y-esta-irascible-quiza-tenga-inflammaging-74e7472a"
+    "slug": "no-tiene-energia-no-duerme-y-esta-irascible-quiza-tenga-inflammaging-74e7472a",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El artículo recuerda que la inflamación es una reacción útil del organismo ante una agresión, como un golpe o un resfriado, que desaparece cuando el peligro pasa. Relaciona ese mecanismo con el 'inflammaging' y con síntomas como falta de energía, problemas para dormir e irritabilidad. La información disponible en la noticia original es limitada, porque la entradilla queda cortada y no incluye más detalles.",
+      "contexto": "El término 'inflammaging' se usa en investigación para describir una inflamación crónica y leve que se asocia con el envejecimiento. Se estudia su relación con distintas enfermedades, pero no es un diagnóstico clínico habitual. El cansancio, los problemas de sueño y los cambios de humor son síntomas muy inespecíficos, que pueden tener muchas causas.",
+      "ten_en_cuenta": "La noticia no describe ningún estudio concreto y el texto disponible está incompleto, así que no permite saber en qué se basa la afirmación. Estos síntomas no demuestran por sí solos una inflamación crónica. Si se mantienen en el tiempo, conviene consultar con el médico de cabecera."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Even one strength training session a week could make a difference",
@@ -5074,10 +5559,20 @@
     "fecha": "2026-10-02T09:03:19+00:00",
     "id": "1724e35e",
     "traducida": true,
-    "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
-    "resumen": "La astronauta y científica habla con EL PAÍS sobre su experiencia durante la histórica misión Artemis 2 y advierte sobre los peligros de la carrera espacial con China",
-    "categoria": "Entrenamiento",
-    "slug": "christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-1724e35e"
+    "titulo": "Christina Koch habla de su experiencia en la misión Artemis 2 y de la carrera espacial con China",
+    "resumen": "La astronauta y científica comenta con El País su paso por la misión Artemis 2 y advierte sobre los riesgos de la competencia espacial con China.",
+    "categoria": "Salud general",
+    "slug": "christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-1724e35e",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Una entrevista con la astronauta Christina Koch en la que relata su experiencia durante la misión Artemis 2 y advierte sobre la carrera espacial con China. La entradilla no da más detalles sobre lo que cuenta.",
+      "contexto": "La noticia trata de exploración espacial y geopolítica, sin relación directa con la salud física o mental en la vida diaria ni con hábitos de ejercicio, alimentación, descanso o bienestar.",
+      "ten_en_cuenta": "Es una entrevista sobre una misión espacial y no aporta datos sobre salud, bienestar ni hábitos, por lo que no se incluye en la selección de Fitnova."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Weak sunlight can still damage your DNA, scientists warn",
@@ -5114,10 +5609,20 @@
     "fecha": "2026-10-02T03:30:00+00:00",
     "id": "95956b50",
     "traducida": true,
-    "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
-    "resumen": "Una revisión publicada en ‘Science’ sitúa el estradiol por vía transdérmica como la mejor opción, pero estas formulaciones están casi desaparecidas de las farmacias españolas",
+    "titulo": "Una revisión en 'Science' destaca el estradiol transdérmico para la menopausia, poco disponible en España",
+    "resumen": "Según una revisión publicada en la revista Science, el estradiol por vía transdérmica sería la opción más recomendable para tratar la menopausia, pero apenas se encuentra en las farmacias españolas.",
     "categoria": "Salud general",
-    "slug": "la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausi-95956b50"
+    "slug": "la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausi-95956b50",
+    "tipo_estudio": "revisión o metaanálisis",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge una revisión publicada en la revista Science que sitúa el estradiol por vía transdérmica como la mejor opción terapéutica para la menopausia. Según la información disponible, sus formulaciones casi han desaparecido de las farmacias españolas. La noticia original no ofrece más detalles sobre la revisión ni sobre las razones de esta escasez.",
+      "contexto": "La menopausia es una etapa natural que puede acompañarse de síntomas como sofocos o alteraciones del sueño. Existen distintas opciones de tratamiento, entre ellas la terapia hormonal, cuya elección depende de cada persona y de su historial médico, y se decide junto al equipo sanitario. Las guías clínicas suelen tener en cuenta la vía de administración, porque influye en el perfil de riesgos del tratamiento.",
+      "ten_en_cuenta": "Solo tenemos el titular y la entradilla, así que no sabemos qué estudios incluyó la revisión ni con qué criterios se hizo. Una recomendación general no equivale a una indicación personal: cualquier cambio en el tratamiento debe valorarse con el médico o la ginecóloga."
+    },
+    "puntuacion": 7,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Las mujeres sufren el dolor más intensamente que los hombres: este es el motivo biológico",
@@ -5129,10 +5634,20 @@
     "fecha": "2026-10-01T23:40:31+00:00",
     "id": "3705d4ba",
     "traducida": true,
-    "titulo": "Las mujeres sufren el dolor más intensamente que los hombres: este es el motivo biológico",
-    "resumen": "Durante décadas, la medicina ha arrastrado un marcado sesgo androgénico al considerar el cuerpo masculino como el estándar universal. Los síntomas femeninos, por su parte, eran arrastrados a una dimensión difusa, a menudo tildada de «psicosomática», porque no encajaban en el…",
+    "titulo": "Por qué las mujeres podrían percibir el dolor de forma distinta: el posible motivo biológico",
+    "resumen": "Según la noticia, la medicina ha tomado históricamente el cuerpo masculino como referencia, y los síntomas femeninos se han atribuido a menudo a causas psicosomáticas. El artículo plantea un posible motivo biológico, aunque el fragmento disponible no lo detalla.",
     "categoria": "Salud general",
-    "slug": "las-mujeres-sufren-el-dolor-mas-intensamente-que-los-hombres-este-es-e-3705d4ba"
+    "slug": "las-mujeres-sufren-el-dolor-mas-intensamente-que-los-hombres-este-es-e-3705d4ba",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia señala que durante décadas la medicina ha tomado el cuerpo masculino como estándar universal, lo que ha dejado de lado los síntomas femeninos. Estos se han considerado a veces de origen psicosomático porque no encajaban en el modelo habitual. El titular anuncia un motivo biológico de las diferencias en el dolor, pero la entradilla no explica en qué consiste ni qué fuente lo respalda.",
+      "contexto": "La forma en que se percibe y se trata el dolor depende de factores biológicos, psicológicos y sociales. Es un hecho documentado que las mujeres han estado infrarrepresentadas en muchos ensayos clínicos, lo que ha dificultado conocer bien sus síntomas. Por eso se reclama investigar con más equilibrio entre sexos.",
+      "ten_en_cuenta": "La entradilla está incompleta: no indica qué estudio o investigación sustenta el motivo biológico, ni su tamaño o diseño. El titular habla de un motivo concreto con un tono categórico, así que conviene leer el artículo completo. Si sufres dolor persistente, consulta con un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
@@ -5144,10 +5659,20 @@
     "fecha": "2026-10-01T18:47:47+00:00",
     "id": "51eeb0c2",
     "traducida": true,
-    "titulo": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
-    "resumen": "La empresa investiga cómo crear servidores en la órbita terrestre. SpaceX y otras empresas le llevan cuerpos de ventaja",
+    "titulo": "Google lanza su primer satélite para llevar centros de datos al espacio",
+    "resumen": "Google investiga cómo instalar servidores en órbita terrestre. La noticia trata de tecnología espacial y no tiene relación con la salud física o mental.",
     "categoria": "Salud general",
-    "slug": "google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-51eeb0c2"
+    "slug": "google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-51eeb0c2",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Google está investigando cómo crear servidores en la órbita terrestre y ha lanzado su primer satélite con ese fin. SpaceX y otras empresas le llevan ventaja en este campo, según la entradilla.",
+      "contexto": "Esta noticia trata de infraestructura tecnológica y no aborda ningún aspecto de la salud, la alimentación, el sueño, el ejercicio ni el bienestar. Por eso no encaja en los temas de Fitnova.",
+      "ten_en_cuenta": "La noticia no tiene aplicación para cuidar la salud en el día a día. No se incluye en la ficha porque queda fuera del ámbito de Fitnova."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Por qué las mujeres tienen más dolor: la ciencia empieza a destapar la “inexplorada caja negra” de este síntoma",
@@ -5159,10 +5684,20 @@
     "fecha": "2026-10-01T18:00:28+00:00",
     "id": "93885b0c",
     "traducida": true,
-    "titulo": "Por qué las mujeres tienen más dolor: la ciencia empieza a destapar la “inexplorada caja negra” de este síntoma",
-    "resumen": "Una revisión en ‘Science’ recuerda que urgen “respuestas para descartar el enfoque habitual de ‘todo está en tu cabeza”",
+    "titulo": "La ciencia empieza a explorar por qué el dolor en las mujeres sigue siendo una caja negra",
+    "resumen": "Una revisión publicada en la revista Science señala que hacen falta respuestas para dejar de atribuir sin más el dolor de las mujeres a que \"todo está en la cabeza\".",
     "categoria": "Salud general",
-    "slug": "por-que-las-mujeres-tienen-mas-dolor-la-ciencia-empieza-a-destapar-la-93885b0c"
+    "slug": "por-que-las-mujeres-tienen-mas-dolor-la-ciencia-empieza-a-destapar-la-93885b0c",
+    "tipo_estudio": "revisión o metaanálisis",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la información disponible, una revisión publicada en Science recuerda que el dolor en las mujeres es un síntoma poco explorado por la ciencia. Sus autores reclaman investigación que permita descartar el enfoque habitual de que el dolor \"está en la cabeza\". La noticia original no ofrece más detalles sobre los hallazgos concretos.",
+      "contexto": "Durante años, gran parte de la investigación biomédica ha incluido poco a mujeres, y el dolor femenino ha sido menos estudiado que el masculino. Se sabe que el dolor es una experiencia compleja en la que intervienen factores biológicos, psicológicos y sociales, por lo que no se reduce a un único origen. Por eso, las sociedades científicas insisten en tomar en serio el dolor que refiere cada persona.",
+      "ten_en_cuenta": "Solo tenemos el titular y la entradilla, así que no conocemos qué datos concretos recoge la revisión. Una revisión resume estudios previos y no demuestra por sí sola causas. Si tienes dolor persistente, consulta con un profesional sanitario."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "This diet may slow brain aging by 2.5 years",
@@ -5199,10 +5734,20 @@
     "fecha": "2026-10-01T12:03:17+00:00",
     "id": "562c6331",
     "traducida": true,
-    "titulo": "Claves de la crisis de los medicamentos para la menopausia: qué falta, cuándo vuelve y qué alternativas hay",
-    "resumen": "La falta del fármaco Lenzetto ha provocado una crisis en cadena que ha dejado sin suministro de hormonas a miles de mujeres menopáusicas y trans. Una posibilidad sobre la mesa es priorizar pacientes",
+    "titulo": "La falta del medicamento Lenzetto deja sin hormonas a miles de mujeres menopáusicas y trans",
+    "resumen": "Una crisis de suministro del fármaco Lenzetto ha afectado a mujeres menopáusicas y trans. Se plantea priorizar a pacientes, y el titular anuncia que se explican las alternativas.",
     "categoria": "Salud general",
-    "slug": "claves-de-la-crisis-de-los-medicamentos-para-la-menopausia-que-falta-c-562c6331"
+    "slug": "claves-de-la-crisis-de-los-medicamentos-para-la-menopausia-que-falta-c-562c6331",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El País explica la crisis provocada por la falta del fármaco Lenzetto, que ha dejado sin suministro de hormonas a miles de mujeres menopáusicas y trans. Una de las posibilidades que se barajan es priorizar a pacientes. La entradilla no da más detalles sobre cuándo volverá el medicamento ni sobre las alternativas, que el titular menciona.",
+      "contexto": "Algunas mujeres en la menopausia usan tratamientos hormonales para aliviar síntomas como los sofocos o las molestias asociadas al cambio hormonal. Las mujeres trans también pueden recibir hormonas dentro de su proceso de tránsito. En cualquier caso, estos tratamientos se ajustan a cada persona, y cambiarlos o dejarlos de golpe debe hacerse siempre con el equipo médico.",
+      "ten_en_cuenta": "Es una noticia sobre desabastecimiento, no un estudio, y la entradilla no aporta datos sobre causas, plazos ni alternativas concretas. Si te afecta, consulta con tu médico o farmacéutico qué opciones tienes en tu caso."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "1 in 13 adults under 30 already had hidden artery plaque",
@@ -5240,9 +5785,19 @@
     "id": "fa7154fd",
     "traducida": true,
     "titulo": "Las infecciones respiratorias entran en fase epidémica en España por el repunte de covid",
-    "resumen": "La tasa de contagios se dispara hasta casi 500 casos por 100.000 habitantes impulsada por un linaje de coronavirus que se ha hecho mayoritario en las últimas semanas",
+    "resumen": "La tasa de contagios se dispara hasta casi 500 casos por 100.000 habitantes, impulsada por un linaje de coronavirus que se ha vuelto mayoritario en las últimas semanas.",
     "categoria": "Salud general",
-    "slug": "las-infecciones-respiratorias-entran-en-fase-epidemica-en-espana-por-e-fa7154fd"
+    "slug": "las-infecciones-respiratorias-entran-en-fase-epidemica-en-espana-por-e-fa7154fd",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según esta noticia, las infecciones respiratorias han entrado en fase epidémica en España por el repunte de covid. La tasa de contagios ha subido hasta casi 500 casos por 100.000 habitantes, impulsada por un linaje de coronavirus que se ha hecho mayoritario en las últimas semanas. La noticia original no da más detalles sobre el linaje ni sobre las medidas previstas.",
+      "contexto": "Las infecciones respiratorias, como el covid, la gripe o los resfriados, suelen aumentar en determinadas épocas del año y se transmiten sobre todo por gotículas y aerosoles al toser, hablar o compartir espacios cerrados mal ventilados. Medidas generales como ventilar bien, lavarse las manos, quedarse en casa si hay síntomas y usar mascarilla en lugares concurridos ayudan a reducir los contagios. Las vacunas disponibles siguen siendo una herramienta importante, especialmente para las personas de mayor riesgo.",
+      "ten_en_cuenta": "La noticia es breve y no explica cómo se han obtenido los datos, qué linaje es ni cómo puede evolucionar la situación. Las cifras de contagios dependen de las pruebas realizadas, que pueden variar entre comunidades. Ante síntomas o dudas sobre vacunación, conviene consultar con tu centro de salud."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Creadores de contenido: cómo las redes sociales afectan a su salud y bienestar",
@@ -5255,9 +5810,19 @@
     "id": "f8a576a6",
     "traducida": true,
     "titulo": "Creadores de contenido: cómo las redes sociales afectan a su salud y bienestar",
-    "resumen": "Descubre cómo las redes sociales afectan a la salud mental y el bienestar de los creadores de contenido, y qué desafíos plantea este trabajo digital.",
+    "resumen": "Un artículo explica cómo las redes sociales pueden influir en la salud mental y el bienestar de quienes crean contenido, y qué retos plantea este trabajo digital.",
     "categoria": "Salud mental",
-    "slug": "creadores-de-contenido-como-las-redes-sociales-afectan-a-su-salud-y-bi-f8a576a6"
+    "slug": "creadores-de-contenido-como-las-redes-sociales-afectan-a-su-salud-y-bi-f8a576a6",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia aborda cómo las redes sociales pueden afectar a la salud mental y al bienestar de las personas que crean contenido profesionalmente, y qué desafíos plantea este tipo de trabajo digital. La información disponible es solo el titular y la entradilla, así que no se conocen más detalles sobre los datos, las personas consultadas ni las conclusiones.",
+      "contexto": "Quienes trabajan en redes suelen enfrentarse a una exposición constante a opiniones ajenas, a la presión de publicar con regularidad y a la comparación con otras personas. La OMS considera la salud mental parte esencial de la salud general, y las sociedades científicas coinciden en que el uso intensivo de redes puede relacionarse con malestar en algunas personas, sobre todo cuando interfiere con el descanso o con la vida cotidiana.",
+      "ten_en_cuenta": "La noticia original no da datos ni detalles del estudio o fuente en que se basa, por lo que no se puede valorar la solidez de sus afirmaciones. Lo que describe no debe generalizarse a todos los creadores. Si el trabajo digital genera ansiedad o malestar persistente, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
@@ -5294,10 +5859,20 @@
     "fecha": "2026-10-01T03:30:00+00:00",
     "id": "19d073c1",
     "traducida": true,
-    "titulo": "La crisis de los tratamientos para la menopausia divide a médicos y autoridades sobre cómo afrontar el desabastecimiento",
-    "resumen": "Los ginecólogos se dividen ante la propuesta de dar preferencia a las mujeres que ya siguen terapia hormonal, mientras la Agencia del Medicamento pide cautela con las fórmulas magistrales que prepara Cataluña",
+    "titulo": "La escasez de tratamientos para la menopausia divide a médicos y autoridades sobre cómo gestionarla",
+    "resumen": "Los ginecólogos no se ponen de acuerdo sobre dar prioridad a las mujeres que ya siguen terapia hormonal. La Agencia del Medicamento pide cautela con las fórmulas magistrales que prepara Cataluña.",
     "categoria": "Salud general",
-    "slug": "la-crisis-de-los-tratamientos-para-la-menopausia-divide-a-medicos-y-au-19d073c1"
+    "slug": "la-crisis-de-los-tratamientos-para-la-menopausia-divide-a-medicos-y-au-19d073c1",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge que los ginecólogos están divididos ante la propuesta de dar preferencia a las mujeres que ya siguen terapia hormonal cuando faltan medicamentos. Mientras tanto, la Agencia del Medicamento pide cautela con las fórmulas magistrales que prepara Cataluña. La entradilla no da más detalles sobre la propuesta ni sobre las medidas concretas.",
+      "contexto": "La terapia hormonal es una de las opciones para aliviar síntomas de la menopausia, como los sofocos, y su uso se decide de forma individual con el médico según el perfil de cada mujer. Las fórmulas magistrales son medicamentos que prepara una farmacia a partir de una receta concreta, y se usan cuando no existe una presentación comercial adecuada. Cuando escasean medicamentos, las autoridades sanitarias deben decidir cómo repartir el suministro, algo que puede generar debate.",
+      "ten_en_cuenta": "Solo se dispone del titular y la entradilla, sin detalles de la propuesta ni de la postura completa de la Agencia. Cualquier decisión sobre tratamiento para la menopausia debe consultarse con el ginecólogo o el médico de familia."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Los riesgos para la piel de los TikTok virales sobre skincare coreano y 'glass skin'",
@@ -5309,10 +5884,20 @@
     "fecha": "2026-09-30T23:35:59+00:00",
     "id": "1d6d3b5c",
     "traducida": true,
-    "titulo": "Los riesgos para la piel de los TikTok virales sobre skincare coreano y 'glass skin'",
-    "resumen": "Las rutinas de 'skincare' coreanas y para conseguir una 'glass skin', el término de moda para describir un cutis terso, suave y profundamente hidratado, se han popularizado en las redes sociales, especialmente en TikTok, con vídeos virales que cuentan con millones de…",
+    "titulo": "Los riesgos para la piel de las rutinas virales de skincare coreano y 'glass skin' en TikTok",
+    "resumen": "Las rutinas de skincare coreano y el 'glass skin' se han popularizado en TikTok con vídeos virales. La noticia apunta a posibles riesgos para la piel, aunque la entradilla no los detalla.",
     "categoria": "Salud general",
-    "slug": "los-riesgos-para-la-piel-de-los-tiktok-virales-sobre-skincare-coreano-1d6d3b5c"
+    "slug": "los-riesgos-para-la-piel-de-los-tiktok-virales-sobre-skincare-coreano-1d6d3b5c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El artículo aborda las rutinas de cuidado facial coreanas y el objetivo de lograr 'glass skin', un término de moda que describe un cutis terso, suave y muy hidratado. Estas tendencias se han extendido en redes sociales, especialmente en TikTok, con vídeos virales. La noticia original no da más detalles sobre los riesgos que menciona.",
+      "contexto": "Las rutinas con muchos pasos y productos pueden irritar la piel, sobre todo si se combinan varios activos exfoliantes o si se usan con demasiada frecuencia. Una piel sensible o con problemas dermatológicos conviene valorarla con un dermatólogo antes de seguir tendencias de este tipo.",
+      "ten_en_cuenta": "La entradilla no concreta qué riesgos se describen ni en qué estudio o fuente se basan. Lo que se explica sobre la piel es orientativo y no sustituye la valoración de un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Los fármacos contra la obesidad se asocian a un mayor riesgo de desprendimiento de uñas",
@@ -5324,10 +5909,20 @@
     "fecha": "2026-09-30T22:01:00+00:00",
     "id": "1e8fd529",
     "traducida": true,
-    "titulo": "Los fármacos contra la obesidad se asocian a un mayor riesgo de desprendimiento de uñas",
-    "resumen": "Los medicamentos agonistas del receptor de GLP-1, conocidos por su eficacia contra la obesidad y la diabetes tipo 2, están en el centro del debate de una línea de investigación sobre un posible efecto adverso dermatológico. El primer estudio centrado en los efectos secundarios…",
-    "categoria": "Nutrición",
-    "slug": "los-farmacos-contra-la-obesidad-se-asocian-a-un-mayor-riesgo-de-despre-1e8fd529"
+    "titulo": "Un estudio asocia los fármacos contra la obesidad con un mayor riesgo de desprendimiento de uñas",
+    "resumen": "Según ABC, los medicamentos agonistas del receptor GLP-1 se asocian a un posible efecto adverso en las uñas, que está en debate entre los investigadores.",
+    "categoria": "Salud general",
+    "slug": "los-farmacos-contra-la-obesidad-se-asocian-a-un-mayor-riesgo-de-despre-1e8fd529",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Los medicamentos agonistas del receptor GLP-1, usados contra la obesidad y la diabetes tipo 2, están en el centro del debate por un posible efecto adverso dermatológico: el desprendimiento de uñas. La noticia describe el que sería el primer estudio centrado en estos efectos secundarios, pero el fragmento disponible se corta antes de dar más detalles, así que no se sabe el diseño, el número de participantes ni los resultados concretos.",
+      "contexto": "Los fármacos de este grupo se usan para tratar la obesidad y la diabetes tipo 2, y sus efectos secundarios más conocidos son sobre todo digestivos. Como con cualquier medicamento, las agencias reguladoras y los profesionales sanitarios vigilan los efectos adversos y valoran el equilibrio entre beneficios y riesgos de cada paciente.",
+      "ten_en_cuenta": "Se trata de una asociación, que no demuestra que el fármaco cause el problema. La información disponible es incompleta. Cualquier duda sobre un tratamiento debe comentarse con el médico, sin dejar la medicación por cuenta propia."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "El azúcar agrava el daño de los antibióticos en la flora intestinal de pacientes con cáncer y perjudica su supervivencia",
@@ -5339,10 +5934,20 @@
     "fecha": "2026-09-30T15:00:16+00:00",
     "id": "9a25ec33",
     "traducida": true,
-    "titulo": "El azúcar agrava el daño de los antibióticos en la flora intestinal de pacientes con cáncer y perjudica su supervivencia",
-    "resumen": "Un estudio muestra que el desequilibrio en la microbiota se asocia a peores resultados en trasplantados de médula ósea",
+    "titulo": "El azúcar y los antibióticos se asocian a un peor equilibrio intestinal en pacientes con cáncer trasplantados",
+    "resumen": "Un estudio relaciona el desequilibrio de la microbiota intestinal con peores resultados en trasplantados de médula ósea. Según el titular, el azúcar agravaría el daño de los antibióticos sobre la flora intestinal y afectaría a la supervivencia.",
     "categoria": "Nutrición",
-    "slug": "el-azucar-agrava-el-dano-de-los-antibioticos-en-la-flora-intestinal-de-9a25ec33"
+    "slug": "el-azucar-agrava-el-dano-de-los-antibioticos-en-la-flora-intestinal-de-9a25ec33",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Un estudio señala que un desequilibrio en la microbiota intestinal se asocia a peores resultados en personas con cáncer que han recibido un trasplante de médula ósea. Según el titular, el consumo de azúcar agravaría el daño que causan los antibióticos sobre la flora intestinal y perjudicaría la supervivencia. La noticia original no da más detalles sobre el diseño ni los resultados.",
+      "contexto": "La microbiota intestinal es el conjunto de microorganismos que viven en el intestino y participa en la digestión y en las defensas del organismo. Los antibióticos pueden alterarla, y la alimentación influye en su composición. La OMS recomienda limitar el consumo de azúcares libres como parte de una dieta saludable.",
+      "ten_en_cuenta": "La entradilla habla de una asociación, que no demuestra que el azúcar cause el daño. Al no conocerse el tamaño de la muestra ni el tipo de estudio, conviene esperar a más información. Las personas en tratamiento oncológico deben consultar cualquier cambio de dieta con su equipo médico."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Solo el 56% de las personas que viven con obesidad identifica que tiene esta enfermedad",
@@ -5354,10 +5959,20 @@
     "fecha": "2026-09-30T12:42:47+00:00",
     "id": "e2b1d722",
     "traducida": true,
-    "titulo": "Solo el 56% de las personas que viven con obesidad identifica que tiene esta enfermedad",
-    "resumen": "Alimentación, ejercicio, descanso, estrés… Los hábitos forman parte de nuestro día a día y tienen un papel importante en el cuidado de la salud. Sin embargo, cuando hablamos de obesidad, la realidad es mucho más compleja y todavía existe una distancia entre cómo percibimos…",
-    "categoria": "Sueño",
-    "slug": "solo-el-56-de-las-personas-que-viven-con-obesidad-identifica-que-tiene-e2b1d722"
+    "titulo": "Solo el 56% de las personas con obesidad reconoce que tiene esta enfermedad",
+    "resumen": "Según el titular, solo el 56% de las personas que viven con obesidad identifica que tiene esta enfermedad. La entradilla no ofrece más detalles sobre los datos.",
+    "categoria": "Salud general",
+    "slug": "solo-el-56-de-las-personas-que-viven-con-obesidad-identifica-que-tiene-e2b1d722",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia indica que solo el 56% de las personas que viven con obesidad identifica que tiene esta enfermedad. Su entradilla recuerda que los hábitos (alimentación, ejercicio, descanso, estrés) influyen en la salud y que, en la obesidad, existe una distancia entre cómo la percibimos y la realidad. El texto disponible no detalla de dónde salen los datos ni cómo se obtuvieron.",
+      "contexto": "La OMS describe la obesidad como una enfermedad crónica compleja, con causas biológicas, ambientales y sociales, y asociada a un mayor riesgo de otras enfermedades, como la diabetes tipo 2 y los problemas cardiovasculares. Que una persona no la reconozca como enfermedad puede influir en si busca información, seguimiento o tratamiento.",
+      "ten_en_cuenta": "Solo conocemos el titular y una entradilla incompleta: no sabemos quién hizo la medición, a cuántas personas se preguntó ni en qué contexto. Una cifra aislada no explica por qué ocurre. Si te preocupa tu peso, consulta con un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Mulberry may reshape gut bacteria and influence metabolism",
@@ -5394,10 +6009,20 @@
     "fecha": "2026-09-30T03:30:01+00:00",
     "id": "19b6ac23",
     "traducida": true,
-    "titulo": "Carl Cederström, sociólogo: “El bienestar se ha convertido en una herramienta corporativa. No te hace más feliz, sino más productivo”",
-    "resumen": "En ‘El síndrome del bienestar’, el autor argumenta que cuando la salud y la felicidad se convierten en imperativos morales, el resultado no suele ser la liberación, sino la culpa, la ansiedad y el repliegue sobre uno mismo",
+    "titulo": "Carl Cederström sostiene que el bienestar se ha vuelto una herramienta corporativa para ser más productivos",
+    "resumen": "El sociólogo Carl Cederström, autor de 'El síndrome del bienestar', argumenta que convertir la salud y la felicidad en obligaciones morales suele generar culpa, ansiedad y repliegue sobre uno mismo.",
     "categoria": "Salud mental",
-    "slug": "carl-cederstrom-sociologo-el-bienestar-se-ha-convertido-en-una-herrami-19b6ac23"
+    "slug": "carl-cederstrom-sociologo-el-bienestar-se-ha-convertido-en-una-herrami-19b6ac23",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entrevista, el autor sostiene que el bienestar se ha convertido en una herramienta corporativa que busca productividad más que felicidad. Argumenta que, cuando la salud y la felicidad se tratan como imperativos morales, el resultado no suele ser liberador, sino culpa, ansiedad y encerrarse en uno mismo. La noticia original no da más detalles sobre sus argumentos.",
+      "contexto": "La crítica a la cultura del bienestar, con su presión por optimizar el cuerpo, la mente y el tiempo libre, es un debate presente en la sociología y la psicología. Por otro lado, la OMS define la salud mental como más que la ausencia de trastornos, e insiste en que el bienestar necesita condiciones sociales y laborales favorables, no solo esfuerzo individual.",
+      "ten_en_cuenta": "Se trata de la opinión de un autor sobre un fenómeno social, no de un estudio con datos. La entradilla es breve, así que conviene leer el libro o la entrevista completa antes de sacar conclusiones."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Creatine may help build muscle even without exercise, researchers find",
@@ -5434,10 +6059,20 @@
     "fecha": "2026-09-29T12:14:00+00:00",
     "id": "52a5d0bb",
     "traducida": true,
-    "titulo": "Creíamos que un dron con desfibrilador salvaría vidas, pero ¿basta con que el aparato llegue a tiempo?",
-    "resumen": "Un dron con desfibrilador puede llegar en minutos, pero ¿basta? Descubre qué factores deciden si la tecnología realmente salva una vida.",
+    "titulo": "Un dron con desfibrilador: ¿basta con que llegue a tiempo para salvar una vida?",
+    "resumen": "La noticia se pregunta si la llegada rápida de un dron con desfibrilador es suficiente para salvar una vida en una parada cardiaca, o si influyen otros factores.",
     "categoria": "Salud general",
-    "slug": "creiamos-que-un-dron-con-desfibrilador-salvaria-vidas-pero-basta-con-q-52a5d0bb"
+    "slug": "creiamos-que-un-dron-con-desfibrilador-salvaria-vidas-pero-basta-con-q-52a5d0bb",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El artículo plantea que un dron con desfibrilador puede llegar en minutos a una persona que sufre una emergencia cardiaca, pero se pregunta si con eso basta. Su entradilla anuncia que explica qué factores determinan si la tecnología realmente salva una vida. La información disponible no detalla cuáles son ni qué datos los respaldan.",
+      "contexto": "En una parada cardiaca, la desfibrilación rápida es uno de los pasos más determinantes para la supervivencia, y cada minuto de retraso suele reducir las probabilidades. Por eso las guías de reanimación insisten en iniciar cuanto antes la RCP y avisar a emergencias. Un desfibrilador que llega a tiempo es solo una parte de esa cadena de actuación.",
+      "ten_en_cuenta": "La entradilla no aporta datos de estudios ni de casos reales, así que no sabemos en qué contexto se evalúa el dron. Conviene leer la noticia original para ver qué factores se analizan. En una emergencia, lo importante es llamar al 112 y empezar la reanimación sin esperar a que llegue ningún aparato."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Por qué el ébola sigue propagándose en la RDC: inseguridad, desconfianza y vacunación limitada frente a la variante Bundibugyo",
@@ -5449,10 +6084,20 @@
     "fecha": "2026-09-29T10:59:47+00:00",
     "id": "f23935cb",
     "traducida": true,
-    "titulo": "Por qué el ébola sigue propagándose en la RDC: inseguridad, desconfianza y vacunación limitada frente a la variante Bundibugyo",
-    "resumen": "La OMS aún no confirma 4.000 muertes por ébola en el Congo. Descubre qué dicen las cifras oficiales y por qué el brote no cesa meses después.",
+    "titulo": "Por qué el ébola sigue propagándose en la RDC: inseguridad, desconfianza y vacunación limitada",
+    "resumen": "Un brote de ébola en la República Democrática del Congo continúa meses después, según la noticia, por problemas de seguridad, desconfianza y vacunación insuficiente frente a una variante concreta.",
     "categoria": "Salud general",
-    "slug": "por-que-el-ebola-sigue-propagandose-en-la-rdc-inseguridad-desconfianza-f23935cb"
+    "slug": "por-que-el-ebola-sigue-propagandose-en-la-rdc-inseguridad-desconfianza-f23935cb",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia original describe la situación de un brote de ébola en la República Democrática del Congo y apunta a la inseguridad, la desconfianza de la población y una vacunación limitada como factores que explican que siga activo. La entradilla no da más detalles sobre las cifras oficiales ni sobre la evolución del brote.",
+      "contexto": "Se trata de un problema de salud pública que se aborda a nivel de sistemas sanitarios, vigilancia epidemiológica y campañas de vacunación, y no de hábitos individuales. Para la población general, las recomendaciones de prevención dependen de las autoridades sanitarias de cada zona.",
+      "ten_en_cuenta": "La noticia tiene poco detalle y no aporta aplicación práctica para el cuidado personal de la salud en el día a día. Para información sobre riesgos y prevención conviene consultar fuentes oficiales como la OMS o las autoridades sanitarias locales."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Hidden stem cells may be fueling spinal stenosis",
@@ -5490,9 +6135,19 @@
     "id": "fa4cefeb",
     "traducida": true,
     "titulo": "Una 'pausa' en el tumor abre la puerta a frenar la metástasis antes de que aparezca",
-    "resumen": "El proceso por el cual un tumor se extiende a otros órganos, conocido como metástasis, es el responsable de la gran mayoría de las muertes por cáncer y, por tanto, el talón de Aquiles de los investigadores en oncología. Esta semana, sin embargo, llegan noticias esperanzadoras…",
+    "resumen": "Una investigación en oncología explora la posibilidad de frenar la metástasis, la extensión del cáncer a otros órganos, antes de que se produzca. El texto disponible no ofrece detalles del hallazgo.",
     "categoria": "Salud general",
-    "slug": "una-pausa-en-el-tumor-abre-la-puerta-a-frenar-la-metastasis-antes-de-q-fa4cefeb"
+    "slug": "una-pausa-en-el-tumor-abre-la-puerta-a-frenar-la-metastasis-antes-de-q-fa4cefeb",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia explica que la metástasis, el proceso por el que un tumor se extiende a otros órganos, es la causa de la gran mayoría de las muertes por cáncer. Según el titular, una 'pausa' en el tumor podría abrir la puerta a frenarla antes de que aparezca. La entradilla no da más detalles sobre el método, los resultados ni la fase de la investigación.",
+      "contexto": "La metástasis es uno de los principales retos de la oncología porque hace más difícil tratar el cáncer cuando ya se ha extendido. La investigación en este campo busca entender cómo se propagan las células tumorales. Para el público general, la prevención sigue basándose en hábitos saludables y en las pruebas de cribado recomendadas por los servicios sanitarios.",
+      "ten_en_cuenta": "Con la información disponible no se puede valorar la solidez del hallazgo ni si se ha probado en personas. Cualquier avance de este tipo está todavía lejos de la práctica clínica. Ante dudas sobre cáncer, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Cuidado con mandar audios de WhatsApp, podrían diagnosticarte una diabetes tipo 2",
@@ -5504,10 +6159,20 @@
     "fecha": "2026-09-28T23:31:51+00:00",
     "id": "8babe066",
     "traducida": true,
-    "titulo": "Cuidado con mandar audios de WhatsApp, podrían diagnosticarte una diabetes tipo 2",
-    "resumen": "La forma en que una persona habla revela mucho más que un estado de ánimo o el cansancio acumulado tras una larga jornada. Pequeños matices imperceptibles para el oído humano, como un incremento en la carraspera, una ligera mayor rugosidad en las cuerdas vocales o la pérdida de…",
+    "titulo": "La voz como posible pista de la diabetes tipo 2: qué dice la noticia y qué no sabemos",
+    "resumen": "Una noticia de ABC apunta a que pequeños cambios en la voz, imperceptibles para el oído humano, podrían relacionarse con la diabetes tipo 2. La información disponible no describe el estudio en el que se basa.",
     "categoria": "Salud general",
-    "slug": "cuidado-con-mandar-audios-de-whatsapp-podrian-diagnosticarte-una-diabe-8babe066"
+    "slug": "cuidado-con-mandar-audios-de-whatsapp-podrian-diagnosticarte-una-diabe-8babe066",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, la forma de hablar podría revelar matices como más carraspera, una voz ligeramente más rugosa o cambios en las cuerdas vocales, que no se perciben al oír. El titular vincula estos cambios con la diabetes tipo 2. El texto que tenemos está cortado y no indica quién hizo la investigación, con cuántas personas ni cómo se midió la voz.",
+      "contexto": "La diabetes tipo 2 se diagnostica con análisis de sangre, como la glucosa en ayunas o la hemoglobina glicosilada. El análisis de la voz como herramienta de cribado es un campo de investigación exploratoria y, por ahora, no es un método clínico establecido. Hábitos como la actividad física, una alimentación equilibrada y un buen descanso son las medidas de prevención más conocidas frente a este tipo de diabetes.",
+      "ten_en_cuenta": "El titular habla de un posible diagnóstico con audios de WhatsApp, pero la entradilla no respalda esa afirmación: no hay datos sobre la muestra ni sobre la precisión del método. Mandar o no un audio no sirve para diagnosticar nada; ante síntomas o dudas, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Uno de cada ocho tumores en el mundo se atribuye a infecciones que se pueden prevenir",
@@ -5520,9 +6185,19 @@
     "id": "949fa04a",
     "traducida": true,
     "titulo": "Uno de cada ocho tumores en el mundo se atribuye a infecciones que se pueden prevenir",
-    "resumen": "La mayoría de los casos se da en los países con menos recursos. La bacteria ‘Helicobacter Pylori’ y el virus del papiloma son los patógenos que causan más diagnósticos de cáncer",
+    "resumen": "Según la noticia, una parte importante de los cánceres en el mundo tiene como causa infecciones evitables, y la mayoría de esos casos se da en países con menos recursos.",
     "categoria": "Salud general",
-    "slug": "uno-de-cada-ocho-tumores-en-el-mundo-se-atribuye-a-infecciones-que-se-949fa04a"
+    "slug": "uno-de-cada-ocho-tumores-en-el-mundo-se-atribuye-a-infecciones-que-se-949fa04a",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, uno de cada ocho tumores en el mundo se atribuye a infecciones que se pueden prevenir. La mayoría de los casos se da en países con menos recursos. La entradilla señala la bacteria Helicobacter pylori y el virus del papiloma humano como los patógenos que causan más diagnósticos de cáncer. La noticia no ofrece más detalles sobre los datos ni sobre la fuente.",
+      "contexto": "Algunas infecciones se asocian con mayor riesgo de ciertos cánceres. El virus del papiloma humano (VPH) está relacionado con el cáncer de cuello uterino, y la vacunación frente a él es una medida recomendada por las autoridades sanitarias. La bacteria Helicobacter pylori se asocia con el cáncer de estómago, y su diagnóstico y tratamiento forman parte de la prevención. Esto es conocimiento general del campo, no un resultado de esta noticia.",
+      "ten_en_cuenta": "Solo disponemos del titular y de una entradilla, sin detalles sobre la metodología ni sobre el estudio original. Una cifra de este tipo describe una proporción en la población y no indica qué medidas funcionarían en cada persona. Ante dudas sobre vacunación o revisiones, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Bioksan gana por segundo año consecutivo el premio a la mejor empresa española en nutracéuticos",
@@ -5534,10 +6209,20 @@
     "fecha": "2026-09-28T16:26:29+00:00",
     "id": "2490a9dd",
     "traducida": true,
-    "titulo": "Bioksan gana por segundo año consecutivo el premio a la mejor empresa española en nutracéuticos",
-    "resumen": "Bioksan Naturalmente Juntos ha sido distinguida con el Premio Nutraforum 2026 a la mejor empresa en Nutracéutica, en el marco de los Premios Farmaforum celebrados en IFEMA (Madrid). Con este galardón, la compañía revalida por segundo año consecutivo el reconocimiento del sector,…",
+    "titulo": "Bioksan recibe por segundo año consecutivo el premio a la mejor empresa en nutracéutica",
+    "resumen": "La empresa Bioksan Naturalmente Juntos ha sido premiada en los Premios Farmaforum 2026 como mejor empresa en nutracéutica. Es una noticia sobre reconocimiento empresarial.",
     "categoria": "Salud general",
-    "slug": "bioksan-gana-por-segundo-ano-consecutivo-el-premio-a-la-mejor-empresa-2490a9dd"
+    "slug": "bioksan-gana-por-segundo-ano-consecutivo-el-premio-a-la-mejor-empresa-2490a9dd",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia informa de que Bioksan Naturalmente Juntos ha obtenido el Premio Nutraforum 2026 a la mejor empresa en nutracéutica, entregado en el marco de los Premios Farmaforum en IFEMA (Madrid). Es el segundo año consecutivo que recibe este reconocimiento. El texto disponible no da más detalles.",
+      "contexto": "Este artículo trata del reconocimiento de una empresa del sector, no de un hallazgo sobre salud. Los premios del sector sirven para destacar a compañías, pero no indican por sí mismos que sus productos sean más eficaces o seguros.",
+      "ten_en_cuenta": "Es una noticia de carácter empresarial. No aporta datos sobre productos, ensayos ni beneficios para la salud, así que no conviene tomarla como respaldo de ningún suplemento."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists just discovered what coffee really does to your gut and brain",
@@ -5624,10 +6309,20 @@
     "fecha": "2026-09-27T13:53:39+00:00",
     "id": "cc0080e6",
     "traducida": true,
-    "titulo": "La glucosamina, un popular suplemento para las articulaciones, relacionado con una progresión más rápida del Alzheimer",
-    "resumen": "Un gran análisis de registros de salud encontró que el uso de glucosamina se asoció con una probabilidad un 25% mayor de que el deterioro cognitivo leve progresara a demencia. Los experimentos de laboratorio sugieren que el popular suplemento articular puede intensificar un proceso anormal de etiquetado de azúcar en el Alzheimer...",
-    "categoria": "Nutrición",
-    "slug": "la-glucosamina-un-popular-suplemento-para-las-articulaciones-relaciona-cc0080e6"
+    "titulo": "La glucosamina, un suplemento articular popular, se asocia con una progresión más rápida del Alzheimer",
+    "resumen": "Un análisis de historiales clínicos relaciona el uso de glucosamina con una probabilidad un 25 % mayor de que el deterioro cognitivo leve evolucione a demencia. Experimentos de laboratorio sugieren un posible efecto sobre el Alzheimer.",
+    "categoria": "Salud general",
+    "slug": "la-glucosamina-un-popular-suplemento-para-las-articulaciones-relaciona-cc0080e6",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Un análisis amplio de historiales clínicos encontró que el uso de glucosamina se asocia con una probabilidad un 25 % mayor de que el deterioro cognitivo leve progrese a demencia. Además, según la noticia, experimentos de laboratorio sugieren que este suplemento popular para las articulaciones podría intensificar un proceso anormal de marcaje con azúcares relacionado con el Alzheimer. La noticia original no da más detalles.",
+      "contexto": "La glucosamina se vende habitualmente como suplemento para las articulaciones, y la evidencia sobre su beneficio en ellas no es concluyente. El deterioro cognitivo leve es una fase intermedia entre el envejecimiento normal y la demencia, y no todas las personas con este diagnóstico progresan. Ante cualquier duda sobre suplementos, conviene consultar con el médico.",
+      "ten_en_cuenta": "Se trata de una asociación observada en registros de salud, que no demuestra que la glucosamina cause el empeoramiento. Los resultados de laboratorio no tienen por qué trasladarse a las personas, y la noticia no detalla el tamaño, la duración ni el tipo de experimentos. No conviene dejar medicación ni suplementos sin consultar a un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
@@ -5689,10 +6384,20 @@
     "fecha": "2026-09-25T03:52:22+00:00",
     "id": "1350c93e",
     "traducida": true,
-    "titulo": "Los científicos dieron a los gusanos bacterias magnéticas. Vivían un 43% más",
-    "resumen": "Una bacteria productora de imanes prolongó la vida media de los gusanos C. elegans en más de un 43%, al tiempo que ayudaba a proteger su salud neurológica e intestinal. Los investigadores rastrearon gran parte del efecto a la supresión de la ferroptosis, una forma dañina de muerte celular relacionada con el hierro...",
+    "titulo": "Una bacteria productora de imanes alarga la vida de gusanos un 43 % y protege su salud",
+    "resumen": "En un estudio con gusanos C. elegans, una bacteria que produce imanes prolongó su vida media más de un 43 %. Los investigadores vinculan buena parte del efecto con la reducción de la ferroptosis.",
     "categoria": "Salud general",
-    "slug": "los-cientificos-dieron-a-los-gusanos-bacterias-magneticas-vivian-un-43-1350c93e"
+    "slug": "los-cientificos-dieron-a-los-gusanos-bacterias-magneticas-vivian-un-43-1350c93e",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, una bacteria capaz de producir imanes amplió la esperanza de vida media de gusanos C. elegans en más de un 43 % y ayudó a proteger su salud neurológica e intestinal. Los investigadores atribuyen gran parte del efecto a la supresión de la ferroptosis, una forma de muerte celular dañina ligada al hierro. La entradilla original no ofrece más detalles.",
+      "contexto": "La ferroptosis es un tipo de muerte celular programada que depende del hierro y del daño oxidativo a las grasas de las membranas, y se estudia como posible factor en el envejecimiento y en algunas enfermedades. Los gusanos C. elegans son un modelo habitual en investigación biológica, pero sus resultados no se trasladan de forma directa a las personas.",
+      "ten_en_cuenta": "Es un estudio en gusanos, no en personas, y no permite extrapolar sus efectos a la salud humana. La noticia tampoco explica si el resultado se ha replicado, así que conviene esperar a más investigación antes de sacar conclusiones prácticas."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Aging muscles may be losing strength for a reason scientists missed",
@@ -5754,10 +6459,20 @@
     "fecha": "2026-09-23T08:47:21+00:00",
     "id": "f1f41d99",
     "traducida": true,
-    "titulo": "Creíamos que el estrés remodelaba el corazón: ¿y si la huella real fuera la inflamación?",
-    "resumen": "¿Estrés crónico corazón? Un estudio con casi medio millón de personas explora si la inflamación explica el riesgo cardiovascular. Descubre qué significa.",
-    "categoria": "Salud mental",
-    "slug": "creiamos-que-el-estres-remodelaba-el-corazon-y-si-la-huella-real-fuera-f1f41d99"
+    "titulo": "¿Explica la inflamación el vínculo entre el estrés crónico y el riesgo cardiovascular?",
+    "resumen": "Un estudio con casi medio millón de personas explora si la inflamación ayuda a explicar la relación entre el estrés crónico y el riesgo cardiovascular. La noticia no detalla los resultados.",
+    "categoria": "Salud general",
+    "slug": "creiamos-que-el-estres-remodelaba-el-corazon-y-si-la-huella-real-fuera-f1f41d99",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un estudio con casi medio millón de personas analiza si la inflamación explica el riesgo cardiovascular asociado al estrés crónico. La noticia original no da más detalles sobre el diseño, los métodos ni los resultados.",
+      "contexto": "Desde hace tiempo se sabe que el estrés crónico se asocia con una mayor probabilidad de problemas cardiovasculares. La inflamación crónica de bajo grado es un proceso que participa en el desarrollo de la aterosclerosis. Mantener hábitos saludables, como la actividad física regular, dormir bien, no fumar y cuidar la alimentación, es una de las formas más eficaces de proteger el corazón.",
+      "ten_en_cuenta": "Al no conocer el diseño del estudio, no se puede saber si demuestra una causa o solo una asociación. Esta información procede de un resumen breve, así que conviene leer la investigación original antes de extraer conclusiones."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Crean una batería comestible de papel de arroz capaz de alimentar dispositivos médicos dentro del cuerpo",
@@ -5769,10 +6484,20 @@
     "fecha": "2026-09-22T15:35:00+00:00",
     "id": "361ea76a",
     "traducida": true,
-    "titulo": "Crean una batería comestible de papel de arroz capaz de alimentar dispositivos médicos dentro del cuerpo",
-    "resumen": "Un equipo del MIT ha diseñado una microbatería bioabsorbible de magnesio y papel de arroz. Probada en cerdos, permite alimentar sensores digestivos y disolverse sin peligro tras su uso.",
+    "titulo": "Una batería comestible de papel de arroz para alimentar sensores médicos dentro del cuerpo",
+    "resumen": "Investigadores del MIT han desarrollado una microbatería de magnesio y papel de arroz que se disuelve sin peligro tras su uso. Según la noticia, se probó en cerdos.",
     "categoria": "Salud general",
-    "slug": "crean-una-bateria-comestible-de-papel-de-arroz-capaz-de-alimentar-disp-361ea76a"
+    "slug": "crean-una-bateria-comestible-de-papel-de-arroz-capaz-de-alimentar-disp-361ea76a",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Un equipo del MIT ha diseñado una microbatería bioabsorbible hecha de magnesio y papel de arroz. Según la información disponible, se probó en cerdos y sirve para alimentar sensores digestivos, y después puede disolverse sin peligro. La noticia original no da más detalles sobre el funcionamiento ni sobre posibles aplicaciones en personas.",
+      "contexto": "Es una línea de investigación en dispositivos médicos que se integran en el organismo y se reabsorben tras cumplir su función. Estos desarrollos suelen pasar por años de pruebas en animales y ensayos clínicos antes de usarse en personas. Por ahora no tienen ninguna aplicación práctica para el cuidado diario de la salud.",
+      "ten_en_cuenta": "Es un avance tecnológico probado en animales, no en personas, y la noticia no aporta datos sobre seguridad a largo plazo ni sobre eficacia clínica. No tiene implicaciones prácticas para el ejercicio, la alimentación o el descanso."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "This emerging treatment could help people avoid knee replacement surgery",
@@ -5834,10 +6559,20 @@
     "fecha": "2026-09-20T16:47:12+00:00",
     "id": "d24657b4",
     "traducida": true,
-    "titulo": "Vivir en la selva amazónica no frena el Alzheimer: ¿a qué se debe la paradoja de la baja demencia en las comunidades indígenas?",
-    "resumen": "Un estudio longitudinal de diez años en la selva de Bolivia revela que la baja tasa observada de demencia en comunidades indígenas responde a una menor supervivencia funcional y no a inmunidad biológica.",
+    "titulo": "La baja demencia en comunidades indígenas amazónicas se debería a la supervivencia, no a inmunidad",
+    "resumen": "Un estudio longitudinal de diez años en la selva boliviana sugiere que la baja tasa de demencia observada responde a una menor supervivencia funcional, y no a una inmunidad biológica.",
     "categoria": "Salud general",
-    "slug": "vivir-en-la-selva-amazonica-no-frena-el-alzheimer-a-que-se-debe-la-par-d24657b4"
+    "slug": "vivir-en-la-selva-amazonica-no-frena-el-alzheimer-a-que-se-debe-la-par-d24657b4",
+    "tipo_estudio": "estudio observacional",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un estudio longitudinal de diez años realizado en la selva de Bolivia encuentra que la baja tasa de demencia observada en comunidades indígenas responde a una menor supervivencia funcional y no a una inmunidad biológica. La noticia original no da más detalles sobre la metodología ni sobre las cifras del estudio.",
+      "contexto": "La demencia es un conjunto de trastornos que afectan a la memoria y a otras funciones cognitivas, y el Alzheimer es su causa más frecuente. Organismos como la OMS señalan que algunos factores de riesgo pueden modificarse, como la actividad física, la presión arterial, la diabetes, la pérdida de audición o el aislamiento social. Comparar poblaciones con estilos de vida muy distintos es complejo, y el diagnóstico depende también del acceso a servicios sanitarios y de cómo se evalúa la cognición.",
+      "ten_en_cuenta": "Es un único estudio observacional, que muestra asociaciones y no demuestra causas. Como la noticia es breve, no sabemos el tamaño de la muestra ni cómo se midió la demencia. Estos resultados no permiten extraer conclusiones sobre hábitos personales ni sobre el riesgo individual de cada persona."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Creíamos que el estrógeno protegía la memoria, pero los ensayos clínicos cuentan otra historia",
@@ -5849,10 +6584,20 @@
     "fecha": "2026-09-19T08:33:44+00:00",
     "id": "f67c6aa7",
     "traducida": true,
-    "titulo": "Creíamos que el estrógeno protegía la memoria, pero los ensayos clínicos cuentan otra historia",
-    "resumen": "Aunque los estudios observacionales asociaron la terapia de reemplazo hormonal con un menor riesgo de demencia, los ensayos clínicos aleatorizados demuestran que el estrógeno no protege la memoria en mujeres mayores.",
+    "titulo": "Los ensayos clínicos no confirman que el estrógeno proteja la memoria en mujeres mayores",
+    "resumen": "Estudios observacionales habían asociado la terapia hormonal con menor riesgo de demencia, pero los ensayos clínicos aleatorizados no muestran que el estrógeno proteja la memoria en mujeres mayores.",
     "categoria": "Salud general",
-    "slug": "creiamos-que-el-estrogeno-protegia-la-memoria-pero-los-ensayos-clinico-f67c6aa7"
+    "slug": "creiamos-que-el-estrogeno-protegia-la-memoria-pero-los-ensayos-clinico-f67c6aa7",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia explica que los estudios observacionales habían relacionado la terapia de reemplazo hormonal con un menor riesgo de demencia. Sin embargo, según el texto, los ensayos clínicos aleatorizados indican que el estrógeno no protege la memoria en mujeres mayores. La entradilla no ofrece más detalles sobre los estudios.",
+      "contexto": "Los estudios observacionales describen asociaciones, pero no pueden demostrar causa, porque las personas que siguen un tratamiento pueden diferir de las que no lo siguen en otros aspectos. Los ensayos clínicos aleatorizados son el método más fiable para comprobar si una intervención produce un efecto. La decisión de usar terapia hormonal en la menopausia depende de cada caso y debe valorarla un médico.",
+      "ten_en_cuenta": "La entradilla es breve y no detalla el tamaño, la duración ni las características de los ensayos, ni si hay una revisión que los resuma. Conviene consultar al médico antes de tomar decisiones sobre la terapia hormonal."
+    },
+    "puntuacion": 7,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "El cerebro fabrica miles de proteínas diminutas que hasta ahora nadie sabía leer",
@@ -5864,10 +6609,20 @@
     "fecha": "2026-09-18T10:39:08+00:00",
     "id": "cb205d95",
     "traducida": true,
-    "titulo": "El cerebro fabrica miles de proteínas diminutas que hasta ahora nadie sabía leer",
-    "resumen": "Durante décadas, las proteínas más pequeñas del cerebro pasaron por debajo del radar de los laboratorios. Un nuevo atlas humano identifica miles de ellas, y algunas se comportan de otra manera en el alzhéimer.",
-    "categoria": "Nutrición",
-    "slug": "el-cerebro-fabrica-miles-de-proteinas-diminutas-que-hasta-ahora-nadie-cb205d95"
+    "titulo": "Un nuevo atlas identifica miles de microproteínas del cerebro humano, algunas con comportamiento distinto en el alzhéimer",
+    "resumen": "Investigadores han catalogado miles de proteínas muy pequeñas del cerebro humano, hasta ahora poco estudiadas. Algunas se comportan de otra manera en el alzhéimer.",
+    "categoria": "Salud general",
+    "slug": "el-cerebro-fabrica-miles-de-proteinas-diminutas-que-hasta-ahora-nadie-cb205d95",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla, las proteínas más pequeñas del cerebro han pasado desapercibidas para los laboratorios durante décadas. Un nuevo atlas humano identifica miles de ellas y señala que algunas se comportan de forma diferente en el alzhéimer. La información disponible no da más detalles sobre el método ni sobre el alcance de los hallazgos.",
+      "contexto": "El alzhéimer es una enfermedad neurodegenerativa cuyas causas todavía se investigan. La investigación básica sobre las moléculas del cerebro suele ser un paso previo que tarda años en traducirse en diagnósticos o tratamientos. Por ahora no tiene aplicación práctica directa para el cuidado diario de la salud.",
+      "ten_en_cuenta": "Se trata de investigación básica y preliminar, sin aplicación práctica inmediata para el lector. La noticia no explica cómo se obtuvieron los datos ni qué implicaciones clínicas tienen las diferencias observadas."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists restore a brain protein and reverse signs of aging in mice",
@@ -5904,10 +6659,20 @@
     "fecha": "2026-09-14T17:30:15+00:00",
     "id": "415d1a31",
     "traducida": true,
-    "titulo": "Una clínica china lleva la inteligencia artificial a pacientes reales de oftalmología y descubre que su gran problema no es diagnosticar mal",
-    "resumen": "La inteligencia artificial médica suele demostrar lo que sabe hacer en los experimentos, y una clínica de Pekín decidió enfrentarla a otra cosa: pacientes, médicos, historiales, prisas y decisiones de la vida cotidiana.",
+    "titulo": "Una clínica china prueba la inteligencia artificial con pacientes reales de oftalmología",
+    "resumen": "Una clínica de Pekín llevó una inteligencia artificial médica a la consulta real de oftalmología, con pacientes, historiales y presión de tiempo. Según el titular, el problema principal no fue el diagnóstico erróneo.",
     "categoria": "Salud general",
-    "slug": "una-clinica-china-lleva-la-inteligencia-artificial-a-pacientes-reales-415d1a31"
+    "slug": "una-clinica-china-lleva-la-inteligencia-artificial-a-pacientes-reales-415d1a31",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia explica que la inteligencia artificial médica suele funcionar bien en experimentos controlados, y que una clínica de Pekín la probó en la práctica diaria con pacientes, médicos e historiales reales. Según el titular, el gran problema detectado no fue diagnosticar mal. La entradilla no da más detalles sobre resultados ni métodos.",
+      "contexto": "La inteligencia artificial se investiga cada vez más como apoyo en el diagnóstico médico, también en oftalmología. Llevarla a la consulta real implica integrarla en el trabajo diario de los equipos sanitarios, algo que puede ser más complejo que alcanzar buenos resultados en pruebas aisladas.",
+      "ten_en_cuenta": "Solo conocemos el titular y una breve entradilla, sin datos sobre los resultados ni sobre el alcance del proyecto. Es una experiencia en un centro concreto y su interés está sobre todo en la organización sanitaria, no en consejos para el cuidado personal."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "¿Puede un hábito silencioso acabar en el quirófano? El enigma del síndrome de Rapunzel",
@@ -5919,10 +6684,20 @@
     "fecha": "2026-09-11T12:05:00+00:00",
     "id": "108e5002",
     "traducida": true,
-    "titulo": "¿Puede un hábito silencioso acabar en el quirófano? El enigma del síndrome de Rapunzel",
-    "resumen": "Síndrome de Rapunzel: descubre cómo arrancarse y tragar pelo puede causar una obstrucción digestiva y cuándo conviene pedir ayuda médica a tiempo.",
+    "titulo": "Síndrome de Rapunzel: cuando arrancarse y tragar pelo puede acabar en obstrucción digestiva",
+    "resumen": "La noticia explica qué es el síndrome de Rapunzel, una obstrucción digestiva que puede causar tragar pelo, y cuándo conviene pedir ayuda médica a tiempo.",
     "categoria": "Salud general",
-    "slug": "puede-un-habito-silencioso-acabar-en-el-quirofano-el-enigma-del-sindro-108e5002"
+    "slug": "puede-un-habito-silencioso-acabar-en-el-quirofano-el-enigma-del-sindro-108e5002",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El artículo habla del síndrome de Rapunzel, relacionado con el hábito de arrancarse el pelo y tragarlo, que puede provocar una obstrucción en el sistema digestivo. Subraya la importancia de detectar a tiempo cuándo hace falta atención médica. La información disponible en el titular y la entradilla no ofrece más detalles sobre casos, cifras o tratamientos.",
+      "contexto": "El síndrome de Rapunzel es una complicación poco frecuente de la tricofagia, el hábito de comer pelo, que a menudo se asocia con arrancarse el cabello de forma repetida. El pelo ingerido puede acumularse en el estómago y prolongarse hacia el intestino, y en algunos casos requiere atención médica urgente, a veces quirúrgica. Si alguien reconoce este hábito en sí mismo o en otra persona, lo recomendable es consultarlo con un profesional de salud.",
+      "ten_en_cuenta": "La noticia es una divulgación breve y no detalla estudios, casos ni datos concretos. Ante síntomas digestivos persistentes o dolor intenso, conviene acudir a un médico sin esperar."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
@@ -5959,10 +6734,20 @@
     "fecha": "2026-09-10T19:05:00+00:00",
     "id": "d0330260",
     "traducida": true,
-    "titulo": "Lo que le ocurre al cerebro durante la menopausia no es lo que creíamos",
-    "resumen": "Un análisis de neuroimagen holística revela que la transición menopáusica no reduce el volumen global de la masa gris cortical, desafiando el paralelismo con las podas masivas de la pubertad y el embarazo.",
+    "titulo": "La menopausia no reduce el volumen global de la masa gris cortical, según un análisis de neuroimagen",
+    "resumen": "Un análisis de neuroimagen sugiere que la transición menopáusica no disminuye el volumen global de la masa gris cortical, lo que cuestiona la idea de que el cerebro sufre una gran poda en este periodo.",
     "categoria": "Salud general",
-    "slug": "lo-que-le-ocurre-al-cerebro-durante-la-menopausia-no-es-lo-que-creiamo-d0330260"
+    "slug": "lo-que-le-ocurre-al-cerebro-durante-la-menopausia-no-es-lo-que-creiamo-d0330260",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un análisis de neuroimagen con enfoque holístico concluye que la transición menopáusica no reduce el volumen global de la masa gris cortical. Esto desafía la comparación con las podas masivas que se producen en la pubertad y el embarazo. La noticia original no ofrece más detalles sobre la metodología ni sobre los participantes.",
+      "contexto": "La menopausia implica cambios hormonales, como la bajada de estrógenos, que se relacionan con síntomas como los sofocos o las alteraciones del sueño. La relación entre estas hormonas y la salud cerebral es un campo de estudio activo, y todavía quedan muchas preguntas abiertas sobre cómo evoluciona el cerebro en esta etapa.",
+      "ten_en_cuenta": "La entradilla es breve y no detalla el tamaño de la muestra ni el diseño del análisis, así que conviene leer el estudio original antes de sacar conclusiones. Un solo estudio de imagen cerebral no basta para establecer un cambio general. Si tienes síntomas de la menopausia, consulta con tu médico o ginecólogo."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Un hongo intestinal que \"protege\" de la radiación: qué dice realmente el estudio",
@@ -5974,10 +6759,20 @@
     "fecha": "2026-09-09T10:35:08+00:00",
     "id": "9d0bb750",
     "traducida": true,
-    "titulo": "Un hongo intestinal que \"protege\" de la radiación: qué dice realmente el estudio",
-    "resumen": "¿Puede un hongo intestinal ayudar a tu cuerpo a resistir la radiación? Descubre qué sugieren estudios preclínicos sobre mucor y microbiota.",
+    "titulo": "Un hongo intestinal y la radiación: qué sugieren los estudios preclínicos",
+    "resumen": "Estudios preclínicos sugieren que un hongo del género mucor, relacionado con la microbiota intestinal, podría ayudar al organismo a resistir la radiación. Son resultados previos a los ensayos en personas.",
     "categoria": "Salud general",
-    "slug": "un-hongo-intestinal-que-protege-de-la-radiacion-que-dice-realmente-el-9d0bb750"
+    "slug": "un-hongo-intestinal-que-protege-de-la-radiacion-que-dice-realmente-el-9d0bb750",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un artículo de Muy Interesante se pregunta si un hongo intestinal podría ayudar al cuerpo a resistir la radiación, y recoge que estudios preclínicos apuntan en esa dirección en relación con el mucor y la microbiota. La noticia original no da más detalles sobre los estudios, sus resultados ni cómo se hicieron.",
+      "contexto": "La microbiota intestinal, es decir, el conjunto de microorganismos que viven en el intestino, participa en procesos como la digestión y la respuesta inmunitaria, y es un campo de investigación muy activo. La radiación puede afectar a la mucosa intestinal en algunos tratamientos médicos, pero el papel de un hongo concreto en ese proceso todavía se está estudiando.",
+      "ten_en_cuenta": "Los estudios preclínicos son previos a los ensayos en personas, así que sus resultados no se pueden trasladar directamente al ser humano. El término suele indicar pruebas en animales o células, aunque la noticia no lo detalla. Ante cualquier exposición a radiación o tratamiento, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Ozempic and Wegovy may have an unexpected mental health benefit",
@@ -5989,10 +6784,20 @@
     "fecha": "2026-09-08T12:59:00+00:00",
     "id": "d7d8eae9",
     "traducida": true,
-    "titulo": "Ozempic y Wegovy pueden tener un beneficio inesperado para la salud mental",
-    "resumen": "Semaglutida, el medicamento detrás de Ozempic y Wegovy, puede tener beneficios que se extienden mucho más allá de la pérdida de peso y la diabetes. En un gran estudio sueco de casi 15.000 personas con trastorno bipolar, su uso se relacionó con un riesgo 21% menor de hospitalización psiquiátrica. Los investigadores creen que...",
+    "titulo": "Ozempic y Wegovy se asocian a menos hospitalizaciones psiquiátricas en personas con trastorno bipolar",
+    "resumen": "Un estudio sueco con casi 15.000 personas con trastorno bipolar relaciona el uso de semaglutida con un 21% menos de riesgo de hospitalización psiquiátrica.",
     "categoria": "Salud mental",
-    "slug": "ozempic-y-wegovy-pueden-tener-un-beneficio-inesperado-para-la-salud-me-d7d8eae9"
+    "slug": "ozempic-y-wegovy-pueden-tener-un-beneficio-inesperado-para-la-salud-me-d7d8eae9",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge que la semaglutida, principio activo de Ozempic y Wegovy, podría tener beneficios que van más allá de la pérdida de peso y la diabetes. En un amplio estudio sueco con casi 15.000 personas con trastorno bipolar, su uso se asoció con un 21% menos de riesgo de hospitalización psiquiátrica. Según el fragmento, los investigadores plantean hipótesis, pero la noticia original no da más detalles sobre ellas.",
+      "contexto": "La semaglutida pertenece a un grupo de fármacos que se usan para tratar la diabetes tipo 2 y la obesidad. El trastorno bipolar es una enfermedad crónica que se trata con medicación y seguimiento psiquiátrico, y las crisis que requieren ingreso son una de sus complicaciones más serias. Que un fármaco se asocie con un resultado no significa que lo cause ni que pueda sustituir a los tratamientos actuales.",
+      "ten_en_cuenta": "Es un único estudio, y la noticia solo recoge una asociación, que no demuestra causa. El fragmento no detalla el diseño, el seguimiento ni los posibles factores de confusión. Nadie debe empezar, cambiar o dejar su medicación por esta información; cualquier duda debe consultarse con el psiquiatra o médico que le atiende."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Long-term melatonin use linked to 90% higher heart failure risk",
@@ -6204,10 +7009,20 @@
     "fecha": "2026-06-28T03:54:50+00:00",
     "id": "66eebaec",
     "traducida": true,
-    "titulo": "Un estudio masivo vincula el consumo de marihuana en adolescentes con el doble de riesgo de enfermedad mental grave",
-    "resumen": "Los adolescentes que consumen cannabis pueden enfrentar un riesgo sustancialmente mayor de desarrollar afecciones graves de salud mental, incluidos trastornos psicóticos y bipolares, según un estudio de más de 463,000 adolescentes. Los investigadores descubrieron que el consumo de cannabis a menudo precedía a estos diagnósticos en casi...",
+    "titulo": "Un gran estudio relaciona el consumo de cannabis en adolescentes con más riesgo de enfermedad mental grave",
+    "resumen": "Según un estudio con más de 463.000 adolescentes, el consumo de cannabis se asocia con un riesgo sustancialmente mayor de trastornos mentales graves, como los psicóticos y los bipolares.",
     "categoria": "Salud mental",
-    "slug": "un-estudio-masivo-vincula-el-consumo-de-marihuana-en-adolescentes-con-66eebaec"
+    "slug": "un-estudio-masivo-vincula-el-consumo-de-marihuana-en-adolescentes-con-66eebaec",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, los adolescentes que consumen cannabis podrían tener un riesgo bastante mayor de desarrollar trastornos mentales graves, como los psicóticos y los bipolares. El estudio incluyó a más de 463.000 adolescentes. Los investigadores observaron que el consumo solía preceder a estos diagnósticos. El texto disponible se corta ahí, así que no da más detalles sobre la magnitud del riesgo ni sobre cómo se hizo el estudio.",
+      "contexto": "La adolescencia es una etapa de desarrollo del cerebro, y se sabe en general que el consumo de cannabis puede ser perjudicial en esas edades. La OMS y otras sociedades científicas señalan que el cannabis puede estar relacionado con problemas de salud mental, especialmente en personas con predisposición. Aun así, una asociación no demuestra por sí sola que el consumo cause el trastorno.",
+      "ten_en_cuenta": "El titular habla de duplicar el riesgo, pero el texto disponible no da esa cifra, así que conviene leer el artículo original y el estudio completo. Una asociación observacional no demuestra causa, y factores previos pueden influir. Si preocupa el consumo de un adolescente, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Sleep apnea’s hidden heart disease trigger found in the gut",
@@ -6269,10 +7084,20 @@
     "fecha": "2026-05-16T12:41:30+00:00",
     "id": "951d9446",
     "traducida": true,
-    "titulo": "Los científicos encuentran un déficit oculto de nutrientes cerebrales que puede alimentar la ansiedad",
-    "resumen": "Un análisis importante de los escáneres cerebrales encontró que las personas con trastornos de ansiedad tienen niveles notablemente más bajos de colina, un nutriente crucial para la función cerebral saludable. La evidencia más fuerte apareció en la corteza prefrontal, la región vinculada al control emocional y la toma de decisiones....",
+    "titulo": "Detectan un déficit oculto de colina en el cerebro que podría estar relacionado con la ansiedad",
+    "resumen": "Un análisis de escáneres cerebrales asocia los trastornos de ansiedad con niveles más bajos de colina, un nutriente clave para el funcionamiento cerebral. La evidencia más clara aparece en la corteza prefrontal.",
     "categoria": "Salud mental",
-    "slug": "los-cientificos-encuentran-un-deficit-oculto-de-nutrientes-cerebrales-951d9446"
+    "slug": "los-cientificos-encuentran-un-deficit-oculto-de-nutrientes-cerebrales-951d9446",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia original, un análisis de escáneres cerebrales encontró que las personas con trastornos de ansiedad tienen niveles notablemente más bajos de colina, un nutriente importante para el buen funcionamiento del cerebro. La señal más fuerte se observó en la corteza prefrontal, zona relacionada con el control emocional y la toma de decisiones. La noticia no ofrece más detalles sobre el método ni sobre el tamaño de la muestra.",
+      "contexto": "La colina es un nutriente esencial que el organismo necesita y que se obtiene de alimentos como los huevos, la carne, el pescado o las legumbres. La ansiedad es una experiencia común, y existen tratamientos eficaces, como la psicoterapia y, en algunos casos, la medicación. Las causas de los trastornos de ansiedad son múltiples, y no se conoce un único factor que las explique.",
+      "ten_en_cuenta": "Por el texto disponible, parece tratarse de un estudio observacional, que muestra una asociación pero no demuestra que la baja colina cause ansiedad. No sabemos el tamaño de la muestra ni el método exacto. Si la ansiedad te preocupa, consulta con un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Is cannabis safe after 65? Stanford experts reveal 5 risks older adults should know",
