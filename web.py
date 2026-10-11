@@ -16,6 +16,7 @@ Convierte las noticias (data/noticias.json), las guías (guias/*.md) y las pági
 Para cambiar de dominio basta con editar "url" en config.json.
 """
 
+import html
 import json
 import re
 import shutil
@@ -63,8 +64,27 @@ def fecha_corta(iso: str) -> str:
     return f"{fecha.day} {MESES[fecha.month - 1]} {fecha.year}"
 
 
+# Productos de afiliado en las guías de compra. En el Markdown se escriben así, en una línea propia:
+#   {{producto: B0XXXXXXXX | Nombre del producto | Para quién o por qué lo recomendamos}}
+# Solo se muestran si config.json tiene "amazon_tag" (el identificador de Afiliados de Amazon).
+PATRON_PRODUCTO = re.compile(r"^\{\{producto:(.+?)\}\}\s*$", re.MULTILINE)
+
+
+def _tarjeta_producto(coincidencia: re.Match) -> str:
+    partes = [p.strip() for p in coincidencia.group(1).split("|")]
+    if len(partes) != 3 or not re.fullmatch(r"[A-Z0-9]{10}", partes[0]):
+        raise ValueError(f"Producto mal escrito (formato: ASIN | Nombre | Motivo): {coincidencia.group(0)}")
+    asin, nombre, motivo = (html.escape(p) for p in partes)
+    enlace = f"https://www.amazon.es/dp/{asin}?tag={html.escape(CONFIG['amazon_tag'])}"
+    return (f'\n<div class="producto">\n<div><p class="producto-nombre">{nombre}</p>'
+            f'<p class="producto-motivo">{motivo}</p></div>\n'
+            f'<a class="boton" href="{enlace}" target="_blank" rel="sponsored nofollow noopener">'
+            f'Ver en Amazon <i class="ph ph-arrow-up-right" aria-hidden="true"></i></a>\n</div>\n')
+
+
 def leer_markdown(archivo: Path) -> tuple[dict, str]:
-    """Lee un .md con cabecera entre '---' (clave: valor) y devuelve (datos, html)."""
+    """Lee un .md con cabecera entre '---' (clave: valor) y devuelve (datos, html).
+    datos["productos"] indica cuántos productos de afiliado se han mostrado."""
     texto = archivo.read_text("utf-8")
     datos = {}
     if texto.startswith("---"):
@@ -73,6 +93,11 @@ def leer_markdown(archivo: Path) -> tuple[dict, str]:
             if ":" in linea:
                 clave, valor = linea.split(":", 1)
                 datos[clave.strip()] = valor.strip()
+    if CONFIG.get("amazon_tag"):
+        texto, datos["productos"] = PATRON_PRODUCTO.subn(_tarjeta_producto, texto)
+    else:
+        texto, _ = PATRON_PRODUCTO.subn("", texto)   # sin identificador de afiliado, no se muestran
+        datos["productos"] = 0
     contenido = markdown.markdown(texto, extensions=["extra", "sane_lists"])
     # Los enlaces externos se abren en otra pestaña
     contenido = re.sub(r'<a href="(https?://[^"]+)"', r'<a href="\1" target="_blank" rel="noopener"', contenido)
@@ -174,6 +199,11 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
         shutil.copy(PLANTILLAS / estatico, SALIDA / estatico)
     shutil.copytree(PLANTILLAS / "recursos", SALIDA / "recursos")   # tipografías e iconos propios
 
+    # Seguridad editorial: ninguna página de noticia puede contener enlaces de Amazon
+    for pagina_noticia in (SALIDA / "noticias").glob("*.html"):
+        if re.search(r"amazon\.[a-z.]+/(dp|gp|s\?)|amzn\.to", pagina_noticia.read_text("utf-8")):
+            raise RuntimeError(f"Enlace de Amazon en una noticia, no permitido: {pagina_noticia.name}")
+
     # SEO: sitemap y robots
     urls = [url_absoluta("" if destino == "index.html" else destino) for destino, indexable in paginas if indexable]
     (SALIDA / "sitemap.xml").write_text(entorno.get_template("sitemap.xml").render(urls=urls), "utf-8")
@@ -197,6 +227,8 @@ def cargar_guias() -> list[dict]:
             "actualizado_iso": f"{datos.get('actualizado', fecha)}T00:00:00+00:00",
             "revisado": datos.get("revisado", "no").lower() in ("si", "sí", "yes", "true"),
             "verificado_iso": f"{datos['verificado']}T00:00:00+00:00" if datos.get("verificado") else "",
+            "tipo": datos.get("tipo", "guia"),        # "compra" para las guías de compra
+            "productos": datos["productos"],
             "lectura": max(1, round(len(re.sub(r"<[^>]+>", " ", contenido).split()) / 200)),
             "contenido": contenido,
         })

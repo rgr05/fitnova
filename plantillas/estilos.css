@@ -204,11 +204,22 @@ a:hover .titular { text-decoration: underline; text-decoration-thickness: 1px; t
 .relacionadas li:first-child { border-top: 0; padding-top: 4px; }
 .relacionadas .titular { font-size: 1rem; margin-bottom: 6px; }
 
+/* Productos de afiliado (guías de compra): sin precios ni imágenes de Amazon */
+.producto { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px;
+            margin: 0 0 1.4em; padding: 18px 20px; border: 1px solid var(--linea); border-radius: var(--radio); background: var(--superficie); }
+.producto p { margin: 0; }
+.producto-nombre { font-weight: 600; line-height: 1.3; }
+.prosa .producto-motivo { color: var(--suave); font-size: .95rem; margin-top: 4px; }
+.prosa .producto .boton { color: var(--superficie); text-decoration: none; flex: none; }
+.aviso-afiliado a { color: var(--acento); text-decoration: underline; text-underline-offset: 3px; }
+
 /* Rejilla de guías */
 .rejilla-guias { display: grid; gap: 16px; padding-bottom: 72px; }
 @media (min-width: 768px) { .rejilla-guias { grid-template-columns: repeat(6, 1fr); }
   .rejilla-guias > :nth-child(4n+1) { grid-column: span 4; } .rejilla-guias > :nth-child(4n+2) { grid-column: span 2; }
-  .rejilla-guias > :nth-child(4n+3) { grid-column: span 3; } .rejilla-guias > :nth-child(4n) { grid-column: span 3; } }
+  .rejilla-guias > :nth-child(4n+3) { grid-column: span 3; } .rejilla-guias > :nth-child(4n) { grid-column: span 3; }
+  /* Sin huecos: si la última tarjeta quedaría sola, ocupa toda la fila */
+  .rejilla-guias > :last-child:nth-child(4n+1), .rejilla-guias > :last-child:nth-child(4n+3) { grid-column: 1 / -1; } }
 .tarjeta-guia { display: grid; align-content: start; gap: 10px; padding: 24px; min-height: 200px; border-radius: var(--radio);
                 background: var(--superficie); border: 1px solid var(--linea); }
 .tarjeta-guia:nth-child(4n+1) { background: var(--acento-fondo); border-color: transparent; }

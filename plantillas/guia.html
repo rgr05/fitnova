@@ -19,7 +19,7 @@
     <nav class="migas" aria-label="Estás en">
       <a href="{{ ruta() }}">Portada</a><span aria-hidden="true">/</span><a href="{{ ruta('guias/') }}">Guías</a>
     </nav>
-    <div class="meta"><span class="cat">{{ guia.categoria }}</span><span>{{ guia.lectura }} min de lectura, actualizada el <time datetime="{{ guia.actualizado_iso }}">{{ guia.actualizado_iso | fecha_corta }}</time></span></div>
+    <div class="meta"><span class="cat">{{ 'Guía de compra' if guia.tipo == 'compra' else guia.categoria }}</span><span>{{ guia.lectura }} min de lectura, actualizada el <time datetime="{{ guia.actualizado_iso }}">{{ guia.actualizado_iso | fecha_corta }}</time></span></div>
     <h1>{{ guia.titulo }}</h1>
     <p class="entradilla">{{ guia.descripcion }}</p>
     <p class="aviso-ia">
@@ -29,6 +29,12 @@
         Información general: no sustituye el consejo de un profesional sanitario.
       </span>
     </p>
+    {% if guia.productos %}
+    <p class="aviso-ia aviso-afiliado">
+      <i class="ph ph-arrow-up-right" aria-hidden="true"></i>
+      <span><strong>Enlaces de afiliado.</strong> En calidad de Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. No cambia el precio para ti ni lo que recomendamos: <a href="{{ ruta('como-elegimos-los-productos.html') }}">así elegimos los productos</a>.</span>
+    </p>
+    {% endif %}
     <div class="prosa">{{ guia.contenido | safe }}</div>
   </article>
   {% if otras %}

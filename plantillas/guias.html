@@ -10,7 +10,7 @@
 <div class="rejilla-guias">
   {% for g in guias %}
   <a class="tarjeta-guia aparece" style="--i:{{ loop.index0 }}" href="{{ ruta('guias/' ~ g.slug ~ '.html') }}">
-    <div class="meta"><span class="cat">{{ g.categoria }}</span><span>{{ g.lectura }} min de lectura</span></div>
+    <div class="meta"><span class="cat">{{ 'Guía de compra' if g.tipo == 'compra' else g.categoria }}</span><span>{{ g.lectura }} min de lectura</span></div>
     <h2 class="titular">{{ g.titulo }}</h2>
     <p>{{ g.descripcion }}</p>
   </a>
