@@ -1,0 +1,24 @@
+{
+  "fecha": "2026-10-11T12:51:48.018857+00:00",
+  "por_fuente": {
+    "ScienceDaily · Fitness": 15,
+    "ScienceDaily · Nutrición": 15,
+    "Google News (EN)": 15,
+    "Google News (ES)": 15,
+    "Google News (FR)": 15,
+    "Google News (DE)": 15,
+    "Google News (IT)": 15,
+    "Google News (PT)": 15
+  },
+  "noticias_publicadas": 102,
+  "traducidas_ahora": 102,
+  "traducciones_fallidas": 0,
+  "pendientes_de_traducir": 0,
+  "traducidas_por_servicio": {
+    "google": 0,
+    "mymemory": 99
+  },
+  "errores_de_traduccion": [
+    "google: HTTPError: HTTP Error 429: Too Many Requests"
+  ]
+}
