@@ -9,7 +9,7 @@
   "@context": "https://schema.org", "@type": "Article",
   "headline": guia.titulo, "description": guia.descripcion, "inLanguage": "es",
   "datePublished": guia.fecha_iso, "dateModified": guia.actualizado_iso,
-  "author": ({"@type": "Person", "name": config.autor} if guia.revisado else {"@type": "Organization", "name": config.nombre}),
+  "author": {"@type": "Organization", "name": config.nombre},
   "publisher": {"@type": "Organization", "name": config.nombre, "url": url_absoluta()}
 } | tojson }}</script>
 {% endblock %}
@@ -25,7 +25,7 @@
     <p class="aviso-ia">
       <i class="ph ph-{{ 'seal-check' if guia.revisado else 'sparkle' }}" aria-hidden="true"></i>
       <span>
-        {% if guia.revisado %}<strong>Revisada por {{ config.autor }}.</strong>{% else %}<strong>Guía redactada con ayuda de IA</strong> a partir de las fuentes citadas al final. Pendiente de revisión editorial.{% endif %}
+        {% if guia.revisado %}<strong>Contrastada con las fuentes citadas al final</strong>{% if guia.verificado_iso %} el {{ guia.verificado_iso | fecha_corta }}{% endif %}. Redactada con ayuda de IA; cada dato procede de una fuente oficial o científica.{% else %}<strong>Guía redactada con ayuda de IA</strong> a partir de las fuentes citadas al final. Pendiente de revisión editorial.{% endif %}
         Información general: no sustituye el consejo de un profesional sanitario.
       </span>
     </p>

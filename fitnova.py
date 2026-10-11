@@ -309,7 +309,7 @@ def main():
     errores_ia = []
     for noticia in noticias:
         noticia.setdefault("id", identificador(noticia))
-        quiere_ia = usar_ia and not noticia.get("procesada_ia")
+        quiere_ia = usar_ia and noticia.get("version_ia", 0) < ia.VERSION
         quiere_traduccion = "titulo" not in noticia or necesita_traduccion(noticia)
         if not (quiere_ia or quiere_traduccion):
             continue
@@ -318,6 +318,12 @@ def main():
             try:
                 noticia.update(ia.procesar(noticia))
                 noticia["procesada_ia"] = noticia["traducida"] = True
+                noticia["version_ia"] = ia.VERSION
+                if not noticia["titulo"]:
+                    # La IA no superó el control de cifras: titular traducido y sin explicación
+                    categoria = noticia["categoria"]
+                    traducir_noticia(noticia)
+                    noticia["categoria"] = categoria
                 con_ia += 1
                 fallos_ia_seguidos = 0
             except Exception as error:
@@ -365,8 +371,9 @@ def main():
             "procesadas_con_ia_ahora": con_ia,
             "ia_activada": usar_ia,
             "errores_ia": errores_ia,
+            "fichas_descartadas_por_cifras": [n["id"] for n in noticias if n.get("revision_necesaria")],
             "traducidas_ahora": traducidas,
-            "pendientes": sum(1 for n in noticias if "slug" not in n or (usar_ia and not n.get("procesada_ia"))),
+            "pendientes": sum(1 for n in noticias if "slug" not in n or (usar_ia and n.get("version_ia", 0) < ia.VERSION)),
             "traducidas_por_servicio": {k: ESTADISTICAS[k] for k in ("google", "mymemory")},
             "errores_de_traduccion": ESTADISTICAS["errores"],
         }

@@ -46,6 +46,9 @@
     {% endif %}
 
     {% if n.explicacion %}
+    {% if n.tipo_estudio and n.tipo_estudio != 'no especificado' %}
+    <p class="meta" style="margin:-12px 0 20px"><span>Tipo de evidencia: <strong>{{ n.tipo_estudio | capitalize }}</strong></span></p>
+    {% endif %}
     <section class="bloque"><h2>Qué dice la noticia</h2><p>{{ n.explicacion.que_dice }}</p></section>
     <section class="bloque"><h2>Por qué importa</h2><p>{{ n.explicacion.contexto }}</p></section>
     <section class="bloque"><h2>Ten en cuenta</h2><p>{{ n.explicacion.ten_en_cuenta }}</p></section>

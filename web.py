@@ -189,6 +189,7 @@ def cargar_guias() -> list[dict]:
             "fecha_iso": f"{fecha}T00:00:00+00:00",
             "actualizado_iso": f"{datos.get('actualizado', fecha)}T00:00:00+00:00",
             "revisado": datos.get("revisado", "no").lower() in ("si", "sí", "yes", "true"),
+            "verificado_iso": f"{datos['verificado']}T00:00:00+00:00" if datos.get("verificado") else "",
             "lectura": max(1, round(len(re.sub(r"<[^>]+>", " ", contenido).split()) / 200)),
             "contenido": contenido,
         })
