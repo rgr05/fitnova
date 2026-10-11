@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-11T14:26:02.609895+00:00",
+  "fecha": "2026-10-11T16:31:12.349469+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -23,10 +23,10 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 290,
-  "noticias_publicadas": 226,
+  "noticias_en_archivo": 293,
+  "noticias_publicadas": 229,
   "descartadas_por_ia": 64,
-  "procesadas_con_ia_ahora": 2,
+  "procesadas_con_ia_ahora": 3,
   "ia_activada": true,
   "errores_ia": [],
   "fichas_descartadas_por_cifras": [],

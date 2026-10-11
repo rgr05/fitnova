@@ -1,5 +1,30 @@
 [
   {
+    "titulo_original": "El licuado de Dwayne Johnson combina arroz, arándanos y 70 gramos de proteína para después de entrenar",
+    "resumen_original": "Su fórmula incluye creatina, agua y una comida posterior, dentro de una rutina orientada a recuperar energía y mantener la fuerza",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/salud/2026/10/11/el-licuado-de-dwayne-johnson-combina-arroz-arandanos-y-70-gramos-de-proteina-para-despues-de-entrenar/",
+    "imagen": "https://www.infobae.com/resizer/v2/RTS57XHR4RA5FJ3TOVPUYJU36U.jpeg?auth=7b19cce9ce00baaabcc461d7b56df8e962cc35aa8a04e17a75a29487fb86de5f&smart=true&width=1280&height=807",
+    "fecha": "2026-10-11T15:17:13+00:00",
+    "id": "8ac5a7a1",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "El licuado de Dwayne Johnson: arroz, arándanos y 70 gramos de proteína tras entrenar",
+    "resumen": "El actor comparte la fórmula de su licuado posterior al entrenamiento, que incluye creatina, agua y una comida posterior, dentro de una rutina para recuperar energía y mantener la fuerza.",
+    "categoria": "Nutrición",
+    "explicacion": {
+      "que_dice": "Según la noticia, el licuado que toma Dwayne Johnson después de entrenar combina arroz, arándanos y 70 gramos de proteína. Su fórmula incluye también creatina, agua y una comida posterior, y forma parte de una rutina orientada a recuperar energía y mantener la fuerza. La noticia original no da más detalles sobre cantidades ni sobre resultados.",
+      "contexto": "Después de entrenar, el cuerpo necesita proteínas y carbohidratos para reponer energía y favorecer la recuperación muscular. La creatina es uno de los suplementos más estudiados para mejorar la fuerza en esfuerzos cortos e intensos. Aun así, las necesidades de cada persona dependen de sus objetivos, su edad y su salud, así que conviene consultar con un profesional antes de usar suplementos.",
+      "ten_en_cuenta": "Se trata de la rutina personal de una celebridad, no de un estudio: la noticia no aporta evidencia científica ni detalles sobre cantidades, frecuencia o efectos. Lo que funciona para una persona no tiene por qué encajar con otra."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "el-licuado-de-dwayne-johnson-arroz-arandanos-y-70-gramos-de-proteina-t-8ac5a7a1"
+  },
+  {
     "titulo_original": "Qué es un nódulo pulmonar y cuál sería el pronóstico de la operación del Papa: “Es por prevención”",
     "resumen_original": "León XIV informó a los fieles que será operado de un pequeño nódulo pulmonar detectado durante controles recientes. Infobae consultó a especialistas para explicar sus posibles causas, los criterios de evaluación y el pronóstico general de una intervención preventiva",
     "idioma": "es",
@@ -3525,6 +3550,31 @@
     "version_ia": 2
   },
   {
+    "titulo_original": "Pesquisa FAPESP: Cannabis e saúde mental: promessas e lacunas nas evidências",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "Portal Unicamp",
+    "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjhEcHB2enZxSHVGdDNqNWNVaF95bndhTzhiYTFjVXhZZVQ0Tk1sZXFaN1RjVnlIdHhveEVUMm1kOVBpV2FJVG5rVHhsYm1qRU16U1BmWnBpSDl1ZjBBZ18zb0F4OVEtS091MlcweHVXSXRtcENhVmF5dXFQelNMTDA1ZVBOWUhOWWYzTW5jTUZ2anA0RmlnTHpvUVd5WXVaZVBfUTlQaDQxdEFPR1Y0ckh4QQ?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-07T17:17:19+00:00",
+    "id": "61a9b612",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Cannabis y salud mental: promesas y lagunas en la evidencia científica",
+    "resumen": "Un artículo recogido por Portal Unicamp aborda lo que la investigación sugiere sobre el cannabis y la salud mental, y las lagunas que todavía quedan por cubrir.",
+    "categoria": "Salud mental",
+    "explicacion": {
+      "que_dice": "La noticia trata sobre el uso del cannabis en relación con la salud mental, señalando que hay expectativas (promesas) pero también vacíos en las evidencias disponibles. Solo se conoce el titular, así que la fuente original no da más detalles sobre estudios concretos, resultados ni conclusiones.",
+      "contexto": "El cannabis es una sustancia con efectos psicoactivos y su uso no está aprobado como tratamiento general para la mayoría de trastornos mentales. Organismos como la OMS indican que la investigación sobre sus posibles usos terapéuticos aún es limitada en muchas áreas, y que su consumo puede conllevar riesgos, especialmente en personas con predisposición a trastornos psicóticos o en el uso frecuente.",
+      "ten_en_cuenta": "Al no disponer de la entradilla ni del texto completo, no sabemos qué tipo de investigación se resume ni qué resultados concretos se describen. Ante cualquier duda sobre el consumo de cannabis o su uso para la salud mental, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "cannabis-y-salud-mental-promesas-y-lagunas-en-la-evidencia-cientifica-61a9b612"
+  },
+  {
     "titulo_original": "Un estudio afirma que esta es la mejor hora para dejar de comer antes de irnos a dormir para mejorar la salud del corazón: \"No se consigue un sueño profundo y reparador si se ha hecho una comida abundante\"",
     "resumen_original": "",
     "idioma": "es",
@@ -4423,6 +4473,31 @@
     "puntuacion": 3,
     "procesada_ia": true,
     "version_ia": 2
+  },
+  {
+    "titulo_original": "Treinar muito é vício? estudos podem superestimar a dependência de exercício",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "Rádio Itatiaia",
+    "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFdXa3lXTG9CeVNMWGg0NUtVZ2dwUDZtVFJ6cE5FS0RMODZ1ajZwZklyT19Lci1EMFgwWnNNSkpVaXVWeTNGcGRlZnFVM0xnVnZjV2JDdkV5WGlWUjNaV3VGb0hzWTZmQWhYTlFKZ3g3RFJBNGdPOUZQRDFBb1hidXdpdEVfTXVLNWpNZXAxcl9TeV9wZXVZTzhKWHgyNGo2cExLU200ZHFqRDJWdDBuRA?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-06T09:26:58+00:00",
+    "id": "50655a8d",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "¿Entrenar mucho es una adicción? Algunos estudios podrían exagerar la dependencia del ejercicio",
+    "resumen": "Un artículo de la prensa brasileña plantea que algunos estudios sobre la dependencia del ejercicio podrían estar sobreestimándola. La noticia no ofrece más detalles.",
+    "categoria": "Salud mental",
+    "explicacion": {
+      "que_dice": "La noticia, publicada por Rádio Itatiaia, sugiere que algunas investigaciones podrían sobreestimar la dependencia del ejercicio, es decir, la idea de que entrenar mucho puede convertirse en una adicción. La información original es solo el titular, así que no se sabe qué estudios son, cómo se midió la dependencia ni qué conclusiones concretas se obtuvieron.",
+      "contexto": "Hacer ejercicio con regularidad es una de las recomendaciones de salud más respaldadas por la OMS y por las sociedades científicas, y se asocia con beneficios físicos y mentales. Al mismo tiempo, en algunas personas el ejercicio puede volverse compulsivo, sobre todo cuando se usa para evitar malestar o cuando se sigue pese a lesiones o a un perjuicio evidente. Lo que se considera dependencia y cómo distinguirla de la dedicación habitual sigue siendo un tema de debate entre los especialistas.",
+      "ten_en_cuenta": "Solo tenemos el titular, sin datos del estudio ni de la metodología, por lo que no podemos valorar la solidez de la conclusión. Si el entrenamiento te genera ansiedad o culpa al no poder hacerlo, conviene consultarlo con un profesional de la salud mental."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "entrenar-mucho-es-una-adiccion-algunos-estudios-podrian-exagerar-la-de-50655a8d"
   },
   {
     "titulo_original": "La piel con rosácea, bajo control médico",
