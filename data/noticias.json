@@ -1,5 +1,55 @@
 [
   {
+    "titulo_original": "Begoña del Campo, neuropsicóloga: «Somos adictos a la queja y, si no somos consicentes y no tomamos medidas para noquearla, cada vez seremos más quejicas»",
+    "resumen_original": "Algunas de las acepciones que contramos cuando buscamos en la RAE la palabra ' problema ' son las siguientes: «Cuestión que se trata de aclarar. Proposición o dificultad de solución dudosa. Conjunto de hechos o circunstancias que dificultan la consecución de algún fin». Teniendo…",
+    "idioma": "es",
+    "fuente": "ABC · Bienestar",
+    "enlace": "https://www.abc.es/bienestar/psicologia-sexo/psicologia/begona-campo-neuropsicologa-adictos-queja-consicentes-tomamos-20261011190000-nt.html",
+    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/11/begona-delcampo-k7DE-U3020923297887wG-1200x840@diario_abc.jpg",
+    "fecha": "2026-10-11T17:00:00+00:00",
+    "id": "0019835b",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "titulo": "La neuropsicóloga Begoña del Campo advierte de que la queja puede volverse un hábito si no se actúa",
+    "resumen": "La neuropsicóloga Begoña del Campo sostiene que quejarse puede convertirse en un hábito y que conviene tomar medidas para frenarlo. La entradilla no da más detalles sobre sus argumentos.",
+    "categoria": "Salud mental",
+    "explicacion": {
+      "que_dice": "Es una entrevista con la neuropsicóloga Begoña del Campo, que afirma que somos adictos a la queja y que, sin medidas para combatirla, tendemos a quejarnos cada vez más. La entradilla empieza citando las definiciones de la RAE de la palabra «problema», pero se corta antes de desarrollar su argumento, por lo que la noticia original no ofrece más detalles en este extracto.",
+      "contexto": "Expresar una preocupación es normal y puede aliviar. Sin embargo, la investigación sobre la rumiación, es decir, dar vueltas repetidamente al malestar sin avanzar hacia soluciones, se asocia con peor estado de ánimo y más estrés. Por eso, muchos enfoques de bienestar recomiendan distinguir entre desahogarse y quedarse atrapado en la queja.",
+      "ten_en_cuenta": "Se trata de la opinión de una profesional, no de un estudio científico. El extracto es incompleto, así que no conocemos qué propuestas concretas hace. Si el malestar es persistente, conviene consultar a un profesional de la salud mental."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "la-neuropsicologa-begona-del-campo-advierte-de-que-la-queja-puede-volv-0019835b"
+  },
+  {
+    "titulo_original": "Cinco ejercicios simples que los fisioterapeutas sugieren desde los 50",
+    "resumen_original": "Una secuencia breve reúne fuerza de piernas, estabilidad y apertura del pecho para reforzar acciones habituales, siempre con ajustes según el estado físico de cada persona",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/salud/2026/10/11/cinco-ejercicios-simples-que-los-fisioterapeutas-sugieren-desde-los-50/",
+    "imagen": "https://www.infobae.com/resizer/v2/PB7RX3RNA5BMNH6CPZJCIPA3FY.png?auth=2d1b76e8523d897c5584fb8ef3c183f561e4a700b89853b39f810d3ab95682db&smart=true&width=2752&height=1536",
+    "fecha": "2026-10-11T16:45:36+00:00",
+    "id": "247eab1c",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "titulo": "Cinco ejercicios sencillos que los fisioterapeutas sugieren a partir de los 50",
+    "resumen": "Una secuencia breve combina fuerza de piernas, estabilidad y apertura del pecho para facilitar acciones cotidianas. Según la noticia, conviene adaptarla al estado físico de cada persona.",
+    "categoria": "Entrenamiento",
+    "explicacion": {
+      "que_dice": "Un medio de salud recoge cinco ejercicios sencillos que fisioterapeutas sugieren a partir de los 50 años. La secuencia trabaja la fuerza de las piernas, la estabilidad y la apertura del pecho, con el objetivo de reforzar movimientos habituales. La noticia subraya que hay que ajustar los ejercicios al estado físico de cada persona. La entradilla no detalla los ejercicios concretos.",
+      "contexto": "Con la edad, la fuerza muscular, el equilibrio y la movilidad tienden a disminuir, lo que puede dificultar tareas diarias como levantarse de una silla o subir escaleras. Organismos como la OMS recomiendan a los adultos, y especialmente a las personas mayores, incluir actividades de fortalecimiento muscular y ejercicios de equilibrio como parte de una actividad física regular.",
+      "ten_en_cuenta": "La noticia no describe los ejercicios en detalle ni cita un estudio que los respalde, así que se trata de recomendaciones generales. Si tienes problemas de salud, dolor o lesiones, consulta con un fisioterapeuta o profesional sanitario antes de empezar."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "cinco-ejercicios-sencillos-que-los-fisioterapeutas-sugieren-a-partir-d-247eab1c"
+  },
+  {
     "titulo_original": "El licuado de Dwayne Johnson combina arroz, arándanos y 70 gramos de proteína para después de entrenar",
     "resumen_original": "Su fórmula incluye creatina, agua y una comida posterior, dentro de una rutina orientada a recuperar energía y mantener la fuerza",
     "idioma": "es",
@@ -2648,6 +2698,31 @@
     "puntuacion": 5,
     "procesada_ia": true,
     "version_ia": 2
+  },
+  {
+    "titulo_original": "Estudos mostram que mães que não dormem bem sofrem mais de depressão",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "Bem Paraná",
+    "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2ZnV1o3RUl2QzdRZ0V0a0NlMkRxblZqSDY3eUk2UG4xTGhjVzlMRHdMZGNGTE1fRjY2MUZ5andxN21fRWhJdzVXY0FPMDlNbTBVQlVFQVJueWg0YjlaZDl1SzJRREhzMjdvdEpDdGx3dFVEZmFocnJaQVBQZzZHT1RQaGxFUVFxdXhwRlZiZEpRUzFxWVhrRTZ6X043b0oxc0sxQVhBNldaSjlRRWxuN2RCa0nSAboBQVVfeXFMTlAzRTcxalQta0UxOC1ZOGxRSEZ2WnFWNS1vbkUxQ015SFZWVWpwcnRidURZWlFuY2tfa3ZWbnlrSnBkeVZJRWhXX3FWNGt3WTBCaG9pb1N0bjRWYmNRRW5hZmxTZm9HT19xRVktTmtTX3NXaXJTRU94MjUzZWExUjN3WXBfZGY1OEpEdmpmZ1AxOVpYSE8yeHZaVktoWW9uVmtjOVFZeEhhWlBJV3h2V1ZDOWJPYmhiMkdn?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-08T16:17:00+00:00",
+    "id": "37cac502",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Los estudios relacionan el mal descanso de las madres con más depresión",
+    "resumen": "Una noticia del medio brasileño Bem Paraná recoge estudios que vinculan dormir mal en las madres con una mayor frecuencia de depresión. La información original no da más detalles.",
+    "categoria": "Sueño",
+    "explicacion": {
+      "que_dice": "Según el titular, varios estudios encuentran que las madres que no duermen bien sufren más depresión. La noticia original no ofrece más detalles sobre los estudios, sus participantes ni sus resultados.",
+      "contexto": "Dormir poco o mal es un problema frecuente y se asocia con un mayor riesgo de síntomas depresivos en la población general. Las madres, sobre todo en el primer año tras el parto, suelen sufrir interrupciones del sueño, y el posparto es un periodo reconocido de mayor vulnerabilidad a la depresión. Esto es conocimiento general, no un resultado de este estudio.",
+      "ten_en_cuenta": "Solo tenemos el titular: no sabemos cuántos estudios son, qué diseño tienen ni a cuántas madres incluyen. Una asociación no demuestra que el mal sueño cause la depresión. Si notas síntomas de depresión o problemas de sueño persistentes, consulta con tu médico o un profesional de salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "los-estudios-relacionan-el-mal-descanso-de-las-madres-con-mas-depresio-37cac502"
   },
   {
     "titulo_original": "¿22 millones de paneles solares? El reto energético de los centros de datos de Madrid",
