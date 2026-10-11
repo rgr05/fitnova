@@ -128,11 +128,11 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
     entorno.filters["fecha_corta"] = fecha_corta
     paginas = []   # (ruta, indexable) para el sitemap
 
-    def escribir(destino: str, plantilla: str, indexable: bool = True, **datos):
+    def escribir(destino: str, plantilla: str, indexable: bool = True, lastmod: str = "", **datos):
         archivo = SALIDA / destino
         archivo.parent.mkdir(parents=True, exist_ok=True)
         archivo.write_text(entorno.get_template(plantilla).render(pagina=destino, **datos), "utf-8")
-        paginas.append((destino, indexable))
+        paginas.append((destino, indexable, (lastmod or ahora.isoformat())[:10]))
 
     for noticia in noticias:
         if not CONFIG.get("mostrar_imagenes"):
@@ -171,13 +171,14 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
     # Una página por noticia. Solo se indexan en Google las que tienen explicación propia.
     for noticia in noticias:
         relacionadas = [n for n in noticias if n["categoria"] == noticia["categoria"] and n["id"] != noticia["id"]][:4]
-        escribir(f"noticias/{noticia['slug']}.html", "noticia.html",
-                 indexable=noticia["indexable"], n=noticia, relacionadas=relacionadas)
+        guias_tema = [g for g in guias if g["categoria"] == noticia["categoria"] and g["revisado"]][:2]
+        escribir(f"noticias/{noticia['slug']}.html", "noticia.html", lastmod=noticia["fecha"],
+                 indexable=noticia["indexable"], n=noticia, relacionadas=relacionadas, guias_tema=guias_tema)
 
     # Guías
     escribir("guias/index.html", "guias.html", guias=guias)
     for guia in guias:
-        escribir(f"guias/{guia['slug']}.html", "guia.html", indexable=guia["revisado"], guia=guia, otras=[g for g in guias if g is not guia])
+        escribir(f"guias/{guia['slug']}.html", "guia.html", indexable=guia["revisado"], lastmod=guia["actualizado_iso"], guia=guia, otras=[g for g in guias if g is not guia])
 
     # Páginas fijas (sobre, privacidad…)
     for archivo in sorted((CARPETA / "paginas").glob("*.md")):
@@ -205,7 +206,8 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
             raise RuntimeError(f"Enlace de Amazon en una noticia, no permitido: {pagina_noticia.name}")
 
     # SEO: sitemap y robots
-    urls = [url_absoluta("" if destino == "index.html" else destino) for destino, indexable in paginas if indexable]
+    urls = [(url_absoluta("" if destino == "index.html" else destino), fecha)
+            for destino, indexable, fecha in paginas if indexable]
     (SALIDA / "sitemap.xml").write_text(entorno.get_template("sitemap.xml").render(urls=urls), "utf-8")
     (SALIDA / "robots.txt").write_text(
         ("User-agent: *\nDisallow: /\n" if demo else "User-agent: *\nAllow: /\n")

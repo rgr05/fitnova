@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for u in urls %}
-  <url><loc>{{ u }}</loc></url>
+{% for url, fecha in urls %}
+  <url><loc>{{ url }}</loc><lastmod>{{ fecha }}</lastmod></url>
 {% endfor %}
 </urlset>

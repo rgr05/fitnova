@@ -12,6 +12,14 @@
   "author": {"@type": "Organization", "name": config.nombre},
   "publisher": {"@type": "Organization", "name": config.nombre, "url": url_absoluta()}
 } | tojson }}</script>
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org", "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Portada", "item": url_absoluta()},
+    {"@type": "ListItem", "position": 2, "name": "Guías", "item": url_absoluta("guias/")},
+    {"@type": "ListItem", "position": 3, "name": guia.titulo}
+  ]
+} | tojson }}</script>
 {% endblock %}
 {% block contenido %}
 <div class="articulo">
