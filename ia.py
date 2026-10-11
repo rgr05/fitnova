@@ -142,7 +142,7 @@ def cifras_inventadas(resultado: dict, noticia: dict) -> set[str]:
 def _pedir(entrada: str) -> dict:
     respuesta = _cliente_anthropic().messages.create(
         model=MODELO,
-        max_tokens=1800,
+        max_tokens=2500,
         system=INSTRUCCIONES,
         messages=[{"role": "user", "content": entrada}],
     )

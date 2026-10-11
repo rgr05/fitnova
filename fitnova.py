@@ -39,7 +39,7 @@ DATOS = CARPETA / "data" / "noticias.json"
 INFORME = CARPETA / "data" / "informe.json"   # resumen de la última ejecución
 
 DIAS_ARCHIVO = 180          # cada noticia conserva su página durante medio año
-MAX_IA_POR_EJECUCION = 60   # tope de noticias que la IA procesa en cada ejecución (controla el gasto)
+MAX_IA_POR_EJECUCION = 100  # tope de noticias que la IA procesa en cada ejecución (controla el gasto)
 MAX_POR_FEED = 15           # para no saturar la web con una sola fuente
 MAX_CARACTERES_RESUMEN = 280
 
