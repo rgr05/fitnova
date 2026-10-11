@@ -102,7 +102,7 @@
   .principal .foto { aspect-ratio: 16 / 9; }
   @media (min-width: 1024px) { .principal .foto { aspect-ratio: 2 / 1; } }
   .principal .titular { font-size: clamp(1.75rem, 3.4vw, 2.6rem); line-height: 1.1; letter-spacing: -0.03em; }
-  .principal.sin-foto .titular { font-size: clamp(2rem, 4.6vw, 3.4rem); }
+  .principal.sin-foto .titular { font-size: clamp(1.9rem, 3.6vw, 2.9rem); max-width: 22ch; }
   .principal .entradilla { margin: 0; color: var(--suave); font-size: 1.08rem; max-width: 60ch; }
 
   .recientes h2, .mas h2 { font-size: 1rem; font-weight: 600; margin: 0 0 4px; letter-spacing: -0.01em; }
@@ -138,6 +138,11 @@
   .cifras dt { order: 2; font-size: .8rem; color: var(--suave); }
   .cifras dd { order: 1; margin: 0; font-family: "Geist Mono", ui-monospace, monospace; font-size: 1.6rem; color: var(--texto); }
   @media (max-width: 1023px) { .lateral { position: static; } }
+
+  .ver-mas { margin-top: 24px; justify-self: start; height: 44px; padding: 0 22px; border-radius: 999px; cursor: pointer;
+             border: 1px solid var(--linea); background: var(--superficie); color: var(--texto); font: inherit; font-weight: 500; }
+  .ver-mas:hover { border-color: var(--acento); }
+  .ver-mas:active { transform: scale(.98); }
 
   /* ---------- Estado vacío ---------- */
   .vacio { padding: 96px 0 120px; display: grid; justify-items: start; gap: 12px; max-width: 520px; }
@@ -194,6 +199,8 @@
   const IDIOMAS = { en: "inglés", fr: "francés", de: "alemán", it: "italiano", pt: "portugués" };
   const TEMAS = ["Todo", "Entrenamiento", "Nutrición", "Sueño", "Salud mental", "Salud general"];
   let temaActivo = "Todo";
+  const POR_PAGINA = 15;
+  let mostradas = POR_PAGINA;   // noticias visibles en "Más noticias"
 
   const escapar = t => { const d = document.createElement("div"); d.textContent = t || ""; return d.innerHTML; };
 
@@ -302,7 +309,8 @@
 
     const [lider, ...resto] = visibles;
     const recientes = resto.slice(0, 4);
-    const demas = resto.slice(4);
+    const demas = resto.slice(4, 4 + mostradas);
+    const quedan = resto.length - 4 - demas.length;
 
     contenido.innerHTML = `
       <section class="portada">
@@ -318,12 +326,21 @@
           <div>
             <h2>Más noticias</h2>
             <div class="lista">${demas.map(fila).join("")}</div>
+            ${quedan > 0 ? `<button class="ver-mas" onclick="verMas()">Ver más noticias (${quedan})</button>` : ""}
           </div>
           ${lateral()}
         </section>` : ""}`;
   }
 
+  function verMas() {
+    mostradas += POR_PAGINA;
+    const scroll = window.scrollY;
+    pintar();
+    window.scrollTo(0, scroll);
+  }
+
   function reiniciar() {
+    mostradas = POR_PAGINA;
     document.getElementById("buscador").value = "";
     temaActivo = "Todo";
     document.querySelectorAll(".tema").forEach(b => b.setAttribute("aria-pressed", b.textContent === "Todo"));
@@ -339,6 +356,7 @@
     b.setAttribute("aria-pressed", tema === temaActivo);
     b.onclick = () => {
       temaActivo = tema;
+      mostradas = POR_PAGINA;
       document.querySelectorAll(".tema").forEach(x => x.setAttribute("aria-pressed", x === b));
       pintar();
       window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
@@ -346,7 +364,7 @@
     nav.append(b);
   });
 
-  document.getElementById("buscador").addEventListener("input", pintar);
+  document.getElementById("buscador").addEventListener("input", () => { mostradas = POR_PAGINA; pintar(); });
   const hoy = new Date().toLocaleDateString("es-ES", { weekday: "long", day: "numeric", month: "long" });
   const hora = new Date(ACTUALIZADO).toLocaleTimeString("es-ES", { hour: "2-digit", minute: "2-digit" });
   document.getElementById("fecha-hoy").textContent = `${hoy.charAt(0).toUpperCase() + hoy.slice(1)}. Actualizado a las ${hora}`;

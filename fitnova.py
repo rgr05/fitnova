@@ -179,8 +179,14 @@ def leer_feed(feed: dict) -> list[dict]:
     for entrada in datos.entries[:MAX_POR_FEED]:
         titulo = limpiar_texto(entrada.get("title", ""))
         fuente = feed["nombre"]
-        # Google News añade " - Nombre del medio" al final del título
-        if "news.google.com" in feed["url"] and " - " in titulo:
+        # Google News indica el medio real y lo repite al final del título ("… - El País")
+        medio = limpiar_texto(entrada.get("source", {}).get("title", ""))
+        if medio:
+            fuente = re.split(r" - | \| ", medio)[0]   # "ABC News - Breaking News…" -> "ABC News"
+            sufijo = f" - {medio}"
+            if sufijo in titulo:
+                titulo = titulo[:titulo.rindex(sufijo)].strip()
+        elif "news.google.com" in feed["url"] and " - " in titulo:
             titulo, fuente = titulo.rsplit(" - ", 1)
         resumen = limpiar_texto(entrada.get("summary", ""))
         if resumen.startswith(titulo[:40]):   # Google News repite el título
