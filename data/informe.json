@@ -1,8 +1,12 @@
 {
-  "fecha": "2026-10-11T13:32:53.223945+00:00",
+  "fecha": "2026-10-11T13:42:54.583799+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
+    "ScienceDaily · Envejecimiento saludable": 15,
+    "ScienceDaily · Salud mental": 15,
+    "ScienceDaily · Medicina deportiva": 15,
+    "ScienceDaily · Sueño": 15,
     "Google News (EN)": 15,
     "Google News (ES)": 15,
     "Google News (FR)": 15,
@@ -10,18 +14,22 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 120,
-  "noticias_publicadas": 114,
-  "descartadas_por_ia": 6,
+  "noticias_en_archivo": 153,
+  "noticias_publicadas": 140,
+  "descartadas_por_ia": 13,
   "procesadas_con_ia_ahora": 60,
   "ia_activada": true,
-  "errores_ia": [],
+  "errores_ia": [
+    "ValueError: respuesta cortada por longitud"
+  ],
   "fichas_descartadas_por_cifras": [],
-  "traducidas_ahora": 0,
-  "pendientes": 60,
+  "traducidas_ahora": 27,
+  "pendientes": 33,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 0
+    "mymemory": 54
   },
-  "errores_de_traduccion": []
+  "errores_de_traduccion": [
+    "google: HTTPError: HTTP Error 429: Too Many Requests"
+  ]
 }
