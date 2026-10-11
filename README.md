@@ -28,6 +28,17 @@ fitnova/
   `ANTHROPIC_API_KEY` con tu clave de https://console.anthropic.com. Sin ella, la web
   funciona solo con traducción automática.
 
+## Google Search Console
+
+Al dar de alta la web, elige el método «Etiqueta HTML», copia solo el código del atributo `content`
+y pégalo en `google_site_verification` dentro de `config.json`.
+
+## Tipografías e iconos
+
+Se sirven desde `plantillas/recursos/` (sin Google Fonts ni CDN). El archivo de iconos solo contiene
+los iconos usados; para añadir uno de Phosphor, regenera `phosphor.woff2` con `pyftsubset` incluyendo
+su código y añade su clase en `iconos.css`.
+
 ## Revisión semanal
 
 Cada lunes se abre un aviso (pestaña *Issues*) con las 5 noticias más importantes de la semana.

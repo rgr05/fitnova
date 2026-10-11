@@ -9,11 +9,9 @@ Sudor y Ciencia es una web estática informativa. **No tenemos formularios, no p
 
 ## Servicios de terceros
 
-Para funcionar, la web utiliza estos servicios externos. Al visitarla, tu navegador se conecta con ellos y, como en cualquier conexión a internet, reciben datos técnicos como tu dirección IP:
+La web está alojada en **GitHub Pages** (GitHub, Inc.). Como en cualquier visita a una web, el servidor recibe datos técnicos como tu dirección IP. Puedes consultar la [declaración de privacidad de GitHub](https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement).
 
-- **GitHub Pages** (GitHub, Inc.), que aloja la web. [Declaración de privacidad de GitHub](https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement).
-- **Google Fonts** (Google), que sirve las tipografías. [Política de privacidad de Google](https://policies.google.com/privacy?hl=es).
-- **unpkg**, que sirve los iconos.
+Las tipografías y los iconos se sirven desde la propia web, así que tu navegador no se conecta con otros servicios para cargarlos.
 
 Las noticias enlazan a medios externos. Al hacer clic, sales de Sudor y Ciencia y se aplica la política de privacidad de cada medio.
 

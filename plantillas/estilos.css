@@ -3,6 +3,10 @@
    - Tipografía: Geist (texto y titulares) + Geist Mono (cifras).
    - Formas: imágenes y paneles con radio 12px; buscador y botones en píldora; pestañas sin radio.
    - Tema: automático (claro / oscuro según el sistema). */
+/* Tipografías servidas desde la propia web (Geist, licencia SIL OFL: ver recursos/LICENCIA-GEIST.txt) */
+@font-face { font-family: Geist; src: url("recursos/geist.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Geist Mono"; src: url("recursos/geist-mono.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
+
 :root {
   --fondo: #f3f4f2;
   --superficie: #fbfbfa;

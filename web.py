@@ -172,6 +172,7 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
     # Archivos estáticos
     for estatico in ("estilos.css", "app.js"):
         shutil.copy(PLANTILLAS / estatico, SALIDA / estatico)
+    shutil.copytree(PLANTILLAS / "recursos", SALIDA / "recursos")   # tipografías e iconos propios
 
     # SEO: sitemap y robots
     urls = [url_absoluta("" if destino == "index.html" else destino) for destino, indexable in paginas if indexable]
