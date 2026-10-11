@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary">
 <meta name="theme-color" content="#f3f4f2" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0f1110" media="(prefers-color-scheme: dark)">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230b7a52'/%3E%3Ctext x='16' y='22.5' font-family='Arial' font-weight='700' font-size='18' fill='%23fbfbfa' text-anchor='middle'%3Ef%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230b7a52'/%3E%3Ctext x='16' y='22.5' font-family='Arial' font-weight='700' font-size='18' fill='%23fbfbfa' text-anchor='middle'%3Es%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&display=swap">
@@ -31,12 +31,12 @@
 <header class="cabecera">
   <div class="contenedor">
     <div class="barra">
-      <a class="logo" href="{{ ruta() }}" aria-label="{{ config.nombre }}, portada">fit<span>nova</span></a>
+      <a class="logo" href="{{ ruta() }}" aria-label="{{ config.nombre }}, portada">sudor y <span>ciencia</span></a>
       <span class="fecha-hoy" id="fecha-hoy" data-actualizado="{{ actualizado }}"></span>
       <form class="buscador" action="{{ ruta('buscar.html') }}" role="search">
-        <label class="solo-lectores" for="buscador">Buscar en Fitnova</label>
+        <label class="solo-lectores" for="buscador">Buscar en Sudor y Ciencia</label>
         <i class="ph ph-magnifying-glass" aria-hidden="true"></i>
-        <input id="buscador" name="q" type="search" placeholder="Buscar noticias y guías" autocomplete="off">
+        <input id="buscador" name="q" type="search" placeholder="Buscar" autocomplete="off">
       </form>
     </div>
     <nav class="temas" aria-label="Temas">

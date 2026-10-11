@@ -1,5 +1,5 @@
-# Fitnova: busca noticias, las traduce y publica la web en GitHub Pages.
-name: Actualizar Fitnova
+# Sudor y Ciencia: busca noticias, las traduce y publica la web en GitHub Pages.
+name: Actualizar la web
 
 on:
   schedule:

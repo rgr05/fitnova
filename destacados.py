@@ -1,5 +1,5 @@
 """
-Fitnova · Lista semanal de noticias para revisar.
+Sudor y Ciencia · Lista semanal de noticias para revisar.
 
 Escribe en pantalla (en formato Markdown) las noticias más importantes de los últimos 7 días
 que aún no tienen comentario del editor. El workflow semanal la publica como un aviso
@@ -32,7 +32,7 @@ for posicion, n in enumerate(candidatas[:CANTIDAD], 1):
     print(f"### {posicion}. {n['titulo']}")
     print(f"{n['categoria']} · {n['fuente']} · importancia {n.get('puntuacion', '?')}/10\n")
     print(f"> {n.get('resumen', '')}\n")
-    print(f"- [Ver en Fitnova]({web.url_absoluta('noticias/' + n['slug'] + '.html')})")
+    print(f"- [Ver en Sudor y Ciencia]({web.url_absoluta('noticias/' + n['slug'] + '.html')})")
     print(f"- [Noticia original]({n['enlace']})")
     print(f"- **[Escribir mi opinión]({repositorio}/new/main/comentarios?filename={n['id']}.md)** (código `{n['id']}`)\n")
 if not candidatas:

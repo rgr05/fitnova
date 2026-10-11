@@ -1,11 +1,11 @@
 ---
 titulo: Privacidad
-descripcion: Qué datos se tratan cuando visitas Fitnova.
+descripcion: Qué datos se tratan cuando visitas Sudor y Ciencia.
 ---
 
 *Última actualización: 11 de octubre de 2026.*
 
-Fitnova es una web estática informativa. **No tenemos formularios, no pedimos registro y no usamos cookies propias ni herramientas de analítica o publicidad.**
+Sudor y Ciencia es una web estática informativa. **No tenemos formularios, no pedimos registro y no usamos cookies propias ni herramientas de analítica o publicidad.**
 
 ## Servicios de terceros
 
@@ -15,7 +15,7 @@ Para funcionar, la web utiliza estos servicios externos. Al visitarla, tu navega
 - **Google Fonts** (Google), que sirve las tipografías. [Política de privacidad de Google](https://policies.google.com/privacy?hl=es).
 - **unpkg**, que sirve los iconos.
 
-Las noticias enlazan a medios externos. Al hacer clic, sales de Fitnova y se aplica la política de privacidad de cada medio.
+Las noticias enlazan a medios externos. Al hacer clic, sales de Sudor y Ciencia y se aplica la política de privacidad de cada medio.
 
 ## Cambios
 

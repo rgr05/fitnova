@@ -1,9 +1,9 @@
 ---
-titulo: Sobre Fitnova
-descripcion: Qué es Fitnova, cómo seleccionamos y explicamos las noticias y cómo usamos la inteligencia artificial.
+titulo: Sobre Sudor y Ciencia
+descripcion: Qué es Sudor y Ciencia, cómo seleccionamos y explicamos las noticias y cómo usamos la inteligencia artificial.
 ---
 
-Fitnova reúne cada día las noticias más relevantes sobre **entrenamiento, nutrición, sueño y salud mental** publicadas por medios y revistas científicas de todo el mundo, y las explica en español para personas que quieren cuidarse sin perderse entre titulares exagerados.
+Sudor y Ciencia reúne cada día las noticias más relevantes sobre **entrenamiento, nutrición, sueño y salud mental** publicadas por medios y revistas científicas de todo el mundo, y las explica en español para personas que quieren cuidarse sin perderse entre titulares exagerados.
 
 Es un proyecto de **Raúl Granado**.
 

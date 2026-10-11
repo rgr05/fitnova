@@ -1,4 +1,4 @@
-/* Fitnova · Sistema de diseño
+/* Sudor y Ciencia · Sistema de diseño
    - Paleta: neutros fríos + un único acento verde.
    - Tipografía: Geist (texto y titulares) + Geist Mono (cifras).
    - Formas: imágenes y paneles con radio 12px; buscador y botones en píldora; pestañas sin radio.
@@ -43,7 +43,7 @@ img { display: block; max-width: 100%; }
 .cabecera { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--fondo) 88%, transparent);
             backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-bottom: 1px solid var(--linea); }
 .barra { display: flex; align-items: center; gap: 24px; height: 64px; }
-.logo { font-weight: 700; font-size: 1.45rem; letter-spacing: -0.04em; }
+.logo { font-weight: 700; font-size: 1.4rem; letter-spacing: -0.04em; white-space: nowrap; }
 .logo span { color: var(--acento); }
 .fecha-hoy { color: var(--suave); font-size: .875rem; }
 .buscador { margin-left: auto; position: relative; width: min(300px, 40vw); }
@@ -63,7 +63,9 @@ img { display: block; max-width: 100%; }
 
 @media (max-width: 640px) {
   .fecha-hoy { display: none; }
-  .buscador { width: auto; flex: 1; }
+  .logo { font-size: 1.15rem; }
+  .barra { gap: 14px; }
+  .buscador { width: auto; flex: 1; min-width: 0; }
 }
 
 /* ---------- Piezas comunes ---------- */
@@ -91,7 +93,7 @@ a:hover .titular { text-decoration: underline; text-decoration-thickness: 1px; t
 /* ---------- Portada ---------- */
 .portada { display: grid; gap: 40px; padding: 32px 0 48px; }
 @media (min-width: 1024px) { .portada { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 48px; padding-top: 40px; } }
-.principal { display: grid; gap: 18px; }
+.principal { display: grid; gap: 18px; align-content: start; }
 .principal > a { display: grid; gap: 18px; }
 .principal .foto { aspect-ratio: 16 / 9; }
 @media (min-width: 1024px) { .principal .foto { aspect-ratio: 2 / 1; } }

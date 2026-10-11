@@ -1,5 +1,5 @@
 """
-Fitnova · Generador de la web estática.
+Sudor y Ciencia · Generador de la web estática.
 
 Convierte las noticias (data/noticias.json), las guías (guias/*.md) y las páginas
 (paginas/*.md) en una web completa dentro de site/, lista para GitHub Pages:

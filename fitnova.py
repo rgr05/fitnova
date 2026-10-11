@@ -1,5 +1,5 @@
 """
-Fitnova · Recopilador de noticias de fitness, salud y autocuidado.
+Sudor y Ciencia · Recopilador de noticias de fitness, salud y autocuidado.
 
 Qué hace, paso a paso:
   1. Lee los feeds RSS de feeds.json (en cualquier idioma).

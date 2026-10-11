@@ -1,15 +1,15 @@
 """
-Fitnova · Procesado de noticias con la IA de Claude.
+Sudor y Ciencia · Procesado de noticias con la IA de Claude.
 
 Para cada noticia, Claude:
-  - decide si es relevante para Fitnova (fitness, nutrición, sueño, salud mental, autocuidado),
+  - decide si es relevante para Sudor y Ciencia (fitness, nutrición, sueño, salud mental, autocuidado),
   - escribe un titular natural en español y una entradilla,
   - la clasifica en una categoría,
   - redacta una explicación en tres partes: qué dice, contexto y "ten en cuenta",
   - le da una puntuación de importancia (para elegir los destacados de la semana).
 
 Necesita la variable de entorno ANTHROPIC_API_KEY (en GitHub: un "secret" del repositorio).
-Si no está, Fitnova sigue funcionando solo con traducción automática.
+Si no está, Sudor y Ciencia sigue funcionando solo con traducción automática.
 """
 
 import json
@@ -21,9 +21,9 @@ VERSION = 2
 MODELO = os.environ.get("FITNOVA_MODELO", "claude-haiku-5-5")
 CATEGORIAS = ["Entrenamiento", "Nutrición", "Sueño", "Salud mental", "Salud general"]
 
-INSTRUCCIONES = f"""Eres el editor de Fitnova, una web en español que explica a personas corrientes las noticias
+INSTRUCCIONES = f"""Eres el editor de Sudor y Ciencia, una web en español que explica a personas corrientes las noticias
 de fitness, nutrición, sueño, salud mental y autocuidado. Recibes el titular y la entradilla de una
-noticia publicada por otro medio (en cualquier idioma) y preparas la ficha de Fitnova.
+noticia publicada por otro medio (en cualquier idioma) y preparas la ficha de Sudor y Ciencia.
 
 La fiabilidad es lo más importante, por encima de que la ficha resulte atractiva:
 - Usa SOLO la información que te doy sobre la noticia. No inventes ni deduzcas cifras, porcentajes,

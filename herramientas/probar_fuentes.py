@@ -1,5 +1,5 @@
 """
-Fitnova · Diagnóstico de fuentes RSS.
+Sudor y Ciencia · Diagnóstico de fuentes RSS.
 
 Prueba las fuentes de herramientas/candidatas.json y guarda en data/prueba_fuentes.json, para cada una:
 si funciona, cuántas noticias trae, cuándo publicó por última vez, qué proporción trae una entradilla
@@ -28,7 +28,7 @@ informe = []
 
 for fuente in candidatas:
     try:
-        datos = feedparser.parse(fuente["url"], agent="Mozilla/5.0 (compatible; FitnovaBot/1.0)")
+        datos = feedparser.parse(fuente["url"], agent="Mozilla/5.0 (compatible; SudorYCienciaBot/1.0)")
         entradas = datos.entries
         estado = datos.get("status")
         if not entradas:

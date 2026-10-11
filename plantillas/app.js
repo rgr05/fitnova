@@ -1,4 +1,4 @@
-// Fitnova · Pequeñas mejoras en el navegador. La web funciona igual sin JavaScript.
+// Sudor y Ciencia · Pequeñas mejoras en el navegador. La web funciona igual sin JavaScript.
 
 // Fechas relativas: "hace 3 h", "ayer"…
 function haceCuanto(fechaISO) {
@@ -66,7 +66,7 @@ if (resultados) {
   fetch(resultados.dataset.indice).then(r => r.json()).then(indice => {
     const palabras = normalizar(consulta).split(/\s+/).filter(Boolean);
     const titulo = document.getElementById("titulo-busqueda");
-    if (!palabras.length) { titulo.textContent = "Busca en Fitnova"; return; }
+    if (!palabras.length) { titulo.textContent = "Busca en Sudor y Ciencia"; return; }
     const encontrados = indice.filter(n => {
       const texto = normalizar(`${n.t} ${n.r} ${n.c} ${n.f}`);
       return palabras.every(p => texto.includes(p));

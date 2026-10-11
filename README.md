@@ -1,4 +1,6 @@
-# Fitnova
+# Sudor y Ciencia
+
+(Antes llamado Fitnova. El código conserva ese nombre en algunos archivos, como `fitnova.py`.)
 
 Web autosuficiente que recopila noticias de fitness, salud y autocuidado de medios de todo el mundo y las traduce al español.
 
