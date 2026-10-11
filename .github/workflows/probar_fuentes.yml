@@ -1,0 +1,31 @@
+# Diagnóstico de fuentes RSS candidatas (se lanza a mano). Guarda el resultado en data/prueba_fuentes.json.
+name: Probar fuentes
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fitnova
+  cancel-in-progress: false
+
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python herramientas/probar_fuentes.py
+      - name: Guardar el informe
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prueba_fuentes.json
+          git diff --cached --quiet || (git commit -m "Informe de prueba de fuentes" && git pull --rebase && git push)
