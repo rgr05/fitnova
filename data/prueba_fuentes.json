@@ -1,0 +1,459 @@
+[
+  {
+    "nombre": "El País · Salud y bienestar",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/salud-y-bienestar/portada",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Salud y bienestar en EL PAÍS",
+    "noticias": 31,
+    "ultima_publicacion": "2026-10-10T03:30:01+00:00",
+    "dias_desde_ultima": 1.4,
+    "con_entradilla_util": 0.81,
+    "longitud_media_entradilla": 162,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "La montaña como gimnasio: por qué el ejercicio en altura beneficia al cuerpo",
+      "El microbioma intestinal influye en efectos adversos de la vacunación como la fiebre",
+      "Barcelona y Madrid tosen, Copenhague y París respiran: las ciudades limpias no son una utopía",
+      "La mejor estrategia contra las superbacterias: esperar 48 horas para iniciar el antibiótico y solo tomarlo si ",
+      "Las mujeres afectadas por los problemas de suministro de hormonas: “Esto no es un capricho, es una necesidad v"
+    ]
+  },
+  {
+    "nombre": "El País · Ciencia",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Ciencia en EL PAÍS",
+    "noticias": 40,
+    "ultima_publicacion": "2026-10-10T03:30:01+00:00",
+    "dias_desde_ultima": 1.4,
+    "con_entradilla_util": 0.72,
+    "longitud_media_entradilla": 149,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "Los Nobel de 2026 honran a los audaces que se enfrentaron a las preguntas esenciales de la ciencia",
+      "El microbioma intestinal influye en efectos adversos de la vacunación como la fiebre",
+      "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
+      "Carlos Briones, divulgador: “No podemos dejar un móvil a un chaval para que no moleste y luego reprocharle que",
+      "La tortuga ‘Jonathan’ tiene 194 años y en sus genes se esconden los secretos de la longevidad"
+    ]
+  },
+  {
+    "nombre": "El Mundo · Ciencia y salud",
+    "url": "https://e00-elmundo.uecdn.es/rss/ciencia-y-salud.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Ciencia y salud // elmundo",
+    "noticias": 7,
+    "ultima_publicacion": "2026-07-22T01:00:44+00:00",
+    "dias_desde_ultima": 81.5,
+    "con_entradilla_util": 0.86,
+    "longitud_media_entradilla": 228,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "Los expertos advierten de los problemas de la gestión del monte: \"El territorio forestal es fruto del abandono",
+      "España cambia de bulo: ahora la desinformación científica se centra en lo que comes",
+      "El cáncer golpea al 92% de la población mundial al menos una vez en su vida, sea por diagnóstico propio o como",
+      "El mito de la cerveza más refrescante del año: por qué es peligroso mezclar alcohol y altas temperaturas",
+      "El psiquiatra que lo sabe todo de la ansiedad y depresión de los jóvenes: \"Su infelicidad no viene de las pant"
+    ]
+  },
+  {
+    "nombre": "El Mundo · Ciencia",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/ciencia.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Ciencia // elmundo",
+    "noticias": 46,
+    "ultima_publicacion": "2026-10-11T09:13:54+00:00",
+    "dias_desde_ultima": 0.2,
+    "con_entradilla_util": 0.89,
+    "longitud_media_entradilla": 230,
+    "con_imagen": 0.98,
+    "ejemplos": [
+      "Google DeepMind logra que una IA resuelva problemas matemáticos que llevaban más de 50 años sin solución",
+      "Los chorros de los agujeros negros podrían 'matar' a sus galaxias",
+      "Neutrinos cósmicos captados en el hielo: otro Nobel astrofísico",
+      "Enanas marrones: en la frontera entre las estrellas y los planetas",
+      "El Tribunal de Estrasburgo declara inadmisible la demanda del Mar Menor contra España"
+    ]
+  },
+  {
+    "nombre": "El Mundo · Salud",
+    "url": "https://e00-elmundo.uecdn.es/elmundosalud/rss/portada.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Salud // elmundo",
+    "noticias": 53,
+    "ultima_publicacion": "2026-10-11T11:54:48+00:00",
+    "dias_desde_ultima": 0.1,
+    "con_entradilla_util": 0.92,
+    "longitud_media_entradilla": 190,
+    "con_imagen": 0.98,
+    "ejemplos": [
+      "Premio Nobel de Medicina para Karl Deisseroth, Peter Hegemann y Georg Nagel por sus descubrimientos en optogen",
+      "La OMS pide a las autoridades rusas más información sobre el posible caso de peste en una trabajadora de un la",
+      "¿A qué edad empieza el cuerpo a 'quejarse'? Un estudio demuestra que los peores dolores ocurren antes de los 5",
+      "Congelar tejido testicular antes de la quimioterapia: el avance que podría permitir tener hijos años después",
+      "El psiquiatra creador del protocolo Sevilla: \"Encontrar herramientas contra el suicidio es lo más importante c"
+    ]
+  },
+  {
+    "nombre": "ABC · Salud",
+    "url": "https://www.abc.es/rss/2.0/salud/",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "RSS de noticias de salud",
+    "noticias": 25,
+    "ultima_publicacion": "2026-10-11T11:34:09+00:00",
+    "dias_desde_ultima": 0.1,
+    "con_entradilla_util": 1.0,
+    "longitud_media_entradilla": 5727,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "«Existe un contraste brutal entre la reputación de Johnson & Johnson y su comportamiento real»",
+      "Menos de la mitad de las facultades de Medicina españolas imparten formación obligatoria en cuidados paliativo",
+      "Un análisis de sangre común puede dar la pista sobre el riesgo de demencia futura",
+      "La culpa de que la vacuna te dé fiebre es de la comida que consumes antes de la inyección",
+      "Luis Paz-Ares, premio ABC Salud 2026: «Si tiene un problema complejo, no busque solo a un buen médico»"
+    ]
+  },
+  {
+    "nombre": "ABC · Bienestar",
+    "url": "https://www.abc.es/rss/2.0/bienestar/",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "RSS de noticias de bienestar",
+    "noticias": 25,
+    "ultima_publicacion": "2026-10-11T11:06:33+00:00",
+    "dias_desde_ultima": 0.1,
+    "con_entradilla_util": 1.0,
+    "longitud_media_entradilla": 4890,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "Asun González, experta en microbiota, señala cuál es la mejor dieta antiinflamatoria: «Con pescado y verduras ",
+      "Marian Rojas Estapé, psiquiatra: «La anticipación exagerada genera estrés crónico y malestar por cosas que muc",
+      "Pablo Ojeda, nutricionista, sobre sus problemas de ludopatía: «El dinero va y viene. Lo que perdí fueron recue",
+      "Hugo, 20 años, exadicto a las pantallas: «Sentí que era un despojo. Ni comía ni salía»",
+      "La felicidad después de los 65: ni una receta única ni una fórmula mágica"
+    ]
+  },
+  {
+    "nombre": "20minutos · Salud",
+    "url": "https://www.20minutos.es/rss/salud/",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "20MINUTOS.ES - Salud",
+    "noticias": 62,
+    "ultima_publicacion": "2026-10-11T12:54:41+00:00",
+    "dias_desde_ultima": 0.0,
+    "con_entradilla_util": 0.63,
+    "longitud_media_entradilla": 136,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "¿Qué tipo de pareja sois? Responde a estas 10 preguntas y descubre cuál es vuestro perfil",
+      "¿Cómo altera realmente el cambio de hora a nuestra piel?",
+      "La anorexia también podría tener una clave en la grasa: descubren un gen relacionado con la enfermedad",
+      "Anticuerpos unidos a fármacos: cien años buscando la bala mágica para el cáncer de mama",
+      "Sanidad actualiza los precios de referencia de cientos de medicamentos: esto costará Sintrom, Victoza, Xarelto"
+    ]
+  },
+  {
+    "nombre": "La Vanguardia · Salud",
+    "url": "https://www.lavanguardia.com/rss/vida/salud.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Salud",
+    "noticias": 100,
+    "ultima_publicacion": "2026-10-11T04:00:00+00:00",
+    "dias_desde_ultima": 0.4,
+    "con_entradilla_util": 0.64,
+    "longitud_media_entradilla": 137,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "Sexo y género, dos claves para desarrollar una medicina más inclusiva",
+      "¿Gafas o lentillas? Cómo combinarlas para cuidar la vista",
+      "Las formas atípicas del Alzheimer quedan fuera de los ensayos clínicos",
+      "Así evoluciona la sexualidad masculina en la madurez",
+      "Tratamientos hormonales para un abordaje más personalizado de la endometriosis"
+    ]
+  },
+  {
+    "nombre": "La Vanguardia · Ciencia",
+    "url": "https://www.lavanguardia.com/rss/ciencia.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Big Vang",
+    "noticias": 100,
+    "ultima_publicacion": "2026-10-11T05:20:15+00:00",
+    "dias_desde_ultima": 0.4,
+    "con_entradilla_util": 0.53,
+    "longitud_media_entradilla": 122,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "La Palma estrena el complex més potent del món per captar l'univers extrem",
+      "Barcelona perd davant Ginebra la seu del congrés mundial aeroespacial el 2029",
+      "La Palma estrena el complejo más potente del mundo para captar el universo extremo",
+      "Barcelona pierde ante Ginebra la sede del congreso mundial aeroespacial en 2029",
+      "Los perros grandes envejecen más rápido que los pequeños"
+    ]
+  },
+  {
+    "nombre": "El Confidencial · Alma, Corazón, Vida",
+    "url": "https://rss.elconfidencial.com/alma-corazon-vida/",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Alma, Corazón, Vida",
+    "noticias": 15,
+    "ultima_publicacion": "2026-10-11T12:45:00+00:00",
+    "dias_desde_ultima": 0.1,
+    "con_entradilla_util": 0.87,
+    "longitud_media_entradilla": 156,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "Carolina Andersson, psicóloga: \"Las personas con trauma complejo se han habituado a transitar situaciones comp",
+      "Jaime, fontanero: “Descontando impuestos, cuotas y gastos, el sueldo real puede rondar los 2.000 o 2.500 euros",
+      "La reflexión de Stephen Hawking, físico: \"El mayor enemigo del conocimiento no es la ignorancia, es la ilusión",
+      "Karlos Arguiñano, chef: \"Si una milanesa a la napolitana está rica, imaginadla con salsa de tomate, jamón coci",
+      "Ester Barranco, psicóloga: \"Una persona con alta sensibilidad va a detectar cosas a un nivel que otras no van "
+    ]
+  },
+  {
+    "nombre": "RTVE · Salud",
+    "url": "https://api2.rtve.es/rss/temas_salud.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Salud en rtve.es",
+    "noticias": 180,
+    "ultima_publicacion": "2022-06-10T08:00:00+00:00",
+    "dias_desde_ultima": 1584.3,
+    "con_entradilla_util": 0.81,
+    "longitud_media_entradilla": 355,
+    "con_imagen": 0.0,
+    "ejemplos": [
+      "'El Escarabajo Verde' descubre los secretos del Museo Nacional de Ciencias Naturales en su 250 aniversario",
+      "Sanidad da luz verde a vacunar con una cuarta dosis a mayores de 80 años y a quienes vivan en residencias",
+      "Sanidad aprueba la vacunación frente a la viruela del mono para los contactos estrechos de casos confirmados",
+      "La vacuna contra la COVID-19 en el mundo: el 66% de la población tiene al menos una dosis",
+      "Mapa del coronavirus en el mundo: casos, muertes y los últimos datos de su evolución"
+    ]
+  },
+  {
+    "nombre": "Agencia SINC",
+    "url": "https://www.agenciasinc.es/rss",
+    "funciona": false,
+    "http": 404,
+    "error": "<unknown>:32:56: not well-formed (invalid token)"
+  },
+  {
+    "nombre": "Agencia SINC · Salud",
+    "url": "https://www.agenciasinc.es/rss/Ciencias-de-la-salud",
+    "funciona": false,
+    "http": 404,
+    "error": "<unknown>:32:56: not well-formed (invalid token)"
+  },
+  {
+    "nombre": "The Conversation España",
+    "url": "https://theconversation.com/es/articles.atom",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "The Conversation – Articles (ES)",
+    "noticias": 50,
+    "ultima_publicacion": "2026-10-09T16:00:25+00:00",
+    "dias_desde_ultima": 1.9,
+    "con_entradilla_util": 0.86,
+    "longitud_media_entradilla": 179,
+    "con_imagen": 0.0,
+    "ejemplos": [
+      "Navi Pillay, Premio Nobel de la Paz 2026: el derecho internacional frente a la ley del más fuerte",
+      "La audacia de traducir a Anne Carson, Premio Nobel de Literatura 2026",
+      "Melatonina: una aliada inesperada contra el tumor cerebral más agresivo",
+      "El estrés agrava la salud y puede provocar la muerte en personas mayores",
+      "Crece el cisma en el Consejo de Seguridad: Reino Unido se posiciona junto a Francia contra el derecho de veto"
+    ]
+  },
+  {
+    "nombre": "The Conversation España · Salud",
+    "url": "https://theconversation.com/es/salud/articles.atom",
+    "funciona": false,
+    "http": 404,
+    "error": "<unknown>:61:57: not well-formed (invalid token)"
+  },
+  {
+    "nombre": "EFE Salud",
+    "url": "https://efesalud.com/feed/",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "EFE Salud",
+    "noticias": 20,
+    "ultima_publicacion": "2026-10-11T11:40:05+00:00",
+    "dias_desde_ultima": 0.1,
+    "con_entradilla_util": 1.0,
+    "longitud_media_entradilla": 469,
+    "con_imagen": 0.0,
+    "ejemplos": [
+      "¿Qué es un nódulo de pulmón como el que tiene el papa León XIV?",
+      "Rusia asegura que no hay casos relacionados con un supuesto brote de peste neumónica y finaliza las medidas de",
+      "Cinco «fakes» sobre la caída del pelo",
+      "Cuando el cuerpo da señales de trastornos de salud mental: desde problemas digestivos hasta acné",
+      "Guía sobre mpox: síntomas, transmisión y tratamiento"
+    ]
+  },
+  {
+    "nombre": "Consumer (Eroski)",
+    "url": "https://www.consumer.es/feed",
+    "funciona": false,
+    "http": 200,
+    "error": "sin noticias"
+  },
+  {
+    "nombre": "CuídatePlus",
+    "url": "https://cuidateplus.marca.com/rss/portada.xml",
+    "funciona": false,
+    "http": 503,
+    "error": "<unknown>:3:20: syntax error"
+  },
+  {
+    "nombre": "Infosalus",
+    "url": "https://www.infosalus.com/rss/",
+    "funciona": false,
+    "http": 200,
+    "error": "<unknown>:3:0: no element found"
+  },
+  {
+    "nombre": "CNN en Español · Salud",
+    "url": "https://cnnespanol.cnn.com/category/salud/feed/",
+    "funciona": false,
+    "http": 404,
+    "error": "<unknown>:9:2: not well-formed (invalid token)"
+  },
+  {
+    "nombre": "Infobae · Salud",
+    "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "Infobae.com",
+    "noticias": 100,
+    "ultima_publicacion": "2026-10-11T13:04:18+00:00",
+    "dias_desde_ultima": 0.0,
+    "con_entradilla_util": 0.82,
+    "longitud_media_entradilla": 167,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "Cinco movimientos para trabajar brazos y hombros mientras se camina",
+      "Seis quesos que pueden aportar probióticos a la salud intestinal",
+      "Qué funcionaría y qué no entre los ingredientes de moda contra el envejecimiento de la piel",
+      "Qué proteínas conviene incorporar para cuidar los músculos durante el envejecimiento",
+      "Casi la mitad de quienes tienen apnea del sueño no ronca seguido: 5 mitos que pueden demorar el diagnóstico"
+    ]
+  },
+  {
+    "nombre": "BBC Mundo",
+    "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "BBC Mundo",
+    "noticias": 33,
+    "ultima_publicacion": "2026-10-11T11:40:04+00:00",
+    "dias_desde_ultima": 0.1,
+    "con_entradilla_util": 0.79,
+    "longitud_media_entradilla": 148,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital d",
+      "El papa León XIV anuncia que será operado de un nódulo en un pulmón",
+      "Jonas I, el autoproclamado rey de Suiza que ha creado un polémico \"imperio\" al apropiarse de terrenos sin dueñ",
+      "Las monumentales construcciones escondidas en la Amazonía recién descubiertas por científicos",
+      "Christa Pike sale del hospital y regresa a prisión 10 días después de sobrevivir a su fallida ejecución"
+    ]
+  },
+  {
+    "nombre": "BBC Mundo · Salud",
+    "url": "https://www.bbc.com/mundo/temas/salud/index.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "BBCMundo.com | Salud",
+    "noticias": 100,
+    "ultima_publicacion": "2014-09-23T05:00:26+00:00",
+    "dias_desde_ultima": 4401.4,
+    "con_entradilla_util": 0.94,
+    "longitud_media_entradilla": 185,
+    "con_imagen": 1.0,
+    "ejemplos": [
+      "¿Pueden los ciegos ver en sueños?",
+      "Presidente de Guinea asegura que su país está movilzado contra el ébola",
+      "OMS afirmó que 2.800 personas han muerto a causa del Ébola",
+      "Los inodoros que ayudan a los haitianos a cultivar sus alimentos",
+      "Un inodoro para combatir enfermedades"
+    ]
+  },
+  {
+    "nombre": "OMS · Noticias en español",
+    "url": "https://www.who.int/es/rss-feeds/news-spanish.xml",
+    "funciona": false,
+    "http": 404,
+    "error": "text/html is not an XML media type"
+  },
+  {
+    "nombre": "MedlinePlus · Noticias (es)",
+    "url": "https://medlineplus.gov/feeds/news_es.xml",
+    "funciona": false,
+    "http": 404,
+    "error": "<unknown>:72:50: not well-formed (invalid token)"
+  },
+  {
+    "nombre": "MedlinePlus · Noticias (es) 2",
+    "url": "https://medlineplus.gov/spanish/feeds/news_es.xml",
+    "funciona": false,
+    "http": 404,
+    "error": "<unknown>:72:50: not well-formed (invalid token)"
+  },
+  {
+    "nombre": "Science Media Centre España",
+    "url": "https://sciencemediacentre.es/rss.xml",
+    "funciona": true,
+    "http": 200,
+    "titulo_canal": "SMC Esp - Science Media Centre España",
+    "noticias": 10,
+    "ultima_publicacion": "2026-04-06T07:00:00+00:00",
+    "dias_desde_ultima": 188.3,
+    "con_entradilla_util": 0.2,
+    "longitud_media_entradilla": 155,
+    "con_imagen": 0.0,
+    "ejemplos": [
+      "Cómo detectar el ‘hype’ en un campo científico y qué hacer para cubrirlo bien",
+      "Guía rápida para informar sobre obesidad sin caer en errores",
+      "La ciencia de 2024: estos son nuestros diez titulares más leídos",
+      "Periodismo sobre riesgos: guía para informar con claridad sea cual sea el tema",
+      "El riesgo es un concepto complejo: ¿qué significado le das?"
+    ]
+  },
+  {
+    "nombre": "Quirónsalud · Actualidad",
+    "url": "https://www.quironsalud.com/es/feed-rss",
+    "funciona": false,
+    "http": 403,
+    "error": "<unknown>:10:2: mismatched tag"
+  },
+  {
+    "nombre": "Muy Interesante · Salud",
+    "url": "https://www.muyinteresante.com/salud/rss",
+    "funciona": true,
+    "http": 301,
+    "titulo_canal": "Salud en Muy Interesante",
+    "noticias": 20,
+    "ultima_publicacion": "2026-10-09T08:02:18+00:00",
+    "dias_desde_ultima": 2.3,
+    "con_entradilla_util": 0.95,
+    "longitud_media_entradilla": 167,
+    "con_imagen": 0.0,
+    "ejemplos": [
+      "El mapa de España que revela dónde es más probable que el radón se acumule en las viviendas",
+      "Los virus antiguos ocultos en nuestro genoma podrían reactivarse con la edad e influir en el envejecimiento",
+      "Por qué el cuerpo humano evolucionó para correr largas distancias y cazar por persistencia",
+      "Creadores de contenido: cómo las redes sociales afectan a su salud y bienestar",
+      "Creíamos que un dron con desfibrilador salvaría vidas, pero ¿basta con que el aparato llegue a tiempo?"
+    ]
+  }
+]
