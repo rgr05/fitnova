@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-11T12:54:31.030357+00:00",
+  "fecha": "2026-10-11T13:11:07.845140+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -10,13 +10,17 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_publicadas": 103,
-  "traducidas_ahora": 1,
-  "traducciones_fallidas": 0,
-  "pendientes_de_traducir": 0,
+  "noticias_en_archivo": 117,
+  "noticias_publicadas": 117,
+  "descartadas_por_ia": 0,
+  "procesadas_con_ia_ahora": 0,
+  "ia_activada": false,
+  "errores_ia": [],
+  "traducidas_ahora": 14,
+  "pendientes": 0,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 1
+    "mymemory": 28
   },
   "errores_de_traduccion": [
     "google: HTTPError: HTTP Error 429: Too Many Requests"

@@ -10,7 +10,9 @@
     "traducida": true,
     "titulo": "Efectos sobre la salud hepática y el riesgo de muerte: esta versión fresca de la dieta mediterránea ha sorprendido a los investigadores",
     "resumen": "",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "09cfc57e",
+    "slug": "efectos-sobre-la-salud-hepatica-y-el-riesgo-de-muerte-esta-version-fre-09cfc57e"
   },
   {
     "titulo_original": "Ridurre gli ultraprocessati migliora anche la salute mentale?",
@@ -23,7 +25,9 @@
     "traducida": true,
     "titulo": "¿Reducir los ultraprocesados también mejora la salud mental?",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "290a0c29",
+    "slug": "reducir-los-ultraprocesados-tambien-mejora-la-salud-mental-290a0c29"
   },
   {
     "titulo_original": "Insomnia linked to higher risk of dementia, suicide, stroke and other major health issues: Study",
@@ -36,7 +40,9 @@
     "traducida": true,
     "titulo": "El insomnio relacionado con un mayor riesgo de demencia, suicidio, accidente cerebrovascular y otros problemas de salud importantes: Estudio",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "ccfca93b",
+    "slug": "el-insomnio-relacionado-con-un-mayor-riesgo-de-demencia-suicidio-accid-ccfca93b"
   },
   {
     "titulo_original": "Eating olive oil before carbs has a surprising effect on blood sugar",
@@ -49,7 +55,9 @@
     "traducida": true,
     "titulo": "Comer aceite de oliva antes que los carbohidratos tiene un efecto sorprendente sobre el azúcar en la sangre",
     "resumen": "Un simple cambio en el orden en que come sus alimentos podría ayudar a prevenir los picos de azúcar en la sangre. Los científicos descubrieron que dar aceite de oliva a los ratones antes que los carbohidratos ralentizaba la digestión y activaba una sorprendente combinación de hormonas y señales nerviosas que ayudaban a regular el azúcar en la sangre,...",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "d5c8c80a",
+    "slug": "comer-aceite-de-oliva-antes-que-los-carbohidratos-tiene-un-efecto-sorp-d5c8c80a"
   },
   {
     "titulo_original": "A plastic once thought harmless may be fueling fatty liver disease",
@@ -62,7 +70,9 @@
     "traducida": true,
     "titulo": "Un plástico que alguna vez se pensó inofensivo puede estar alimentando la enfermedad del hígado graso",
     "resumen": "Uno de los plásticos más comunes del mundo puede representar una amenaza oculta para la salud del hígado. Los investigadores de Texas A&M descubrieron que los microplásticos de polietileno pueden contribuir a la enfermedad del hígado graso, con efectos potencialmente peores cuando se combinan con una dieta poco saludable. Aún más sorprendente,...",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "2663dc94",
+    "slug": "un-plastico-que-alguna-vez-se-penso-inofensivo-puede-estar-alimentando-2663dc94"
   },
   {
     "titulo_original": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
@@ -75,7 +85,9 @@
     "traducida": true,
     "titulo": "Una forma sorprendentemente sencilla de aliviar el dolor de artritis de rodilla sin pastillas ni cirugía",
     "resumen": "Un cambio sorprendentemente simple en la forma de caminar podría ayudar a aliviar el dolor de artritis de rodilla e incluso retrasar el daño articular. En un ensayo clínico de un año de duración, los investigadores descubrieron que ajustar el ángulo del pie de una persona al caminar reducía el dolor de la osteoartritis en una cantidad comparable a...",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "c2792823",
+    "slug": "una-forma-sorprendentemente-sencilla-de-aliviar-el-dolor-de-artritis-d-c2792823"
   },
   {
     "titulo_original": "Wenig Zeit, große Wirkung: Was kurzes Krafttraining bringt",
@@ -88,7 +100,9 @@
     "traducida": true,
     "titulo": "Poco tiempo, gran efecto: lo que aporta el entrenamiento de fuerza corto",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "83129262",
+    "slug": "poco-tiempo-gran-efecto-lo-que-aporta-el-entrenamiento-de-fuerza-corto-83129262"
   },
   {
     "titulo_original": "Studie zeigt: Nur 4 Minuten Training pro Tag können die Fitness verbessern",
@@ -101,7 +115,9 @@
     "traducida": true,
     "titulo": "Un estudio muestra que solo 4 minutos de ejercicio al día pueden mejorar la condición física",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "28dc512c",
+    "slug": "un-estudio-muestra-que-solo-4-minutos-de-ejercicio-al-dia-pueden-mejor-28dc512c"
   },
   {
     "titulo_original": "La combinación de nutrientes de los pistachos apunta a un potencial prometedor para la salud del sueño, según un estudio",
@@ -114,7 +130,9 @@
     "traducida": true,
     "titulo": "La combinación de nutrientes de los pistachos apunta a un potencial prometedor para la salud del sueño, según un estudio",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "6df74bf1",
+    "slug": "la-combinacion-de-nutrientes-de-los-pistachos-apunta-a-un-potencial-pr-6df74bf1"
   },
   {
     "titulo_original": "Un estudio de UNIR revela el escaso impacto de las campañas sobre salud mental en la red social X",
@@ -127,7 +145,9 @@
     "traducida": true,
     "titulo": "Un estudio de UNIR revela el escaso impacto de las campañas sobre salud mental en la red social X",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "152fa9b3",
+    "slug": "un-estudio-de-unir-revela-el-escaso-impacto-de-las-campanas-sobre-salu-152fa9b3"
   },
   {
     "titulo_original": "Charge mentale. Santé, éducation, mode de garde… Les propriétaires d’animaux de compagnie sont eux aussi touchés",
@@ -140,7 +160,9 @@
     "traducida": true,
     "titulo": "Carga mental. Salud, educación, cuidado… Los dueños de mascotas también se ven afectados",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "8d17b0db",
+    "slug": "carga-mental-salud-educacion-cuidado-los-duenos-de-mascotas-tambien-se-8d17b0db"
   },
   {
     "titulo_original": "Rien de tel qu’un bon sommeil pour se prémunir des maladies !",
@@ -153,7 +175,9 @@
     "traducida": true,
     "titulo": "¡No hay nada como un buen sueño para protegerse de las enfermedades!",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "62e24237",
+    "slug": "no-hay-nada-como-un-buen-sueno-para-protegerse-de-las-enfermedades-62e24237"
   },
   {
     "titulo_original": "Hohe Bildschirmzeit und psychische Gesundheit: Was eine Zwillingsstudie wirklich zeigt",
@@ -166,7 +190,9 @@
     "traducida": true,
     "titulo": "Tiempo de pantalla alto y salud mental: lo que realmente muestra un estudio de gemelos",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "73994beb",
+    "slug": "tiempo-de-pantalla-alto-y-salud-mental-lo-que-realmente-muestra-un-est-73994beb"
   },
   {
     "titulo_original": "Saúde mental é principal preocupação em relação à saúde para 58% dos brasileiros, diz pesquisa",
@@ -179,7 +205,9 @@
     "traducida": true,
     "titulo": "La salud mental es el principal problema de salud para el 58% de los brasileños, según una encuesta",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "aabc4ea1",
+    "slug": "la-salud-mental-es-el-principal-problema-de-salud-para-el-58-de-los-br-aabc4ea1"
   },
   {
     "titulo_original": "'Dia da Saúde Mental' alerta para os riscos do esgotamento na rotina",
@@ -192,7 +220,9 @@
     "traducida": true,
     "titulo": "El 'Día de la Salud Mental' alerta sobre los riesgos de agotamiento en la rutina",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "09b2feb2",
+    "slug": "el-dia-de-la-salud-mental-alerta-sobre-los-riesgos-de-agotamiento-en-l-09b2feb2"
   },
   {
     "titulo_original": "El 85 % del día sin movernos: la alerta de ASICS en el Día Mundial de la Salud Mental",
@@ -205,7 +235,9 @@
     "traducida": true,
     "titulo": "El 85 % del día sin movernos: la alerta de ASICS en el Día Mundial de la Salud Mental",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "1de03fdf",
+    "slug": "el-85-del-dia-sin-movernos-la-alerta-de-asics-en-el-dia-mundial-de-la-1de03fdf"
   },
   {
     "titulo_original": "Sonno interrotto, profumi e odori possono aiutare? Lo studio giapponese sui risvegli notturni",
@@ -218,7 +250,9 @@
     "traducida": true,
     "titulo": "¿El sueño interrumpido, los aromas y los olores pueden ayudar? El estudio japonés sobre los despertares nocturnos",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "90839be0",
+    "slug": "el-sueno-interrumpido-los-aromas-y-los-olores-pueden-ayudar-el-estudio-90839be0"
   },
   {
     "titulo_original": "Santé mentale en Afrique : au Togo, une étude de la Bluemind Foundation auprès de 576 femmes révèle le rôle de la confiance avant l'accès aux soins",
@@ -231,7 +265,9 @@
     "traducida": true,
     "titulo": "Salud mental en África: en Togo, un estudio de la Bluemind Foundation con 576 mujeres revela el papel de la confianza antes del acceso a la atención",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "7bc61c26",
+    "slug": "salud-mental-en-africa-en-togo-un-estudio-de-la-bluemind-foundation-co-7bc61c26"
   },
   {
     "titulo_original": "Get paid: Research opportunities and on-campus jobs",
@@ -244,7 +280,9 @@
     "traducida": true,
     "titulo": "Reciba su pago: oportunidades de investigación y trabajos en el campus",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "606c731a",
+    "slug": "reciba-su-pago-oportunidades-de-investigacion-y-trabajos-en-el-campus-606c731a"
   },
   {
     "titulo_original": "Dormir com cachorro atrapalha o sono? Estudo encontra resposta que surpreende",
@@ -257,7 +295,9 @@
     "traducida": true,
     "titulo": "¿Dormir con un perro interfiere con el sueño? Estudio encuentra respuesta que sorprende",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "d1c7dd26",
+    "slug": "dormir-con-un-perro-interfiere-con-el-sueno-estudio-encuentra-respuest-d1c7dd26"
   },
   {
     "titulo_original": "Deep learning model using ECGs during sleep studies can predict cardiovascular outcomes",
@@ -270,7 +310,9 @@
     "traducida": true,
     "titulo": "El modelo de aprendizaje profundo que utiliza ECG durante los estudios del sueño puede predecir los resultados cardiovasculares",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "cc58a039",
+    "slug": "el-modelo-de-aprendizaje-profundo-que-utiliza-ecg-durante-los-estudios-cc58a039"
   },
   {
     "titulo_original": "Cannabis e sonno, notti più lunghe ma riposo più frammentato: lo studio su 1.266 persone",
@@ -283,7 +325,9 @@
     "traducida": true,
     "titulo": "Cannabis y sueño, noches más largas pero descanso más fragmentado: el estudio de 1.266 personas",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "af5eee45",
+    "slug": "cannabis-y-sueno-noches-mas-largas-pero-descanso-mas-fragmentado-el-es-af5eee45"
   },
   {
     "titulo_original": "Estudo Nacional de Saúde Mental inicia na Uece – FAEC – Faculdade de Educação e Ciências Integradas de Crateús",
@@ -296,7 +340,9 @@
     "traducida": true,
     "titulo": "El Estudio Nacional de Salud Mental comienza en UECE – FAEC – Faculdade de Educação e Ciências Integradas de Crateús",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "de1a6216",
+    "slug": "el-estudio-nacional-de-salud-mental-comienza-en-uece-faec-faculdade-de-de1a6216"
   },
   {
     "titulo_original": "Fezolinetanto se associa à melhora do sono na menopausa",
@@ -309,7 +355,9 @@
     "traducida": true,
     "titulo": "Fezolinetant se asocia con una mejoría del sueño durante la menopausia",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "3f04d24d",
+    "slug": "fezolinetant-se-asocia-con-una-mejoria-del-sueno-durante-la-menopausia-3f04d24d"
   },
   {
     "titulo_original": "Quel rôle le collège et le lycée jouent-ils dans la santé mentale des élèves ? Une étude australienne lève un coin du voile",
@@ -322,7 +370,9 @@
     "traducida": true,
     "titulo": "¿Qué papel juegan la universidad y la escuela secundaria en la salud mental de los estudiantes? Un estudio australiano levanta un rincón del velo",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "607e0ded",
+    "slug": "que-papel-juegan-la-universidad-y-la-escuela-secundaria-en-la-salud-me-607e0ded"
   },
   {
     "titulo_original": "Surveiller, se reproduire, récupérer : comment les chimpanzés organisent leurs nuits",
@@ -335,7 +385,9 @@
     "traducida": true,
     "titulo": "Vigilar, reproducirse, recuperarse: cómo los chimpancés organizan sus noches",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "5efc2caa",
+    "slug": "vigilar-reproducirse-recuperarse-como-los-chimpances-organizan-sus-noc-5efc2caa"
   },
   {
     "titulo_original": "Ana Buitrago presenta el Programa Bienestar Integral ICAM y el I Estudio sobre la Salud Mental en la Abogacía Madrileña en la Conferencia Anual de la IBA en Copenhague - ICAM",
@@ -348,7 +400,9 @@
     "traducida": true,
     "titulo": "Ana Buitrago presenta el Programa Bienestar Integral ICAM y el I Estudio sobre la Salud Mental en la Abogacía Madrileña en la Conferencia Anual de la IBA en Copenhague - ICAM",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "ab6a369a",
+    "slug": "ana-buitrago-presenta-el-programa-bienestar-integral-icam-y-el-i-estud-ab6a369a"
   },
   {
     "titulo_original": "Due minuti di movimento in più al giorno valgono un anno di vita",
@@ -361,7 +415,9 @@
     "traducida": true,
     "titulo": "Dos minutos más de movimiento al día valen un año de vida",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "482eddf6",
+    "slug": "dos-minutos-mas-de-movimiento-al-dia-valen-un-ano-de-vida-482eddf6"
   },
   {
     "titulo_original": "Un estudio del Hospital Provincial de Castellón analiza el uso de la comunicación para reducir las crisis en pacientes de salud mental",
@@ -374,7 +430,9 @@
     "traducida": true,
     "titulo": "Un estudio del Hospital Provincial de Castellón analiza el uso de la comunicación para reducir las crisis en pacientes de salud mental",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "7bb004cc",
+    "slug": "un-estudio-del-hospital-provincial-de-castellon-analiza-el-uso-de-la-c-7bb004cc"
   },
   {
     "titulo_original": "Only one workout helped older adults lose fat and keep muscle",
@@ -387,7 +445,9 @@
     "traducida": true,
     "titulo": "Solo un entrenamiento ayudó a los adultos mayores a perder grasa y mantener los músculos",
     "resumen": "Un estudio de seis meses sugiere que el entrenamiento en intervalos de alta intensidad (HIIT) puede ofrecer a los adultos mayores una poderosa ventaja: perder grasa corporal mientras mantienen su músculo. A diferencia de los entrenamientos de intensidad moderada, que llevaron a una pequeña pérdida de músculo magro, el HIIT lo conservó y al mismo tiempo mejoró...",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "20864470",
+    "slug": "solo-un-entrenamiento-ayudo-a-los-adultos-mayores-a-perder-grasa-y-man-20864470"
   },
   {
     "titulo_original": "Dormire con il cane non rovina il sonno: studio della University of Toronto ribalta i luoghi comuni",
@@ -400,7 +460,9 @@
     "traducida": true,
     "titulo": "Dormir con el perro no arruina el sueño: estudio de la Universidad de Toronto da la vuelta a los clichés",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "ab5b257d",
+    "slug": "dormir-con-el-perro-no-arruina-el-sueno-estudio-de-la-universidad-de-t-ab5b257d"
   },
   {
     "titulo_original": "Lo studio: dormire con il cane non peggiora il sonno, ma può aiutare la regolarità",
@@ -413,7 +475,9 @@
     "traducida": true,
     "titulo": "El estudio: dormir con el perro no empeora el sueño, pero puede ayudar a la regularidad",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "1ac90270",
+    "slug": "el-estudio-dormir-con-el-perro-no-empeora-el-sueno-pero-puede-ayudar-a-1ac90270"
   },
   {
     "titulo_original": "«Dormire con i cani nel letto non disturba il nostro sonno. Anzi, siamo noi a disturbare il loro». Lo studio dell'università di Toronto",
@@ -426,7 +490,9 @@
     "traducida": true,
     "titulo": "-Dormir con los perros en la cama no perturba nuestro sueño. De hecho, somos nosotros los que molestamos a los suyos ». El estudio de la Universidad de Toronto",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "4bf90243",
+    "slug": "dormir-con-los-perros-en-la-cama-no-perturba-nuestro-sueno-de-hecho-so-4bf90243"
   },
   {
     "titulo_original": "The Trevor Project Honors Zara Larsson with 2026 Mental Health Champion of the Year Award",
@@ -439,7 +505,9 @@
     "traducida": true,
     "titulo": "The Trevor Project honra a Zara Larsson con el Premio al Campeón del Año de Salud Mental 2026",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "91195ea8",
+    "slug": "the-trevor-project-honra-a-zara-larsson-con-el-premio-al-campeon-del-a-91195ea8"
   },
   {
     "titulo_original": "Dormir 7 ou 9 heures ? Une vaste étude révèle quelle durée de sommeil semble protéger le cerveau de la démence",
@@ -452,7 +520,9 @@
     "traducida": true,
     "titulo": "¿Dormir 7 o 9 horas? Un gran estudio revela cuánto tiempo de sueño parece proteger el cerebro de la demencia",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "2cd1ea55",
+    "slug": "dormir-7-o-9-horas-un-gran-estudio-revela-cuanto-tiempo-de-sueno-parec-2cd1ea55"
   },
   {
     "titulo_original": "Scientists tested 5 natural compounds on cancer cells. One stood out",
@@ -465,7 +535,9 @@
     "traducida": true,
     "titulo": "Los científicos probaron 5 compuestos naturales en células cancerosas, destacando uno",
     "resumen": "Se probaron cinco compuestos naturales, incluyendo la curcumina y la berberina, por sus efectos sobre las células cancerosas y las células musculares sanas. Todo interrumpió la producción de energía de las células cancerosas y empujó a muchas de las células a un estado de no división, con la curcumina produciendo el más fuerte en general...",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "0a838b99",
+    "slug": "los-cientificos-probaron-5-compuestos-naturales-en-celulas-cancerosas-0a838b99"
   },
   {
     "titulo_original": "Sharing beds with dogs doesn’t seem to spoil sleep, at least not for the humans",
@@ -478,7 +550,9 @@
     "traducida": true,
     "titulo": "Compartir camas con perros no parece estropear el sueño, al menos no para los humanos",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "3574ac20",
+    "slug": "compartir-camas-con-perros-no-parece-estropear-el-sueno-al-menos-no-pa-3574ac20"
   },
   {
     "titulo_original": "Spotlight on World Mental Health Day 2026",
@@ -491,7 +565,9 @@
     "traducida": true,
     "titulo": "Enfoque en el Día Mundial de la Salud Mental 2026",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "1dcbf479",
+    "slug": "enfoque-en-el-dia-mundial-de-la-salud-mental-2026-1dcbf479"
   },
   {
     "titulo_original": "Unraveling the multifaceted relationship between creativity and mental health with longitudinal analyses of genotyped twins",
@@ -504,7 +580,9 @@
     "traducida": true,
     "titulo": "Desentrañar la relación multifacética entre la creatividad y la salud mental con análisis longitudinales de gemelos genotipados",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "d596a912",
+    "slug": "desentranar-la-relacion-multifacetica-entre-la-creatividad-y-la-salud-d596a912"
   },
   {
     "titulo_original": "Santé mentale : neuf jeunes sur dix supportent mal la pression à la réussite scolaire",
@@ -517,7 +595,9 @@
     "traducida": true,
     "titulo": "Salud mental: nueve de cada diez jóvenes soportan mal la presión para alcanzar el éxito escolar",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "38c5ac10",
+    "slug": "salud-mental-nueve-de-cada-diez-jovenes-soportan-mal-la-presion-para-a-38c5ac10"
   },
   {
     "titulo_original": "Santé mentale : « Trois fois plus de risque d’être atteints de détresse psychologique », neuf jeunes sur dix ressentent une forte pression à la réussite scolaire, selon une étude",
@@ -530,7 +610,9 @@
     "traducida": true,
     "titulo": "Salud mental: \"Tres veces más riesgo de sufrir trastornos psicológicos\", nueve de cada diez jóvenes experimentan una fuerte presión para el éxito escolar, según un estudio",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "85128900",
+    "slug": "salud-mental-tres-veces-mas-riesgo-de-sufrir-trastornos-psicologicos-n-85128900"
   },
   {
     "titulo_original": "Study finds positive parenting teaches children how to experience joy—and could lead to better mental health",
@@ -543,7 +625,9 @@
     "traducida": true,
     "titulo": "Un estudio encuentra que la crianza positiva enseña a los niños a experimentar la alegría y podría conducir a una mejor salud mental",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "1cdc6b82",
+    "slug": "un-estudio-encuentra-que-la-crianza-positiva-ensena-a-los-ninos-a-expe-1cdc6b82"
   },
   {
     "titulo_original": "Santé mentale : pression scolaire, réseaux sociaux, solitude... Un tiers des jeunes présentent des symptômes anxieux ou dépressifs, selon une étude",
@@ -556,7 +640,9 @@
     "traducida": true,
     "titulo": "Salud mental: presión escolar, redes sociales, soledad… Un tercio de los jóvenes presentan síntomas de ansiedad o depresión, según un estudio",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "537d6052",
+    "slug": "salud-mental-presion-escolar-redes-sociales-soledad-un-tercio-de-los-j-537d6052"
   },
   {
     "titulo_original": "Più schermi, più problemi di salute mentale? Lo studio sui gemelli ridimensiona il legame",
@@ -569,7 +655,9 @@
     "traducida": true,
     "titulo": "¿Más pantallas, más problemas de salud mental? El estudio de los gemelos reduce la relación",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "cea73b93",
+    "slug": "mas-pantallas-mas-problemas-de-salud-mental-el-estudio-de-los-gemelos-cea73b93"
   },
   {
     "titulo_original": "Lie down with dogs, wake up refreshed? That’s what a new study suggests.",
@@ -582,7 +670,9 @@
     "traducida": true,
     "titulo": "¿Acuéstate con perros, despierta renovado? Eso es lo que sugiere un nuevo estudio.",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "1791e7f4",
+    "slug": "acuestate-con-perros-despierta-renovado-eso-es-lo-que-sugiere-un-nuevo-1791e7f4"
   },
   {
     "titulo_original": "Défier le temps qui passe : le guide pour bien vieillir",
@@ -595,7 +685,9 @@
     "traducida": true,
     "titulo": "Desafía el paso del tiempo: la guía para envejecer bien",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "fbdad8b1",
+    "slug": "desafia-el-paso-del-tiempo-la-guia-para-envejecer-bien-fbdad8b1"
   },
   {
     "titulo_original": "Mehr Kraft durch Schokoladenduft? Was Forscher im Beintraining beobachteten",
@@ -608,7 +700,9 @@
     "traducida": true,
     "titulo": "¿Más potencia gracias a la fragancia de chocolate? Lo que observaron los investigadores en el entrenamiento de piernas",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "55ac6b1c",
+    "slug": "mas-potencia-gracias-a-la-fragancia-de-chocolate-lo-que-observaron-los-55ac6b1c"
   },
   {
     "titulo_original": "Viel zu tun und trotzdem weniger depressive Symptome? Das zeigt eine Studie",
@@ -621,7 +715,9 @@
     "traducida": true,
     "titulo": "¿Mucho por hacer y, sin embargo, menos síntomas depresivos? Así lo demuestra un estudio",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "4217ff3d",
+    "slug": "mucho-por-hacer-y-sin-embargo-menos-sintomas-depresivos-asi-lo-demuest-4217ff3d"
   },
   {
     "titulo_original": "Just 7 days of strength training started shrinking fat cells in mice",
@@ -634,7 +730,9 @@
     "traducida": true,
     "titulo": "Solo 7 días de entrenamiento de fuerza comenzaron a reducir las células grasas en ratones",
     "resumen": "Solo siete sesiones de entrenamiento de fuerza ayudaron a los ratones obesos a reducir las células de grasa visceral y reactivar las vías moleculares involucradas en la quema de grasa almacenada, a pesar de que no hubo cambios en el peso corporal general. Los hallazgos sugieren que algunos beneficios del ejercicio de resistencia pueden comenzar mucho antes del peso...",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "709542d2",
+    "slug": "solo-7-dias-de-entrenamiento-de-fuerza-comenzaron-a-reducir-las-celula-709542d2"
   },
   {
     "titulo_original": "Dieser Stoff steigert wohl die Muskelmasse",
@@ -647,7 +745,9 @@
     "traducida": true,
     "titulo": "Esta sustancia aumenta la masa muscular",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "deb5bd4a",
+    "slug": "esta-sustancia-aumenta-la-masa-muscular-deb5bd4a"
   },
   {
     "titulo_original": "Adiós al mito: el ejercicio regular impulsa las notas académicas en adolescentes",
@@ -660,7 +760,9 @@
     "traducida": true,
     "titulo": "Adiós al mito: el ejercicio regular impulsa las notas académicas en adolescentes",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "d9902fcc",
+    "slug": "adios-al-mito-el-ejercicio-regular-impulsa-las-notas-academicas-en-ado-d9902fcc"
   },
   {
     "titulo_original": "Scientists warn a popular vitamin D supplement may have a hidden downside",
@@ -673,7 +775,9 @@
     "traducida": true,
     "titulo": "Los científicos advierten que un popular suplemento de vitamina D puede tener un inconveniente oculto",
     "resumen": "No todos los suplementos de vitamina D son iguales, y una nueva investigación sugiere que una forma popular puede tener un inconveniente inesperado. Los científicos descubrieron que tomar vitamina D2 en realidad puede reducir los niveles de vitamina D3 del cuerpo, la forma producida naturalmente por la luz solar y más...",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "5c3cd72c",
+    "slug": "los-cientificos-advierten-que-un-popular-suplemento-de-vitamina-d-pued-5c3cd72c"
   },
   {
     "titulo_original": "La santé mentale au travail se dégrade",
@@ -686,7 +790,9 @@
     "traducida": true,
     "titulo": "La salud mental en el trabajo se deteriora",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "49d4f8e3",
+    "slug": "la-salud-mental-en-el-trabajo-se-deteriora-49d4f8e3"
   },
   {
     "titulo_original": "Not all trans fats are bad, major review finds",
@@ -699,7 +805,9 @@
     "traducida": true,
     "titulo": "No todas las grasas trans son malas, encuentra una revisión importante",
     "resumen": "Un gran análisis de 22 estudios encontró que las grasas trans presentes naturalmente en los productos lácteos como la leche, la mantequilla, el yogur y el queso no parecen aumentar el riesgo de enfermedades cardíacas o diabetes tipo 2. A diferencia de las grasas trans industriales de aceites parcialmente hidrogenados, las grasas trans lácteas...",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "4af96d5c",
+    "slug": "no-todas-las-grasas-trans-son-malas-encuentra-una-revision-importante-4af96d5c"
   },
   {
     "titulo_original": "Falta de controle sobre a tecnologia afeta a saúde mental, indica estudo",
@@ -712,7 +820,9 @@
     "traducida": true,
     "titulo": "La falta de control sobre la tecnología afecta a la salud mental, según un estudio",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "c5131b6f",
+    "slug": "la-falta-de-control-sobre-la-tecnologia-afecta-a-la-salud-mental-segun-c5131b6f"
   },
   {
     "titulo_original": "Un estudio afirma que esta es la mejor hora para dejar de comer antes de irnos a dormir para mejorar la salud del corazón: \"No se consigue un sueño profundo y reparador si se ha hecho una comida abundante\"",
@@ -725,7 +835,9 @@
     "traducida": true,
     "titulo": "Un estudio afirma que esta es la mejor hora para dejar de comer antes de irnos a dormir para mejorar la salud del corazón: \"No se consigue un sueño profundo y reparador si se ha hecho una comida abundante\"",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "86aca3cb",
+    "slug": "un-estudio-afirma-que-esta-es-la-mejor-hora-para-dejar-de-comer-antes-86aca3cb"
   },
   {
     "titulo_original": "Poor sleep can cause employees to clash with superiors, research finds",
@@ -738,7 +850,9 @@
     "traducida": true,
     "titulo": "La falta de sueño puede hacer que los empleados choquen con sus superiores, según una investigación",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "83b19a78",
+    "slug": "la-falta-de-sueno-puede-hacer-que-los-empleados-choquen-con-sus-superi-83b19a78"
   },
   {
     "titulo_original": "Study examines rising use of emergency holds for youth in mental health crisis",
@@ -751,7 +865,9 @@
     "traducida": true,
     "titulo": "Un estudio examina el creciente uso de suspensiones de emergencia para jóvenes en crisis de salud mental",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "e0a93dea",
+    "slug": "un-estudio-examina-el-creciente-uso-de-suspensiones-de-emergencia-para-e0a93dea"
   },
   {
     "titulo_original": "STUDIO: DORMIRE CON IL CANE NON RIDUCE DURATA E QUALITA’ DEL SONNO",
@@ -764,7 +880,9 @@
     "traducida": true,
     "titulo": "ESTUDIO: DORMIR CON EL PERRO NO REDUCE LA DURACIÓN Y CALIDAD DEL SUEÑO",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "49e461c2",
+    "slug": "estudio-dormir-con-el-perro-no-reduce-la-duracion-y-calidad-del-sueno-49e461c2"
   },
   {
     "titulo_original": "Desempenho dos filhos na escola pode ter relação com a saúde mental da mãe, sugere estudo",
@@ -777,7 +895,9 @@
     "traducida": true,
     "titulo": "El rendimiento de los niños en la escuela puede estar relacionado con la salud mental de la madre, sugiere un estudio",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "ba2acc1b",
+    "slug": "el-rendimiento-de-los-ninos-en-la-escuela-puede-estar-relacionado-con-ba2acc1b"
   },
   {
     "titulo_original": "Taking antibiotics? Sugar may be making the damage worse",
@@ -790,7 +910,9 @@
     "traducida": true,
     "titulo": "¿Toma antibióticos? El azúcar puede estar empeorando el daño",
     "resumen": "Comer más azúcar mientras se toman antibióticos se relacionó con una mayor alteración del microbioma intestinal y un mayor crecimiento de bacterias potencialmente dañinas. Los investigadores dicen que reducir temporalmente los dulces durante y después del tratamiento con antibióticos podría ser una forma sencilla de reducir esto...",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "c149bf2d",
+    "slug": "toma-antibioticos-el-azucar-puede-estar-empeorando-el-dano-c149bf2d"
   },
   {
     "titulo_original": "A pílula do exercício existe? Entenda o que a ciência está realmente tentando criar",
@@ -803,7 +925,9 @@
     "traducida": true,
     "titulo": "¿Existe la píldora de ejercicio? Entender lo que la ciencia realmente está tratando de crear",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "6bf47571",
+    "slug": "existe-la-pildora-de-ejercicio-entender-lo-que-la-ciencia-realmente-es-6bf47571"
   },
   {
     "titulo_original": "Cannabis e saúde mental: promessas e lacunas nas evidências",
@@ -816,7 +940,9 @@
     "traducida": true,
     "titulo": "El cannabis y la salud mental: promesas y lagunas en la evidencia",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "e8188836",
+    "slug": "el-cannabis-y-la-salud-mental-promesas-y-lagunas-en-la-evidencia-e8188836"
   },
   {
     "titulo_original": "Estudo relaciona consumo de fibras à qualidade do sono",
@@ -829,7 +955,9 @@
     "traducida": true,
     "titulo": "Un estudio vincula el consumo de fibra con la calidad del sueño",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "6c96ec82",
+    "slug": "un-estudio-vincula-el-consumo-de-fibra-con-la-calidad-del-sueno-6c96ec82"
   },
   {
     "titulo_original": "A Hot Bath May Lower Your Blood Pressure More Than a 30-Minute Workout Can, Study Reveals",
@@ -842,7 +970,9 @@
     "traducida": true,
     "titulo": "Un baño caliente puede disminuir su presión arterial más de una lata de entrenamiento de 30 minutos, revela un estudio",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "6ba0def9",
+    "slug": "un-bano-caliente-puede-disminuir-su-presion-arterial-mas-de-una-lata-d-6ba0def9"
   },
   {
     "titulo_original": "Länger leben mit Krafttraining – Ü 50 Studie zeigt neue Erkenntnisse",
@@ -855,7 +985,9 @@
     "traducida": true,
     "titulo": "Vivir más tiempo con el entrenamiento de fuerza: el estudio Ü 50 muestra nuevos hallazgos",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "dc3affbc",
+    "slug": "vivir-mas-tiempo-con-el-entrenamiento-de-fuerza-el-estudio-u-50-muestr-dc3affbc"
   },
   {
     "titulo_original": "Cuatro de cada diez mujeres jóvenes han tenido pensamientos suicidas: un estudio de Sant Boi destapa la brecha de género",
@@ -868,7 +1000,9 @@
     "traducida": true,
     "titulo": "Cuatro de cada diez mujeres jóvenes han tenido pensamientos suicidas: un estudio de Sant Boi destapa la brecha de género",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "3dce0645",
+    "slug": "cuatro-de-cada-diez-mujeres-jovenes-han-tenido-pensamientos-suicidas-u-3dce0645"
   },
   {
     "titulo_original": "Researchers in various studies looking for participants",
@@ -881,7 +1015,9 @@
     "traducida": true,
     "titulo": "Investigadores en diversos estudios en busca de participantes",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "d6c18cfc",
+    "slug": "investigadores-en-diversos-estudios-en-busca-de-participantes-d6c18cfc"
   },
   {
     "titulo_original": "AVC : cette habitude que beaucoup ont pendant leur sommeil est associée à un risque jusqu’à 56 % plus élevé",
@@ -894,7 +1030,9 @@
     "traducida": true,
     "titulo": "Accidente cerebrovascular: este hábito que muchos tienen mientras duermen se asocia con un riesgo hasta un 56% mayor",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "912845f3",
+    "slug": "accidente-cerebrovascular-este-habito-que-muchos-tienen-mientras-duerm-912845f3"
   },
   {
     "titulo_original": "Simple Wand-Übung soll den Blutdruck senken – Studie zeigt, wie oft das Training nötig ist",
@@ -907,7 +1045,9 @@
     "traducida": true,
     "titulo": "El ejercicio de pared simple debe reducir la presión arterial: un estudio muestra con qué frecuencia se necesita el entrenamiento",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "853400c2",
+    "slug": "el-ejercicio-de-pared-simple-debe-reducir-la-presion-arterial-un-estud-853400c2"
   },
   {
     "titulo_original": "Kreatin erhöht Muskelmasse in Studie auch ohne Training",
@@ -920,7 +1060,9 @@
     "traducida": true,
     "titulo": "La creatina aumenta la masa muscular en el estudio incluso sin entrenamiento",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "ab5a6025",
+    "slug": "la-creatina-aumenta-la-masa-muscular-en-el-estudio-incluso-sin-entrena-ab5a6025"
   },
   {
     "titulo_original": "Vergiss nur Laufen: Diese Übungen halten dich ab 55 wirklich fit",
@@ -933,7 +1075,9 @@
     "traducida": true,
     "titulo": "Solo olvídate de correr: estos ejercicios te mantienen realmente en forma a partir de los 55",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "12dd6161",
+    "slug": "solo-olvidate-de-correr-estos-ejercicios-te-mantienen-realmente-en-for-12dd6161"
   },
   {
     "titulo_original": "Sommeil : l’heure du coucher qui réduit le risque cardiovasculaire",
@@ -946,7 +1090,9 @@
     "traducida": true,
     "titulo": "Sueño: la hora de acostarse reduce el riesgo cardiovascular",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "100185ef",
+    "slug": "sueno-la-hora-de-acostarse-reduce-el-riesgo-cardiovascular-100185ef"
   },
   {
     "titulo_original": "Dormi male? Per riposare meglio non contano le ore, ma questo gesto",
@@ -959,7 +1105,9 @@
     "traducida": true,
     "titulo": "¿Duermes mal? Para descansar mejor no cuentan las horas, sino este gesto",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "21574635",
+    "slug": "duermes-mal-para-descansar-mejor-no-cuentan-las-horas-sino-este-gesto-21574635"
   },
   {
     "titulo_original": "Teilnehmende für große Ernährungsstudie zu pflanzenbasierter Kost gesucht",
@@ -972,7 +1120,9 @@
     "traducida": true,
     "titulo": "Se buscan participantes para un gran estudio nutricional sobre alimentos a base de plantas",
     "resumen": "",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "cd67e4f2",
+    "slug": "se-buscan-participantes-para-un-gran-estudio-nutricional-sobre-aliment-cd67e4f2"
   },
   {
     "titulo_original": "Estudio: La falta de sueño es un problema de liderazgo",
@@ -985,7 +1135,9 @@
     "traducida": true,
     "titulo": "Estudio: La falta de sueño es un problema de liderazgo",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "93f1948e",
+    "slug": "estudio-la-falta-de-sueno-es-un-problema-de-liderazgo-93f1948e"
   },
   {
     "titulo_original": "Alunos do curso de Nutrição recrutam interessados em participar de pesquisa sobre preferência alimentar - Universidade Federal de Ouro Preto",
@@ -998,7 +1150,9 @@
     "traducida": true,
     "titulo": "Reclutamiento de estudiantes de nutrición interesados en participar en investigaciones sobre preferencia alimentaria - Universidade Federal de Ouro Preto",
     "resumen": "",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "df31297c",
+    "slug": "reclutamiento-de-estudiantes-de-nutricion-interesados-en-participar-en-df31297c"
   },
   {
     "titulo_original": "Empresas veem saúde mental como risco, mas ainda fazem pouco para evitar, mostra estudo",
@@ -1011,7 +1165,9 @@
     "traducida": true,
     "titulo": "Las empresas ven la salud mental como un riesgo, pero aún hacen poco para evitarlo, según un estudio",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "23f939fd",
+    "slug": "las-empresas-ven-la-salud-mental-como-un-riesgo-pero-aun-hacen-poco-pa-23f939fd"
   },
   {
     "titulo_original": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
@@ -1024,7 +1180,9 @@
     "traducida": true,
     "titulo": "¿Adiós a los reemplazos de articulaciones? Los científicos de Stanford encontraron una manera de regenerar el cartílago y detener la artritis",
     "resumen": "Los científicos han encontrado una forma sorprendente de regenerar el cartílago dañado de la rodilla mediante el bloqueo de una proteína que se vuelve más abundante con la edad. En ratones viejos, el tratamiento restauró el cartílago perdido naturalmente y también ayudó a prevenir la osteoartritis después de lesiones de rodilla similares al LCA, mientras que los humanos...",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "bd85a5a7",
+    "slug": "adios-a-los-reemplazos-de-articulaciones-los-cientificos-de-stanford-e-bd85a5a7"
   },
   {
     "titulo_original": "Sobrecarga laboral y problemas de salud mental: el círculo vicioso que agrava la crisis de plantillas médicas y enfermeras en Europa",
@@ -1037,7 +1195,9 @@
     "traducida": true,
     "titulo": "Sobrecarga laboral y problemas de salud mental: el círculo vicioso que agrava la crisis de plantillas médicas y enfermeras en Europa",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "d6aef876",
+    "slug": "sobrecarga-laboral-y-problemas-de-salud-mental-el-circulo-vicioso-que-d6aef876"
   },
   {
     "titulo_original": "La soledad apenas aparece en X, pero es lo que más moviliza, según un estudio de UNIR",
@@ -1050,7 +1210,9 @@
     "traducida": true,
     "titulo": "La soledad apenas aparece en X, pero es lo que más moviliza, según un estudio de UNIR",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "9249fac5",
+    "slug": "la-soledad-apenas-aparece-en-x-pero-es-lo-que-mas-moviliza-segun-un-es-9249fac5"
   },
   {
     "titulo_original": "Choix d'exercice des jeunes médecins : les chiffres-clés",
@@ -1063,7 +1225,9 @@
     "traducida": true,
     "titulo": "Elección del ejercicio de los médicos jóvenes: las cifras clave",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "745ab746",
+    "slug": "eleccion-del-ejercicio-de-los-medicos-jovenes-las-cifras-clave-745ab746"
   },
   {
     "titulo_original": "Fitness da adolescenti e salute mentale: uno studio indica un legame duraturo",
@@ -1076,7 +1240,9 @@
     "traducida": true,
     "titulo": "Fitness adolescente y salud mental: un estudio indica un vínculo duradero",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "3c1fd997",
+    "slug": "fitness-adolescente-y-salud-mental-un-estudio-indica-un-vinculo-durade-3c1fd997"
   },
   {
     "titulo_original": "Boa forma na adolescência pode moldar saúde mental décadas depois, revela estudo",
@@ -1089,7 +1255,9 @@
     "traducida": true,
     "titulo": "La condición física en la adolescencia puede dar forma a la salud mental décadas después, revela un estudio",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "6430907c",
+    "slug": "la-condicion-fisica-en-la-adolescencia-puede-dar-forma-a-la-salud-ment-6430907c"
   },
   {
     "titulo_original": "Un estudio identifica claves del ejercicio en salud mental",
@@ -1102,7 +1270,9 @@
     "traducida": true,
     "titulo": "Un estudio identifica claves del ejercicio en salud mental",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "c9d03131",
+    "slug": "un-estudio-identifica-claves-del-ejercicio-en-salud-mental-c9d03131"
   },
   {
     "titulo_original": "MIT scientists find a hidden cancer risk of the keto diet",
@@ -1115,7 +1285,9 @@
     "traducida": true,
     "titulo": "Científicos del MIT encuentran un riesgo oculto de cáncer en la dieta cetogénica",
     "resumen": "Una dieta cetogénica aumentó los tumores del intestino delgado en ratones propensos al cáncer al tiempo que reducía los tumores en el colon, revelando una respuesta sorprendentemente diferente en las partes vecinas del intestino. Los investigadores rastrearon el aumento del riesgo no a las cetonas, sino a la forma en que las células madre intestinales...",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "2e304142",
+    "slug": "cientificos-del-mit-encuentran-un-riesgo-oculto-de-cancer-en-la-dieta-2e304142"
   },
   {
     "titulo_original": "UFPE recruta corredores para estudo sobre efeitos da redução do sono",
@@ -1128,7 +1300,9 @@
     "traducida": true,
     "titulo": "La UFPE recluta corredores para estudiar los efectos de la reducción del sueño",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "a0acb7a8",
+    "slug": "la-ufpe-recluta-corredores-para-estudiar-los-efectos-de-la-reduccion-d-a0acb7a8"
   },
   {
     "titulo_original": "Zucker könnte Darmflora während Antibiotika-Therapie zusätzlich schädigen",
@@ -1141,7 +1315,9 @@
     "traducida": true,
     "titulo": "El azúcar podría dañar adicionalmente la flora intestinal durante la terapia con antibióticos",
     "resumen": "",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "aae69c6a",
+    "slug": "el-azucar-podria-danar-adicionalmente-la-flora-intestinal-durante-la-t-aae69c6a"
   },
   {
     "titulo_original": "UFES conduz estudo com mais de 7 mil brasileiros e identifica relação entre alimentação e risco de depressão",
@@ -1154,7 +1330,9 @@
     "traducida": true,
     "titulo": "La UFES realiza un estudio con más de 7.000 brasileños e identifica una relación entre la dieta y el riesgo de depresión",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "d316e7ca",
+    "slug": "la-ufes-realiza-un-estudio-con-mas-de-7-000-brasilenos-e-identifica-un-d316e7ca"
   },
   {
     "titulo_original": "Perché alcune persone si sentono riposate dopo poche ore di sonno",
@@ -1167,7 +1345,9 @@
     "traducida": true,
     "titulo": "Porque algunas personas se sienten descansadas después de unas horas de sueño",
     "resumen": "",
-    "categoria": "Sueño"
+    "categoria": "Sueño",
+    "id": "3ce92c56",
+    "slug": "porque-algunas-personas-se-sienten-descansadas-despues-de-unas-horas-d-3ce92c56"
   },
   {
     "titulo_original": "Creatine may help build muscle even without exercise, study suggests",
@@ -1180,7 +1360,9 @@
     "traducida": true,
     "titulo": "La creatina puede ayudar a desarrollar músculo incluso sin ejercicio, sugiere un estudio",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "c537e34a",
+    "slug": "la-creatina-puede-ayudar-a-desarrollar-musculo-incluso-sin-ejercicio-s-c537e34a"
   },
   {
     "titulo_original": "Une étude a identifié un élément clé pour prévenir la maladie d'Alzheimer : quelque chose d'aussi simple que l'exercice physique",
@@ -1193,7 +1375,9 @@
     "traducida": true,
     "titulo": "Un estudio ha identificado un elemento clave para prevenir la enfermedad de Alzheimer: algo tan sencillo como el ejercicio físico",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "cb2f7ed6",
+    "slug": "un-estudio-ha-identificado-un-elemento-clave-para-prevenir-la-enfermed-cb2f7ed6"
   },
   {
     "titulo_original": "Il Lancet: giovani e smartphone, servono misure immediate",
@@ -1206,7 +1390,9 @@
     "traducida": true,
     "titulo": "The Lancet: los jóvenes y los teléfonos inteligentes necesitan medidas inmediatas",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "d311e314",
+    "slug": "the-lancet-los-jovenes-y-los-telefonos-inteligentes-necesitan-medidas-d311e314"
   },
   {
     "titulo_original": "Diabete di tipo 2, meno cibi ultra-processati e più attività fisica possono abbassare il rischio",
@@ -1219,7 +1405,9 @@
     "traducida": true,
     "titulo": "Diabetes tipo 2, menos alimentos ultraprocesados y más actividad física pueden reducir el riesgo",
     "resumen": "",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "1fc9f152",
+    "slug": "diabetes-tipo-2-menos-alimentos-ultraprocesados-y-mas-actividad-fisica-1fc9f152"
   },
   {
     "titulo_original": "Eisbaden gilt als gesund – doch eine Studie zeigt ein mögliches Entzündungsrisiko",
@@ -1232,7 +1420,9 @@
     "traducida": true,
     "titulo": "El baño de hielo se considera saludable, pero un estudio muestra un posible riesgo de inflamación",
     "resumen": "",
-    "categoria": "Salud general"
+    "categoria": "Salud general",
+    "id": "bac6df0f",
+    "slug": "el-bano-de-hielo-se-considera-saludable-pero-un-estudio-muestra-un-pos-bac6df0f"
   },
   {
     "titulo_original": "Scientists reveal what seven days of fasting does to the human body",
@@ -1245,7 +1435,9 @@
     "traducida": true,
     "titulo": "Los científicos revelan lo que siete días de ayuno hacen al cuerpo humano",
     "resumen": "Los científicos descubrieron que el ayuno prolongado desencadena cambios importantes en todo el cuerpo, pero muchos de los efectos más interesantes solo aparecieron después de unos tres días sin comer. Los resultados sugieren que el ayuno puede influir en la salud de maneras que van más allá de la pérdida de peso y podrían...",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "fee11c4c",
+    "slug": "los-cientificos-revelan-lo-que-siete-dias-de-ayuno-hacen-al-cuerpo-hum-fee11c4c"
   },
   {
     "titulo_original": "Diabete a esordio precoce, gli effetti di attività fisica strutturata e dieta ipocalorica",
@@ -1258,7 +1450,9 @@
     "traducida": true,
     "titulo": "Diabetes de inicio temprano, los efectos de la actividad física estructurada y la dieta baja en calorías",
     "resumen": "",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "9167b8ac",
+    "slug": "diabetes-de-inicio-temprano-los-efectos-de-la-actividad-fisica-estruct-9167b8ac"
   },
   {
     "titulo_original": "Sie müssen kein Trainingsexperte sein: Forscher finden simple Regel für Muskelaufbau",
@@ -1271,7 +1465,9 @@
     "traducida": true,
     "titulo": "No tiene que ser un experto en entrenamiento: los investigadores encuentran una regla simple para desarrollar músculo",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "dcc8389c",
+    "slug": "no-tiene-que-ser-un-experto-en-entrenamiento-los-investigadores-encuen-dcc8389c"
   },
   {
     "titulo_original": "From floating saunas to clinical trials: How heat might help mental health",
@@ -1284,7 +1480,9 @@
     "traducida": true,
     "titulo": "De las saunas flotantes a los ensayos clínicos: cómo el calor podría ayudar a la salud mental",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "9dd3453f",
+    "slug": "de-las-saunas-flotantes-a-los-ensayos-clinicos-como-el-calor-podria-ay-9dd3453f"
   },
   {
     "titulo_original": "Sprints aktivieren laut Studie 714 Proteine im Blut, Radfahren nur 7",
@@ -1297,7 +1495,9 @@
     "traducida": true,
     "titulo": "Según el estudio, los sprints activan 714 proteínas en la sangre, el ciclismo solo 7",
     "resumen": "",
-    "categoria": "Nutrición"
+    "categoria": "Nutrición",
+    "id": "84d70420",
+    "slug": "segun-el-estudio-los-sprints-activan-714-proteinas-en-la-sangre-el-cic-84d70420"
   },
   {
     "titulo_original": "Casi la mitad de las personas mayores ve difícil acceder a recursos de salud mental",
@@ -1310,7 +1510,9 @@
     "traducida": true,
     "titulo": "Casi la mitad de las personas mayores ve difícil acceder a recursos de salud mental",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "d4163ba0",
+    "slug": "casi-la-mitad-de-las-personas-mayores-ve-dificil-acceder-a-recursos-de-d4163ba0"
   },
   {
     "titulo_original": "Para prevenir problemas de salud mental en la adolescencia, una caminata al día hace maravillas: estudio",
@@ -1323,7 +1525,9 @@
     "traducida": true,
     "titulo": "Para prevenir problemas de salud mental en la adolescencia, una caminata al día hace maravillas: estudio",
     "resumen": "",
-    "categoria": "Salud mental"
+    "categoria": "Salud mental",
+    "id": "67a11051",
+    "slug": "para-prevenir-problemas-de-salud-mental-en-la-adolescencia-una-caminat-67a11051"
   },
   {
     "titulo_original": "La UGR busca adultos que superaron un cáncer infantil para un estudio sobre salud y ejercicio",
@@ -1336,6 +1540,218 @@
     "traducida": true,
     "titulo": "La UGR busca adultos que superaron un cáncer infantil para un estudio sobre salud y ejercicio",
     "resumen": "",
-    "categoria": "Entrenamiento"
+    "categoria": "Entrenamiento",
+    "id": "c579755f",
+    "slug": "la-ugr-busca-adultos-que-superaron-un-cancer-infantil-para-un-estudio-c579755f"
+  },
+  {
+    "titulo_original": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
+    "resumen_original": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose tumors had high levels of the vitamin D…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Nutrición",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
+    "imagen": "",
+    "fecha": "2026-10-04T03:10:23+00:00",
+    "id": "b0808ac5",
+    "traducida": true,
+    "titulo": "El medicamento con vitamina D puede ayudar a romper el escudo protector del cáncer de páncreas",
+    "resumen": "Un análogo de la vitamina D puede ayudar a descomponer las defensas protectoras del cáncer de páncreas, lo que podría hacer que los tumores sean más vulnerables a la quimioterapia y al ataque inmunológico. Un pequeño ensayo clínico encontró respuestas alentadoras, especialmente en pacientes cuyos tumores tenían altos niveles de vitamina D...",
+    "categoria": "Nutrición",
+    "slug": "el-medicamento-con-vitamina-d-puede-ayudar-a-romper-el-escudo-protecto-b0808ac5"
+  },
+  {
+    "titulo_original": "Diet drinks work as well as water for weight loss, major trial finds",
+    "resumen_original": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Nutrición",
+    "enlace": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
+    "imagen": "",
+    "fecha": "2026-10-04T02:10:59+00:00",
+    "id": "61a2997f",
+    "traducida": true,
+    "titulo": "Las bebidas dietéticas funcionan tan bien como el agua para perder peso, según un importante ensayo",
+    "resumen": "Un ensayo clínico aleatorizado de dos años en el que participaron 493 adultos con sobrepeso u obesidad descubrió que los refrescos dietéticos eran esencialmente tan efectivos como el agua para la pérdida de peso a largo plazo y el mantenimiento del peso. Los participantes toman bebidas endulzadas con aspartamo, acesulfamo-K o...",
+    "categoria": "Nutrición",
+    "slug": "las-bebidas-dieteticas-funcionan-tan-bien-como-el-agua-para-perder-pes-61a2997f"
+  },
+  {
+    "titulo_original": "Leucine does more than build muscle. It powers up your cells",
+    "resumen_original": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed. The discovery reveals a new connection between nutrition and metabolism that could eventually lead to new approaches for metabolic disorders and…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+    "imagen": "",
+    "fecha": "2026-10-03T12:33:15+00:00",
+    "id": "a4645db4",
+    "traducida": true,
+    "titulo": "La leucina hace más que construir músculo. Alimenta tus células",
+    "resumen": "El aminoácido esencial leucina puede aumentar la producción de energía celular al proteger las proteínas clave de las mitocondrias para que no se destruyan. El descubrimiento revela una nueva conexión entre la nutrición y el metabolismo que eventualmente podría conducir a nuevos enfoques para los trastornos metabólicos y...",
+    "categoria": "Entrenamiento",
+    "slug": "la-leucina-hace-mas-que-construir-musculo-alimenta-tus-celulas-a4645db4"
+  },
+  {
+    "titulo_original": "Your gut may be making a molecule that raises Alzheimer’s risk",
+    "resumen_original": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood could one day help slow or prevent dementia.",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Nutrición",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+    "imagen": "",
+    "fecha": "2026-10-03T12:13:21+00:00",
+    "id": "68e434fe",
+    "traducida": true,
+    "titulo": "Tu intestino puede estar produciendo una molécula que aumenta el riesgo de Alzheimer",
+    "resumen": "Los científicos han relacionado un compuesto bacteriano intestinal llamado ImP con un mayor riesgo de Alzheimer, una acumulación dañina de proteínas cerebrales y un deterioro cognitivo más rápido. El hallazgo plantea la posibilidad de que la reducción de la ImP en la sangre podría algún día ayudar a retrasar o prevenir la demencia.",
+    "categoria": "Nutrición",
+    "slug": "tu-intestino-puede-estar-produciendo-una-molecula-que-aumenta-el-riesg-68e434fe"
+  },
+  {
+    "titulo_original": "Vitamin C linked to fewer deaths in blood disorder trial",
+    "resumen_original": "Vitamin C may do more than support the immune system. In a phase 2 trial of people with precancerous or low risk blood cancers, daily vitamin C did not slow abnormal cell growth, but it was linked to favorable changes in inflammation and fewer serious complications. An…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Nutrición",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260930225454.htm",
+    "imagen": "",
+    "fecha": "2026-10-03T11:17:37+00:00",
+    "id": "fa93b24a",
+    "traducida": true,
+    "titulo": "La vitamina C se relaciona con menos muertes en el ensayo de trastornos sanguíneos",
+    "resumen": "La vitamina C puede hacer más que apoyar el sistema inmunológico. En un ensayo de fase 2 de personas con cánceres de sangre precancerosos o de bajo riesgo, la vitamina C diaria no ralentizó el crecimiento celular anormal, pero se relacionó con cambios favorables en la inflamación y menos complicaciones graves. Un...",
+    "categoria": "Nutrición",
+    "slug": "la-vitamina-c-se-relaciona-con-menos-muertes-en-el-ensayo-de-trastorno-fa93b24a"
+  },
+  {
+    "titulo_original": "Even one strength training session a week could make a difference",
+    "resumen_original": "Strength training may be one of the most powerful tools for staying independent as you age. Age related muscle loss, known as sarcopenia, can make everyday tasks harder while increasing the risk of falls, fractures, and loss of mobility. Research shows that resistance exercises…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260930020317.htm",
+    "imagen": "",
+    "fecha": "2026-10-02T09:36:45+00:00",
+    "id": "d6a99b5f",
+    "traducida": true,
+    "titulo": "Incluso una sesión de entrenamiento de fuerza a la semana podría marcar la diferencia",
+    "resumen": "El entrenamiento de fuerza puede ser una de las herramientas más poderosas para mantenerse independiente a medida que envejece. La pérdida muscular relacionada con la edad, conocida como sarcopenia, puede dificultar las tareas diarias y aumentar el riesgo de caídas, fracturas y pérdida de movilidad. La investigación muestra que los ejercicios de resistencia...",
+    "categoria": "Entrenamiento",
+    "slug": "incluso-una-sesion-de-entrenamiento-de-fuerza-a-la-semana-podria-marca-d6a99b5f"
+  },
+  {
+    "titulo_original": "This diet may slow brain aging by 2.5 years",
+    "resumen_original": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Nutrición",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+    "imagen": "",
+    "fecha": "2026-10-01T12:26:47+00:00",
+    "id": "f4f5f277",
+    "traducida": true,
+    "titulo": "Esta dieta puede retrasar el envejecimiento cerebral en 2,5 años",
+    "resumen": "Las personas que siguieron la dieta MIND más de cerca mostraron una contracción cerebral más lenta y menos pérdida de materia gris con el tiempo, con las diferencias más fuertes equivalentes a aproximadamente 2,5 años de envejecimiento cerebral retrasado. Las bayas y las aves de corral se vincularon con cambios cerebrales más saludables, mientras que los dulces y...",
+    "categoria": "Nutrición",
+    "slug": "esta-dieta-puede-retrasar-el-envejecimiento-cerebral-en-2-5-anos-f4f5f277"
+  },
+  {
+    "titulo_original": "1 in 13 adults under 30 already had hidden artery plaque",
+    "resumen_original": "More than half of 16,000 apparently healthy adults had signs of atherosclerosis, with arterial plaques already detectable in about 1 in 13 people ages 18 to 29. Researchers say directly imaging the arteries could reveal hidden cardiovascular disease years or even decades before…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260929053541.htm",
+    "imagen": "",
+    "fecha": "2026-10-01T11:46:21+00:00",
+    "id": "69435304",
+    "traducida": true,
+    "titulo": "1 de cada 13 adultos menores de 30 años ya tenía placa arterial oculta",
+    "resumen": "Más de la mitad de los 16.000 adultos aparentemente sanos tenían signos de aterosclerosis, con placas arteriales ya detectables en aproximadamente 1 de cada 13 personas de 18 a 29 años. Los investigadores dicen que las imágenes directas de las arterias podrían revelar enfermedades cardiovasculares ocultas años o incluso décadas antes...",
+    "categoria": "Entrenamiento",
+    "slug": "1-de-cada-13-adultos-menores-de-30-anos-ya-tenia-placa-arterial-oculta-69435304"
+  },
+  {
+    "titulo_original": "Mulberry may reshape gut bacteria and influence metabolism",
+    "resumen_original": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism, with some combinations showing especially strong effects in animal studies. However, the results vary depending on the plant part and processing method, and the benefits have…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
+    "imagen": "",
+    "fecha": "2026-09-30T11:45:42+00:00",
+    "id": "621279eb",
+    "traducida": true,
+    "titulo": "La morera puede remodelar las bacterias intestinales e influir en el metabolismo",
+    "resumen": "Los compuestos de morera pueden remodelar el microbioma intestinal de manera que apoyen la salud intestinal y el metabolismo, y algunas combinaciones muestran efectos especialmente fuertes en estudios con animales. Sin embargo, los resultados varían según la parte de la planta y el método de procesamiento, y los beneficios han...",
+    "categoria": "Salud general",
+    "slug": "la-morera-puede-remodelar-las-bacterias-intestinales-e-influir-en-el-m-621279eb"
+  },
+  {
+    "titulo_original": "Creatine may help build muscle even without exercise, researchers find",
+    "resumen_original": "Creatine helped middle-aged adults gain muscle and strength even without a structured workout program in a new 12-week study. When combined with exercise and a calorie-reduced diet, it produced even greater strength gains while helping participants add lean tissue and lose fat.…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
+    "imagen": "",
+    "fecha": "2026-09-30T03:12:34+00:00",
+    "id": "cdd2db7b",
+    "traducida": true,
+    "titulo": "Los investigadores descubren que la creatina puede ayudar a desarrollar músculo incluso sin ejercicio",
+    "resumen": "La creatina ayudó a los adultos de mediana edad a ganar músculo y fuerza incluso sin un programa de entrenamiento estructurado en un nuevo estudio de 12 semanas. Cuando se combina con ejercicio y una dieta reducida en calorías, produce ganancias de fuerza aún mayores al tiempo que ayuda a los participantes a añadir tejido magro y perder grasa....",
+    "categoria": "Entrenamiento",
+    "slug": "los-investigadores-descubren-que-la-creatina-puede-ayudar-a-desarrolla-cdd2db7b"
+  },
+  {
+    "titulo_original": "Scientists just discovered what coffee really does to your gut and brain",
+    "resumen_original": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites.…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+    "imagen": "",
+    "fecha": "2026-09-28T13:37:05+00:00",
+    "id": "55ee038b",
+    "traducida": true,
+    "titulo": "Los científicos acaban de descubrir lo que el café realmente le hace a tu intestino y cerebro",
+    "resumen": "Un nuevo estudio sugiere que el café puede influir en el estado de ánimo y la función cerebral al cambiar la actividad de los microbios en el intestino. Tanto el café con cafeína como el descafeinado se relacionaron con un menor estrés, depresión e impulsividad, al tiempo que producían cambios medibles en las bacterias intestinales y los metabolitos....",
+    "categoria": "Salud mental",
+    "slug": "los-cientificos-acaban-de-descubrir-lo-que-el-cafe-realmente-le-hace-a-55ee038b"
+  },
+  {
+    "titulo_original": "Pomegranate compound improves heart function by up to 80% in study",
+    "resumen_original": "A compound the body can make after eating pomegranates, walnuts, and some berries improved measures of heart function by up to 80% in animal models of a difficult-to-treat form of heart failure. Urolithin A helped stiff heart tissue relax and reduced scarring and abnormal…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260925093157.htm",
+    "imagen": "",
+    "fecha": "2026-09-28T10:49:22+00:00",
+    "id": "854847d4",
+    "traducida": true,
+    "titulo": "El compuesto de granada mejora la función cardíaca hasta en un 80% en el estudio",
+    "resumen": "Un compuesto que el cuerpo puede producir después de comer granadas, nueces y algunas bayas mejoró las medidas de la función cardíaca hasta en un 80% en modelos animales de una forma de insuficiencia cardíaca difícil de tratar. La urolitina A ayudó a relajar el tejido cardíaco rígido y redujo la cicatrización y las anomalías...",
+    "categoria": "Nutrición",
+    "slug": "el-compuesto-de-granada-mejora-la-funcion-cardiaca-hasta-en-un-80-en-e-854847d4"
+  },
+  {
+    "titulo_original": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+    "resumen_original": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+    "imagen": "",
+    "fecha": "2026-09-26T12:31:07+00:00",
+    "id": "975bb9cd",
+    "traducida": true,
+    "titulo": "Zepbound y Mounjaro pueden activar la grasa marrón que quema calorías del cuerpo",
+    "resumen": "La tirzepatida, vendida como Mounjaro y Zepbound, activó la grasa marrón que quema calorías en ratones obesos, revelando un efecto metabólico potencial más allá de la supresión del apetito. Si se confirma en humanos, el hallazgo podría ayudar a explicar los poderosos beneficios del medicamento e inspirar...",
+    "categoria": "Nutrición",
+    "slug": "zepbound-y-mounjaro-pueden-activar-la-grasa-marron-que-quema-calorias-975bb9cd"
+  },
+  {
+    "titulo_original": "Scientists restore a brain protein and reverse signs of aging in mice",
+    "resumen_original": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Fitness",
+    "enlace": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+    "imagen": "",
+    "fecha": "2026-09-18T04:25:45+00:00",
+    "id": "d0826da1",
+    "traducida": true,
+    "titulo": "Los científicos restauran una proteína cerebral y revierten los signos del envejecimiento en ratones",
+    "resumen": "Los científicos descubrieron que la disminución de los niveles de la proteína cerebral Menin puede ayudar a impulsar el envejecimiento, con niveles más bajos en ratones relacionados con la inflamación, el deterioro cognitivo, los huesos más débiles y la piel más delgada. La restauración de Menin revirtió varios cambios relacionados con la edad, mientras que el aminoácido D-serina...",
+    "categoria": "Nutrición",
+    "slug": "los-cientificos-restauran-una-proteina-cerebral-y-revierten-los-signos-d0826da1"
   }
 ]
