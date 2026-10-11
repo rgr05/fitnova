@@ -9,10 +9,20 @@
     "fecha": "2026-10-11T13:11:00+00:00",
     "id": "55961aee",
     "traducida": true,
-    "titulo": "Tiempo de pantalla y depresión: el estudio de Géminis sacude la alarma del teléfono móvil",
-    "resumen": "",
+    "titulo": "Tiempo de pantalla y depresión: un estudio con gemelos cuestiona las alarmas sobre el móvil",
+    "resumen": "Un estudio con gemelos analiza la relación entre el tiempo frente a las pantallas y la depresión, y matiza las advertencias sobre el móvil. La noticia original no ofrece más detalles.",
     "categoria": "Salud mental",
-    "slug": "tiempo-de-pantalla-y-depresion-el-estudio-de-geminis-sacude-la-alarma-55961aee"
+    "slug": "tiempo-de-pantalla-y-depresion-el-estudio-de-geminis-sacude-la-alarma-55961aee",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio con gemelos examina la relación entre el tiempo que se pasa frente a las pantallas y la depresión, y cuestiona en parte la alarma que generan los móviles. La noticia original no da más detalles sobre el diseño, las personas participantes ni los resultados.",
+      "contexto": "La relación entre el uso de pantallas y la salud mental es un tema debatido en la investigación. Los estudios suelen encontrar asociaciones, pero es difícil saber si las pantallas causan los problemas o si influyen otros factores. Las recomendaciones generales de salud mental insisten en el sueño, la actividad física y las relaciones sociales como pilares del bienestar.",
+      "ten_en_cuenta": "Solo conocemos el titular, así que no sabemos el tamaño de la muestra ni cómo se midieron el uso de pantallas y la depresión. Un único estudio no basta para sacar conclusiones firmes. Si la preocupación por el ánimo es persistente, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Effekte auf Lebergesundheit und Sterberisiko: Diese kühle Variante der Mittelmeerdiät hat Forscher überrascht",
@@ -23,11 +33,21 @@
     "imagen": "",
     "fecha": "2026-10-11T11:03:00+00:00",
     "traducida": true,
-    "titulo": "Efectos sobre la salud hepática y el riesgo de muerte: esta versión fresca de la dieta mediterránea ha sorprendido a los investigadores",
-    "resumen": "",
+    "titulo": "Una variante de la dieta mediterránea que sorprende a los investigadores por sus efectos en el hígado",
+    "resumen": "Según el titular, investigadores han estudiado cómo una variante de la dieta mediterránea influye en la salud del hígado y en el riesgo de mortalidad. La noticia original no ofrece más detalles.",
     "categoria": "Nutrición",
     "id": "09cfc57e",
-    "slug": "efectos-sobre-la-salud-hepatica-y-el-riesgo-de-muerte-esta-version-fre-09cfc57e"
+    "slug": "efectos-sobre-la-salud-hepatica-y-el-riesgo-de-muerte-esta-version-fre-09cfc57e",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El titular indica que una variante de la dieta mediterránea ha tenido efectos sobre la salud del hígado y el riesgo de mortalidad, y que los resultados han sorprendido a los investigadores. La noticia original no explica en qué consiste esa variante, qué tipo de estudio es ni qué resultados concretos se observaron.",
+      "contexto": "La dieta mediterránea, basada sobre todo en verduras, legumbres, frutas, cereales integrales, pescado y aceite de oliva, se asocia de forma general con una mejor salud cardiovascular y metabólica. La salud del hígado está muy ligada al peso corporal, a la alimentación y a la actividad física, por lo que la dieta es un factor relevante.",
+      "ten_en_cuenta": "Con solo el titular no se puede saber qué variante se estudió, en qué población ni con qué diseño, así que conviene leer el artículo original antes de sacar conclusiones. Una asociación en un estudio no demuestra por sí sola una relación de causa y efecto. Si tienes dudas sobre tu hígado o tu alimentación, consulta a un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Ridurre gli ultraprocessati migliora anche la salute mentale?",
@@ -38,19 +58,21 @@
     "imagen": "",
     "fecha": "2026-10-11T10:34:53+00:00",
     "traducida": true,
-    "titulo": "¿Reducir los alimentos ultraprocesados mejora también la salud mental?",
-    "resumen": "Un artículo de Focus plantea si disminuir el consumo de alimentos ultraprocesados puede tener efectos positivos sobre el estado de ánimo. La noticia no incluye más detalles en la información disponible.",
+    "titulo": "¿Reducir los ultraprocesados mejora también la salud mental?",
+    "resumen": "Un artículo de Focus se pregunta si reducir el consumo de alimentos ultraprocesados tiene también efectos positivos sobre la salud mental. La noticia original no ofrece más detalles.",
     "categoria": "Nutrición",
     "id": "290a0c29",
     "slug": "reducir-los-ultraprocesados-tambien-mejora-la-salud-mental-290a0c29",
     "relevante": true,
     "explicacion": {
-      "que_dice": "El titular de Focus plantea la pregunta de si reducir el consumo de alimentos ultraprocesados mejora también la salud mental. Con la información disponible no podemos saber qué estudio la respalda, cuántas personas participaron ni qué resultados concretos se describen.",
-      "contexto": "Los alimentos ultraprocesados son productos industriales con muchos ingredientes añadidos, como azúcares, grasas, aditivos o almidones modificados, y suelen ser ricos en calorías y pobres en fibra y nutrientes. Numerosos estudios observacionales han relacionado un consumo elevado de estos productos con peor salud cardiometabólica y con mayor riesgo de depresión y ansiedad. Aun así, estas investigaciones no demuestran por sí solas que el alimento sea la causa, y los ensayos que comparan dietas con distinto grado de procesamiento son todavía escasos.",
-      "ten_en_cuenta": "Como el medio no ofrece entradilla ni detalles del estudio, no podemos confirmar si se trata de un ensayo, un estudio observacional o una revisión, ni el tamaño de la muestra. Una relación entre alimentación y ánimo no implica que cambiar la dieta sea la única ni la principal causa de una mejora, y conviene leer la fuente original antes de sacar conclusiones."
+      "que_dice": "La noticia, publicada por Focus, plantea la pregunta de si reducir el consumo de alimentos ultraprocesados mejora también la salud mental. El texto original no aporta más información sobre estudios, resultados ni cifras.",
+      "contexto": "Los alimentos ultraprocesados son productos industriales con muchos ingredientes añadidos y poca presencia de alimentos enteros. En general, una alimentación rica en alimentos frescos o poco procesados se asocia con mejor salud física. La OMS recomienda una dieta variada y limitar los azúcares libres. La relación entre dieta y ánimo es un campo de investigación en desarrollo.",
+      "ten_en_cuenta": "Con la información disponible no se puede saber qué tipo de estudio es ni con cuántas personas se hizo, así que sus conclusiones no son valorables. Una asociación entre dieta y salud mental no demuestra que una cosa cause la otra. Si hay problemas de ánimo, conviene consultar a un profesional antes de cambiar la alimentación."
     },
-    "puntuacion": 6,
-    "procesada_ia": true
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "tipo_estudio": "no especificado",
+    "version_ia": 2
   },
   {
     "titulo_original": "Insomnia linked to higher risk of dementia, suicide, stroke and other major health issues: Study",
@@ -61,11 +83,21 @@
     "imagen": "",
     "fecha": "2026-10-11T09:02:33+00:00",
     "traducida": true,
-    "titulo": "El insomnio relacionado con un mayor riesgo de demencia, suicidio, accidente cerebrovascular y otros problemas de salud importantes: Estudio",
-    "resumen": "",
+    "titulo": "El insomnio se asocia con mayor riesgo de demencia, suicidio, ictus y otros problemas de salud graves",
+    "resumen": "Un estudio relaciona el insomnio con un mayor riesgo de demencia, suicidio, ictus y otros problemas de salud importantes. La noticia no detalla cómo se hizo ni qué tan fuerte es esa relación.",
     "categoria": "Sueño",
     "id": "ccfca93b",
-    "slug": "el-insomnio-relacionado-con-un-mayor-riesgo-de-demencia-suicidio-accid-ccfca93b"
+    "slug": "el-insomnio-relacionado-con-un-mayor-riesgo-de-demencia-suicidio-accid-ccfca93b",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según un estudio recogido por ABC News, el insomnio se asocia con un mayor riesgo de demencia, suicidio, ictus y otros problemas de salud importantes. La noticia original no ofrece más detalles sobre el diseño del estudio, las personas analizadas ni los resultados concretos.",
+      "contexto": "Los problemas para dormir de forma persistente son un tema de interés creciente en salud pública, y las sociedades de medicina del sueño insisten en la importancia de un descanso suficiente y regular para la salud física y mental. Aun así, que dos cosas aparezcan relacionadas no indica por sí solo que una cause la otra.",
+      "ten_en_cuenta": "Solo tenemos el titular, sin entradilla ni datos del estudio, así que no sabemos su tamaño ni su metodología. Una asociación no demuestra causa, y conviene consultar a un profesional sanitario si el insomnio se prolonga o preocupa."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Eating olive oil before carbs has a surprising effect on blood sugar",
@@ -76,19 +108,21 @@
     "imagen": "",
     "fecha": "2026-10-11T04:32:03+00:00",
     "traducida": true,
-    "titulo": "Tomar aceite de oliva antes que los hidratos de carbono frena los picos de azúcar en ratones",
-    "resumen": "Un estudio con ratones sugiere que tomar aceite de oliva antes que los hidratos de carbono ralentiza la digestión y activa hormonas y señales nerviosas que ayudan a regular la glucosa en sangre. La entradilla no detalla más resultados.",
+    "titulo": "Tomar aceite de oliva antes que los hidratos podría influir en la glucemia, según un estudio en ratones",
+    "resumen": "Un estudio en ratones sugiere que tomar aceite de oliva antes que los hidratos de carbono ralentiza la digestión y ayuda a regular el azúcar en sangre. Todavía no hay pruebas en personas.",
     "categoria": "Nutrición",
     "id": "d5c8c80a",
     "slug": "comer-aceite-de-oliva-antes-que-los-carbohidratos-tiene-un-efecto-sorp-d5c8c80a",
     "relevante": true,
     "explicacion": {
-      "que_dice": "Según la entradilla, los investigadores dieron aceite de oliva a ratones antes de los hidratos de carbono. Observaron que la digestión se ralentizaba y que se activaba una combinación de hormonas y señales nerviosas que ayudaba a regular el azúcar en sangre. El texto presenta esto como una posible forma de prevenir los picos de glucosa al cambiar el orden en que se comen los alimentos.",
-      "contexto": "Los picos de glucosa tras las comidas se asocian a un mayor riesgo de problemas metabólicos a largo plazo, por lo que el ritmo al que se absorben los azúcares es un tema de interés en nutrición. En general, se sabe que las grasas y la fibra enlentecen el vaciado del estómago y la absorción de los hidratos, y que el orden de los alimentos en una comida puede influir en la respuesta glucémica. Aun así, el efecto concreto de esta secuencia en personas requiere más investigación.",
-      "ten_en_cuenta": "El estudio se realizó en ratones, y los resultados en animales no siempre se trasladan a las personas. La entradilla es breve y no indica el tamaño de la muestra, la cantidad de aceite usada ni la magnitud del efecto. Conviene esperar a estudios en humanos antes de extraer conclusiones prácticas."
+      "que_dice": "Según la noticia, en ratones dar aceite de oliva antes que los hidratos de carbono ralentizó la digestión y activó una combinación de hormonas y señales nerviosas que ayudó a regular el azúcar en sangre. El texto disponible se corta y no da más detalles sobre el método, la duración ni las hormonas implicadas.",
+      "contexto": "En general, los alimentos con mucha grasa, fibra o proteína tienden a ralentizar el vaciado del estómago, y eso puede suavizar la subida de glucosa tras una comida. Las guías de las sociedades científicas recomiendan, sobre todo, moderar los azúcares añadidos y priorizar alimentos poco procesados. El orden de los alimentos es un tema en estudio, pero no hay un consenso claro sobre su efecto práctico.",
+      "ten_en_cuenta": "Es un estudio en ratones, y los resultados no se pueden trasladar directamente a personas. La noticia es breve y no permite valorar el diseño ni el alcance del hallazgo. Si tienes problemas de glucemia, consulta con tu médico o nutricionista antes de cambiar tu dieta."
     },
-    "puntuacion": 6,
-    "procesada_ia": true
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "tipo_estudio": "estudio en animales o células",
+    "version_ia": 2
   },
   {
     "titulo_original": "A plastic once thought harmless may be fueling fatty liver disease",
@@ -99,11 +133,21 @@
     "imagen": "",
     "fecha": "2026-10-11T00:47:05+00:00",
     "traducida": true,
-    "titulo": "Un plástico que alguna vez se pensó inofensivo puede estar alimentando la enfermedad del hígado graso",
-    "resumen": "Uno de los plásticos más comunes del mundo puede representar una amenaza oculta para la salud del hígado. Los investigadores de Texas A&M descubrieron que los microplásticos de polietileno pueden contribuir a la enfermedad del hígado graso, con efectos potencialmente peores cuando se combinan con una dieta poco saludable. Aún más sorprendente,...",
-    "categoria": "Nutrición",
+    "titulo": "Un plástico considerado inofensivo podría contribuir al hígado graso",
+    "resumen": "Investigadores de Texas A&M han hallado que las microparticulas de polietileno pueden contribuir a la enfermedad del hígado graso, y que el efecto podría ser peor con una dieta poco saludable.",
+    "categoria": "Salud general",
     "id": "2663dc94",
-    "slug": "un-plastico-que-alguna-vez-se-penso-inofensivo-puede-estar-alimentando-2663dc94"
+    "slug": "un-plastico-que-alguna-vez-se-penso-inofensivo-puede-estar-alimentando-2663dc94",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el texto disponible, investigadores de Texas A&M han observado que los microplásticos de polietileno, uno de los plásticos más comunes del mundo, pueden contribuir a la enfermedad del hígado graso. Los autores indican que el efecto podría agravarse combinado con una dieta poco saludable. La noticia original se corta antes de dar el dato más sorprendente, así que no podemos detallarlo.",
+      "contexto": "Los microplásticos son fragmentos diminutos de plástico presentes en el medio ambiente, y el polietileno se usa mucho en bolsas y envases. La enfermedad del hígado graso, con acumulación de grasa en el hígado, se relaciona en general con el exceso de peso, el sedentarismo, una dieta rica en azúcares y ultraprocesados y el consumo de alcohol. Cuánto influye la exposición a microplásticos en la salud humana es todavía un tema de investigación en curso.",
+      "ten_en_cuenta": "La entradilla es breve y no indica el tipo de estudio, el tamaño de la muestra ni si los resultados proceden de personas, animales o células. Hablar de «contribuir» indica una asociación o posible influencia, no una causa demostrada. Ante dudas sobre el hígado, conviene consultar con un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
@@ -114,11 +158,46 @@
     "imagen": "",
     "fecha": "2026-10-11T00:00:24+00:00",
     "traducida": true,
-    "titulo": "Una forma sorprendentemente sencilla de aliviar el dolor de artritis de rodilla sin pastillas ni cirugía",
-    "resumen": "Un cambio sorprendentemente simple en la forma de caminar podría ayudar a aliviar el dolor de artritis de rodilla e incluso retrasar el daño articular. En un ensayo clínico de un año de duración, los investigadores descubrieron que ajustar el ángulo del pie de una persona al caminar reducía el dolor de la osteoartritis en una cantidad comparable a...",
-    "categoria": "Entrenamiento",
+    "titulo": "Un cambio sencillo al caminar podría aliviar el dolor de rodilla por artrosis",
+    "resumen": "Un ensayo clínico sugiere que ajustar el ángulo del pie al caminar podría reducir el dolor de artrosis de rodilla sin pastillas ni cirugía.",
+    "categoria": "Salud general",
     "id": "c2792823",
-    "slug": "una-forma-sorprendentemente-sencilla-de-aliviar-el-dolor-de-artritis-d-c2792823"
+    "slug": "una-forma-sorprendentemente-sencilla-de-aliviar-el-dolor-de-artritis-d-c2792823",
+    "tipo_estudio": "ensayo en humanos",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, en un ensayo clínico de larga duración los investigadores encontraron que modificar el ángulo del pie al caminar redujo el dolor de artrosis de rodilla en una medida que la noticia compara con otra cifra, aunque el texto aparece cortado. También se sugiere que este cambio podría frenar el daño articular. La noticia original no da más detalles sobre el número de participantes, el método ni los resultados completos.",
+      "contexto": "La artrosis es una de las causas más frecuentes de dolor en las articulaciones, sobre todo en rodillas y caderas. Las guías clínicas recomiendan de forma general el ejercicio adaptado, el control del peso y la fisioterapia como pilares del tratamiento, junto con otras medidas según cada caso. Cualquier cambio en la forma de caminar debería valorarse con un profesional sanitario o un fisioterapeuta.",
+      "ten_en_cuenta": "Solo disponemos de un titular y una entradilla incompleta, así que no sabemos cuántas personas participaron ni cómo se midió el dolor. Un ensayo es un dato valioso, pero los resultados deben confirmarse con más estudios. La idea de que frene el daño articular todavía necesita más evidencia."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
+  },
+  {
+    "titulo_original": "Por qué levantar pesas es bueno para tu corazón",
+    "resumen_original": "",
+    "idioma": "es",
+    "fuente": "The New York Times",
+    "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHdXa2g1Zzc1Y2RjTlpqOER3Z2N1ZDIzYXpOUjhkenl2enl1SWpzQXFaZzBNQUlWeUZ0bFFvXzRnZWgzYm1CV1RUdjU1ZGNCcHFLVnZ1Rk53LUhOVUo2dk82LVd5VXQ2SUdKdWF2YUpSY3JxUFIwclBJdE94SHZjUktYVnhEUQ?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-10T18:00:54+00:00",
+    "id": "65a26f12",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Por qué levantar pesas es bueno para el corazón",
+    "resumen": "Un artículo del New York Times aborda los posibles beneficios del entrenamiento de fuerza para la salud cardiovascular. La noticia original no incluye más detalles en la entradilla.",
+    "categoria": "Entrenamiento",
+    "explicacion": {
+      "que_dice": "El New York Times publica un artículo que explica por qué levantar pesas podría ser beneficioso para el corazón. El titular es la única información disponible, ya que el medio no incluye entradilla, así que no sabemos qué datos, estudios o fuentes concretas se utilizan.",
+      "contexto": "Las recomendaciones de la OMS sobre actividad física incluyen, para adultos, actividades de fortalecimiento muscular que trabajen los grandes grupos musculares, además de la actividad aeróbica. El entrenamiento de fuerza se suma al ejercicio cardiovascular como parte de un estilo de vida activo, y forma parte de los hábitos que se recomiendan para cuidar la salud en general.",
+      "ten_en_cuenta": "Al no tener entradilla ni detalles, no podemos saber si el artículo se basa en un estudio, en una revisión o en opiniones de expertos. Si tienes problemas cardiacos o alguna condición de salud, conviene consultar con un profesional antes de empezar un programa de pesas."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "por-que-levantar-pesas-es-bueno-para-el-corazon-65a26f12"
   },
   {
     "titulo_original": "Wenig Zeit, große Wirkung: Was kurzes Krafttraining bringt",
@@ -130,18 +209,20 @@
     "fecha": "2026-10-10T17:15:00+00:00",
     "traducida": true,
     "titulo": "Poco tiempo, gran efecto: lo que aporta el entrenamiento de fuerza corto",
-    "resumen": "Un artículo de FIT FOR FUN aborda los beneficios del entrenamiento de fuerza breve. Por el titular, se centra en si sesiones cortas merecen la pena.",
+    "resumen": "Un artículo de Fit For Fun sugiere que las sesiones cortas de entrenamiento de fuerza pueden tener beneficios. La noticia original no ofrece más detalles en su entradilla.",
     "categoria": "Entrenamiento",
     "id": "83129262",
     "slug": "poco-tiempo-gran-efecto-lo-que-aporta-el-entrenamiento-de-fuerza-corto-83129262",
     "relevante": true,
     "explicacion": {
-      "que_dice": "Según el titular, el artículo trata sobre los beneficios del entrenamiento de fuerza de corta duración. No tenemos el texto completo ni la entradilla, así que no podemos detallar qué datos, estudios o recomendaciones concretas incluye.",
-      "contexto": "Las guías de salud internacionales recomiendan hacer actividades de fortalecimiento muscular al menos dos días a la semana, porque ayudan a mantener la masa y la fuerza muscular a lo largo de la vida. Para muchas personas, el principal obstáculo es el tiempo, por eso interesa saber si sesiones breves pueden aportar beneficios útiles.",
-      "ten_en_cuenta": "Con solo el titular no podemos saber qué estudio o fuente respalda la afirmación, ni cuánto dura exactamente la sesión ni qué resultados se midieron. Conviene leer el artículo original antes de sacar conclusiones y tener en cuenta que la duración ideal depende de cada persona y sus objetivos."
+      "que_dice": "El titular indica que el entrenamiento de fuerza de corta duración tendría un efecto notable pese a requerir poco tiempo. La noticia original no incluye entradilla, así que no sabemos qué beneficios concretos describe ni en qué se basa.",
+      "contexto": "Las guías de la OMS recomiendan a los adultos practicar actividades de fortalecimiento muscular que trabajen los principales grupos musculares al menos dos días a la semana, además de la actividad aeróbica. Entrenar la fuerza ayuda a mantener la masa muscular y la movilidad a medida que envejecemos, y encaja en rutinas breves si se planifica bien.",
+      "ten_en_cuenta": "Al no disponer de la entradilla ni del estudio original, no podemos saber qué se midió, con cuántas personas ni durante cuánto tiempo. Si estás empezando a entrenar o tienes alguna condición de salud, conviene consultar con un profesional antes de cambiar tu rutina."
     },
-    "puntuacion": 6,
-    "procesada_ia": true
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "tipo_estudio": "no especificado",
+    "version_ia": 2
   },
   {
     "titulo_original": "Studie zeigt: Nur 4 Minuten Training pro Tag können die Fitness verbessern",
@@ -152,11 +233,21 @@
     "imagen": "",
     "fecha": "2026-10-10T12:45:00+00:00",
     "traducida": true,
-    "titulo": "Un estudio muestra que solo 4 minutos de ejercicio al día pueden mejorar la condición física",
-    "resumen": "",
+    "titulo": "Un estudio sugiere que 4 minutos diarios de entrenamiento podrían mejorar la forma física",
+    "resumen": "Según el titular de CHIP, un estudio apunta a que solo 4 minutos de entrenamiento al día pueden mejorar la condición física. La noticia no ofrece más detalles.",
     "categoria": "Entrenamiento",
     "id": "28dc512c",
-    "slug": "un-estudio-muestra-que-solo-4-minutos-de-ejercicio-al-dia-pueden-mejor-28dc512c"
+    "slug": "un-estudio-muestra-que-solo-4-minutos-de-ejercicio-al-dia-pueden-mejor-28dc512c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio apunta a que solo 4 minutos de entrenamiento al día bastarían para mejorar la forma física. La noticia original no da más detalles sobre el estudio, el tipo de ejercicio, la intensidad ni las personas evaluadas.",
+      "contexto": "Las recomendaciones de la OMS indican que los adultos deberían acumular a lo largo de la semana una cantidad de actividad física moderada o intensa, y que la regularidad es clave para la salud. Las sesiones cortas pueden sumar, pero el efecto depende de la intensidad, de la frecuencia y de la condición de partida de cada persona.",
+      "ten_en_cuenta": "Solo conocemos el titular, así que no sabemos el diseño del estudio, el número de participantes ni qué entrenamiento se hizo. Antes de cambiar tu rutina, conviene consultar con un profesional, sobre todo si tienes alguna condición de salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "La combinación de nutrientes de los pistachos apunta a un potencial prometedor para la salud del sueño, según un estudio",
@@ -167,11 +258,21 @@
     "imagen": "",
     "fecha": "2026-10-10T12:24:17+00:00",
     "traducida": true,
-    "titulo": "La combinación de nutrientes de los pistachos apunta a un potencial prometedor para la salud del sueño, según un estudio",
-    "resumen": "",
+    "titulo": "Los nutrientes de los pistachos podrían favorecer la salud del sueño, según un estudio",
+    "resumen": "Un estudio sugiere que la combinación de nutrientes de los pistachos podría tener un potencial prometedor para la salud del sueño. La noticia original no ofrece más detalles.",
     "categoria": "Sueño",
     "id": "6df74bf1",
-    "slug": "la-combinacion-de-nutrientes-de-los-pistachos-apunta-a-un-potencial-pr-6df74bf1"
+    "slug": "la-combinacion-de-nutrientes-de-los-pistachos-apunta-a-un-potencial-pr-6df74bf1",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge que un estudio apunta a que la combinación de nutrientes de los pistachos tiene un potencial prometedor para la salud del sueño. El titular es el único dato disponible: el medio no incluye entradilla con información sobre el diseño, la muestra ni los resultados.",
+      "contexto": "El descanso depende en parte de hábitos como mantener horarios regulares, cuidar el ambiente de la habitación y seguir una alimentación equilibrada. Las sociedades científicas coinciden en que ningún alimento aislado garantiza un buen sueño. Los frutos secos forman parte de una dieta saludable por su aporte de grasas insaturadas, fibra y minerales, pero su efecto concreto sobre el sueño necesita más investigación.",
+      "ten_en_cuenta": "Al no disponer de más información, no sabemos si el estudio se hizo en personas, en animales o en laboratorio, ni de qué tamaño fue. Un hallazgo prometedor no equivale a una recomendación; si tienes problemas de sueño, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Un estudio de UNIR revela el escaso impacto de las campañas sobre salud mental en la red social X",
@@ -182,11 +283,21 @@
     "imagen": "",
     "fecha": "2026-10-10T11:26:05+00:00",
     "traducida": true,
-    "titulo": "Un estudio de UNIR revela el escaso impacto de las campañas sobre salud mental en la red social X",
-    "resumen": "",
+    "titulo": "Un estudio de UNIR concluye que las campañas sobre salud mental tienen escaso impacto en X",
+    "resumen": "Un estudio de la Universidad Internacional de La Rioja (UNIR) indica que las campañas de salud mental difundidas en la red social X logran poco impacto. La noticia original no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "152fa9b3",
-    "slug": "un-estudio-de-unir-revela-el-escaso-impacto-de-las-campanas-sobre-salu-152fa9b3"
+    "slug": "un-estudio-de-unir-revela-el-escaso-impacto-de-las-campanas-sobre-salu-152fa9b3",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio de UNIR revela que las campañas sobre salud mental publicadas en la red social X tienen un escaso impacto. La noticia original no incluye entradilla ni más detalles sobre la metodología, la muestra o los resultados.",
+      "contexto": "Las campañas de divulgación son una herramienta habitual para promover el cuidado de la salud mental y reducir el estigma. Que su alcance dependa del canal y del modo en que se diseñan es un tema de interés en salud pública, aunque la eficacia de este tipo de campañas varía según el contexto.",
+      "ten_en_cuenta": "Solo tenemos el titular, sin datos sobre el diseño del estudio ni sobre cómo se midió el impacto. Conviene leer el estudio original antes de sacar conclusiones sobre qué campañas funcionan."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Charge mentale. Santé, éducation, mode de garde… Les propriétaires d’animaux de compagnie sont eux aussi touchés",
@@ -197,11 +308,21 @@
     "imagen": "",
     "fecha": "2026-10-10T10:00:24+00:00",
     "traducida": true,
-    "titulo": "Carga mental. Salud, educación, cuidado… Los dueños de mascotas también se ven afectados",
-    "resumen": "",
+    "titulo": "La carga mental también afecta a quienes tienen mascotas",
+    "resumen": "Según el titular de Ouest-France, la carga mental, es decir, la preocupación constante por organizar y recordar tareas, también alcanza a los propietarios de animales de compañía en ámbitos como la salud, la educación o el cuidado.",
     "categoria": "Salud mental",
     "id": "8d17b0db",
-    "slug": "carga-mental-salud-educacion-cuidado-los-duenos-de-mascotas-tambien-se-8d17b0db"
+    "slug": "carga-mental-salud-educacion-cuidado-los-duenos-de-mascotas-tambien-se-8d17b0db",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia sugiere que los dueños de mascotas también viven la carga mental, la sensación de tener siempre presentes tareas y responsabilidades. El titular menciona la salud, la educación y la organización del cuidado. La noticia original no da más detalles en la información disponible.",
+      "contexto": "La carga mental se refiere al trabajo invisible de planificar, anticipar y recordar las obligaciones de la vida diaria. Se habla mucho de ella en el ámbito familiar y laboral, y se relaciona con el estrés cuando se vuelve constante. Tener un animal implica responsabilidades reales, aunque el impacto concreto varía mucho de una persona a otra.",
+      "ten_en_cuenta": "Solo disponemos del titular, sin entradilla ni datos, así que no sabemos qué estudio o fuente respalda la afirmación. Si la carga mental te desborda, conviene hablarlo con un profesional de la salud mental."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Rien de tel qu’un bon sommeil pour se prémunir des maladies !",
@@ -212,11 +333,21 @@
     "imagen": "",
     "fecha": "2026-10-10T09:45:00+00:00",
     "traducida": true,
-    "titulo": "¡No hay nada como un buen sueño para protegerse de las enfermedades!",
-    "resumen": "",
+    "titulo": "Un buen sueño como aliado para prevenir enfermedades",
+    "resumen": "Un medio francés destaca el papel del buen descanso en la prevención de enfermedades. La noticia original no ofrece más detalles.",
     "categoria": "Sueño",
     "id": "62e24237",
-    "slug": "no-hay-nada-como-un-buen-sueno-para-protegerse-de-las-enfermedades-62e24237"
+    "slug": "no-hay-nada-como-un-buen-sueno-para-protegerse-de-las-enfermedades-62e24237",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, el artículo de Charente Libre defiende que un buen sueño ayuda a protegerse de las enfermedades. La entradilla no está disponible, así que la noticia original no aporta más detalles sobre qué se ha analizado ni cómo.",
+      "contexto": "Dormir lo suficiente y con buena calidad forma parte de los hábitos que las sociedades científicas de sueño y las autoridades sanitarias consideran importantes para la salud. La falta de sueño de forma crónica se asocia con peor salud física y mental, aunque una asociación no demuestra por sí sola una relación de causa y efecto.",
+      "ten_en_cuenta": "Al no tener entradilla ni detalles, no sabemos si la afirmación se basa en un estudio, en qué población o con qué método. Si el sueño te preocupa o notas cambios persistentes en tu descanso, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Hohe Bildschirmzeit und psychische Gesundheit: Was eine Zwillingsstudie wirklich zeigt",
@@ -227,11 +358,21 @@
     "imagen": "",
     "fecha": "2026-10-10T09:20:00+00:00",
     "traducida": true,
-    "titulo": "Tiempo de pantalla alto y salud mental: lo que realmente muestra un estudio de gemelos",
-    "resumen": "",
+    "titulo": "Tiempo de pantalla y salud mental: qué muestra realmente un estudio con gemelos",
+    "resumen": "Un artículo de MDR.de analiza qué aporta un estudio con gemelos sobre el uso prolongado de pantallas y la salud mental. La noticia original no incluye más detalles en la información disponible.",
     "categoria": "Salud mental",
     "id": "73994beb",
-    "slug": "tiempo-de-pantalla-alto-y-salud-mental-lo-que-realmente-muestra-un-est-73994beb"
+    "slug": "tiempo-de-pantalla-alto-y-salud-mental-lo-que-realmente-muestra-un-est-73994beb",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia se centra en qué puede concluirse de un estudio con gemelos sobre la relación entre el tiempo que se pasa frente a las pantallas y la salud psicológica. El titular no indica resultados concretos, y la entradilla no se incluye, así que la noticia original no da más detalles sobre los hallazgos, la muestra ni el método.",
+      "contexto": "La relación entre el uso de pantallas y el bienestar psicológico es un tema de debate en la investigación. Los estudios de gemelos sirven para distinguir, en parte, entre factores genéticos o familiares compartidos y factores del entorno. En general, la evidencia en este campo suele mostrar asociaciones, y no es fácil establecer relaciones de causa y efecto.",
+      "ten_en_cuenta": "Sin la entradilla ni el texto completo no podemos saber qué encontró el estudio ni con qué tamaño de muestra o duración. Una asociación entre pantallas y malestar no demuestra que una cosa cause la otra. Si te preocupa tu salud mental, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Saúde mental é principal preocupação em relação à saúde para 58% dos brasileiros, diz pesquisa",
@@ -242,11 +383,21 @@
     "imagen": "",
     "fecha": "2026-10-10T09:00:00+00:00",
     "traducida": true,
-    "titulo": "La salud mental es el principal problema de salud para el 58% de los brasileños, según una encuesta",
-    "resumen": "",
+    "titulo": "La salud mental es la principal preocupación de salud para el 58% de los brasileños, según una encuesta",
+    "resumen": "Una encuesta realizada en Brasil sitúa la salud mental como la principal preocupación sanitaria para el 58% de los encuestados. La noticia original no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "aabc4ea1",
-    "slug": "la-salud-mental-es-el-principal-problema-de-salud-para-el-58-de-los-br-aabc4ea1"
+    "slug": "la-salud-mental-es-el-principal-problema-de-salud-para-el-58-de-los-br-aabc4ea1",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, una encuesta reciente en Brasil indica que el 58% de los brasileños considera la salud mental su principal preocupación en materia de salud. La noticia original no aporta más datos sobre cómo se hizo el sondeo ni sobre quién respondió.",
+      "contexto": "La salud mental forma parte de la salud general, como reconoce la Organización Mundial de la Salud, y afecta al bienestar, al descanso y a la vida diaria. Que una parte importante de la población la sitúe como prioridad refleja que se habla más de ella, aunque una encuesta de percepción no mide por sí sola cuántas personas tienen problemas de salud mental.",
+      "ten_en_cuenta": "Al tratarse de una encuesta de opinión, muestra lo que la gente percibe como preocupación, no la prevalencia de trastornos. Faltan detalles sobre la muestra y la metodología. Si uno se siente afectado por su salud mental, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "'Dia da Saúde Mental' alerta para os riscos do esgotamento na rotina",
@@ -257,11 +408,21 @@
     "imagen": "",
     "fecha": "2026-10-10T06:33:25+00:00",
     "traducida": true,
-    "titulo": "El 'Día de la Salud Mental' alerta sobre los riesgos de agotamiento en la rutina",
-    "resumen": "",
+    "titulo": "El Día de la Salud Mental alerta de los riesgos del agotamiento en la rutina",
+    "resumen": "Con motivo del Día de la Salud Mental, una noticia advierte de los riesgos del agotamiento en la vida cotidiana. El texto original no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "09b2feb2",
-    "slug": "el-dia-de-la-salud-mental-alerta-sobre-los-riesgos-de-agotamiento-en-l-09b2feb2"
+    "slug": "el-dia-de-la-salud-mental-alerta-sobre-los-riesgos-de-agotamiento-en-l-09b2feb2",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El titular indica que, con motivo del Día de la Salud Mental, se alerta de los riesgos del esgotamiento en la rutina diaria. La noticia original no da más detalles sobre datos, fuentes ni recomendaciones concretas.",
+      "contexto": "El agotamiento prolongado, conocido como burnout o síndrome de desgaste profesional, se asocia con cansancio intenso, distanciamiento de las tareas y menor sensación de eficacia. La OMS lo recoge como un fenómeno vinculado al trabajo mal gestionado, no como una enfermedad, y las pautas generales incluyen revisar la carga, descansar y pedir apoyo.",
+      "ten_en_cuenta": "Solo se conoce el titular, sin entradilla, cifras ni fuentes, así que no se pueden valorar evidencias. Si el cansancio es persistente, conviene consultar a un profesional de la salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "El 85 % del día sin movernos: la alerta de ASICS en el Día Mundial de la Salud Mental",
@@ -272,11 +433,21 @@
     "imagen": "",
     "fecha": "2026-10-10T05:55:00+00:00",
     "traducida": true,
-    "titulo": "El 85 % del día sin movernos: la alerta de ASICS en el Día Mundial de la Salud Mental",
-    "resumen": "",
+    "titulo": "El 85 % del día sin movernos: la alerta de ASICS por el Día Mundial de la Salud Mental",
+    "resumen": "Una marca de material deportivo lanza una alerta sobre el tiempo que pasamos sin movernos, coincidiendo con el Día Mundial de la Salud Mental. La noticia no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "1de03fdf",
-    "slug": "el-85-del-dia-sin-movernos-la-alerta-de-asics-en-el-dia-mundial-de-la-1de03fdf"
+    "slug": "el-85-del-dia-sin-movernos-la-alerta-de-asics-en-el-dia-mundial-de-la-1de03fdf",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, ASICS advierte de que una gran parte del día transcurre sin movimiento, con la cifra del 85 %. La alerta se enmarca en el Día Mundial de la Salud Mental. La entradilla no está incluida, así que la noticia original no da más detalles sobre el origen de la cifra ni sobre el estudio o la encuesta en que se basa.",
+      "contexto": "Las recomendaciones de la OMS señalan que la actividad física regular es beneficiosa para la salud física y mental, y que pasar mucho tiempo sentado se asocia con peor salud. Moverse a lo largo del día, incluso con pausas breves, es una de las formas más sencillas de sumar actividad.",
+      "ten_en_cuenta": "La información procede de una marca comercial y el titular no explica cómo se obtuvo la cifra ni qué se entiende exactamente por estar sin moverse. Conviene tomar el dato con cautela y consultar fuentes independientes si se quiere profundizar."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Sonno interrotto, profumi e odori possono aiutare? Lo studio giapponese sui risvegli notturni",
@@ -287,11 +458,21 @@
     "imagen": "",
     "fecha": "2026-10-09T23:32:00+00:00",
     "traducida": true,
-    "titulo": "¿El sueño interrumpido, los aromas y los olores pueden ayudar? El estudio japonés sobre los despertares nocturnos",
-    "resumen": "",
+    "titulo": "¿Pueden ayudar los olores a los despertares nocturnos? Un estudio japonés lo explora",
+    "resumen": "Un estudio japonés analiza si los aromas o olores podrían ayudar a las personas que se despiertan durante la noche. La noticia original no da más detalles sobre sus resultados.",
     "categoria": "Sueño",
     "id": "90839be0",
-    "slug": "el-sueno-interrumpido-los-aromas-y-los-olores-pueden-ayudar-el-estudio-90839be0"
+    "slug": "el-sueno-interrumpido-los-aromas-y-los-olores-pueden-ayudar-el-estudio-90839be0",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio japonés plantea si los perfumes u olores pueden ayudar cuando el sueño se interrumpe por la noche. La información original no incluye la metodología, el número de participantes ni los resultados, así que no se puede saber qué encontraron.",
+      "contexto": "Los despertares nocturnos son frecuentes y el ambiente del dormitorio influye en la calidad del sueño. Las recomendaciones generales de higiene del sueño incluyen mantener una habitación oscura, silenciosa y con temperatura agradable, y mantener horarios regulares. Si los despertares son frecuentes o afectan al descanso, conviene consultar con un profesional sanitario.",
+      "ten_en_cuenta": "Solo tenemos el titular, así que no sabemos si el estudio se hizo en personas, en animales o de otro modo, ni qué tamaño tuvo. Preguntar si un olor ayuda no equivale a demostrar que lo haga. Ningún aroma debe sustituir una valoración médica si el problema persiste."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Santé mentale en Afrique : au Togo, une étude de la Bluemind Foundation auprès de 576 femmes révèle le rôle de la confiance avant l'accès aux soins",
@@ -302,11 +483,21 @@
     "imagen": "",
     "fecha": "2026-10-09T21:52:27+00:00",
     "traducida": true,
-    "titulo": "Salud mental en África: en Togo, un estudio de la Bluemind Foundation con 576 mujeres revela el papel de la confianza antes del acceso a la atención",
-    "resumen": "",
+    "titulo": "Salud mental en Togo: un estudio con 576 mujeres apunta al papel de la confianza antes de acceder a la atención",
+    "resumen": "Un estudio de la Bluemind Foundation con 576 mujeres en Togo sugiere que la confianza influye antes incluso de que las personas acudan a recibir atención en salud mental.",
     "categoria": "Salud mental",
     "id": "7bc61c26",
-    "slug": "salud-mental-en-africa-en-togo-un-estudio-de-la-bluemind-foundation-co-7bc61c26"
+    "slug": "salud-mental-en-africa-en-togo-un-estudio-de-la-bluemind-foundation-co-7bc61c26",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge un estudio de la Bluemind Foundation realizado en Togo con 576 mujeres. Según el titular, el trabajo señala el papel que tiene la confianza antes de que las personas accedan a los servicios de salud mental. La noticia original no da más detalles sobre el método ni sobre los resultados.",
+      "contexto": "En muchos países, una parte importante de las personas con problemas de salud mental no recibe atención. Entre las barreras habituales se citan el estigma, el coste, la distancia a los servicios y la desconfianza hacia la atención sanitaria. La OMS insiste en que mejorar el acceso y la calidad de los servicios de salud mental es una prioridad mundial.",
+      "ten_en_cuenta": "Solo conocemos el titular y no la entradilla, así que no sabemos cómo se hizo el estudio, cómo se midió la confianza ni qué resultados concretos obtuvo. Es un único trabajo y su población es específica de Togo, por lo que no conviene extrapolar sus conclusiones sin más. Si tienes inquietudes sobre tu salud mental, consulta con un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Get paid: Research opportunities and on-campus jobs",
@@ -317,11 +508,21 @@
     "imagen": "",
     "fecha": "2026-10-09T20:55:18+00:00",
     "traducida": true,
-    "titulo": "Reciba su pago: oportunidades de investigación y trabajos en el campus",
-    "resumen": "",
+    "titulo": "Oportunidades de investigación y empleos en el campus de la Universidad de Colorado Boulder",
+    "resumen": "La Universidad de Colorado Boulder anuncia oportunidades de investigación y empleos remunerados dentro del campus para sus estudiantes.",
     "categoria": "Salud general",
     "id": "606c731a",
-    "slug": "reciba-su-pago-oportunidades-de-investigacion-y-trabajos-en-el-campus-606c731a"
+    "slug": "reciba-su-pago-oportunidades-de-investigacion-y-trabajos-en-el-campus-606c731a",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "El titular habla de oportunidades de investigación y empleos en el campus para estudiantes. La noticia original no da más detalles, así que no sabemos qué puestos son ni en qué áreas de trabajo.",
+      "contexto": "Esta noticia trata de becas laborales y oportunidades académicas, no de salud, nutrición, sueño, ejercicio o bienestar. Por eso no tiene una aplicación clara para cuidar la salud física o mental en el día a día.",
+      "ten_en_cuenta": "Es un anuncio sobre empleo universitario, sin datos de salud ni de investigación sobre bienestar. Si te interesa un puesto concreto, consulta directamente la web de la universidad."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Dormir com cachorro atrapalha o sono? Estudo encontra resposta que surpreende",
@@ -332,11 +533,21 @@
     "imagen": "",
     "fecha": "2026-10-09T20:04:00+00:00",
     "traducida": true,
-    "titulo": "¿Dormir con un perro interfiere con el sueño? Estudio encuentra respuesta que sorprende",
-    "resumen": "",
+    "titulo": "¿Dormir con el perro altera el sueño? Un estudio ofrece una respuesta sorprendente",
+    "resumen": "Un medio portugués plantea si dormir con el perro perjudica el descanso y anuncia que un estudio tiene una respuesta sorprendente. La noticia no explica cuál es.",
     "categoria": "Sueño",
     "id": "d1c7dd26",
-    "slug": "dormir-con-un-perro-interfiere-con-el-sueno-estudio-encuentra-respuest-d1c7dd26"
+    "slug": "dormir-con-un-perro-interfiere-con-el-sueno-estudio-encuentra-respuest-d1c7dd26",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El titular pregunta si dormir con el perro en la cama perjudica el sueño y afirma que un estudio ha encontrado una respuesta que sorprende. La noticia original no da más detalles: no indica qué resultado se obtuvo, con cuántas personas ni cómo se hizo el estudio.",
+      "contexto": "Según las recomendaciones generales de higiene del sueño, lo que más pesa en el descanso son los horarios regulares, un dormitorio tranquilo, oscuro y con temperatura agradable, y evitar pantallas y estimulantes antes de acostarse. La presencia de un animal puede influir en el sueño de algunas personas, por ejemplo por movimientos, ruidos o calor, pero el efecto varía mucho de una persona a otra.",
+      "ten_en_cuenta": "Al no conocer el diseño, la muestra ni los resultados del estudio, no se puede valorar su solidez ni sacar conclusiones generales. El titular genera expectación sin aportar datos. Si el sueño es un problema persistente, conviene consultar con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Deep learning model using ECGs during sleep studies can predict cardiovascular outcomes",
@@ -347,11 +558,21 @@
     "imagen": "",
     "fecha": "2026-10-09T19:24:04+00:00",
     "traducida": true,
-    "titulo": "El modelo de aprendizaje profundo que utiliza ECG durante los estudios del sueño puede predecir los resultados cardiovasculares",
-    "resumen": "",
-    "categoria": "Sueño",
+    "titulo": "Un modelo de aprendizaje profundo que analiza el ECG durante estudios del sueño puede predecir resultados cardiovasculares",
+    "resumen": "Según la noticia, una herramienta de inteligencia artificial que utiliza electrocardiogramas registrados durante estudios del sueño podría anticipar problemas cardiovasculares. La información disponible es muy breve.",
+    "categoria": "Salud general",
     "id": "cc58a039",
-    "slug": "el-modelo-de-aprendizaje-profundo-que-utiliza-ecg-durante-los-estudios-cc58a039"
+    "slug": "el-modelo-de-aprendizaje-profundo-que-utiliza-ecg-durante-los-estudios-cc58a039",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia indica que un modelo de aprendizaje profundo, un tipo de inteligencia artificial, puede utilizar los electrocardiogramas (ECG) obtenidos durante estudios del sueño para predecir resultados cardiovasculares. La fuente original no incluye entradilla ni más detalles sobre el diseño, la muestra o los resultados.",
+      "contexto": "El ECG registra la actividad eléctrica del corazón y es una prueba habitual en medicina. Se sabe en general que los problemas de sueño, como la apnea obstructiva, se asocian con un mayor riesgo cardiovascular, por lo que el sueño y la salud del corazón están relacionados. Mantener buenos hábitos de descanso forma parte de la prevención.",
+      "ten_en_cuenta": "La noticia no aporta cifras, tamaño de muestra ni métodos, así que no se puede valorar la solidez de la predicción. Es una herramienta pensada para uso clínico y no sustituye el seguimiento médico; ante cualquier preocupación cardiovascular o de sueño, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Cannabis e sonno, notti più lunghe ma riposo più frammentato: lo studio su 1.266 persone",
@@ -362,11 +583,21 @@
     "imagen": "",
     "fecha": "2026-10-09T19:15:00+00:00",
     "traducida": true,
-    "titulo": "Cannabis y sueño, noches más largas pero descanso más fragmentado: el estudio de 1.266 personas",
-    "resumen": "",
+    "titulo": "Cannabis y sueño: noches más largas, pero descanso más fragmentado, según un estudio con 1.266 personas",
+    "resumen": "Un estudio con 1.266 personas relaciona el cannabis con noches más largas, aunque con un descanso más fragmentado. La información disponible es muy breve.",
     "categoria": "Sueño",
     "id": "af5eee45",
-    "slug": "cannabis-y-sueno-noches-mas-largas-pero-descanso-mas-fragmentado-el-es-af5eee45"
+    "slug": "cannabis-y-sueno-noches-mas-largas-pero-descanso-mas-fragmentado-el-es-af5eee45",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio con 1.266 personas analiza la relación entre el cannabis y el sueño y concluye que las noches son más largas, pero el descanso es más fragmentado. La noticia original no da más detalles sobre el diseño del estudio ni sobre los resultados.",
+      "contexto": "Descansar bien es importante para la salud física y mental, y las recomendaciones generales de las sociedades de sueño sitúan la duración adecuada en torno a las 7 horas o más en la edad adulta. Los efectos del cannabis sobre el sueño son objeto de debate científico y no están del todo establecidos; sus efectos pueden variar según la persona, la dosis y la frecuencia de consumo.",
+      "ten_en_cuenta": "Solo disponemos del titular, así que no sabemos el tipo de estudio, cómo se midió el sueño ni qué formas de cannabis se analizaron. Un estudio observacional no demuestra causa y efecto. Si tienes problemas de sueño o consumes cannabis, consulta con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Estudo Nacional de Saúde Mental inicia na Uece – FAEC – Faculdade de Educação e Ciências Integradas de Crateús",
@@ -377,11 +608,21 @@
     "imagen": "",
     "fecha": "2026-10-09T17:02:00+00:00",
     "traducida": true,
-    "titulo": "El Estudio Nacional de Salud Mental comienza en UECE – FAEC – Faculdade de Educação e Ciências Integradas de Crateús",
-    "resumen": "",
+    "titulo": "Arranca en la Uece un estudio nacional sobre salud mental",
+    "resumen": "La Universidad Estatal de Ceará (Brasil) anuncia el inicio de un estudio nacional de salud mental con la participación de su unidad en Crateús. La noticia no ofrece resultados ni detalles del estudio.",
     "categoria": "Salud mental",
     "id": "de1a6216",
-    "slug": "el-estudio-nacional-de-salud-mental-comienza-en-uece-faec-faculdade-de-de1a6216"
+    "slug": "el-estudio-nacional-de-salud-mental-comienza-en-uece-faec-faculdade-de-de1a6216",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "La noticia original es un anuncio institucional de que la Universidad Estatal de Ceará, a través de su unidad en Crateús, participa en un estudio nacional de salud mental. El texto no explica objetivos, metodología ni resultados, y no incluye entradilla que amplíe la información.",
+      "contexto": "La salud mental es un ámbito de creciente interés en salud pública, y los estudios poblacionales ayudan a conocer cómo están las personas y qué necesidades tienen. Sin embargo, el anuncio de que un estudio ha comenzado no aporta por sí mismo conclusiones sobre el bienestar de la población.",
+      "ten_en_cuenta": "Es un anuncio de inicio de un proyecto, no un hallazgo, así que no permite extraer conclusiones. Para información sobre la salud mental personal conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Fezolinetanto se associa à melhora do sono na menopausa",
@@ -392,11 +633,21 @@
     "imagen": "",
     "fecha": "2026-10-09T15:26:45+00:00",
     "traducida": true,
-    "titulo": "Fezolinetant se asocia con una mejoría del sueño durante la menopausia",
-    "resumen": "",
+    "titulo": "El fezolinetant se asocia a una mejora del sueño durante la menopausia",
+    "resumen": "Una noticia indica que el fezolinetant, un medicamento para la menopausia, se asocia con mejor descanso nocturno. La información disponible es muy limitada.",
     "categoria": "Sueño",
     "id": "3f04d24d",
-    "slug": "fezolinetant-se-asocia-con-una-mejoria-del-sueno-durante-la-menopausia-3f04d24d"
+    "slug": "fezolinetant-se-asocia-con-una-mejoria-del-sueno-durante-la-menopausia-3f04d24d",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, el fezolinetant, un fármaco usado en la menopausia, se asocia con una mejora del sueño. La noticia original no da más detalles sobre el estudio, la muestra ni los resultados.",
+      "contexto": "Durante la menopausia, los sofocos y los sudores nocturnos son frecuentes y pueden dificultar el sueño, por lo que el descanso es una preocupación habitual en esta etapa. Cualquier decisión sobre tratamientos para estos síntomas debe valorarse con el médico o la médica que atiende a la persona.",
+      "ten_en_cuenta": "Solo tenemos el titular, sin entradilla ni datos del estudio, así que no sabemos su diseño ni su tamaño. Una asociación no demuestra que el fármaco sea la causa de la mejora. Conviene consultar a un profesional sanitario antes de plantearse cualquier medicación."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Quel rôle le collège et le lycée jouent-ils dans la santé mentale des élèves ? Une étude australienne lève un coin du voile",
@@ -407,11 +658,21 @@
     "imagen": "",
     "fecha": "2026-10-09T14:29:43+00:00",
     "traducida": true,
-    "titulo": "¿Qué papel juegan la universidad y la escuela secundaria en la salud mental de los estudiantes? Un estudio australiano levanta un rincón del velo",
-    "resumen": "",
+    "titulo": "¿Qué papel juegan el colegio y el instituto en la salud mental de los alumnos? Un estudio australiano lo analiza",
+    "resumen": "Un estudio australiano examina cómo influyen la etapa de secundaria y el entorno escolar en la salud mental de los adolescentes. La noticia original no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "607e0ded",
-    "slug": "que-papel-juegan-la-universidad-y-la-escuela-secundaria-en-la-salud-me-607e0ded"
+    "slug": "que-papel-juegan-la-universidad-y-la-escuela-secundaria-en-la-salud-me-607e0ded",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio realizado en Australia analiza qué papel desempeñan el colegio y el instituto (collège y lycée, en la versión original) en la salud mental de los alumnos. La noticia que hemos recibido no incluye entradilla, por lo que no da más detalles sobre el diseño, la muestra ni los resultados.",
+      "contexto": "La adolescencia es una etapa en la que aparecen con frecuencia problemas de salud mental, y el entorno escolar es uno de los ámbitos donde los jóvenes pasan más tiempo. Las organizaciones de salud, como la OMS, consideran que los centros educativos pueden contribuir al bienestar, por ejemplo con programas que fomentan las habilidades emocionales y sociales.",
+      "ten_en_cuenta": "Conocemos solo el titular, así que no sabemos qué tipo de estudio es ni qué resultados concretos encontró. Aunque un estudio pueda asociar el entorno escolar con el bienestar, eso no demuestra por sí solo una relación causa-efecto. Si te preocupa la salud mental de un adolescente, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Surveiller, se reproduire, récupérer : comment les chimpanzés organisent leurs nuits",
@@ -422,11 +683,21 @@
     "imagen": "",
     "fecha": "2026-10-09T12:52:35+00:00",
     "traducida": true,
-    "titulo": "Vigilar, reproducirse, recuperarse: cómo los chimpancés organizan sus noches",
-    "resumen": "",
-    "categoria": "Salud general",
+    "titulo": "Vigilar, reproducirse, descansar: cómo organizan sus noches los chimpancés",
+    "resumen": "Un artículo del Muséum national d'Histoire naturelle describe cómo los chimpancés reparten sus noches entre vigilar, reproducirse y recuperarse. Es un tema de comportamiento animal.",
+    "categoria": "Sueño",
     "id": "5efc2caa",
-    "slug": "vigilar-reproducirse-recuperarse-como-los-chimpances-organizan-sus-noc-5efc2caa"
+    "slug": "vigilar-reproducirse-recuperarse-como-los-chimpances-organizan-sus-noc-5efc2caa",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según el titular, el artículo trata sobre cómo los chimpancés organizan sus noches entre vigilar, reproducirse y recuperarse. La noticia original no da más detalles sobre el estudio ni sobre sus resultados.",
+      "contexto": "El sueño de los primates no humanos se estudia para entender la evolución del descanso y sus funciones. Sus conclusiones no se trasladan directamente a las personas, cuyas rutinas de descanso dependen de factores muy distintos.",
+      "ten_en_cuenta": "Solo tenemos el titular, sin entradilla ni datos del estudio. Se trata de investigación sobre animales, con poca aplicación práctica para el cuidado del sueño humano."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Ana Buitrago presenta el Programa Bienestar Integral ICAM y el I Estudio sobre la Salud Mental en la Abogacía Madrileña en la Conferencia Anual de la IBA en Copenhague - ICAM",
@@ -437,11 +708,21 @@
     "imagen": "",
     "fecha": "2026-10-09T12:09:56+00:00",
     "traducida": true,
-    "titulo": "Ana Buitrago presenta el Programa Bienestar Integral ICAM y el I Estudio sobre la Salud Mental en la Abogacía Madrileña en la Conferencia Anual de la IBA en Copenhague - ICAM",
-    "resumen": "",
+    "titulo": "El ICAM presenta un programa de bienestar integral y un estudio sobre salud mental en la abogacía madrileña",
+    "resumen": "El Ilustre Colegio de la Abogacía de Madrid presenta un programa de bienestar y un estudio sobre salud mental de sus colegiados en un congreso internacional. La noticia no recoge datos ni resultados.",
     "categoria": "Salud mental",
     "id": "ab6a369a",
-    "slug": "ana-buitrago-presenta-el-programa-bienestar-integral-icam-y-el-i-estud-ab6a369a"
+    "slug": "ana-buitrago-presenta-el-programa-bienestar-integral-icam-y-el-i-estud-ab6a369a",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "El Colegio de la Abogacía de Madrid anuncia la presentación de su Programa Bienestar Integral y de un primer estudio sobre salud mental en la abogacía madrileña, durante una conferencia anual de la IBA en Copenhague. La noticia original no da más detalles sobre el programa ni sobre el estudio.",
+      "contexto": "La salud mental en las profesiones jurídicas es un tema que preocupa a colegios profesionales y organizaciones del sector. Las guías generales de salud mental laboral suelen insistir en la prevención del estrés crónico y en el acceso a apoyo cuando hace falta.",
+      "ten_en_cuenta": "Es un anuncio institucional sin resultados publicados ni metodología descrita, así que no permite extraer conclusiones sobre la salud mental de los abogados. Para información fiable sobre el estudio, conviene esperar a que se publique."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Due minuti di movimento in più al giorno valgono un anno di vita",
@@ -452,11 +733,21 @@
     "imagen": "",
     "fecha": "2026-10-09T11:39:00+00:00",
     "traducida": true,
-    "titulo": "Dos minutos más de movimiento al día valen un año de vida",
-    "resumen": "",
+    "titulo": "Dos minutos más de movimiento al día podrían valer un año de vida, según un medio italiano",
+    "resumen": "Un titular de Trekking.it sugiere que sumar dos minutos de movimiento diario equivaldría a un año más de vida. La noticia no ofrece más detalles.",
     "categoria": "Salud general",
     "id": "482eddf6",
-    "slug": "dos-minutos-mas-de-movimiento-al-dia-valen-un-ano-de-vida-482eddf6"
+    "slug": "dos-minutos-mas-de-movimiento-al-dia-valen-un-ano-de-vida-482eddf6",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Trekking.it publica un titular según el cual dos minutos más de movimiento al día valdrían un año de vida. La fuente no incluye entradilla ni explica de qué estudio procede la cifra, a cuántas personas se refiere ni cómo se calcula.",
+      "contexto": "La actividad física regular es una de las recomendaciones de salud más sólidas y la OMS aconseja a los adultos moverse de forma habitual, combinando actividad aeróbica y ejercicio de fuerza. En general, aumentar el movimiento, aunque sea poco a poco, se considera beneficioso, pero el efecto exacto sobre la esperanza de vida depende de muchos factores.",
+      "ten_en_cuenta": "No sabemos si el titular se basa en un estudio, cuántas personas participaron ni cómo se calculan los años de vida. Una cifra así es una estimación que conviene tomar con cautela y no es una promesa individual. Ante dudas sobre tu actividad física, consulta a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Un estudio del Hospital Provincial de Castellón analiza el uso de la comunicación para reducir las crisis en pacientes de salud mental",
@@ -467,11 +758,21 @@
     "imagen": "",
     "fecha": "2026-10-09T11:30:52+00:00",
     "traducida": true,
-    "titulo": "Un estudio del Hospital Provincial de Castellón analiza el uso de la comunicación para reducir las crisis en pacientes de salud mental",
-    "resumen": "",
+    "titulo": "Un estudio de Castellón analiza cómo la comunicación puede reducir las crisis en pacientes de salud mental",
+    "resumen": "Un estudio del Hospital Provincial de Castellón examina el papel de la comunicación para reducir las crisis en personas con problemas de salud mental. La noticia original no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "7bb004cc",
-    "slug": "un-estudio-del-hospital-provincial-de-castellon-analiza-el-uso-de-la-c-7bb004cc"
+    "slug": "un-estudio-del-hospital-provincial-de-castellon-analiza-el-uso-de-la-c-7bb004cc",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia indica que un estudio del Hospital Provincial de Castellón analiza el uso de la comunicación para reducir las crisis en pacientes de salud mental. El medio no incluye más información sobre el diseño, las personas participantes ni los resultados.",
+      "contexto": "La comunicación cuidadosa y respetuosa forma parte de la atención en salud mental, porque influye en la relación entre paciente y profesional y en cómo se viven los momentos de mayor tensión. Las guías clínicas suelen destacar la importancia de la alianza terapéutica y de intervenir de forma calmada y predecible cuando surgen situaciones difíciles.",
+      "ten_en_cuenta": "Solo conocemos el titular, así que no sabemos qué tipo de estudio es, cuántas personas participaron ni qué resultados se obtuvieron. Cualquier conclusión debe leerse con cautela hasta consultar el estudio completo. Si una persona vive crisis de salud mental, debe acudir a su equipo profesional de referencia."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Only one workout helped older adults lose fat and keep muscle",
@@ -482,11 +783,21 @@
     "imagen": "",
     "fecha": "2026-10-09T10:57:40+00:00",
     "traducida": true,
-    "titulo": "Solo un entrenamiento ayudó a los adultos mayores a perder grasa y mantener los músculos",
-    "resumen": "Un estudio de seis meses sugiere que el entrenamiento en intervalos de alta intensidad (HIIT) puede ofrecer a los adultos mayores una poderosa ventaja: perder grasa corporal mientras mantienen su músculo. A diferencia de los entrenamientos de intensidad moderada, que llevaron a una pequeña pérdida de músculo magro, el HIIT lo conservó y al mismo tiempo mejoró...",
+    "titulo": "Solo un tipo de entrenamiento ayudó a adultos mayores a perder grasa y mantener músculo",
+    "resumen": "Un estudio de seis meses sugiere que el entrenamiento interválico de alta intensidad (HIIT) podría reducir la grasa corporal en adultos mayores sin perder masa muscular, a diferencia del entrenamiento de intensidad moderada.",
     "categoria": "Entrenamiento",
     "id": "20864470",
-    "slug": "solo-un-entrenamiento-ayudo-a-los-adultos-mayores-a-perder-grasa-y-man-20864470"
+    "slug": "solo-un-entrenamiento-ayudo-a-los-adultos-mayores-a-perder-grasa-y-man-20864470",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, un estudio de seis meses con adultos mayores compara distintos tipos de entrenamiento. El HIIT, que alterna esfuerzos intensos con periodos de recuperación, ayudó a perder grasa corporal y conservó la masa muscular. Los entrenamientos de intensidad moderada provocaron una pequeña pérdida de músculo. La entradilla no da más detalles sobre el diseño ni los resultados.",
+      "contexto": "Con la edad, el cuerpo tiende a perder masa muscular, y mantenerla es importante para la movilidad y la autonomía. Las recomendaciones de la OMS y de las sociedades de medicina del deporte coinciden en que la actividad física regular, que combine ejercicio aeróbico y de fuerza, beneficia a las personas mayores. El HIIT es una de las formas posibles de hacer ejercicio, no la única.",
+      "ten_en_cuenta": "La noticia procede de un resumen y no indica el tamaño de la muestra ni los detalles del estudio, así que conviene leer la fuente original. Un solo estudio no basta para generalizar. Antes de empezar un entrenamiento intenso, especialmente si se es mayor o se tienen problemas de salud, conviene consultar con un profesional."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Dormire con il cane non rovina il sonno: studio della University of Toronto ribalta i luoghi comuni",
@@ -497,11 +808,21 @@
     "imagen": "",
     "fecha": "2026-10-09T09:24:59+00:00",
     "traducida": true,
-    "titulo": "Dormir con el perro no arruina el sueño: estudio de la Universidad de Toronto da la vuelta a los clichés",
-    "resumen": "",
+    "titulo": "Dormir con el perro no arruina el sueño, según un estudio de la Universidad de Toronto",
+    "resumen": "Un estudio de la Universidad de Toronto, según el titular, cuestiona la creencia de que dormir con el perro empeora el descanso.",
     "categoria": "Sueño",
     "id": "ab5b257d",
-    "slug": "dormir-con-el-perro-no-arruina-el-sueno-estudio-de-la-universidad-de-t-ab5b257d"
+    "slug": "dormir-con-el-perro-no-arruina-el-sueno-estudio-de-la-universidad-de-t-ab5b257d",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio de la Universidad de Toronto concluye que compartir la cama con el perro no estropea el sueño y desmonta algunos mitos habituales sobre el tema. La noticia original no incluye más detalles sobre el diseño, la muestra ni los resultados.",
+      "contexto": "La calidad del sueño depende de muchos factores, como los horarios, el ambiente de la habitación, la temperatura y los hábitos previos a acostarse. Las guías de higiene del sueño de las sociedades científicas recomiendan cuidar estos aspectos. La preferencia de cada persona por compartir cama con su mascota es un asunto personal, y lo que importa es cómo se siente uno al despertarse.",
+      "ten_en_cuenta": "Solo tenemos el titular, así que no sabemos cómo se midió el sueño, a cuántas personas se estudió ni qué margen de diferencia hubo. Un único estudio no basta para establecer una conclusión general. Si tienes problemas de sueño, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Lo studio: dormire con il cane non peggiora il sonno, ma può aiutare la regolarità",
@@ -512,11 +833,21 @@
     "imagen": "",
     "fecha": "2026-10-09T07:39:25+00:00",
     "traducida": true,
-    "titulo": "El estudio: dormir con el perro no empeora el sueño, pero puede ayudar a la regularidad",
-    "resumen": "",
+    "titulo": "Dormir con el perro no empeora el sueño, pero podría ayudar a mantener horarios regulares",
+    "resumen": "Según un estudio citado por Il Mattino, compartir la cama con el perro no parece empeorar el sueño y podría favorecer su regularidad. La noticia no da más detalles.",
     "categoria": "Sueño",
     "id": "1ac90270",
-    "slug": "el-estudio-dormir-con-el-perro-no-empeora-el-sueno-pero-puede-ayudar-a-1ac90270"
+    "slug": "el-estudio-dormir-con-el-perro-no-empeora-el-sueno-pero-puede-ayudar-a-1ac90270",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Il Mattino recoge un estudio que concluye que dormir con el perro no empeora la calidad del sueño y que puede ayudar a la regularidad. El titular es la única información disponible: la noticia no indica quién hizo el estudio, con cuántas personas ni cómo se midió el sueño.",
+      "contexto": "Para dormir bien, las recomendaciones habituales de higiene del sueño incluyen mantener horarios regulares y un entorno cómodo y tranquilo. Cada persona tiene sus propias preferencias, y compartir la cama con una mascota puede resultar cómodo para unos y perturbador para otros, según el caso.",
+      "ten_en_cuenta": "Solo conocemos el titular, así que no sabemos el diseño ni el tamaño del estudio ni a quién se estudió. Una asociación observada no demuestra que el perro cause un mejor descanso. Si tienes problemas para dormir, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "«Dormire con i cani nel letto non disturba il nostro sonno. Anzi, siamo noi a disturbare il loro». Lo studio dell'università di Toronto",
@@ -527,11 +858,21 @@
     "imagen": "",
     "fecha": "2026-10-09T07:24:23+00:00",
     "traducida": true,
-    "titulo": "-Dormir con los perros en la cama no perturba nuestro sueño. De hecho, somos nosotros los que molestamos a los suyos ». El estudio de la Universidad de Toronto",
-    "resumen": "",
+    "titulo": "Dormir con perros en la cama no altera nuestro sueño, según un estudio de Toronto",
+    "resumen": "Un estudio de la Universidad de Toronto sugiere que compartir la cama con perros no perturba el sueño de las personas, y que, en cambio, podrían ser las personas quienes alteran el de los animales. La noticia original no da más detalles.",
     "categoria": "Sueño",
     "id": "4bf90243",
-    "slug": "dormir-con-los-perros-en-la-cama-no-perturba-nuestro-sueno-de-hecho-so-4bf90243"
+    "slug": "dormir-con-los-perros-en-la-cama-no-perturba-nuestro-sueno-de-hecho-so-4bf90243",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio de la Universidad de Toronto concluye que dormir con perros en la cama no perturba el sueño de las personas y que, por el contrario, son las personas quienes perturban el de los animales. La noticia original no ofrece más información sobre el diseño ni los resultados.",
+      "contexto": "El sueño depende de muchos factores, como los horarios, el entorno, el estrés o la salud en general, y cada persona reacciona de forma distinta a compartir la cama con otra persona o con un animal. Compartir cama con una mascota es una decisión personal; lo que más pesa en el descanso suele ser mantener hábitos regulares y un entorno cómodo y tranquilo.",
+      "ten_en_cuenta": "La noticia no indica el tamaño de la muestra, cómo se midió el sueño ni cómo se diseñó el estudio, así que no podemos valorar su solidez. Es un único estudio y no demuestra por sí solo qué ocurre en cada hogar. Si tienes problemas de sueño, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "The Trevor Project Honors Zara Larsson with 2026 Mental Health Champion of the Year Award",
@@ -542,11 +883,21 @@
     "imagen": "",
     "fecha": "2026-10-09T07:00:00+00:00",
     "traducida": true,
-    "titulo": "The Trevor Project honra a Zara Larsson con el Premio al Campeón del Año de Salud Mental 2026",
-    "resumen": "",
+    "titulo": "The Trevor Project concede a Zara Larsson el premio Mental Health Champion of the Year 2026",
+    "resumen": "The Trevor Project reconoce a la cantante Zara Larsson con su galardón Mental Health Champion of the Year 2026. La noticia es el anuncio de un premio, sin datos de salud.",
     "categoria": "Salud mental",
     "id": "91195ea8",
-    "slug": "the-trevor-project-honra-a-zara-larsson-con-el-premio-al-campeon-del-a-91195ea8"
+    "slug": "the-trevor-project-honra-a-zara-larsson-con-el-premio-al-campeon-del-a-91195ea8",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "The Trevor Project, según el titular, ha concedido a Zara Larsson su premio Mental Health Champion of the Year correspondiente a 2026. La noticia original no da más detalles sobre el motivo del reconocimiento ni sobre el trabajo de la artista.",
+      "contexto": "La salud mental es una parte fundamental del bienestar general, y los premios de este tipo suelen destacar la visibilidad que personas conocidas dan a estos temas. Este tipo de anuncio, sin embargo, no aporta información práctica sobre cómo cuidar la salud mental.",
+      "ten_en_cuenta": "Es un anuncio de un reconocimiento, no un estudio ni un dato científico. La noticia no incluye detalles y no permite extraer conclusiones sobre salud."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Dormir 7 ou 9 heures ? Une vaste étude révèle quelle durée de sommeil semble protéger le cerveau de la démence",
@@ -557,11 +908,21 @@
     "imagen": "",
     "fecha": "2026-10-09T05:00:07+00:00",
     "traducida": true,
-    "titulo": "¿Dormir 7 o 9 horas? Un gran estudio revela cuánto tiempo de sueño parece proteger el cerebro de la demencia",
-    "resumen": "",
+    "titulo": "Dormir 7 o 9 horas: un amplio estudio sugiere qué duración protegería el cerebro de la demencia",
+    "resumen": "Según el titular, un amplio estudio sugiere que una determinada duración del sueño podría asociarse con una mejor protección cerebral frente a la demencia. La información disponible no detalla cuál es esa duración.",
     "categoria": "Sueño",
     "id": "2cd1ea55",
-    "slug": "dormir-7-o-9-horas-un-gran-estudio-revela-cuanto-tiempo-de-sueno-parec-2cd1ea55"
+    "slug": "dormir-7-o-9-horas-un-gran-estudio-revela-cuanto-tiempo-de-sueno-parec-2cd1ea55",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia plantea la duda entre dormir 7 o 9 horas y afirma que un amplio estudio revelaría qué duración de sueño parece proteger al cerebro de la demencia. La información de que disponemos se limita al titular: no hay más detalles sobre el diseño del estudio, el número de participantes ni los resultados concretos.",
+      "contexto": "Las sociedades de medicina del sueño recomiendan que los adultos duerman al menos 7 horas al día para cuidar su salud en general. La relación entre el sueño y la salud cerebral es un tema de investigación activo, pero todavía no se sabe con certeza si un sueño determinado protege frente a la demencia ni si el descanso es causa o consecuencia de cambios cerebrales.",
+      "ten_en_cuenta": "Solo conocemos el titular, así que no sabemos cómo se midió el sueño ni a cuántas personas se siguió. Los estudios de este tipo suelen ser observacionales: muestran asociaciones, pero no demuestran que dormir una cantidad concreta cause un efecto. Si te preocupa tu descanso o tu memoria, consulta con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists tested 5 natural compounds on cancer cells. One stood out",
@@ -572,11 +933,21 @@
     "imagen": "",
     "fecha": "2026-10-09T01:15:59+00:00",
     "traducida": true,
-    "titulo": "Los científicos probaron 5 compuestos naturales en células cancerosas, destacando uno",
-    "resumen": "Se probaron cinco compuestos naturales, incluyendo la curcumina y la berberina, por sus efectos sobre las células cancerosas y las células musculares sanas. Todo interrumpió la producción de energía de las células cancerosas y empujó a muchas de las células a un estado de no división, con la curcumina produciendo el más fuerte en general...",
-    "categoria": "Entrenamiento",
+    "titulo": "Un estudio de laboratorio prueba cinco compuestos naturales en células cancerosas",
+    "resumen": "Un estudio en células de laboratorio evaluó cinco compuestos naturales, entre ellos la curcumina y la berberina. La curcumina tuvo el efecto global más destacado.",
+    "categoria": "Salud general",
     "id": "0a838b99",
-    "slug": "los-cientificos-probaron-5-compuestos-naturales-en-celulas-cancerosas-0a838b99"
+    "slug": "los-cientificos-probaron-5-compuestos-naturales-en-celulas-cancerosas-0a838b99",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Los investigadores probaron cinco compuestos naturales, entre ellos la curcumina y la berberina, sobre células cancerosas y células musculares sanas. Según la noticia, todos alteraron la producción de energía de las células cancerosas y frenaron la división de muchas de ellas, y la curcumina tuvo el efecto global más intenso. La noticia original no da más detalles.",
+      "contexto": "La curcumina, presente en la cúrcuma, y la berberina son compuestos de origen vegetal que se investigan desde hace años. Que un compuesto actúe sobre células en un cultivo no significa que funcione igual en personas: para considerarlo un tratamiento hacen falta ensayos en animales y en humanos. Esta investigación no es una recomendación para prevenir ni tratar el cáncer con suplementos.",
+      "ten_en_cuenta": "Es un estudio en células de laboratorio, que no demuestra qué ocurriría en el cuerpo humano ni la eficacia o seguridad de tomar estos compuestos. Si te interesan los suplementos, consulta a un profesional sanitario, sobre todo si estás en tratamiento médico."
+    },
+    "puntuacion": 2,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Sharing beds with dogs doesn’t seem to spoil sleep, at least not for the humans",
@@ -587,11 +958,21 @@
     "imagen": "",
     "fecha": "2026-10-08T21:00:00+00:00",
     "traducida": true,
-    "titulo": "Compartir camas con perros no parece estropear el sueño, al menos no para los humanos",
-    "resumen": "",
+    "titulo": "Dormir con el perro en la cama no parece estropear el sueño, al menos el de las personas",
+    "resumen": "Según el titular de The Washington Post, compartir la cama con perros no parece afectar al sueño de las personas. El medio original no ofrece más detalles.",
     "categoria": "Sueño",
     "id": "3574ac20",
-    "slug": "compartir-camas-con-perros-no-parece-estropear-el-sueno-al-menos-no-pa-3574ac20"
+    "slug": "compartir-camas-con-perros-no-parece-estropear-el-sueno-al-menos-no-pa-3574ac20",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "The Washington Post sugiere que dormir con perros en la cama no parece estropear el sueño, al menos en el caso de las personas. La noticia no incluye entradilla, así que no da más detalles sobre los datos en los que se basa ni sobre cómo se midió el descanso.",
+      "contexto": "La calidad del sueño influye en la salud física y mental, y las recomendaciones generales para descansar bien incluyen mantener horarios regulares y un entorno cómodo y tranquilo. Cómo afecta compartir cama a cada persona depende de factores individuales, como su propio descanso y sus preferencias, así como las de quien comparte el lecho.",
+      "ten_en_cuenta": "Solo disponemos del titular, sin información sobre el tamaño de la muestra, el diseño ni la forma de medir el sueño, por lo que no podemos valorar la solidez del resultado. Los resultados pueden no aplicarse a todas las personas ni a todos los perros. Si el sueño es un problema, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Spotlight on World Mental Health Day 2026",
@@ -602,11 +983,21 @@
     "imagen": "",
     "fecha": "2026-10-08T20:49:35+00:00",
     "traducida": true,
-    "titulo": "Enfoque en el Día Mundial de la Salud Mental 2026",
-    "resumen": "",
+    "titulo": "Stanford Medicine pone el foco en el Día Mundial de la Salud Mental 2026",
+    "resumen": "Stanford Medicine publica un contenido dedicado al Día Mundial de la Salud Mental 2026. La noticia original no detalla qué incluye.",
     "categoria": "Salud mental",
     "id": "1dcbf479",
-    "slug": "enfoque-en-el-dia-mundial-de-la-salud-mental-2026-1dcbf479"
+    "slug": "enfoque-en-el-dia-mundial-de-la-salud-mental-2026-1dcbf479",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, Stanford Medicine dedica un espacio informativo al Día Mundial de la Salud Mental 2026. La noticia original no ofrece más detalles sobre su contenido ni sobre las actividades previstas.",
+      "contexto": "El Día Mundial de la Salud Mental es una jornada anual que busca dar visibilidad a los problemas de salud mental y reducir el estigma que los rodea. La Organización Mundial de la Salud insiste en que la salud mental es parte esencial de la salud general. Hábitos como la actividad física, un descanso adecuado y mantener vínculos sociales se asocian con un mejor bienestar psicológico.",
+      "ten_en_cuenta": "Al tratarse de un anuncio sin entradilla, no sabemos qué datos, estudios o recomendaciones concretas incluye. Si necesitas apoyo emocional, consulta a un profesional sanitario."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Unraveling the multifaceted relationship between creativity and mental health with longitudinal analyses of genotyped twins",
@@ -617,11 +1008,21 @@
     "imagen": "",
     "fecha": "2026-10-08T19:57:03+00:00",
     "traducida": true,
-    "titulo": "Desentrañar la relación multifacética entre la creatividad y la salud mental con análisis longitudinales de gemelos genotipados",
-    "resumen": "",
+    "titulo": "La relación entre creatividad y salud mental, analizada con gemelos genotipados a lo largo del tiempo",
+    "resumen": "Un estudio publicado en Nature analiza la relación entre creatividad y salud mental mediante seguimientos longitudinales de gemelos genotipados. La noticia original no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "d596a912",
-    "slug": "desentranar-la-relacion-multifacetica-entre-la-creatividad-y-la-salud-d596a912"
+    "slug": "desentranar-la-relacion-multifacetica-entre-la-creatividad-y-la-salud-d596a912",
+    "tipo_estudio": "estudio observacional",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, el trabajo examina la relación entre creatividad y salud mental con análisis longitudinales, es decir, con seguimiento a lo largo del tiempo, en gemelos a los que se les ha analizado el genotipo. El titular sugiere que esa relación tiene varias facetas. La noticia original no da más detalles sobre los resultados.",
+      "contexto": "Desde hace tiempo se debate si la creatividad y algunos problemas de salud mental comparten raíces, y la investigación con gemelos se usa para separar la influencia de los genes de la del entorno. Las sociedades científicas coinciden en que la salud mental depende de muchos factores a la vez, como el sueño, el estrés, las relaciones sociales y el apoyo recibido, y que ningún rasgo aislado la determina.",
+      "ten_en_cuenta": "La noticia original es solo un titular, así que no sabemos qué se midió ni qué se encontró. Al ser un estudio observacional, puede mostrar asociaciones pero no demostrar causas. Si te preocupa tu salud mental, consulta con un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Santé mentale : neuf jeunes sur dix supportent mal la pression à la réussite scolaire",
@@ -632,11 +1033,21 @@
     "imagen": "",
     "fecha": "2026-10-08T19:17:00+00:00",
     "traducida": true,
-    "titulo": "Salud mental: nueve de cada diez jóvenes soportan mal la presión para alcanzar el éxito escolar",
-    "resumen": "",
+    "titulo": "Salud mental: nueve de cada diez jóvenes llevan mal la presión por el éxito escolar",
+    "resumen": "Según el titular de Libération, una gran mayoría de jóvenes soporta mal la presión por tener buenos resultados en los estudios. La noticia original no aporta más detalles.",
     "categoria": "Salud mental",
     "id": "38c5ac10",
-    "slug": "salud-mental-nueve-de-cada-diez-jovenes-soportan-mal-la-presion-para-a-38c5ac10"
+    "slug": "salud-mental-nueve-de-cada-diez-jovenes-soportan-mal-la-presion-para-a-38c5ac10",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El titular de Libération afirma que nueve de cada diez jóvenes soportan mal la presión por el éxito escolar. La noticia original no incluye entradilla, así que no da más detalles sobre quiénes son esos jóvenes, cómo se obtuvo el dato ni de qué tipo de fuente procede.",
+      "contexto": "La OMS considera la salud mental un componente esencial del bienestar, y el estrés sostenido en la etapa escolar es un factor que se relaciona con ansiedad y cansancio emocional. Hablar de lo que se siente, mantener descanso y actividad física y pedir apoyo a un profesional cuando el malestar persiste son recomendaciones habituales en este ámbito.",
+      "ten_en_cuenta": "Solo conocemos el titular, sin datos sobre la muestra, la edad, la metodología ni el origen del dato, por lo que no es posible valorar su solidez. Si el malestar es persistente, conviene consultar a un profesional de la salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Santé mentale : « Trois fois plus de risque d’être atteints de détresse psychologique », neuf jeunes sur dix ressentent une forte pression à la réussite scolaire, selon une étude",
@@ -647,11 +1058,21 @@
     "imagen": "",
     "fecha": "2026-10-08T18:02:14+00:00",
     "traducida": true,
-    "titulo": "Salud mental: \"Tres veces más riesgo de sufrir trastornos psicológicos\", nueve de cada diez jóvenes experimentan una fuerte presión para el éxito escolar, según un estudio",
-    "resumen": "",
+    "titulo": "Nueve de cada diez jóvenes sienten fuerte presión por el éxito escolar, y se asocia con más malestar psicológico",
+    "resumen": "Según un estudio citado por el medio, la gran mayoría de los jóvenes siente una fuerte presión por el rendimiento escolar. La noticia vincula esta presión con un riesgo mayor de malestar psicológico.",
     "categoria": "Salud mental",
     "id": "85128900",
-    "slug": "salud-mental-tres-veces-mas-riesgo-de-sufrir-trastornos-psicologicos-n-85128900"
+    "slug": "salud-mental-tres-veces-mas-riesgo-de-sufrir-trastornos-psicologicos-n-85128900",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio encuentra que nueve de cada diez jóvenes sienten una fuerte presión por tener éxito en la escuela. Además, el titular afirma que estos jóvenes tienen tres veces más riesgo de sufrir malestar psicológico. La noticia original no da más detalles sobre la muestra, el método ni la comparación utilizada.",
+      "contexto": "La salud mental de adolescentes y jóvenes es una preocupación reconocida por organismos como la OMS, que señala factores del entorno como el estrés y la presión como influyentes. Dormir lo suficiente, mantener vínculos sociales y hacer actividad física son hábitos generalmente asociados a un mejor bienestar emocional.",
+      "ten_en_cuenta": "Solo tenemos el titular, sin entradilla ni datos del estudio, así que no sabemos a quién se refiere ni cómo se midió el malestar. Una asociación no demuestra que la presión escolar cause el malestar. Si una persona joven se siente sobrepasada, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Study finds positive parenting teaches children how to experience joy—and could lead to better mental health",
@@ -662,11 +1083,21 @@
     "imagen": "",
     "fecha": "2026-10-08T17:54:00+00:00",
     "traducida": true,
-    "titulo": "Un estudio encuentra que la crianza positiva enseña a los niños a experimentar la alegría y podría conducir a una mejor salud mental",
-    "resumen": "",
+    "titulo": "Un estudio sugiere que la crianza positiva enseña a los niños a disfrutar y podría mejorar su salud mental",
+    "resumen": "Según una noticia de Notre Dame News, un estudio apunta a que la crianza positiva ayuda a los niños a experimentar la alegría y podría favorecer una mejor salud mental.",
     "categoria": "Salud mental",
     "id": "1cdc6b82",
-    "slug": "un-estudio-encuentra-que-la-crianza-positiva-ensena-a-los-ninos-a-expe-1cdc6b82"
+    "slug": "un-estudio-encuentra-que-la-crianza-positiva-ensena-a-los-ninos-a-expe-1cdc6b82",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Notre Dame News informa de un estudio que, según su titular, concluye que la crianza positiva enseña a los niños a experimentar la alegría y podría llevar a una mejor salud mental. La noticia original no ofrece más detalles sobre la metodología, la muestra ni los resultados.",
+      "contexto": "En general, la investigación en psicología del desarrollo asocia la crianza cálida, cercana y con apoyo emocional con un mejor bienestar en la infancia. Estas prácticas incluyen escuchar, validar las emociones y establecer límites con afecto. El bienestar infantil depende de muchos factores, como el entorno familiar, la escuela o la genética.",
+      "ten_en_cuenta": "La noticia no describe el diseño del estudio, así que no sabemos si es una observación o un experimento, ni a cuántas familias incluyó. El titular habla de algo que 'podría' ocurrir, lo que indica cautela. Una asociación no demuestra que la crianza sea la causa. Si hay preocupaciones concretas sobre un niño, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Santé mentale : pression scolaire, réseaux sociaux, solitude... Un tiers des jeunes présentent des symptômes anxieux ou dépressifs, selon une étude",
@@ -677,11 +1108,21 @@
     "imagen": "",
     "fecha": "2026-10-08T17:30:00+00:00",
     "traducida": true,
-    "titulo": "Salud mental: presión escolar, redes sociales, soledad… Un tercio de los jóvenes presentan síntomas de ansiedad o depresión, según un estudio",
-    "resumen": "",
+    "titulo": "Un tercio de los jóvenes presenta síntomas de ansiedad o depresión, según un estudio",
+    "resumen": "Según un estudio citado por CNews, un tercio de los jóvenes muestra síntomas ansiosos o depresivos. El titular menciona la presión escolar, las redes sociales y la soledad, pero la noticia no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "537d6052",
-    "slug": "salud-mental-presion-escolar-redes-sociales-soledad-un-tercio-de-los-j-537d6052"
+    "slug": "salud-mental-presion-escolar-redes-sociales-soledad-un-tercio-de-los-j-537d6052",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El titular recoge que, según un estudio, un tercio de los jóvenes presenta síntomas ansiosos o depresivos, y sitúa el tema en el contexto de la presión escolar, el uso de redes sociales y la soledad. La noticia original no aporta más detalles sobre el estudio, la muestra ni los resultados.",
+      "contexto": "La salud mental de los adolescentes y jóvenes es una preocupación reconocida por organismos como la OMS, que la considera una prioridad de salud pública. Los síntomas de ansiedad o depresión pueden aparecer en esta etapa, y detectarlos a tiempo es importante. En general, el apoyo social, el descanso y la actividad física se asocian con mejor bienestar mental, aunque estas son relaciones, no demostraciones de causa.",
+      "ten_en_cuenta": "Solo disponemos del titular, sin datos sobre el diseño, la muestra, la edad, el país ni la forma de medir los síntomas. Tener síntomas no equivale a un diagnóstico, y los factores mencionados no están demostrados como causas. Si alguien se siente así de forma persistente, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Più schermi, più problemi di salute mentale? Lo studio sui gemelli ridimensiona il legame",
@@ -692,11 +1133,21 @@
     "imagen": "",
     "fecha": "2026-10-08T14:52:00+00:00",
     "traducida": true,
-    "titulo": "¿Más pantallas, más problemas de salud mental? El estudio de los gemelos reduce la relación",
-    "resumen": "",
+    "titulo": "¿Más pantallas, más problemas de salud mental? Un estudio con gemelos matiza la relación",
+    "resumen": "Según el titular, un estudio con gemelos sugiere que el vínculo entre el uso de pantallas y los problemas de salud mental es menor de lo que se pensaba. La noticia original no da más detalles.",
     "categoria": "Salud mental",
     "id": "cea73b93",
-    "slug": "mas-pantallas-mas-problemas-de-salud-mental-el-estudio-de-los-gemelos-cea73b93"
+    "slug": "mas-pantallas-mas-problemas-de-salud-mental-el-estudio-de-los-gemelos-cea73b93",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia indica que un estudio con gemelos ridimensiona la relación entre el uso de pantallas y los problemas de salud mental. La fuente original no ofrece más información sobre el diseño, la muestra ni los resultados.",
+      "contexto": "La relación entre el tiempo ante las pantallas y el bienestar psicológico es objeto de debate científico. Muchos estudios observan asociaciones, pero estas pueden deberse a factores como el sueño, la actividad física, el entorno familiar o problemas previos. Los estudios con gemelos ayudan a controlar en parte la influencia de la genética y del entorno compartido.",
+      "ten_en_cuenta": "Solo disponemos del titular, sin muestra, método ni cifras, así que no sabemos cuánto se ha reducido la relación ni en qué grupos. Es un único estudio, y si te preocupa el uso de pantallas o tu salud mental, conviene hablarlo con un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Lie down with dogs, wake up refreshed? That’s what a new study suggests.",
@@ -707,11 +1158,21 @@
     "imagen": "",
     "fecha": "2026-10-08T14:38:00+00:00",
     "traducida": true,
-    "titulo": "¿Acuéstate con perros, despierta renovado? Eso es lo que sugiere un nuevo estudio.",
-    "resumen": "",
-    "categoria": "Salud general",
+    "titulo": "¿Dormir con perros te deja más descansado? Es lo que sugiere un nuevo estudio",
+    "resumen": "Un nuevo estudio sugiere que dormir con perros podría asociarse con un descanso más reparador. La noticia original no da más detalles sobre el diseño ni los resultados.",
+    "categoria": "Sueño",
     "id": "1791e7f4",
-    "slug": "acuestate-con-perros-despierta-renovado-eso-es-lo-que-sugiere-un-nuevo-1791e7f4"
+    "slug": "acuestate-con-perros-despierta-renovado-eso-es-lo-que-sugiere-un-nuevo-1791e7f4",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un nuevo estudio sugiere que dormir con perros podría estar relacionado con despertarse más descansado. La noticia original no incluye entradilla ni más información sobre el trabajo, sus participantes o sus resultados.",
+      "contexto": "La calidad del sueño depende de muchos factores, como los horarios, el ambiente de la habitación y los hábitos antes de acostarse. Compartir la cama con una mascota puede influir de forma distinta según la persona: para algunas supone compañía y calma, y para otras, interrupciones durante la noche.",
+      "ten_en_cuenta": "Solo tenemos el titular, así que no sabemos cómo se midió el descanso ni cuántas personas participaron. Una asociación no demuestra que dormir con un perro cause un mejor descanso. Si tienes problemas de sueño, conviene consultarlo con un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Défier le temps qui passe : le guide pour bien vieillir",
@@ -722,11 +1183,21 @@
     "imagen": "",
     "fecha": "2026-10-08T14:35:00+00:00",
     "traducida": true,
-    "titulo": "Desafía el paso del tiempo: la guía para envejecer bien",
-    "resumen": "",
+    "titulo": "Envejecer bien: una guía para afrontar el paso del tiempo",
+    "resumen": "National Geographic publica una guía sobre cómo envejecer con buena salud. El titular no ofrece más detalles sobre su contenido.",
     "categoria": "Salud general",
     "id": "fbdad8b1",
-    "slug": "desafia-el-paso-del-tiempo-la-guia-para-envejecer-bien-fbdad8b1"
+    "slug": "desafia-el-paso-del-tiempo-la-guia-para-envejecer-bien-fbdad8b1",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia anuncia una guía sobre cómo envejecer bien, con el objetivo de plantar cara al paso del tiempo. La información disponible se limita al titular, así que no sabemos qué recomendaciones concretas incluye.",
+      "contexto": "Según la OMS, el envejecimiento saludable se apoya en mantenerse físicamente activo, seguir una alimentación equilibrada, dormir bien, cuidar la salud mental y mantener las relaciones sociales. Estos factores influyen en cómo vivimos la edad, aunque no evitan el envejecimiento biológico.",
+      "ten_en_cuenta": "La noticia original no da detalles, así que no sabemos qué evidencia respalda sus consejos. Conviene contrastarlos con fuentes sanitarias y consultar a un profesional antes de cambiar hábitos de salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Mehr Kraft durch Schokoladenduft? Was Forscher im Beintraining beobachteten",
@@ -737,11 +1208,21 @@
     "imagen": "",
     "fecha": "2026-10-08T10:27:16+00:00",
     "traducida": true,
-    "titulo": "¿Más potencia gracias a la fragancia de chocolate? Lo que observaron los investigadores en el entrenamiento de piernas",
-    "resumen": "",
+    "titulo": "¿Más fuerza con olor a chocolate? Lo que observaron investigadores en el entrenamiento de piernas",
+    "resumen": "Un titular plantea si el olor a chocolate podría aumentar la fuerza durante el entrenamiento de piernas. La noticia no aporta más detalles.",
     "categoria": "Entrenamiento",
     "id": "55ac6b1c",
-    "slug": "mas-potencia-gracias-a-la-fragancia-de-chocolate-lo-que-observaron-los-55ac6b1c"
+    "slug": "mas-potencia-gracias-a-la-fragancia-de-chocolate-lo-que-observaron-los-55ac6b1c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia, publicada por el medio alemán aponet.de, se formula como una pregunta: si el olor a chocolate aumenta la fuerza, y menciona observaciones de investigadores en el entrenamiento de piernas. No hay entradilla, así que la noticia original no da más detalles sobre el diseño, los participantes ni los resultados.",
+      "contexto": "Las recomendaciones de la OMS para adultos incluyen actividades de fortalecimiento muscular al menos dos días por semana. El rendimiento en el entrenamiento depende sobre todo de factores bien establecidos, como la progresión del esfuerzo, la técnica, el descanso, la recuperación y la alimentación. Cualquier efecto de un estímulo sensorial debería demostrarse con estudios bien diseñados antes de considerarlo útil.",
+      "ten_en_cuenta": "La noticia no explica el tamaño de la muestra, el diseño ni si los resultados son significativos, así que no podemos valorar su solidez. Un titular en forma de pregunta no equivale a un resultado demostrado. Conviene consultar el estudio original y no sustituir el entrenamiento o la recuperación por este tipo de estímulos."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Viel zu tun und trotzdem weniger depressive Symptome? Das zeigt eine Studie",
@@ -752,11 +1233,21 @@
     "imagen": "",
     "fecha": "2026-10-08T08:53:07+00:00",
     "traducida": true,
-    "titulo": "¿Mucho por hacer y, sin embargo, menos síntomas depresivos? Así lo demuestra un estudio",
-    "resumen": "",
-    "categoria": "Salud general",
+    "titulo": "¿Mucha actividad y menos síntomas depresivos? Lo muestra un estudio",
+    "resumen": "Según el titular, un estudio asocia tener muchas cosas que hacer con menos síntomas depresivos. La noticia original no ofrece más detalles.",
+    "categoria": "Salud mental",
     "id": "4217ff3d",
-    "slug": "mucho-por-hacer-y-sin-embargo-menos-sintomas-depresivos-asi-lo-demuest-4217ff3d"
+    "slug": "mucho-por-hacer-y-sin-embargo-menos-sintomas-depresivos-asi-lo-demuest-4217ff3d",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, un estudio encuentra que tener mucho que hacer se relaciona con menos síntomas depresivos. El medio original no incluye entradilla ni explica el diseño, la muestra ni los resultados concretos, así que no podemos saber más detalles.",
+      "contexto": "La actividad diaria, la implicación en tareas significativas y la vida social suelen asociarse con mejor bienestar emocional, según las investigaciones generales sobre salud mental. Aun así, la relación entre estar ocupado y tener menos síntomas depresivos puede depender de muchos factores, como el tipo de tareas, si se disfrutan o si generan presión. La depresión es un problema de salud serio que requiere evaluación profesional.",
+      "ten_en_cuenta": "Con la información disponible no sabemos qué tipo de estudio es ni cuántas personas participaron. Una asociación no demuestra que estar ocupado cause menos depresión. Si tienes síntomas depresivos, consulta con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Just 7 days of strength training started shrinking fat cells in mice",
@@ -767,11 +1258,21 @@
     "imagen": "",
     "fecha": "2026-10-08T08:33:40+00:00",
     "traducida": true,
-    "titulo": "Solo 7 días de entrenamiento de fuerza comenzaron a reducir las células grasas en ratones",
-    "resumen": "Solo siete sesiones de entrenamiento de fuerza ayudaron a los ratones obesos a reducir las células de grasa visceral y reactivar las vías moleculares involucradas en la quema de grasa almacenada, a pesar de que no hubo cambios en el peso corporal general. Los hallazgos sugieren que algunos beneficios del ejercicio de resistencia pueden comenzar mucho antes del peso...",
+    "titulo": "Solo 7 días de entrenamiento de fuerza empiezan a reducir las células grasas en ratones",
+    "resumen": "Un estudio en ratones con obesidad encontró que 7 sesiones de entrenamiento de fuerza redujeron el tamaño de las células de grasa visceral sin cambiar el peso corporal total.",
     "categoria": "Entrenamiento",
     "id": "709542d2",
-    "slug": "solo-7-dias-de-entrenamiento-de-fuerza-comenzaron-a-reducir-las-celula-709542d2"
+    "slug": "solo-7-dias-de-entrenamiento-de-fuerza-comenzaron-a-reducir-las-celula-709542d2",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, siete sesiones de entrenamiento de fuerza ayudaron a que ratones con obesidad redujeran el tamaño de las células de grasa visceral y reactivaran vías moleculares relacionadas con quemar la grasa almacenada. No hubo cambios en el peso corporal total. Los autores sugieren que algunos beneficios del ejercicio de resistencia podrían empezar antes de que se note una pérdida de peso.",
+      "contexto": "La grasa visceral es la que se acumula alrededor de los órganos del abdomen y se asocia con mayor riesgo metabólico. Las guías de la OMS recomiendan incluir actividades de fortalecimiento muscular varios días a la semana, y es un hábito útil para la salud aunque el peso no cambie. Medir solo la báscula no siempre refleja lo que ocurre dentro del cuerpo.",
+      "ten_en_cuenta": "Es un estudio en ratones, y los resultados no se pueden trasladar directamente a las personas. La noticia no detalla el protocolo ni el número de animales. Además, los cambios observados son a nivel celular y molecular, y no demuestran por sí solos beneficios para la salud a largo plazo."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Dieser Stoff steigert wohl die Muskelmasse",
@@ -782,11 +1283,21 @@
     "imagen": "",
     "fecha": "2026-10-08T08:04:00+00:00",
     "traducida": true,
-    "titulo": "Esta sustancia aumenta la masa muscular",
-    "resumen": "",
+    "titulo": "Una sustancia aparentemente aumentaría la masa muscular",
+    "resumen": "Un titular anuncia que una sustancia, sin nombrar, podría aumentar la masa muscular. La noticia original no ofrece más detalles.",
     "categoria": "Entrenamiento",
     "id": "deb5bd4a",
-    "slug": "esta-sustancia-aumenta-la-masa-muscular-deb5bd4a"
+    "slug": "esta-sustancia-aumenta-la-masa-muscular-deb5bd4a",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "El titular afirma que una sustancia aumentaría, al parecer, la masa muscular. La noticia original no indica de qué sustancia se trata ni da más detalles sobre el hallazgo. Tampoco aclara en qué tipo de estudio se basa.",
+      "contexto": "La masa muscular depende sobre todo del entrenamiento de fuerza, de una alimentación con proteína suficiente y de un buen descanso. Las promesas de ganar músculo con un producto concreto deben valorarse con cautela, porque muchas carecen de evidencia sólida y algunas sustancias tienen riesgos para la salud.",
+      "ten_en_cuenta": "Con la información disponible no se puede valorar la solidez del hallazgo ni su aplicación. Si la sustancia es un medicamento, un suplemento o un producto no regulado, conviene consultar a un profesional sanitario antes de tomar nada."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Adiós al mito: el ejercicio regular impulsa las notas académicas en adolescentes",
@@ -797,11 +1308,21 @@
     "imagen": "",
     "fecha": "2026-10-08T04:55:00+00:00",
     "traducida": true,
-    "titulo": "Adiós al mito: el ejercicio regular impulsa las notas académicas en adolescentes",
-    "resumen": "",
+    "titulo": "El ejercicio regular, relacionado con mejores notas en adolescentes",
+    "resumen": "Una noticia de El Món sostiene que la práctica habitual de ejercicio se asocia con mejores calificaciones en adolescentes. El titular no ofrece más detalles sobre el estudio.",
     "categoria": "Entrenamiento",
     "id": "d9902fcc",
-    "slug": "adios-al-mito-el-ejercicio-regular-impulsa-las-notas-academicas-en-ado-d9902fcc"
+    "slug": "adios-al-mito-el-ejercicio-regular-impulsa-las-notas-academicas-en-ado-d9902fcc",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular, la práctica regular de ejercicio se relaciona con mejores notas académicas en adolescentes. La noticia original no incluye entradilla ni da más detalles sobre el estudio, sus participantes o sus resultados.",
+      "contexto": "La OMS recomienda que niños y adolescentes de 5 a 17 años realicen al menos 60 minutos diarios de actividad física de intensidad moderada a vigorosa. Se sabe que la actividad física favorece la salud física y mental en la adolescencia, aunque el rendimiento escolar depende de muchos factores, como el sueño, la alimentación, el entorno familiar y la motivación.",
+      "ten_en_cuenta": "Sin la entradilla no sabemos qué tipo de estudio es ni cuántos adolescentes participaron. Una asociación no demuestra que el ejercicio cause mejores notas, porque otros factores pueden influir en ambas cosas."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists warn a popular vitamin D supplement may have a hidden downside",
@@ -812,11 +1333,21 @@
     "imagen": "",
     "fecha": "2026-10-08T04:06:26+00:00",
     "traducida": true,
-    "titulo": "Los científicos advierten que un popular suplemento de vitamina D puede tener un inconveniente oculto",
-    "resumen": "No todos los suplementos de vitamina D son iguales, y una nueva investigación sugiere que una forma popular puede tener un inconveniente inesperado. Los científicos descubrieron que tomar vitamina D2 en realidad puede reducir los niveles de vitamina D3 del cuerpo, la forma producida naturalmente por la luz solar y más...",
+    "titulo": "Científicos advierten de un posible efecto oculto de un suplemento popular de vitamina D",
+    "resumen": "Una nueva investigación sugiere que la vitamina D2, una forma habitual de suplemento, podría reducir los niveles de vitamina D3 del organismo.",
     "categoria": "Nutrición",
     "id": "5c3cd72c",
-    "slug": "los-cientificos-advierten-que-un-popular-suplemento-de-vitamina-d-pued-5c3cd72c"
+    "slug": "los-cientificos-advierten-que-un-popular-suplemento-de-vitamina-d-pued-5c3cd72c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, tomar vitamina D2 podría disminuir los niveles corporales de vitamina D3, la forma que el organismo produce con la luz solar. La entradilla no ofrece más detalles sobre el diseño del estudio, las personas participantes ni la magnitud del efecto.",
+      "contexto": "La vitamina D interviene en la absorción del calcio y contribuye al mantenimiento de huesos y músculos, según recogen organismos sanitarios. Puede obtenerse de la exposición solar, de algunos alimentos y de suplementos. Antes de tomar un suplemento, conviene consultar con un profesional sanitario, que puede valorar si es necesario y qué forma o dosis es adecuada.",
+      "ten_en_cuenta": "La noticia solo recoge un titular y una entradilla, así que no sabemos si el estudio fue en humanos, en animales o en laboratorio, ni cuántas personas participaron. Un hallazgo de este tipo necesita confirmarse con más investigación antes de cambiar la forma de tomar un suplemento."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "La santé mentale au travail se dégrade",
@@ -827,11 +1358,21 @@
     "imagen": "",
     "fecha": "2026-10-08T03:16:00+00:00",
     "traducida": true,
-    "titulo": "La salud mental en el trabajo se deteriora",
-    "resumen": "",
+    "titulo": "La salud mental en el trabajo empeora, según una noticia sin detalles",
+    "resumen": "Un artículo de La Dépêche afirma que la salud mental en el trabajo se está deteriorando. El texto original no ofrece datos ni explicaciones que permitan valorar la afirmación.",
     "categoria": "Salud mental",
     "id": "49d4f8e3",
-    "slug": "la-salud-mental-en-el-trabajo-se-deteriora-49d4f8e3"
+    "slug": "la-salud-mental-en-el-trabajo-se-deteriora-49d4f8e3",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia original, publicada por La Dépêche, afirma que la salud mental en el trabajo se está deteriorando. No incluye entradilla ni datos, así que no sabemos en qué se basa esa afirmación ni a quién afecta con más intensidad.",
+      "contexto": "La relación entre el entorno laboral y el bienestar psicológico es un tema bien documentado. La OMS reconoce que factores como la carga excesiva, la falta de control sobre el propio trabajo o los conflictos en el entorno laboral pueden afectar a la salud mental. Por eso, las empresas y los sistemas de salud cada vez prestan más atención a la prevención.",
+      "ten_en_cuenta": "Al no tener la entradilla ni el cuerpo de la noticia, no podemos saber qué datos, fuentes o métodos hay detrás de la afirmación. Conviene leer el artículo original antes de sacar conclusiones."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Not all trans fats are bad, major review finds",
@@ -842,11 +1383,46 @@
     "imagen": "",
     "fecha": "2026-10-08T03:00:54+00:00",
     "traducida": true,
-    "titulo": "No todas las grasas trans son malas, encuentra una revisión importante",
-    "resumen": "Un gran análisis de 22 estudios encontró que las grasas trans presentes naturalmente en los productos lácteos como la leche, la mantequilla, el yogur y el queso no parecen aumentar el riesgo de enfermedades cardíacas o diabetes tipo 2. A diferencia de las grasas trans industriales de aceites parcialmente hidrogenados, las grasas trans lácteas...",
-    "categoria": "Salud general",
+    "titulo": "No todas las grasas trans son perjudiciales, según una gran revisión de estudios",
+    "resumen": "Una revisión de 22 estudios sugiere que las grasas trans presentes de forma natural en lácteos como la leche, la mantequilla, el yogur o el queso no parecen aumentar el riesgo de enfermedad cardiaca ni de diabetes tipo 2.",
+    "categoria": "Nutrición",
     "id": "4af96d5c",
-    "slug": "no-todas-las-grasas-trans-son-malas-encuentra-una-revision-importante-4af96d5c"
+    "slug": "no-todas-las-grasas-trans-son-malas-encuentra-una-revision-importante-4af96d5c",
+    "tipo_estudio": "revisión o metaanálisis",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Un análisis amplio de 22 estudios encontró que las grasas trans que aparecen de forma natural en los lácteos no parecen elevar el riesgo de enfermedad cardiaca ni de diabetes tipo 2. La noticia contrasta estas grasas con las grasas trans industriales, procedentes de aceites parcialmente hidrogenados, pero la información disponible en el resumen es limitada y no recoge más detalles sobre los resultados.",
+      "contexto": "Las grasas trans industriales se asocian con un mayor riesgo cardiovascular, y la OMS recomienda eliminarlas de los alimentos. Las grasas trans de origen natural, presentes en la carne y la leche de rumiantes, se han estudiado con menos profundidad y su efecto no se considera el mismo que el de las industriales. Por eso conviene distinguir ambos tipos al leer etiquetas y recomendaciones.",
+      "ten_en_cuenta": "Es una revisión de estudios, pero el resumen no detalla su diseño ni la calidad de los trabajos incluidos, y una asociación no demuestra causa. Los lácteos forman parte de una dieta general, así que cualquier decisión sobre su consumo conviene valorarla con un profesional sanitario."
+    },
+    "puntuacion": 7,
+    "procesada_ia": true,
+    "version_ia": 2
+  },
+  {
+    "titulo_original": "Remédio sem hormônios para menopausa também melhora o sono",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "Assine Abril",
+    "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeU04M3A3bko4NnZ2LVlNUzc3MjN1NGNScW02SF93SlpOeExyU2dSZnlsMW8zWi1wblJWdlAydFRSYVhrZE5tdkExLXJUVDFpLU54c3lKbW1EVU1TMmFDVDEyd0F6NXBFQ0hoRnAwV2JSN2hucDJtUGFORDNTMS1ocFMwWXZ2WFRIV0gybG5fZk1Ya3BpNW94T09jSQ?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-07T19:23:23+00:00",
+    "id": "cefe2c02",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Un fármaco sin hormonas para la menopausia también mejora el sueño",
+    "resumen": "Según el titular, un medicamento para la menopausia que no contiene hormonas también mejoraría el sueño. La noticia original no ofrece más detalles.",
+    "categoria": "Sueño",
+    "explicacion": {
+      "que_dice": "La noticia indica que un medicamento para la menopausia que no contiene hormonas también mejora el sueño. La información original es solo el titular: no da detalles sobre el estudio, las personas participantes ni los resultados.",
+      "contexto": "La menopausia es una etapa en la que cambian los niveles hormonales, y estos cambios pueden afectar al descanso, por ejemplo con sofocos o despertares nocturnos. Existen distintas opciones de tratamiento, tanto hormonales como no hormonales, y la elección depende de cada persona. Quien tenga problemas de sueño en esta etapa puede consultar a su médico o ginecólogo.",
+      "ten_en_cuenta": "Solo conocemos el titular, así que no sabemos qué medicamento es, cómo se probó ni a cuántas personas afectó. Una mejora del sueño en un estudio no significa que el fármaco sea adecuado para todo el mundo; conviene hablarlo con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "un-farmaco-sin-hormonas-para-la-menopausia-tambien-mejora-el-sueno-cefe2c02"
   },
   {
     "titulo_original": "Falta de controle sobre a tecnologia afeta a saúde mental, indica estudo",
@@ -857,11 +1433,21 @@
     "imagen": "",
     "fecha": "2026-10-07T18:07:00+00:00",
     "traducida": true,
-    "titulo": "La falta de control sobre la tecnología afecta a la salud mental, según un estudio",
-    "resumen": "",
+    "titulo": "La falta de control sobre la tecnología se relaciona con peor salud mental, según un estudio",
+    "resumen": "Según un estudio citado por Canaltech, sentir que no se controla el uso de la tecnología podría afectar a la salud mental. La noticia original no ofrece más detalles.",
     "categoria": "Salud mental",
     "id": "c5131b6f",
-    "slug": "la-falta-de-control-sobre-la-tecnologia-afecta-a-la-salud-mental-segun-c5131b6f"
+    "slug": "la-falta-de-control-sobre-la-tecnologia-afecta-a-la-salud-mental-segun-c5131b6f",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia indica que un estudio ha encontrado que la falta de control sobre la tecnología afecta a la salud mental. El titular es el único texto disponible, así que no se conocen la muestra, la metodología ni los resultados concretos.",
+      "contexto": "Existe consenso en que un uso digital problemático, con dificultad para regularlo, puede asociarse con malestar emocional y peor descanso. Cuidar los hábitos digitales, como establecer pausas y horarios, es una medida de autocuidado sencilla y de bajo riesgo.",
+      "ten_en_cuenta": "Solo se dispone del titular, sin detalles del estudio. Una asociación no demuestra que la tecnología cause los problemas. Si el malestar emocional es persistente, conviene consultar a un profesional de la salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Un estudio afirma que esta es la mejor hora para dejar de comer antes de irnos a dormir para mejorar la salud del corazón: \"No se consigue un sueño profundo y reparador si se ha hecho una comida abundante\"",
@@ -872,11 +1458,21 @@
     "imagen": "",
     "fecha": "2026-10-07T16:42:34+00:00",
     "traducida": true,
-    "titulo": "Un estudio afirma que esta es la mejor hora para dejar de comer antes de irnos a dormir para mejorar la salud del corazón: \"No se consigue un sueño profundo y reparador si se ha hecho una comida abundante\"",
-    "resumen": "",
-    "categoria": "Sueño",
+    "titulo": "Un estudio sugiere cuándo conviene dejar de comer antes de dormir para cuidar el corazón",
+    "resumen": "Según Women's Health, un estudio apunta a que el momento en que dejamos de comer antes de acostarnos podría influir en la salud del corazón. La noticia da pocos detalles sobre el trabajo.",
+    "categoria": "Salud general",
     "id": "86aca3cb",
-    "slug": "un-estudio-afirma-que-esta-es-la-mejor-hora-para-dejar-de-comer-antes-86aca3cb"
+    "slug": "un-estudio-afirma-que-esta-es-la-mejor-hora-para-dejar-de-comer-antes-86aca3cb",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia afirma que un estudio identifica una hora concreta para dejar de comer antes de irse a dormir como la más favorable para la salud del corazón. Según la cita recogida, una comida abundante dificulta conseguir un sueño profundo y reparador. El texto original no explica el diseño del estudio, la hora exacta ni los resultados.",
+      "contexto": "Es conocido que cenar muy tarde o con una comida copiosa puede provocar molestias digestivas y dificultar el descanso. El sueño es uno de los pilares del bienestar y se considera relevante para la salud cardiovascular, junto con la alimentación equilibrada y la actividad física regular, como recogen organismos como la OMS y la American Heart Association.",
+      "ten_en_cuenta": "La noticia no aporta detalles del estudio (tipo, tamaño de la muestra, hora concreta). Una asociación no demuestra causa. Si tienes problemas de sueño o del corazón, consulta con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Poor sleep can cause employees to clash with superiors, research finds",
@@ -887,11 +1483,21 @@
     "imagen": "",
     "fecha": "2026-10-07T16:40:06+00:00",
     "traducida": true,
-    "titulo": "La falta de sueño puede hacer que los empleados choquen con sus superiores, según una investigación",
-    "resumen": "",
+    "titulo": "Dormir mal podría llevar a los empleados a chocar con sus superiores, según una investigación",
+    "resumen": "Según el titular de una investigación, la mala calidad del sueño se relaciona con más conflictos entre empleados y sus superiores. La noticia original no incluye más detalles.",
     "categoria": "Sueño",
     "id": "83b19a78",
-    "slug": "la-falta-de-sueno-puede-hacer-que-los-empleados-choquen-con-sus-superi-83b19a78"
+    "slug": "la-falta-de-sueno-puede-hacer-que-los-empleados-choquen-con-sus-superi-83b19a78",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Una investigación recogida por Phys.org sugiere que dormir mal puede provocar que los empleados tengan enfrentamientos con sus superiores. La noticia original no ofrece más detalles sobre el estudio, sus participantes ni sus resultados.",
+      "contexto": "La falta de sueño se asocia de forma general con peor regulación emocional e irritabilidad, lo que podría influir en cómo reaccionamos ante situaciones de tensión, también en el trabajo. Las recomendaciones de salud sitúan el descanso suficiente y regular como una parte básica del bienestar físico y mental.",
+      "ten_en_cuenta": "Al no conocerse el diseño del estudio, es imposible saber si el mal sueño causa directamente los conflictos o si ambos factores comparten otras causas. Conviene leer la investigación original antes de extraer conclusiones."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Study examines rising use of emergency holds for youth in mental health crisis",
