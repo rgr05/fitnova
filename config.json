@@ -4,5 +4,6 @@
   "descripcion": "Las noticias más relevantes de entrenamiento, nutrición, sueño y salud mental de medios de todo el mundo, traducidas y explicadas en español.",
   "url": "https://rgr05.github.io/fitnova",
   "autor": "Raúl Granado",
-  "idioma": "es-ES"
+  "idioma": "es-ES",
+  "mostrar_imagenes": false
 }

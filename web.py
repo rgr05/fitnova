@@ -110,6 +110,8 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
         paginas.append((destino, indexable))
 
     for noticia in noticias:
+        if not CONFIG.get("mostrar_imagenes"):
+            noticia["imagen"] = ""   # las fotos pertenecen a cada medio: solo se muestran si se activa en config.json
         noticia["comentario"] = comentario_de(noticia)
         # Solo pedimos a Google que indexe fichas con sustancia: explicación de la IA y una entradilla
         # original suficiente (o la opinión revisada del editor)
