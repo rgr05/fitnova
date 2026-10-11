@@ -634,10 +634,20 @@
     "fecha": "2026-10-09T18:34:02+00:00",
     "id": "30dc5eda",
     "traducida": true,
-    "titulo": "Los científicos descubren 5 patrones cerebrales ocultos detrás de la depresión",
-    "resumen": "La depresión puede no ser una condición biológica, sino varios patrones distintos de actividad cerebral que se esconden bajo el mismo diagnóstico. Los investigadores que estudiaron a 263 personas con depresión identificaron cinco perfiles cerebrales, cada uno mostrando diferentes patrones de comunicación entre las regiones del cerebro...",
+    "titulo": "Descubren cinco patrones cerebrales ocultos tras la depresión",
+    "resumen": "Un estudio sugiere que la depresión podría agrupar varias condiciones biológicas distintas. Los investigadores identificaron cinco perfiles de actividad cerebral en 263 personas con depresión.",
     "categoria": "Salud mental",
-    "slug": "los-cientificos-descubren-5-patrones-cerebrales-ocultos-detras-de-la-d-30dc5eda"
+    "slug": "los-cientificos-descubren-5-patrones-cerebrales-ocultos-detras-de-la-d-30dc5eda",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, la depresión podría no ser una única condición biológica, sino varios patrones distintos de actividad cerebral que quedan bajo el mismo diagnóstico. Los investigadores estudiaron a 263 personas con depresión e identificaron cinco perfiles cerebrales, cada uno con una forma diferente de comunicación entre regiones del cerebro. La noticia original no da más detalles sobre el método ni sobre los resultados.",
+      "contexto": "La depresión se diagnostica hoy sobre todo a partir de los síntomas, y se sabe que en ella intervienen factores biológicos, psicológicos y sociales. Entender si existen subtipos con bases cerebrales distintas es una línea de investigación importante, porque en el futuro podría ayudar a afinar los tratamientos. Por ahora, este tipo de hallazgos no cambia la forma de diagnosticar ni de tratar la depresión.",
+      "ten_en_cuenta": "Es un único estudio con una muestra de 263 personas, y la entradilla no explica su diseño ni si los perfiles se han comprobado en otros grupos. Si te preocupa tu estado de ánimo, consulta con un profesional de la salud mental."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Estudo Nacional de Saúde Mental inicia na Uece – FAEC – Faculdade de Educação e Ciências Integradas de Crateús",
@@ -1648,11 +1658,21 @@
     "imagen": "",
     "fecha": "2026-10-07T13:06:21+00:00",
     "traducida": true,
-    "titulo": "¿Toma antibióticos? El azúcar puede estar empeorando el daño",
-    "resumen": "Comer más azúcar mientras se toman antibióticos se relacionó con una mayor alteración del microbioma intestinal y un mayor crecimiento de bacterias potencialmente dañinas. Los investigadores dicen que reducir temporalmente los dulces durante y después del tratamiento con antibióticos podría ser una forma sencilla de reducir esto...",
+    "titulo": "¿Tomas antibióticos? El azúcar podría agravar el daño a la microbiota intestinal",
+    "resumen": "Según la noticia, comer más azúcar durante un tratamiento con antibióticos se asoció con una mayor alteración de la microbiota intestinal y con más crecimiento de bacterias potencialmente dañinas. Los investigadores sugieren que reducir temporalmente los dulces podría ayudar.",
     "categoria": "Nutrición",
     "id": "c149bf2d",
-    "slug": "toma-antibioticos-el-azucar-puede-estar-empeorando-el-dano-c149bf2d"
+    "slug": "toma-antibioticos-el-azucar-puede-estar-empeorando-el-dano-c149bf2d",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia indica que tomar más azúcar mientras se siguen antibióticos se asoció con una alteración mayor de la microbiota intestinal, el conjunto de microorganismos que viven en el intestino, y con el crecimiento de bacterias potencialmente dañinas. Según los investigadores, reducir temporalmente los dulces durante y después del tratamiento podría ser una forma sencilla de limitar este efecto. El texto disponible es breve y no da más detalles sobre el estudio.",
+      "contexto": "Los antibióticos son útiles contra infecciones bacterianas, pero también pueden alterar el equilibrio de la microbiota intestinal, algo bien documentado. En general, la alimentación influye en esa microbiota, y las recomendaciones de organismos como la OMS aconsejan limitar el consumo de azúcares libres en la dieta habitual. Aun así, no se debe interrumpir ni modificar un tratamiento antibiótico por cuenta propia.",
+      "ten_en_cuenta": "La información disponible es solo el titular y una breve entradilla, así que no se conocen el diseño, el tamaño ni las características del estudio. Una asociación no demuestra que el azúcar cause el daño. Antes de cambiar la dieta durante un tratamiento, conviene consultar con el médico o el farmacéutico."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "A pílula do exercício existe? Entenda o que a ciência está realmente tentando criar",
@@ -1763,11 +1783,21 @@
     "imagen": "",
     "fecha": "2026-10-07T09:48:09+00:00",
     "traducida": true,
-    "titulo": "Vivir más tiempo con el entrenamiento de fuerza: el estudio Ü 50 muestra nuevos hallazgos",
-    "resumen": "",
+    "titulo": "Entrenar la fuerza para vivir más: un estudio con personas mayores de 50 años aporta nuevos datos",
+    "resumen": "Un estudio sobre personas mayores de 50 años pone el foco en el entrenamiento de fuerza y la longevidad. La noticia original no ofrece más detalles sobre el diseño o los resultados.",
     "categoria": "Entrenamiento",
     "id": "dc3affbc",
-    "slug": "vivir-mas-tiempo-con-el-entrenamiento-de-fuerza-el-estudio-u-50-muestr-dc3affbc"
+    "slug": "vivir-mas-tiempo-con-el-entrenamiento-de-fuerza-el-estudio-u-50-muestr-dc3affbc",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Un artículo de Heilpraxis, medio centrado en terapias complementarias, titula que el entrenamiento de fuerza ayuda a vivir más y menciona un estudio sobre personas mayores de 50 años con \"nuevas conclusiones\". El texto original no incluye la entradilla ni describe el método, el tamaño de la muestra ni los resultados concretos.",
+      "contexto": "Existe bastante evidencia de que el entrenamiento de fuerza se asocia con menor mortalidad y mejor salud en la edad adulta. Con los años se pierde masa y fuerza muscular, y mantenerla ayuda a la movilidad, la autonomía y el control del peso. La OMS recomienda a los adultos realizar actividades de fortalecimiento muscular al menos dos días por semana, además de la actividad aeróbica.",
+      "ten_en_cuenta": "La noticia no permite saber qué tipo de estudio es, a cuántas personas se analizó ni qué resultados se midieron, así que no se puede valorar su solidez. Una asociación entre fuerza y longevidad no demuestra por sí sola que el ejercicio cause una vida más larga. Antes de empezar un programa de fuerza, sobre todo si hay problemas de salud, conviene consultar con un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Cuatro de cada diez mujeres jóvenes han tenido pensamientos suicidas: un estudio de Sant Boi destapa la brecha de género",
@@ -2969,10 +2999,20 @@
     "fecha": "2026-09-30T11:45:42+00:00",
     "id": "621279eb",
     "traducida": true,
-    "titulo": "La morera puede remodelar las bacterias intestinales e influir en el metabolismo",
-    "resumen": "Los compuestos de morera pueden remodelar el microbioma intestinal de manera que apoyen la salud intestinal y el metabolismo, y algunas combinaciones muestran efectos especialmente fuertes en estudios con animales. Sin embargo, los resultados varían según la parte de la planta y el método de procesamiento, y los beneficios han...",
-    "categoria": "Salud general",
-    "slug": "la-morera-puede-remodelar-las-bacterias-intestinales-e-influir-en-el-m-621279eb"
+    "titulo": "La morera podría modificar las bacterias intestinales e influir en el metabolismo",
+    "resumen": "Compuestos de la morera podrían cambiar la microbiota intestinal de forma que favorezca la salud digestiva y el metabolismo. Los resultados proceden de estudios en animales y varían según la parte de la planta y su procesado.",
+    "categoria": "Nutrición",
+    "slug": "la-morera-puede-remodelar-las-bacterias-intestinales-e-influir-en-el-m-621279eb",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, algunos compuestos de la morera podrían modificar la microbiota intestinal de forma que favorezca la salud del intestino y el metabolismo. Algunas combinaciones mostraron efectos especialmente fuertes en estudios con animales. Los resultados dependen de la parte de la planta y del método de procesado. El texto disponible se corta, así que no aporta más detalles.",
+      "contexto": "La microbiota intestinal, el conjunto de bacterias que viven en el intestino, participa en la digestión y en varios procesos metabólicos. Su composición se ve influida por la alimentación, y las guías de la OMS recomiendan una dieta variada que incluya frutas, verduras, legumbres y cereales integrales. Aun así, el efecto concreto de cada alimento sobre la microbiota sigue siendo objeto de investigación.",
+      "ten_en_cuenta": "Los resultados más destacados proceden de estudios en animales, que no siempre se trasladan a las personas. Los efectos varían según la parte de la planta y el procesado, y la noticia no da más detalles. Si se plantea tomar suplementos de morera, conviene consultarlo con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Creatine may help build muscle even without exercise, researchers find",
@@ -3084,10 +3124,20 @@
     "fecha": "2026-09-28T02:39:28+00:00",
     "id": "f37f4c14",
     "traducida": true,
-    "titulo": "Los científicos encontraron un sorprendente impulsor de la enfermedad de Alzheimer fuera del cerebro",
-    "resumen": "Los científicos descubrieron que las células inmunitarias que contribuyen al daño cerebral relacionado con el Alzheimer pueden activarse en los ganglios linfáticos fuera del cerebro antes de viajar al sistema nervioso. El bloqueo de esta vía en ratones redujo drásticamente la neurodegeneración y preservó las capacidades cognitivas,...",
+    "titulo": "Un factor inesperado del Alzheimer se origina fuera del cerebro",
+    "resumen": "Un estudio en ratones sugiere que células inmunitarias implicadas en el daño cerebral del Alzheimer podrían activarse en ganglios linfáticos antes de llegar al sistema nervioso. Bloquear esa vía redujo notablemente la neurodegeneración.",
     "categoria": "Salud general",
-    "slug": "los-cientificos-encontraron-un-sorprendente-impulsor-de-la-enfermedad-f37f4c14"
+    "slug": "los-cientificos-encontraron-un-sorprendente-impulsor-de-la-enfermedad-f37f4c14",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Los investigadores han observado que ciertas células del sistema inmunitario, relacionadas con el daño cerebral asociado al Alzheimer, podrían activarse en los ganglios linfáticos, fuera del cerebro, antes de dirigirse al sistema nervioso. En ratones, bloquear este recorrido redujo notablemente la neurodegeneración y conservó las capacidades cognitivas. La información disponible en la noticia original no da más detalles.",
+      "contexto": "El Alzheimer es una enfermedad neurodegenerativa progresiva y la causa más frecuente de demencia. Su origen es complejo y no existe hoy un tratamiento que la cure. Se sabe que el sistema inmunitario participa en los procesos inflamatorios del cerebro, y que hábitos como la actividad física regular, una alimentación saludable y el buen descanso se asocian con una mejor salud cerebral a lo largo de la vida.",
+      "ten_en_cuenta": "Es un estudio en ratones, y los resultados en animales no siempre se reproducen en personas. Además, el extracto disponible no detalla el tamaño de la muestra ni el diseño. Si te preocupa la memoria o tu salud cerebral, consulta con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
@@ -3114,10 +3164,20 @@
     "fecha": "2026-09-26T12:31:07+00:00",
     "id": "975bb9cd",
     "traducida": true,
-    "titulo": "Zepbound y Mounjaro pueden activar la grasa marrón que quema calorías del cuerpo",
-    "resumen": "La tirzepatida, vendida como Mounjaro y Zepbound, activó la grasa marrón que quema calorías en ratones obesos, revelando un efecto metabólico potencial más allá de la supresión del apetito. Si se confirma en humanos, el hallazgo podría ayudar a explicar los poderosos beneficios del medicamento e inspirar...",
-    "categoria": "Nutrición",
-    "slug": "zepbound-y-mounjaro-pueden-activar-la-grasa-marron-que-quema-calorias-975bb9cd"
+    "titulo": "Un estudio en ratones sugiere que Mounjaro y Zepbound activan la grasa parda que quema calorías",
+    "resumen": "En ratones con obesidad, el fármaco tirzepatida activó la grasa parda, que quema calorías. Si se confirmara en personas, podría explicar parte de sus efectos más allá de reducir el apetito.",
+    "categoria": "Salud general",
+    "slug": "zepbound-y-mounjaro-pueden-activar-la-grasa-marron-que-quema-calorias-975bb9cd",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Un estudio realizado en ratones con obesidad encontró que la tirzepatida, vendida como Mounjaro y Zepbound, activó la grasa parda, un tejido que ayuda a quemar calorías. Según la noticia, esto sugiere un posible efecto metabólico del fármaco distinto de la supresión del apetito. La noticia original no da más detalles sobre el diseño ni sobre los resultados.",
+      "contexto": "La grasa parda es un tipo de tejido graso que produce calor quemando energía, a diferencia de la grasa blanca, que sobre todo almacena energía. Tirzepatida es un medicamento para la obesidad que actúa sobre hormonas relacionadas con el apetito y la glucosa. Su efecto sobre la grasa parda es una hipótesis que aún debe comprobarse en personas.",
+      "ten_en_cuenta": "Es un estudio en ratones, así que no demuestra que ocurra lo mismo en personas. Tirzepatida es un medicamento con receta, no una estrategia de autocuidado. Quien se plantee su uso debe hablarlo con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
@@ -3129,10 +3189,20 @@
     "fecha": "2026-09-25T13:32:46+00:00",
     "id": "59c0df24",
     "traducida": true,
-    "titulo": "Este trastorno genético \"raro\" relacionado con el autismo puede ser mucho más común de lo que los científicos pensaban",
-    "resumen": "Un análisis importante sugiere que el síndrome de Phelan-McDermid, un trastorno genético estrechamente relacionado con el autismo, puede afectar a aproximadamente 1 de cada 7.300 personas y a más de 45.000 estadounidenses. Los investigadores advierten que miles de casos pueden permanecer ocultos porque a menudo no se realizan pruebas genéticas, incluso cuando...",
+    "titulo": "Un trastorno genético raro asociado al autismo podría ser mucho más frecuente de lo que se creía",
+    "resumen": "Un análisis amplio sugiere que el síndrome de Phelan-McDermid, ligado al autismo, podría afectar a más personas de lo estimado. Los investigadores advierten de que muchos casos podrían pasar desapercibidos por falta de pruebas genéticas.",
     "categoria": "Salud general",
-    "slug": "este-trastorno-genetico-raro-relacionado-con-el-autismo-puede-ser-much-59c0df24"
+    "slug": "este-trastorno-genetico-raro-relacionado-con-el-autismo-puede-ser-much-59c0df24",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla de la noticia, un análisis amplio sugiere que el síndrome de Phelan-McDermid, un trastorno genético estrechamente relacionado con el autismo, podría afectar a unas 1 de cada 7.300 personas. Los investigadores advierten de que muchos casos podrían seguir sin detectarse porque no siempre se realizan las pruebas genéticas. La noticia original no da más detalles.",
+      "contexto": "Es un trastorno genético poco frecuente que se asocia con dificultades del desarrollo, entre ellas las vinculadas al espectro autista. Las pruebas genéticas son la vía habitual para identificarlo cuando hay sospecha clínica. Un diagnóstico así corresponde siempre a especialistas.",
+      "ten_en_cuenta": "La noticia se basa en un único análisis cuyo diseño no se describe en el texto disponible. Estimar cuántas personas tienen una condición no demuestra cómo se manifiesta en cada caso, y el contenido es de interés sobre todo para familias y profesionales sanitarios."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists gave worms magnetic bacteria. They lived 43% longer",
@@ -3159,10 +3229,20 @@
     "fecha": "2026-09-24T12:25:18+00:00",
     "id": "c410b775",
     "traducida": true,
-    "titulo": "Los músculos que envejecen pueden estar perdiendo fuerza por una razón que los científicos pasaron por alto",
-    "resumen": "Una interrupción recientemente identificada en la comunicación entre los nervios y los músculos podría ayudar a explicar por qué las personas pierden fuerza a medida que envejecen. Los investigadores pudieron mejorar la fuerza muscular en un modelo animal apuntando a una proteína clave, lo que generó esperanzas de que alguna debilidad relacionada con la edad podría...",
-    "categoria": "Entrenamiento",
-    "slug": "los-musculos-que-envejecen-pueden-estar-perdiendo-fuerza-por-una-razon-c410b775"
+    "titulo": "Los músculos envejecidos podrían perder fuerza por una causa que la ciencia no había identificado",
+    "resumen": "Un fallo en la comunicación entre nervios y músculos, recién identificado, podría ayudar a explicar la pérdida de fuerza con la edad. El hallazgo procede de un estudio en animales.",
+    "categoria": "Salud general",
+    "slug": "los-musculos-que-envejecen-pueden-estar-perdiendo-fuerza-por-una-razon-c410b775",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, los investigadores han identificado una alteración en la comunicación entre los nervios y los músculos que podría contribuir a la pérdida de fuerza con la edad. En un modelo animal, lograron mejorar la fuerza muscular actuando sobre una proteína clave. La información disponible es breve y no detalla el método ni los resultados.",
+      "contexto": "La pérdida de fuerza y masa muscular con la edad es un proceso conocido y frecuente, y puede afectar a la autonomía en el día a día. Factores como la actividad física, la alimentación y la salud general influyen en ella. La OMS recomienda realizar actividades de fortalecimiento muscular varias veces por semana a lo largo de la vida.",
+      "ten_en_cuenta": "Es un estudio en animales, así que sus resultados no garantizan que ocurra lo mismo en personas. La noticia es breve y no explica en detalle la proteína ni el procedimiento. Ante cualquier duda sobre actividad física o tratamientos, conviene consultar a un profesional."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Breakthrough drug reverses skin aging and dramatically speeds healing",
@@ -3174,10 +3254,20 @@
     "fecha": "2026-09-23T12:32:35+00:00",
     "id": "bb22353e",
     "traducida": true,
-    "titulo": "Un fármaco innovador revierte el envejecimiento de la piel y acelera drásticamente la cicatrización",
-    "resumen": "Un medicamento tópico que elimina las células dañadas y envejecidas ayudó a los ratones mayores a curar las heridas de la piel significativamente más rápido. El tratamiento pareció reactivar las vías de reparación implicadas en la inflamación, la producción de colágeno y el crecimiento de nuevos vasos sanguíneos.",
+    "titulo": "Un fármaco aplicado sobre la piel acelera la cicatrización de heridas en ratones mayores",
+    "resumen": "Un fármaco de uso tópico que elimina células envejecidas o dañadas ayudó a ratones de edad avanzada a cicatrizar heridas cutáneas más rápido, según la noticia. Todavía es una investigación preliminar.",
     "categoria": "Salud general",
-    "slug": "un-farmaco-innovador-revierte-el-envejecimiento-de-la-piel-y-acelera-d-bb22353e"
+    "slug": "un-farmaco-innovador-revierte-el-envejecimiento-de-la-piel-y-acelera-d-bb22353e",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, un fármaco de aplicación tópica que elimina células envejecidas o dañadas hizo que ratones mayores cicatrizaran sus heridas en la piel más rápido. El tratamiento parecía reactivar vías de reparación relacionadas con la inflamación, la producción de colágeno y el crecimiento de nuevos vasos sanguíneos. La noticia original no ofrece más detalles sobre el estudio.",
+      "contexto": "El envejecimiento de la piel y la capacidad de cicatrizar se ven influidos por factores bien conocidos, como la exposición solar y el tabaco. La OMS recomienda protegerse del sol para prevenir el daño cutáneo. El papel de las células envejecidas en el deterioro de los tejidos es un campo de estudio activo, pero aún se investiga. Los hallazgos de laboratorio suelen ser una primera fase antes de llegar a las personas.",
+      "ten_en_cuenta": "Se trata de un estudio en ratones, y los resultados en animales no siempre se confirman en personas. La noticia no describe el diseño del estudio ni los ensayos previos, y este tratamiento no está disponible para el público. Ante heridas o problemas de piel, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "This emerging treatment could help people avoid knee replacement surgery",
@@ -3189,10 +3279,20 @@
     "fecha": "2026-09-22T13:31:54+00:00",
     "id": "99a6c509",
     "traducida": true,
-    "titulo": "Este tratamiento emergente podría ayudar a las personas a evitar la cirugía de reemplazo de rodilla",
-    "resumen": "Un procedimiento mínimamente invasivo llamado embolización de la arteria genicular podría ofrecer un nuevo término medio entre los tratamientos conservadores y el reemplazo de rodilla para la osteoartritis. Al bloquear los pequeños vasos sanguíneos asociados con la inflamación, GAE puede reducir significativamente el dolor, con algunos...",
+    "titulo": "Un tratamiento emergente podría ayudar a evitar la cirugía de prótesis de rodilla",
+    "resumen": "La embolización de la arteria genicular, un procedimiento mínimamente invasivo, se presenta como una alternativa intermedia entre los tratamientos conservadores y la prótesis de rodilla en la artrosis.",
     "categoria": "Salud general",
-    "slug": "este-tratamiento-emergente-podria-ayudar-a-las-personas-a-evitar-la-ci-99a6c509"
+    "slug": "este-tratamiento-emergente-podria-ayudar-a-las-personas-a-evitar-la-ci-99a6c509",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia describe la embolización de la arteria genicular (GAE), un procedimiento mínimamente invasivo que bloquea pequeños vasos sanguíneos asociados a la inflamación. Según el texto, podría reducir de forma significativa el dolor en la artrosis de rodilla, aunque el fragmento disponible se corta antes de detallar los resultados.",
+      "contexto": "La artrosis de rodilla es un desgaste progresivo de la articulación que causa dolor y limitación de movimiento. Las guías clínicas suelen recomendar en primer lugar medidas conservadoras, como el ejercicio regular, el control del peso y la fisioterapia, y reservan la prótesis para casos avanzados que no responden a otros tratamientos. Las opciones intermedias se investigan precisamente para ese espacio.",
+      "ten_en_cuenta": "La noticia habla de un tratamiento emergente y el texto disponible no detalla el tipo de estudio, el tamaño de la muestra ni el seguimiento. Un resultado prometedor no implica que el procedimiento sea adecuado para cada persona; conviene consultarlo con el traumatólogo o el médico que trata la rodilla."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
@@ -3204,10 +3304,20 @@
     "fecha": "2026-09-22T03:48:58+00:00",
     "id": "73866bbb",
     "traducida": true,
-    "titulo": "Los escáneres cerebrales revelan una posible causa de fatiga prolongada por COVID y niebla cerebral",
-    "resumen": "Los investigadores han encontrado evidencia de que el COVID prolongado puede dañar las neuronas liberadoras de dopamina en el cerebro, lo que podría explicar la fatiga persistente, la baja motivación, el movimiento lento y las dificultades de memoria. El descubrimiento podría conducir a nuevos tratamientos que se dirijan a la dopamina del cerebro...",
+    "titulo": "Escáneres cerebrales apuntan a una posible causa de la fatiga y la niebla mental del covid prolongado",
+    "resumen": "Investigadores han encontrado indicios de que el covid prolongado podría dañar neuronas que liberan dopamina, lo que podría explicar el cansancio persistente y las dificultades de memoria.",
     "categoria": "Salud general",
-    "slug": "los-escaneres-cerebrales-revelan-una-posible-causa-de-fatiga-prolongad-73866bbb"
+    "slug": "los-escaneres-cerebrales-revelan-una-posible-causa-de-fatiga-prolongad-73866bbb",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, unos investigadores han encontrado indicios de que el covid prolongado podría dañar las neuronas que liberan dopamina en el cerebro. Esto podría explicar el cansancio persistente, la falta de motivación, la lentitud de movimientos y las dificultades de memoria. El hallazgo podría abrir la puerta a nuevos tratamientos dirigidos a ese sistema de la dopamina. La entradilla no ofrece más detalles sobre el estudio.",
+      "contexto": "El covid prolongado es un conjunto de síntomas que pueden persistir semanas o meses después de la infección, entre ellos el cansancio y los problemas de concentración o memoria. La dopamina es un neurotransmisor implicado en la motivación, el movimiento y la recompensa, por lo que su alteración podría relacionarse con algunos de estos síntomas. Aun así, el origen exacto de este cuadro sigue siendo objeto de investigación.",
+      "ten_en_cuenta": "La noticia habla de indicios y de una posible explicación, no de una causa demostrada. No se indica el tamaño de la muestra, el diseño del estudio ni si ha sido revisado por otros expertos. Ante síntomas persistentes tras una infección, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists restore a brain protein and reverse signs of aging in mice",
@@ -3219,10 +3329,20 @@
     "fecha": "2026-09-18T04:25:45+00:00",
     "id": "d0826da1",
     "traducida": true,
-    "titulo": "Los científicos restauran una proteína cerebral y revierten los signos del envejecimiento en ratones",
-    "resumen": "Los científicos descubrieron que la disminución de los niveles de la proteína cerebral Menin puede ayudar a impulsar el envejecimiento, con niveles más bajos en ratones relacionados con la inflamación, el deterioro cognitivo, los huesos más débiles y la piel más delgada. La restauración de Menin revirtió varios cambios relacionados con la edad, mientras que el aminoácido D-serina...",
-    "categoria": "Nutrición",
-    "slug": "los-cientificos-restauran-una-proteina-cerebral-y-revierten-los-signos-d0826da1"
+    "titulo": "Científicos restauran una proteína cerebral y revierten signos del envejecimiento en ratones",
+    "resumen": "En ratones, bajar los niveles de la proteína cerebral menina se asocia con inflamación, deterioro cognitivo, huesos más débiles y piel más fina. Restaurarla revirtió varios de estos cambios.",
+    "categoria": "Salud general",
+    "slug": "los-cientificos-restauran-una-proteina-cerebral-y-revierten-los-signos-d0826da1",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Un estudio con ratones encontró que los niveles de la proteína cerebral menina disminuyen con la edad y que, en estos animales, niveles más bajos se asocian con inflamación, deterioro cognitivo, huesos más débiles y piel más fina. Al restaurar la menina, se revirtieron varios de estos cambios relacionados con la edad. La entradilla también menciona el aminoácido D-serina, pero el texto disponible no da más detalles sobre su papel.",
+      "contexto": "El envejecimiento implica cambios acumulados en el cerebro, el sistema inmunitario, los huesos y la piel, y la inflamación crónica de bajo grado se considera uno de los procesos implicados. Las recomendaciones de organismos como la OMS para envejecer con buena salud incluyen mantenerse activo, seguir una alimentación equilibrada, dormir bien y cuidar la salud mental. Estos hábitos no dependen de terapias experimentales como esta.",
+      "ten_en_cuenta": "Son resultados en ratones, y los hallazgos en animales no siempre se reproducen en personas. La noticia no detalla el diseño ni la duración del estudio, y no demuestra que la menina sea una causa del envejecimiento. Cualquier cambio en la salud debe consultarse con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
@@ -3234,10 +3354,20 @@
     "fecha": "2026-09-11T11:26:08+00:00",
     "id": "38a51b6c",
     "traducida": true,
-    "titulo": "Un estudio de 1,9 millones de personas encuentra una sorprendente relación entre el TDAH y los problemas intestinales",
-    "resumen": "Los investigadores que analizaron los datos de más de 1,9 millones de personas encontraron que el TDAH se asocia con tasas sustancialmente más altas de problemas digestivos. Las personas con TDAH tenían casi el doble de probabilidades de estreñimiento, un 58% más de probabilidades de síndrome del intestino irritable y más de cuatro veces...",
+    "titulo": "Un estudio con 1,9 millones de personas relaciona el TDAH con problemas digestivos",
+    "resumen": "Un análisis de datos de más de 1,9 millones de personas asocia el TDAH con más problemas digestivos, como el estreñimiento y el síndrome del intestino irritable.",
     "categoria": "Salud general",
-    "slug": "un-estudio-de-1-9-millones-de-personas-encuentra-una-sorprendente-rela-38a51b6c"
+    "slug": "un-estudio-de-1-9-millones-de-personas-encuentra-una-sorprendente-rela-38a51b6c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el resumen disponible, los investigadores analizaron datos de más de 1,9 millones de personas y hallaron que el TDAH se asocia con una frecuencia notablemente mayor de problemas digestivos. Las personas con TDAH tenían casi el doble de probabilidades de estreñimiento y un 58 % más de probabilidades de síndrome del intestino irritable. La entradilla se corta ahí, así que la noticia original no da más detalles.",
+      "contexto": "El TDAH es un trastorno del neurodesarrollo que afecta a la atención, la impulsividad y la actividad. Se investiga desde hace años la relación entre el cerebro y el intestino, pero los motivos de los problemas digestivos son variados y suelen tener origen multifactorial. Cuando aparecen asociaciones de este tipo, lo habitual es seguir investigando qué factores intervienen.",
+      "ten_en_cuenta": "Una asociación no demuestra que el TDAH cause los problemas digestivos ni al revés. La noticia no detalla el diseño del estudio ni qué factores se tuvieron en cuenta, y el texto disponible está incompleto. Si tienes TDAH o síntomas digestivos, consulta con un profesional sanitario."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Ozempic and Wegovy may have an unexpected mental health benefit",
@@ -3264,10 +3394,20 @@
     "fecha": "2026-08-29T10:52:20+00:00",
     "id": "3fec4c2c",
     "traducida": true,
-    "titulo": "El uso de melatonina a largo plazo está relacionado con un riesgo de insuficiencia cardíaca un 90% mayor",
-    "resumen": "Las personas con insomnio crónico que usaron melatonina a largo plazo tenían un riesgo aproximadamente un 90% mayor de desarrollar insuficiencia cardíaca durante cinco años, según un gran estudio preliminar. Los hallazgos no prueban que la melatonina cause problemas cardíacos, pero plantean nuevas preguntas sobre la seguridad...",
+    "titulo": "El uso prolongado de melatonina se asocia con un riesgo de insuficiencia cardíaca un 90 % mayor",
+    "resumen": "Un gran estudio preliminar encuentra que las personas con insomnio crónico que tomaron melatonina durante mucho tiempo tuvieron un riesgo más alto de insuficiencia cardíaca a lo largo de cinco años.",
     "categoria": "Sueño",
-    "slug": "el-uso-de-melatonina-a-largo-plazo-esta-relacionado-con-un-riesgo-de-i-3fec4c2c"
+    "slug": "el-uso-de-melatonina-a-largo-plazo-esta-relacionado-con-un-riesgo-de-i-3fec4c2c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, las personas con insomnio crónico que usaron melatonina durante largo tiempo tuvieron un riesgo de desarrollar insuficiencia cardíaca unas un 90 % superior en cinco años. Se trata de un estudio preliminar y los hallazgos no demuestran que la melatonina cause problemas cardíacos, aunque plantean dudas sobre su seguridad. La noticia original se corta ahí y no da más detalles sobre el diseño ni los resultados.",
+      "contexto": "El insomnio crónico es un problema frecuente que se asocia con peor salud en general, y la melatonina es una hormona que regula el ciclo de sueño y vigilia y que se usa a menudo como ayuda para dormir. La insuficiencia cardíaca depende de muchos factores, como la edad, la hipertensión o el estilo de vida, por lo que estudiar un fármaco o suplemento concreto exige tener en cuenta todos ellos.",
+      "ten_en_cuenta": "Es un estudio preliminar y la noticia no detalla cómo se realizó, así que el hallazgo es una asociación y no una causa. Antes de empezar, cambiar o dejar cualquier tratamiento para dormir, conviene consultarlo con un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Frequent cannabis users wake up with their “stress hormone” already elevated",
@@ -3279,10 +3419,20 @@
     "fecha": "2026-08-09T12:40:58+00:00",
     "id": "99318feb",
     "traducida": true,
-    "titulo": "Los consumidores frecuentes de cannabis se despiertan con su \"hormona del estrés\" ya elevada",
-    "resumen": "Los consumidores frecuentes de cannabis pueden despertarse con niveles inusualmente altos de la hormona del estrés cortisol, lo que sugiere que sus ritmos diarios de estrés podrían verse alterados. Los investigadores dicen que el hallazgo plantea preguntas sobre si el uso de cannabis para aliviar el estrés podría, con el tiempo, interferir con...",
+    "titulo": "Los consumidores frecuentes de cannabis despiertan con el cortisol, la «hormona del estrés», ya elevado",
+    "resumen": "Según la noticia, los consumidores frecuentes de cannabis podrían despertarse con niveles de cortisol inusualmente altos, lo que sugiere que su ritmo diario de estrés podría estar alterado.",
     "categoria": "Salud mental",
-    "slug": "los-consumidores-frecuentes-de-cannabis-se-despiertan-con-su-hormona-d-99318feb"
+    "slug": "los-consumidores-frecuentes-de-cannabis-se-despiertan-con-su-hormona-d-99318feb",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia recoge que las personas que consumen cannabis con frecuencia podrían despertarse con niveles de cortisol inusualmente altos, lo que apuntaría a una posible alteración de sus ritmos diarios de estrés. Los investigadores se preguntan si usar cannabis para aliviar el estrés podría, con el tiempo, interferir con ese equilibrio. La entradilla se corta ahí, y la noticia original no da más detalles sobre el estudio.",
+      "contexto": "El cortisol es una hormona clave en la respuesta al estrés. Sus niveles siguen un ritmo diario, siendo habitualmente más altos al despertar y bajando a lo largo del día. Ese ritmo influye en la energía, el sueño y el bienestar. Se sabe que el estrés crónico afecta a la salud física y mental, pero la relación concreta con el consumo de cannabis necesita más evidencia.",
+      "ten_en_cuenta": "Solo disponemos del titular y de una entradilla incompleta, sin datos sobre el tamaño de la muestra, el método ni cómo se midió el consumo. Una asociación no demuestra causa. Si usas cannabis para gestionar el estrés, conviene consultarlo con un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Stress can scramble your brain’s internal GPS, MRI study finds",
@@ -3294,10 +3444,20 @@
     "fecha": "2026-08-09T03:21:50+00:00",
     "id": "81b400cf",
     "traducida": true,
-    "titulo": "El estrés puede alterar el GPS interno de su cerebro, según un estudio de resonancia magnética",
-    "resumen": "El estrés puede literalmente alterar el GPS interno del cerebro. Los investigadores descubrieron que el cortisol, una hormona liberada durante el estrés, empeoraba significativamente la navegación en un entorno virtual e interrumpía la actividad precisa de las células de la cuadrícula, células cerebrales especializadas que nos ayudan...",
+    "titulo": "El estrés podría alterar el 'GPS' interno del cerebro, según un estudio con resonancia magnética",
+    "resumen": "Un estudio con resonancia magnética sugiere que el cortisol, la hormona que se libera durante el estrés, empeora la orientación en un entorno virtual y altera la actividad de las células de cuadrícula del cerebro.",
     "categoria": "Salud mental",
-    "slug": "el-estres-puede-alterar-el-gps-interno-de-su-cerebro-segun-un-estudio-81b400cf"
+    "slug": "el-estres-puede-alterar-el-gps-interno-de-su-cerebro-segun-un-estudio-81b400cf",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, los investigadores observaron que el cortisol, una hormona liberada durante el estrés, hizo que las personas se orientaran significativamente peor en un entorno virtual. También alteró la actividad precisa de las células de cuadrícula, neuronas especializadas que ayudan a orientarnos. La noticia original no ofrece más detalles sobre el diseño ni los resultados.",
+      "contexto": "El cortisol es una hormona que el cuerpo libera ante situaciones de estrés. Las células de cuadrícula forman parte del sistema que nos ayuda a ubicarnos en el espacio, y se han estudiado sobre todo en animales. En general, el estrés mantenido se relaciona con cambios en el sueño, la concentración y la memoria, aunque sus efectos concretos dependen de cada persona.",
+      "ten_en_cuenta": "Solo tenemos el titular y la entradilla, así que no sabemos el tamaño de la muestra, cómo se hizo el experimento ni si el cortisol se administró a los participantes. Un estudio aislado no demuestra una relación de causa y efecto, y un entorno virtual no equivale a orientarse en la vida real. Si el estrés le afecta de forma persistente, conviene consultar con un profesional."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
@@ -3309,10 +3469,20 @@
     "fecha": "2026-08-07T07:31:52+00:00",
     "id": "29e693cb",
     "traducida": true,
-    "titulo": "El parche de ultrasonido portátil aumenta el sueño REM sin medicamentos ni cirugía",
-    "resumen": "Un nuevo parche portátil puede ayudar a las personas a alcanzar el sueño REM más rápido y permanecer allí más tiempo sin medicamentos ni cirugía. En un estudio de 28 participantes, el dispositivo acortó el tiempo a REM en 43 minutos y lo extendió en unos 16 minutos. Los investigadores también observaron signos de mejoría...",
+    "titulo": "Un parche ultrasónico portátil favorece el sueño REM sin fármacos ni cirugía",
+    "resumen": "Un parche ultrasónico que se lleva puesto podría ayudar a alcanzar antes la fase REM del sueño y a mantenerla más tiempo. Los datos proceden de un estudio con 28 participantes.",
     "categoria": "Sueño",
-    "slug": "el-parche-de-ultrasonido-portatil-aumenta-el-sueno-rem-sin-medicamento-29e693cb"
+    "slug": "el-parche-de-ultrasonido-portatil-aumenta-el-sueno-rem-sin-medicamento-29e693cb",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, un nuevo parche portátil podría ayudar a llegar antes a la fase REM del sueño y a permanecer en ella más tiempo, sin medicación ni cirugía. En un estudio con 28 participantes, el dispositivo acortó unos 43 minutos el tiempo hasta la fase REM y la prolongó unos 16 minutos. Los investigadores también observaron signos de mejora, pero el texto disponible se corta ahí y no da más detalles.",
+      "contexto": "El sueño REM es una de las fases del ciclo de sueño, asociada a los sueños intensos y a procesos relacionados con la memoria y el aprendizaje. Las recomendaciones generales para cuidar el descanso incluyen mantener horarios regulares, cuidar el entorno de sueño y limitar pantallas y estimulantes antes de acostarse. Si hay problemas persistentes de sueño, conviene consultarlo con un profesional sanitario.",
+      "ten_en_cuenta": "Es un estudio con un número pequeño de participantes y la noticia no explica su diseño, duración, grupo de control ni la seguridad a largo plazo del dispositivo. Mejorar métricas del sueño en un estudio no demuestra que mejore la salud o el descanso de la población general."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "THC medication made PTSD nightmares disappear for more than a third of patients",
@@ -3324,10 +3494,20 @@
     "fecha": "2026-08-06T03:16:44+00:00",
     "id": "0dee3f9e",
     "traducida": true,
-    "titulo": "La medicación con THC hizo desaparecer las pesadillas del TEPT en más de un tercio de los pacientes",
-    "resumen": "Un formulario de prescripción de THC ayudó a muchas personas con TEPT a escapar de las pesadillas recurrentes relacionadas con el trauma, y más de un tercio informó que las pesadillas desaparecieron por completo después de diez semanas. Los resultados podrían apuntar hacia un tratamiento largamente esperado para uno de los trastornos de estrés postraumático más...",
+    "titulo": "Un medicamento con THC hizo desaparecer las pesadillas del TEPT en más de un tercio de los pacientes",
+    "resumen": "Una forma farmacéutica de THC ayudó a muchas personas con trastorno de estrés postraumático (TEPT) a dejar de sufrir pesadillas recurrentes relacionadas con el trauma. Más de un tercio indicó que desaparecieron por completo tras diez semanas.",
     "categoria": "Salud mental",
-    "slug": "la-medicacion-con-thc-hizo-desaparecer-las-pesadillas-del-tept-en-mas-0dee3f9e"
+    "slug": "la-medicacion-con-thc-hizo-desaparecer-las-pesadillas-del-tept-en-mas-0dee3f9e",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, una presentación farmacéutica de THC, el principal componente psicoactivo del cannabis, ayudó a muchas personas con TEPT. Más de un tercio de los participantes afirmó que sus pesadillas relacionadas con el trauma desaparecieron por completo tras diez semanas. Los autores sugieren que podría tratarse de un tratamiento muy esperado para uno de los síntomas más difíciles de este trastorno. La entradilla no ofrece más detalles sobre el diseño ni los resultados.",
+      "contexto": "Las pesadillas recurrentes son un síntoma frecuente del TEPT y pueden alterar mucho el sueño y el descanso del día siguiente. Las guías clínicas recomiendan como primera opción tratamientos psicológicos específicos, como la terapia cognitivo-conductual o la terapia de exposición. El uso de fármacos a base de cannabinoides para estos síntomas sigue siendo un tema en estudio y no forma parte de las recomendaciones habituales.",
+      "ten_en_cuenta": "La noticia no indica el tamaño de la muestra, cómo se diseñó el estudio ni si hubo grupo de comparación, así que no sabemos cuánta fuerza tienen los resultados. Tampoco aclara qué pasó con el resto de participantes ni los posibles efectos secundarios. Ante pesadillas o síntomas de TEPT, conviene consultar con un profesional de la salud mental."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists find a simple routine linked to less pain and depression",
@@ -3339,10 +3519,20 @@
     "fecha": "2026-07-31T01:37:25+00:00",
     "id": "7f1b7c63",
     "traducida": true,
-    "titulo": "Los científicos encuentran una rutina simple relacionada con menos dolor y depresión",
-    "resumen": "Mantener un horario diario regular puede ayudar a reducir el dolor y la depresión, especialmente entre los adultos mayores con insomnio. Los investigadores descubrieron que los tiempos constantes para despertarse, comer, socializar y dormir estaban relacionados con un mejor bienestar independientemente de la calidad del sueño. Estas rutinas...",
+    "titulo": "Científicos hallan una rutina sencilla asociada a menos dolor y depresión",
+    "resumen": "Mantener horarios regulares para levantarse, comer, socializar y dormir podría asociarse con menos dolor y depresión, sobre todo en adultos mayores con insomnio.",
     "categoria": "Sueño",
-    "slug": "los-cientificos-encuentran-una-rutina-simple-relacionada-con-menos-dol-7f1b7c63"
+    "slug": "los-cientificos-encuentran-una-rutina-simple-relacionada-con-menos-dol-7f1b7c63",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la entradilla, mantener horarios constantes para levantarse, comer, socializar y dormir se relacionó con un mejor bienestar, con independencia de la calidad del sueño. Los investigadores señalan que esta rutina podría ayudar a reducir el dolor y la depresión, especialmente en adultos mayores con insomnio. La noticia original se corta y no da más detalles sobre el estudio.",
+      "contexto": "Tener horarios estables para dormir y despertarse es un consejo habitual de higiene del sueño, y se sabe que el sueño y el estado de ánimo están relacionados. El dolor crónico y la depresión son problemas frecuentes que afectan mucho a la calidad de vida, y las pautas de vida regular forman parte de los consejos generales de cuidado de la salud mental.",
+      "ten_en_cuenta": "La noticia no indica el diseño del estudio ni su tamaño, y el texto disponible está incompleto. Una relación entre rutinas y bienestar no demuestra que las rutinas causen la mejoría. Si el dolor, la tristeza persistente o el insomnio te afectan, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "4 in 5 toddler foods are ultra-processed",
@@ -3354,10 +3544,20 @@
     "fecha": "2026-07-29T03:13:38+00:00",
     "id": "f307a967",
     "traducida": true,
-    "titulo": "4 de cada 5 alimentos para niños pequeños son ultraprocesados",
-    "resumen": "Una auditoría de una tienda de comestibles descubrió que muchos alimentos comercializados para niños pequeños pueden ser mucho menos saludables de lo que los padres esperan. De los casi 2.800 productos examinados en Texas, el 81% eran ultraprocesados y casi la mitad fallaron al menos un estándar de nutrientes de la Organización Mundial de la Salud, a menudo porque...",
+    "titulo": "Cuatro de cada cinco alimentos para niños pequeños son ultraprocesados",
+    "resumen": "Una auditoría en supermercados de Texas revisó casi 2.800 productos dirigidos a niños pequeños. El 81 % eran ultraprocesados y casi la mitad incumplía al menos un criterio nutricional de la OMS.",
     "categoria": "Nutrición",
-    "slug": "4-de-cada-5-alimentos-para-ninos-pequenos-son-ultraprocesados-f307a967"
+    "slug": "4-de-cada-5-alimentos-para-ninos-pequenos-son-ultraprocesados-f307a967",
+    "tipo_estudio": "estudio observacional",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, una auditoría realizada en tiendas de alimentación de Texas analizó casi 2.800 productos comercializados para niños pequeños. El 81 % eran ultraprocesados, y casi la mitad no cumplía al menos un estándar nutricional de la Organización Mundial de la Salud. El fragmento disponible se corta antes de explicar los motivos principales, así que no detalla por qué ocurría.",
+      "contexto": "La OMS recomienda limitar los azúcares libres desde la infancia y evitar la sal añadida en los primeros años de vida. Los alimentos ultraprocesados suelen ser pobres en nutrientes y ricos en azúcar, sal o grasas, y su consumo frecuente se asocia con una dieta de peor calidad. Un envase con mensajes atractivos no garantiza por sí solo que el producto sea equilibrado.",
+      "ten_en_cuenta": "Es una auditoría de productos en tiendas, no mide lo que comen realmente los niños. Se refiere a una zona concreta (Texas) y la noticia original no detalla la metodología ni los criterios exactos. Para decidir qué dar a un niño, conviene consultar con su pediatra o con un profesional de la nutrición."
+    },
+    "puntuacion": 6,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
@@ -3369,10 +3569,20 @@
     "fecha": "2026-07-05T07:39:08+00:00",
     "id": "62a8167a",
     "traducida": true,
-    "titulo": "Los científicos descubren el circuito de sueño profundo que construye músculo, quema grasa y estimula el cerebro",
-    "resumen": "Los investigadores han identificado los circuitos cerebrales que vinculan el sueño profundo con la liberación de la hormona del crecimiento, revelando cómo los dos se regulan mutuamente. El ciclo de retroalimentación recientemente descubierto ayuda a explicar por qué la falta de sueño puede interferir con el crecimiento, la reparación muscular, el metabolismo de las grasas y...",
+    "titulo": "Investigadores identifican el circuito cerebral que relaciona el sueño profundo con la hormona del crecimiento",
+    "resumen": "Un estudio describe el circuito cerebral que vincula el sueño profundo con la liberación de hormona del crecimiento y cómo ambos se regulan mutuamente. Según la noticia, esto ayudaría a explicar por qué dormir mal puede interferir con el crecimiento y la reparación muscular.",
     "categoria": "Sueño",
-    "slug": "los-cientificos-descubren-el-circuito-de-sueno-profundo-que-construye-62a8167a"
+    "slug": "los-cientificos-descubren-el-circuito-de-sueno-profundo-que-construye-62a8167a",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según el titular y la entradilla, los investigadores han identificado el circuito cerebral que conecta el sueño profundo con la liberación de hormona del crecimiento, y el bucle de retroalimentación que forman ambos. La noticia sugiere que este hallazgo podría ayudar a explicar por qué un mal descanso puede afectar al crecimiento, la reparación muscular y el metabolismo de la grasa. La fuente original no da más detalles en el texto disponible.",
+      "contexto": "Es conocimiento general sólido que la hormona del crecimiento se libera sobre todo durante el sueño profundo, y que dormir bien forma parte de la recuperación física y mental. Las recomendaciones de salud insisten en mantener horarios regulares de sueño y un descanso suficiente, porque el sueño influye en el rendimiento, el estado de ánimo y la salud en general.",
+      "ten_en_cuenta": "La entradilla está incompleta y no indica el diseño del estudio, el número de participantes ni si se hizo en personas o en animales. Describir un mecanismo no demuestra por sí solo que mejorar el sueño produzca los efectos sobre músculo, grasa o cerebro que sugiere el titular. Si tienes problemas de sueño, consulta a un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Massive study links teen marijuana use to double the risk of serious mental illness",
@@ -3399,10 +3609,20 @@
     "fecha": "2026-06-09T12:30:04+00:00",
     "id": "1a429fc0",
     "traducida": true,
-    "titulo": "El desencadenante oculto de la enfermedad cardíaca de la apnea del sueño se encuentra en el intestino",
-    "resumen": "Una sorprendente conexión intestino-corazón puede ayudar a explicar por qué la apnea del sueño aumenta el riesgo de enfermedad cardiovascular. En ratones, la desactivación de un receptor de ácidos biliares llamado FXR redujo drásticamente la acumulación de placa, abriendo la puerta a posibles nuevos tratamientos basados en microbios intestinales y sus...",
+    "titulo": "Un receptor intestinal podría ayudar a explicar el vínculo entre la apnea del sueño y el daño cardiovascular",
+    "resumen": "Un estudio en ratones sugiere que el receptor intestinal FXR, que interviene en el metabolismo de los ácidos biliares, podría influir en la acumulación de placa en las arterias asociada a la apnea del sueño.",
     "categoria": "Sueño",
-    "slug": "el-desencadenante-oculto-de-la-enfermedad-cardiaca-de-la-apnea-del-sue-1a429fc0"
+    "slug": "el-desencadenante-oculto-de-la-enfermedad-cardiaca-de-la-apnea-del-sue-1a429fc0",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia apunta a una posible conexión entre el intestino y el corazón que ayudaría a explicar por qué la apnea del sueño aumenta el riesgo de enfermedad cardiovascular. En ratones, desactivar un receptor de ácidos biliares llamado FXR redujo notablemente la acumulación de placa. El texto disponible apunta a posibles tratamientos basados en la microbiota intestinal, aunque la entradilla se corta y la noticia original no da más detalles.",
+      "contexto": "La apnea del sueño consiste en pausas repetidas de la respiración durante la noche, y se asocia con un mayor riesgo cardiovascular. Es un problema reconocido por las sociedades médicas, que recomiendan consultar si hay ronquido intenso o somnolencia diurna. El papel del intestino en la salud cardiovascular es un campo de investigación activo, pero todavía en fase inicial.",
+      "ten_en_cuenta": "Se trata de un estudio en ratones, y los resultados no se pueden trasladar directamente a personas. Además, una asociación entre apnea y riesgo cardiovascular no demuestra por sí sola una relación de causa y efecto. Si se tiene apnea o síntomas de alteración del sueño, conviene consultar a un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Repairing DNA damage: Scientists discover a surprising new benefit of melatonin",
@@ -3414,10 +3634,20 @@
     "fecha": "2026-05-30T09:11:34+00:00",
     "id": "65712114",
     "traducida": true,
-    "titulo": "Reparación del daño en el ADN: los científicos descubren un nuevo y sorprendente beneficio de la melatonina",
-    "resumen": "Un nuevo estudio sugiere que los suplementos de melatonina pueden ayudar a los trabajadores del turno nocturno a impulsar los procesos de reparación del ADN de su cuerpo, lo que podría compensar parte del daño relacionado con el trabajo nocturno. Los hallazgos son tempranos, pero plantean la posibilidad de una estrategia simple para ayudar a reducir a largo plazo...",
-    "categoria": "Nutrición",
-    "slug": "reparacion-del-dano-en-el-adn-los-cientificos-descubren-un-nuevo-y-sor-65712114"
+    "titulo": "Reparación del ADN: científicos descubren un beneficio inesperado de la melatonina",
+    "resumen": "Un nuevo estudio sugiere que los suplementos de melatonina podrían ayudar a los trabajadores nocturnos a mejorar los procesos de reparación del ADN. Los resultados son preliminares.",
+    "categoria": "Sueño",
+    "slug": "reparacion-del-dano-en-el-adn-los-cientificos-descubren-un-nuevo-y-sor-65712114",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, un nuevo estudio sugiere que los suplementos de melatonina podrían ayudar a los trabajadores nocturnos a potenciar los procesos de reparación del ADN del organismo, lo que podría compensar parte del daño asociado al trabajo nocturno. El texto original indica que los hallazgos son iniciales y menciona la posibilidad de una estrategia sencilla para reducir el daño a largo plazo, pero el extracto disponible se corta ahí y no da más detalles.",
+      "contexto": "El trabajo por turnos que altera el ritmo circadiano se considera probablemente cancerígeno por la Agencia Internacional para la Investigación del Cáncer, de la OMS. La melatonina es una hormona que el cuerpo produce de forma natural y que ayuda a regular el ciclo de sueño y vigilia. Aun así, el uso de suplementos debe valorarse de forma individual.",
+      "ten_en_cuenta": "Son resultados preliminares de un único estudio, y la noticia no indica el tipo de investigación, el número de participantes ni cómo se midió la reparación del ADN. No demuestra que la melatonina reduzca el daño a largo plazo. Antes de tomar suplementos, conviene consultar con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
@@ -3444,10 +3674,20 @@
     "fecha": "2026-05-15T12:18:42+00:00",
     "id": "e4aa18e4",
     "traducida": true,
-    "titulo": "¿Es seguro el cannabis después de los 65 años? Los expertos de Stanford revelan 5 riesgos que los adultos mayores deben saber",
-    "resumen": "El consumo de cannabis entre los adultos mayores está aumentando rápidamente, pero la marihuana actual es mucho más potente de lo que muchas personas creen, y los expertos advierten que los riesgos pueden estar subestimados. Los especialistas en medicina de Stanford dicen que el cannabis moderno puede aumentar las posibilidades de problemas cardíacos, caídas, memoria...",
+    "titulo": "¿Es seguro el cannabis después de los 65? Expertos de Stanford señalan 5 riesgos",
+    "resumen": "Especialistas de Stanford Medicine advierten de que el cannabis actual es mucho más potente de lo que muchos creen y que sus riesgos para los adultos mayores podrían estar subestimados.",
     "categoria": "Salud general",
-    "slug": "es-seguro-el-cannabis-despues-de-los-65-anos-los-expertos-de-stanford-e4aa18e4"
+    "slug": "es-seguro-el-cannabis-despues-de-los-65-anos-los-expertos-de-stanford-e4aa18e4",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Cada vez más adultos mayores consumen cannabis, pero la marihuana de hoy es bastante más potente de lo que mucha gente imagina. Según los especialistas de Stanford Medicine, el cannabis actual puede aumentar la probabilidad de problemas cardiacos, caídas y problemas de memoria. La noticia original no detalla los cinco riesgos completos.",
+      "contexto": "El cannabis puede afectar al ritmo cardiaco y a la presión arterial, así como a la coordinación, la atención y la memoria, sobre todo a dosis altas o en personas con otras condiciones de salud. En edades avanzadas es más frecuente tomar varios medicamentos, lo que puede aumentar el riesgo de interacciones. Conviene hablar con el médico antes de empezar o cambiar el consumo.",
+      "ten_en_cuenta": "La información procede de un resumen con la entradilla cortada, así que no se conocen todos los riesgos citados ni la evidencia en que se basan. Parecen ser declaraciones de expertos, no los resultados de un estudio concreto. Cada persona tiene un perfil de salud distinto, por lo que la valoración individual debe hacerla un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
@@ -3459,10 +3699,20 @@
     "fecha": "2026-05-15T11:11:38+00:00",
     "id": "b6bb668b",
     "traducida": true,
-    "titulo": "El químico \"sentirse bien\" del cerebro puede estar alimentando secretamente el tinnitus",
-    "resumen": "Los científicos han descubierto evidencia de que la serotonina, el mismo químico cerebral impulsado por muchos antidepresivos, en realidad puede empeorar el tinnitus. Utilizando una estimulación cerebral avanzada basada en la luz en ratones, los investigadores identificaron un circuito impulsado por la serotonina relacionado directamente con el tinnitus...",
+    "titulo": "Un circuito cerebral ligado a la serotonina podría contribuir al acúfeno, según un estudio en ratones",
+    "resumen": "Investigadores describen un circuito cerebral impulsado por serotonina que se relaciona con sonidos fantasma similares al acúfeno. El hallazgo procede de experimentos con ratones.",
     "categoria": "Salud general",
-    "slug": "el-quimico-sentirse-bien-del-cerebro-puede-estar-alimentando-secretame-b6bb668b"
+    "slug": "el-quimico-sentirse-bien-del-cerebro-puede-estar-alimentando-secretame-b6bb668b",
+    "tipo_estudio": "estudio en animales o células",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "Según la noticia, los científicos han encontrado indicios de que la serotonina, la misma sustancia que aumentan muchos antidepresivos, podría agravar el acúfeno. Usando estimulación cerebral con luz en ratones, identificaron un circuito cerebral dependiente de serotonina vinculado a síntomas parecidos al acúfeno. La noticia original no da más detalles.",
+      "contexto": "El acúfeno es la percepción de sonidos, como pitidos o zumbidos, que no tienen una fuente externa, y es bastante frecuente. No se conoce del todo su origen y no existe un tratamiento universal. Las investigaciones con animales ayudan a entender los mecanismos, pero no garantizan que lo observado ocurra igual en las personas.",
+      "ten_en_cuenta": "Es un estudio en ratones, así que sus resultados no pueden trasladarse directamente a humanos. La entradilla es breve y no detalla el tamaño de la muestra ni los métodos. Si tienes acúfeno, consulta con un profesional sanitario antes de modificar cualquier medicación."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "Brain scans reveal a shocking difference between psychopaths and other people",
@@ -3474,10 +3724,20 @@
     "fecha": "2026-05-10T11:05:08+00:00",
     "id": "295d5430",
     "traducida": true,
-    "titulo": "Los escáneres cerebrales revelan una diferencia impactante entre los psicópatas y otras personas",
-    "resumen": "Los científicos han descubierto una sorprendente diferencia cerebral relacionada con la psicopatía: se descubrió que las personas con rasgos psicopáticos tenían un cuerpo estriado, una región del cerebro vinculada a la recompensa, la motivación y la toma de decisiones, que era aproximadamente un 10% más grande en promedio que las personas sin tales rasgos....",
-    "categoria": "Salud general",
-    "slug": "los-escaneres-cerebrales-revelan-una-diferencia-impactante-entre-los-p-295d5430"
+    "titulo": "Un estudio con escáneres cerebrales relaciona los rasgos psicopáticos con el tamaño del estriado",
+    "resumen": "Según una noticia de ScienceDaily, personas con rasgos psicopáticos tendrían un estriado, zona ligada a la recompensa, la motivación y la toma de decisiones, algo mayor de media. No tiene aplicación práctica directa para el día a día.",
+    "categoria": "Salud mental",
+    "slug": "los-escaneres-cerebrales-revelan-una-diferencia-impactante-entre-los-p-295d5430",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "explicacion": {
+      "que_dice": "Según la entradilla, unos científicos han identificado una diferencia cerebral asociada a la psicopatía: las personas con rasgos psicopáticos tendrían un estriado, una región relacionada con la recompensa, la motivación y la toma de decisiones, unos 10 % más grande de media que las personas sin esos rasgos. La noticia original no da más detalles sobre el estudio.",
+      "contexto": "La psicopatía es un concepto que se evalúa con escalas de rasgos de personalidad y no es un diagnóstico clínico único en todos los manuales. Las diferencias cerebrales de grupo que se observan en estudios de imagen suelen ser estadísticas y no permiten identificar a una persona concreta. Para cualquier preocupación sobre salud mental, lo más útil es consultar con un profesional.",
+      "ten_en_cuenta": "La entradilla no indica el tamaño de la muestra, el diseño ni si se trata de una asociación o de una causa, y no explica cómo se midieron los rasgos. Un hallazgo de imagen cerebral de este tipo no sirve para diagnosticar a nadie ni tiene consecuencias prácticas para el cuidado personal."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "version_ia": 2
   },
   {
     "titulo_original": "The creepy feeling in old buildings might have a surprising cause",
@@ -3489,9 +3749,19 @@
     "fecha": "2026-05-03T15:27:24+00:00",
     "id": "00b2a5af",
     "traducida": true,
-    "titulo": "La sensación espeluznante en los edificios antiguos podría tener una causa sorprendente",
-    "resumen": "Una fuerza oculta puede estar moldeando silenciosamente cómo te sientes, y nunca lo sabrías. El infrasonido, una vibración de frecuencia ultrabaja por debajo del rango de audición humana, está en todas partes, desde el tráfico hasta los edificios antiguos. En un pequeño experimento, las personas expuestas a él se volvieron más irritables, menos...",
-    "categoria": "Entrenamiento",
-    "slug": "la-sensacion-espeluznante-en-los-edificios-antiguos-podria-tener-una-c-00b2a5af"
+    "titulo": "Los infrasonidos, vibraciones que no oímos, podrían alterar el ánimo según un pequeño experimento",
+    "resumen": "Un pequeño experimento sugiere que exponerse a infrasonidos, vibraciones por debajo del rango auditivo humano, puede hacer a las personas más irritables. La noticia original no da más detalles.",
+    "categoria": "Salud mental",
+    "slug": "la-sensacion-espeluznante-en-los-edificios-antiguos-podria-tener-una-c-00b2a5af",
+    "tipo_estudio": "ensayo en humanos",
+    "relevante": true,
+    "explicacion": {
+      "que_dice": "La noticia describe un pequeño experimento en el que personas expuestas a infrasonidos, vibraciones ultrabajas que no se perciben al oír, se volvieron más irritables. Según el texto, estos infrasonidos están presentes en el tráfico y en edificios antiguos. La entradilla aparece cortada y la noticia original no ofrece más detalles sobre el resultado ni sobre el diseño del experimento.",
+      "contexto": "Los infrasonidos son sonidos de frecuencia tan baja que no los percibimos como tales, aunque sí pueden generar sensaciones físicas y son habituales en entornos urbanos e industriales. La investigación sobre sus efectos en la salud y el bienestar es todavía limitada, y sus resultados no son concluyentes. Por eso conviene tomar con cautela cualquier relación con el malestar o la inquietud que a veces se atribuye a determinados lugares.",
+      "ten_en_cuenta": "Se trata de un experimento pequeño, sin cifras ni detalles metodológicos en la noticia, por lo que no permite extraer conclusiones firmes. Un único estudio de este tipo no demuestra que los infrasonidos cotidianos afecten al ánimo de la población general."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "version_ia": 2
   }
 ]
