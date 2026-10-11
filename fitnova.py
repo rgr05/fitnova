@@ -15,6 +15,7 @@ Uso:
 
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -105,27 +106,58 @@ def clasificar(texto: str) -> str:
 
 
 # ---------------------------------------------------------------- Traducción
-URL_TRADUCTOR = "https://translate.googleapis.com/translate_a/single"
+# Probamos primero Google y, si nos bloquea, MyMemory (ambos gratuitos).
+# Si un servicio falla 3 veces seguidas, dejamos de usarlo en esta ejecución.
+ESTADISTICAS = {"google": 0, "mymemory": 0, "errores": []}
+_fallos_seguidos = {"google": 0, "mymemory": 0}
+MAX_FALLOS_SEGUIDOS = 3
+
+
+def _pedir_json(url: str) -> dict | list:
+    peticion = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urlopen(peticion, timeout=10) as respuesta:
+        return json.loads(respuesta.read().decode("utf-8"))
+
+
+def _google(texto: str, idioma: str) -> str:
+    url = "https://translate.googleapis.com/translate_a/single?" + urlencode(
+        {"client": "gtx", "sl": idioma, "tl": "es", "dt": "t", "q": texto})
+    datos = _pedir_json(url)
+    return "".join(frase[0] for frase in datos[0] if frase and frase[0])
+
+
+def _mymemory(texto: str, idioma: str) -> str:
+    parametros = {"q": texto[:500], "langpair": f"{idioma}|es"}
+    if os.environ.get("MYMEMORY_EMAIL"):          # opcional: sube el límite diario
+        parametros["de"] = os.environ["MYMEMORY_EMAIL"]
+    datos = _pedir_json("https://api.mymemory.translated.net/get?" + urlencode(parametros))
+    traducido = datos.get("responseData", {}).get("translatedText", "")
+    if datos.get("responseStatus") != 200 or "MYMEMORY WARNING" in traducido:
+        raise RuntimeError(f"MyMemory: {datos.get('responseStatus')} {traducido[:120]}")
+    return traducido
 
 
 def traducir(texto: str, idioma: str) -> str | None:
-    """Traduce al español con el servicio gratuito de Google.
-    Devuelve None si no lo consigue, para poder reintentarlo en la siguiente ejecución."""
+    """Traduce al español. Devuelve None si ningún servicio lo consigue,
+    para reintentarlo en la siguiente ejecución."""
     if not texto or idioma == "es":
         return texto
-    url = URL_TRADUCTOR + "?" + urlencode({"client": "gtx", "sl": "auto", "tl": "es", "dt": "t", "q": texto})
-    for intento in range(3):
+    for nombre, servicio in (("google", _google), ("mymemory", _mymemory)):
+        if _fallos_seguidos[nombre] >= MAX_FALLOS_SEGUIDOS:
+            continue
         try:
-            peticion = Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urlopen(peticion, timeout=15) as respuesta:
-                datos = json.loads(respuesta.read().decode("utf-8"))
-            # La respuesta trae el texto troceado en frases: las unimos
-            traducido = "".join(frase[0] for frase in datos[0] if frase and frase[0]).strip()
+            traducido = html.unescape(servicio(texto, idioma)).strip()
             if traducido:
+                _fallos_seguidos[nombre] = 0
+                ESTADISTICAS[nombre] += 1
                 return traducido
+            raise RuntimeError("respuesta vacía")
         except Exception as error:
-            print(f"   ! fallo al traducir (intento {intento + 1}): {error}")
-        time.sleep(2 * (intento + 1))
+            _fallos_seguidos[nombre] += 1
+            mensaje = f"{nombre}: {type(error).__name__}: {error}"[:200]
+            print(f"   ! {mensaje}")
+            if mensaje not in ESTADISTICAS["errores"] and len(ESTADISTICAS["errores"]) < 6:
+                ESTADISTICAS["errores"].append(mensaje)
     return None
 
 
@@ -242,7 +274,7 @@ def main():
         if "titulo" in noticia and not necesita_traduccion(noticia):
             continue   # ya estaba traducida
         titulo = traducir(noticia["titulo_original"], noticia["idioma"])
-        resumen = traducir(noticia["resumen_original"], noticia["idioma"])
+        resumen = traducir(noticia["resumen_original"], noticia["idioma"]) if titulo else None
         noticia["traducida"] = titulo is not None
         noticia["titulo"] = titulo or noticia["titulo_original"]
         noticia["resumen"] = resumen if resumen is not None else noticia["resumen_original"]
@@ -251,7 +283,10 @@ def main():
             nuevas += 1
         else:
             fallidas += 1
-        time.sleep(0.2)   # no saturar al traductor
+        if all(f >= MAX_FALLOS_SEGUIDOS for f in _fallos_seguidos.values()):
+            print("Ningún traductor responde: lo reintentaremos en la próxima ejecución.")
+            break
+        time.sleep(0.3)   # no saturar al traductor
     print(f"Traducidas {nuevas} noticias; {fallidas} fallidas (se reintentarán la próxima vez).")
 
     # 4. Ordenar de más reciente a más antigua
@@ -268,6 +303,8 @@ def main():
             "traducidas_ahora": nuevas,
             "traducciones_fallidas": fallidas,
             "pendientes_de_traducir": sum(necesita_traduccion(n) for n in noticias),
+            "traducidas_por_servicio": {k: ESTADISTICAS[k] for k in ("google", "mymemory")},
+            "errores_de_traduccion": ESTADISTICAS["errores"],
         }
         INFORME.write_text(json.dumps(informe, ensure_ascii=False, indent=2), "utf-8")
 

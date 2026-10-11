@@ -20,6 +20,7 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.publicar.outputs.page_url }}
@@ -38,6 +39,8 @@ jobs:
 
       - name: Buscar y traducir noticias
         run: python fitnova.py
+        env:
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
 
       - name: Guardar las noticias traducidas
         run: |
