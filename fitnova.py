@@ -21,8 +21,10 @@ import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
+
 import feedparser
-from deep_translator import GoogleTranslator
 
 # ---------------------------------------------------------------- Ajustes
 CARPETA = Path(__file__).parent
@@ -30,6 +32,7 @@ FEEDS = CARPETA / "feeds.json"
 DATOS = CARPETA / "data" / "noticias.json"
 PLANTILLA = CARPETA / "plantilla.html"
 WEB = CARPETA / "site" / "index.html"
+INFORME = CARPETA / "data" / "informe.json"   # resumen de la última ejecución
 
 DIAS_A_CONSERVAR = 7        # noticias más antiguas se descartan
 MAX_POR_FEED = 15           # para no saturar la web con una sola fuente
@@ -102,20 +105,35 @@ def clasificar(texto: str) -> str:
 
 
 # ---------------------------------------------------------------- Traducción
-_traductor = GoogleTranslator(source="auto", target="es")
+URL_TRADUCTOR = "https://translate.googleapis.com/translate_a/single"
 
 
-def traducir(texto: str, idioma: str) -> str:
-    """Traduce al español. Si ya está en español o falla, devuelve el original."""
+def traducir(texto: str, idioma: str) -> str | None:
+    """Traduce al español con el servicio gratuito de Google.
+    Devuelve None si no lo consigue, para poder reintentarlo en la siguiente ejecución."""
     if not texto or idioma == "es":
         return texto
+    url = URL_TRADUCTOR + "?" + urlencode({"client": "gtx", "sl": "auto", "tl": "es", "dt": "t", "q": texto})
     for intento in range(3):
         try:
-            return _traductor.translate(texto) or texto
+            peticion = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urlopen(peticion, timeout=15) as respuesta:
+                datos = json.loads(respuesta.read().decode("utf-8"))
+            # La respuesta trae el texto troceado en frases: las unimos
+            traducido = "".join(frase[0] for frase in datos[0] if frase and frase[0]).strip()
+            if traducido:
+                return traducido
         except Exception as error:
             print(f"   ! fallo al traducir (intento {intento + 1}): {error}")
-            time.sleep(2)
-    return texto
+        time.sleep(2 * (intento + 1))
+    return None
+
+
+def necesita_traduccion(noticia: dict) -> bool:
+    """True si la noticia está en otro idioma y aún no tiene traducción válida."""
+    if noticia["idioma"] == "es":
+        return False
+    return not noticia.get("traducida") or noticia.get("titulo") == noticia["titulo_original"]
 
 
 # ---------------------------------------------------------------- Recogida
@@ -182,7 +200,7 @@ def noticias_demo() -> list[dict]:
          "El calentamiento dinámico parece más útil que los estiramientos estáticos.", "corredora-calle"),
     ]
     return [{
-        "titulo_original": orig, "resumen_original": "", "titulo": es, "resumen": resumen,
+        "titulo_original": orig, "resumen_original": "", "titulo": es, "resumen": resumen, "traducida": True,
         "idioma": idioma, "fuente": "Fuente de ejemplo", "enlace": "https://example.com",
         "imagen": f"https://picsum.photos/seed/{semilla}/1200/800" if semilla else "",
         "fecha": (ahora - timedelta(hours=4 * n + 1)).isoformat(),
@@ -200,34 +218,58 @@ def main():
     # 2. Noticias nuevas
     print("Leyendo fuentes…")
     if demo:
-        recogidas = noticias_demo()
+        recogidas, recuento_fuentes = noticias_demo(), {}
     else:
         feeds = json.loads(FEEDS.read_text("utf-8"))
-        recogidas = [n for feed in feeds for n in leer_feed(feed)]
+        recogidas, recuento_fuentes = [], {}
+        for feed in feeds:
+            leidas = leer_feed(feed)
+            recuento_fuentes[feed["nombre"]] = len(leidas)
+            recogidas += leidas
 
-    # 3. Traducir y clasificar solo lo nuevo
-    nuevas = 0
+    # 3. Añadir las nuevas (sin repetir) y traducir lo que falte
     for noticia in recogidas:
         clave = clave_duplicado(noticia["titulo_original"])
-        if not clave or clave in por_clave:
-            continue
-        if "titulo" not in noticia:   # las de demo ya vienen traducidas
-            noticia["titulo"] = traducir(noticia["titulo_original"], noticia["idioma"])
-            noticia["resumen"] = traducir(noticia["resumen_original"], noticia["idioma"])
-        noticia["categoria"] = clasificar(noticia["titulo"] + " " + noticia["resumen"])
-        por_clave[clave] = noticia
-        nuevas += 1
-    print(f"Traducidas {nuevas} noticias nuevas.")
+        if clave and clave not in por_clave:
+            por_clave[clave] = noticia
 
-    # 4. Quitar las antiguas y ordenar de más reciente a más antigua
+    # Quitamos las antiguas antes de traducir, para no gastar tiempo en ellas
     limite = datetime.now(timezone.utc) - timedelta(days=DIAS_A_CONSERVAR)
     noticias = [n for n in por_clave.values() if datetime.fromisoformat(n["fecha"]) >= limite]
+
+    nuevas = fallidas = 0
+    for noticia in noticias:
+        if "titulo" in noticia and not necesita_traduccion(noticia):
+            continue   # ya estaba traducida
+        titulo = traducir(noticia["titulo_original"], noticia["idioma"])
+        resumen = traducir(noticia["resumen_original"], noticia["idioma"])
+        noticia["traducida"] = titulo is not None
+        noticia["titulo"] = titulo or noticia["titulo_original"]
+        noticia["resumen"] = resumen if resumen is not None else noticia["resumen_original"]
+        noticia["categoria"] = clasificar(noticia["titulo"] + " " + noticia["resumen"])
+        if noticia["traducida"]:
+            nuevas += 1
+        else:
+            fallidas += 1
+        time.sleep(0.2)   # no saturar al traductor
+    print(f"Traducidas {nuevas} noticias; {fallidas} fallidas (se reintentarán la próxima vez).")
+
+    # 4. Ordenar de más reciente a más antigua
     noticias.sort(key=lambda n: n["fecha"], reverse=True)
 
     # 5. Guardar datos y generar la web
     if not demo:   # en demo no ensuciamos los datos reales
         DATOS.parent.mkdir(exist_ok=True)
         DATOS.write_text(json.dumps(noticias, ensure_ascii=False, indent=2), "utf-8")
+        informe = {
+            "fecha": datetime.now(timezone.utc).isoformat(),
+            "por_fuente": recuento_fuentes,
+            "noticias_publicadas": len(noticias),
+            "traducidas_ahora": nuevas,
+            "traducciones_fallidas": fallidas,
+            "pendientes_de_traducir": sum(necesita_traduccion(n) for n in noticias),
+        }
+        INFORME.write_text(json.dumps(informe, ensure_ascii=False, indent=2), "utf-8")
 
     web = PLANTILLA.read_text("utf-8")
     web = web.replace("__NOTICIAS__", json.dumps(noticias, ensure_ascii=False).replace("</", "<\\/"))

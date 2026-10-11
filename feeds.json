@@ -1,11 +1,10 @@
 [
-  {"nombre": "ScienceDaily · Fitness",   "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/fitness.xml"},
+  {"nombre": "ScienceDaily · Fitness", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/fitness.xml"},
   {"nombre": "ScienceDaily · Nutrición", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml"},
-
-  {"nombre": "Google News (EN)", "idioma": "en", "url": "https://news.google.com/rss/search?q=fitness+OR+%22strength+training%22+OR+nutrition+when:7d&hl=en-US&gl=US&ceid=US:en"},
-  {"nombre": "Google News (ES)", "idioma": "es", "url": "https://news.google.com/rss/search?q=fitness+OR+entrenamiento+OR+nutrici%C3%B3n+when:7d&hl=es&gl=ES&ceid=ES:es"},
-  {"nombre": "Google News (FR)", "idioma": "fr", "url": "https://news.google.com/rss/search?q=fitness+OR+musculation+OR+nutrition+when:7d&hl=fr&gl=FR&ceid=FR:fr"},
-  {"nombre": "Google News (DE)", "idioma": "de", "url": "https://news.google.com/rss/search?q=fitness+OR+krafttraining+OR+ern%C3%A4hrung+when:7d&hl=de&gl=DE&ceid=DE:de"},
-  {"nombre": "Google News (IT)", "idioma": "it", "url": "https://news.google.com/rss/search?q=fitness+OR+allenamento+OR+alimentazione+when:7d&hl=it&gl=IT&ceid=IT:it"},
-  {"nombre": "Google News (PT)", "idioma": "pt", "url": "https://news.google.com/rss/search?q=fitness+OR+muscula%C3%A7%C3%A3o+OR+nutri%C3%A7%C3%A3o+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"}
+  {"nombre": "Google News (EN)", "idioma": "en", "url": "https://news.google.com/rss/search?q=%28exercise+OR+workout+OR+%22strength+training%22+OR+nutrition+OR+sleep+OR+%22mental+health%22%29+study+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"},
+  {"nombre": "Google News (ES)", "idioma": "es", "url": "https://news.google.com/rss/search?q=%28ejercicio+OR+entrenamiento+OR+nutrici%C3%B3n+OR+sue%C3%B1o+OR+%22salud+mental%22%29+estudio+when%3A7d&hl=es&gl=ES&ceid=ES%3Aes"},
+  {"nombre": "Google News (FR)", "idioma": "fr", "url": "https://news.google.com/rss/search?q=%28exercice+OR+musculation+OR+nutrition+OR+sommeil+OR+%22sant%C3%A9+mentale%22%29+%C3%A9tude+when%3A7d&hl=fr&gl=FR&ceid=FR%3Afr"},
+  {"nombre": "Google News (DE)", "idioma": "de", "url": "https://news.google.com/rss/search?q=%28Training+OR+Krafttraining+OR+Ern%C3%A4hrung+OR+Schlaf+OR+%22psychische+Gesundheit%22%29+Studie+when%3A7d&hl=de&gl=DE&ceid=DE%3Ade"},
+  {"nombre": "Google News (IT)", "idioma": "it", "url": "https://news.google.com/rss/search?q=%28esercizio+OR+allenamento+OR+alimentazione+OR+sonno+OR+%22salute+mentale%22%29+studio+when%3A7d&hl=it&gl=IT&ceid=IT%3Ait"},
+  {"nombre": "Google News (PT)", "idioma": "pt", "url": "https://news.google.com/rss/search?q=%28exerc%C3%ADcio+OR+muscula%C3%A7%C3%A3o+OR+nutri%C3%A7%C3%A3o+OR+sono+OR+%22sa%C3%BAde+mental%22%29+estudo+when%3A7d&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"}
 ]
