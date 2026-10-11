@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-11T14:05:01.258761+00:00",
+  "fecha": "2026-10-11T14:13:26.165554+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -7,6 +7,15 @@
     "ScienceDaily · Salud mental": 15,
     "ScienceDaily · Medicina deportiva": 15,
     "ScienceDaily · Sueño": 15,
+    "El País · Salud y bienestar": 15,
+    "El País · Ciencia": 15,
+    "El Mundo · Salud": 15,
+    "ABC · Salud": 15,
+    "ABC · Bienestar": 15,
+    "EFE Salud": 15,
+    "Infobae · Salud": 15,
+    "The Conversation España": 15,
+    "Muy Interesante · Salud": 15,
     "Google News (EN)": 15,
     "Google News (ES)": 15,
     "Google News (FR)": 15,
@@ -14,20 +23,22 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 153,
-  "noticias_publicadas": 138,
-  "descartadas_por_ia": 15,
-  "procesadas_con_ia_ahora": 27,
+  "noticias_en_archivo": 287,
+  "noticias_publicadas": 253,
+  "descartadas_por_ia": 34,
+  "procesadas_con_ia_ahora": 60,
   "ia_activada": true,
   "errores_ia": [
     "ValueError: respuesta cortada por longitud"
   ],
   "fichas_descartadas_por_cifras": [],
-  "traducidas_ahora": 0,
-  "pendientes": 6,
+  "traducidas_ahora": 74,
+  "pendientes": 80,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 0
+    "mymemory": 1
   },
-  "errores_de_traduccion": []
+  "errores_de_traduccion": [
+    "google: HTTPError: HTTP Error 429: Too Many Requests"
+  ]
 }
