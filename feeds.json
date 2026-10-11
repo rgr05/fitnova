@@ -1,6 +1,10 @@
 [
   {"nombre": "ScienceDaily · Fitness", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/fitness.xml"},
   {"nombre": "ScienceDaily · Nutrición", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml"},
+  {"nombre": "ScienceDaily · Envejecimiento saludable", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/healthy_aging.xml"},
+  {"nombre": "ScienceDaily · Salud mental", "idioma": "en", "url": "https://www.sciencedaily.com/rss/mind_brain/mental_health.xml"},
+  {"nombre": "ScienceDaily · Medicina deportiva", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/sports_medicine.xml"},
+  {"nombre": "ScienceDaily · Sueño", "idioma": "en", "url": "https://www.sciencedaily.com/rss/health_medicine/sleep_disorders.xml"},
   {"nombre": "Google News (EN)", "idioma": "en", "url": "https://news.google.com/rss/search?q=%28exercise+OR+workout+OR+%22strength+training%22+OR+nutrition+OR+sleep+OR+%22mental+health%22%29+study+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"},
   {"nombre": "Google News (ES)", "idioma": "es", "url": "https://news.google.com/rss/search?q=%28ejercicio+OR+entrenamiento+OR+nutrici%C3%B3n+OR+sue%C3%B1o+OR+%22salud+mental%22%29+estudio+when%3A7d&hl=es&gl=ES&ceid=ES%3Aes"},
   {"nombre": "Google News (FR)", "idioma": "fr", "url": "https://news.google.com/rss/search?q=%28exercice+OR+musculation+OR+nutrition+OR+sommeil+OR+%22sant%C3%A9+mentale%22%29+%C3%A9tude+when%3A7d&hl=fr&gl=FR&ceid=FR%3Afr"},

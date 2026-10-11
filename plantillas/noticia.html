@@ -4,7 +4,7 @@
 {% block titulo %}{{ n.titulo }} | {{ config.nombre }}{% endblock %}
 {% block descripcion %}{{ n.resumen or n.titulo }}{% endblock %}
 {% block og_tipo %}article{% endblock %}
-{% block robots %}{% if not n.explicacion %}<meta name="robots" content="noindex, follow">{% endif %}{% endblock %}
+{% block robots %}{% if not n.indexable %}<meta name="robots" content="noindex, follow">{% endif %}{% endblock %}
 {% block jsonld %}
 <script type="application/ld+json">{{ {
   "@context": "https://schema.org", "@type": "NewsArticle",

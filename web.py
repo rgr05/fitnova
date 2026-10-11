@@ -111,6 +111,10 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
 
     for noticia in noticias:
         noticia["comentario"] = comentario_de(noticia)
+        # Solo pedimos a Google que indexe fichas con sustancia: explicación de la IA y una entradilla
+        # original suficiente (o la opinión revisada del editor)
+        noticia["indexable"] = bool(noticia.get("explicacion")) and (
+            len(noticia.get("resumen_original", "")) >= 120 or bool(noticia["comentario"]))
         noticia["url"] = ruta(f"noticias/{noticia['slug']}.html")
 
     # Portada: lo de la última semana (o lo último que haya)
@@ -141,7 +145,7 @@ def generar(noticias: list[dict], demo: bool = False) -> int:
     for noticia in noticias:
         relacionadas = [n for n in noticias if n["categoria"] == noticia["categoria"] and n["id"] != noticia["id"]][:4]
         escribir(f"noticias/{noticia['slug']}.html", "noticia.html",
-                 indexable=bool(noticia.get("explicacion")), n=noticia, relacionadas=relacionadas)
+                 indexable=noticia["indexable"], n=noticia, relacionadas=relacionadas)
 
     # Guías
     escribir("guias/index.html", "guias.html", guias=guias)
