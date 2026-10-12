@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-12T08:39:24.334590+00:00",
+  "fecha": "2026-10-12T12:57:49.894085+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -17,23 +17,25 @@
     "The Conversation España": 15,
     "Muy Interesante · Salud": 15,
     "Google News (EN)": 15,
-    "Google News (ES)": 0,
-    "Google News (FR)": 0,
+    "Google News (ES)": 15,
+    "Google News (FR)": 15,
     "Google News (DE)": 15,
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 319,
-  "noticias_publicadas": 253,
-  "descartadas_por_ia": 66,
-  "procesadas_con_ia_ahora": 7,
+  "noticias_en_archivo": 341,
+  "noticias_publicadas": 271,
+  "descartadas_por_ia": 70,
+  "procesadas_con_ia_ahora": 22,
   "ia_activada": true,
   "errores_ia": [],
-  "fichas_descartadas_por_cifras": [],
+  "fichas_descartadas_por_cifras": [
+    "01f46b24"
+  ],
   "traducidas_ahora": 0,
   "pendientes": 0,
   "traducidas_por_servicio": {
-    "google": 0,
+    "google": 1,
     "mymemory": 0
   },
   "errores_de_traduccion": []
