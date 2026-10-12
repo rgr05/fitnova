@@ -1,5 +1,55 @@
 [
   {
+    "titulo_original": "Así fue el interior de un tornado a su paso por un pueblo de Kansas",
+    "resumen_original": "La ciencia intenta mapear la estructura interna del vórtice de aire y mejorar la capacidad para predecir estos torbellinos",
+    "idioma": "es",
+    "fuente": "El País · Ciencia",
+    "enlace": "https://elpais.com/ciencia/2026-10-12/asi-fue-el-interior-de-un-tornado-a-su-paso-por-un-pueblo-de-kansas.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WVIZZYVVHJBDRKDJYFQEJA65YU.jpg?auth=de9397f9f42bf129e2fe5567b3322f1f8411a0f133722906dc9d74932a2d10d9",
+    "fecha": "2026-10-12T03:30:01+00:00",
+    "id": "8f655010",
+    "tipo_estudio": "no especificado",
+    "relevante": false,
+    "titulo": "Así fue el interior de un tornado a su paso por un pueblo de Kansas",
+    "resumen": "Una noticia de ciencia atmosférica sobre cómo se estudia la estructura interna de los tornados para mejorar su predicción.",
+    "categoria": "Salud general",
+    "explicacion": {
+      "que_dice": "La noticia original explica que la ciencia intenta mapear la estructura interna del vórtice de aire de un tornado y mejorar la capacidad para predecir estos torbellinos. No da más detalles en la entradilla.",
+      "contexto": "Este tema pertenece a la meteorología y no tiene una aplicación directa para el cuidado de la salud física o mental en el día a día, que es el enfoque de Sudor y Ciencia.",
+      "ten_en_cuenta": "La noticia no trata sobre ejercicio, alimentación, descanso, bienestar ni prevención en salud, por lo que no se incluye en la web."
+    },
+    "puntuacion": 1,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "asi-fue-el-interior-de-un-tornado-a-su-paso-por-un-pueblo-de-kansas-8f655010"
+  },
+  {
+    "titulo_original": "El pescado que dos expertos en longevidad recomiendan para el cerebro y los huesos: qué pasa si lo comes tres veces por semana",
+    "resumen_original": "Vitamina D, proteína de alto valor biológico, DHA y EPA forman parte de su perfil nutricional. Los especialistas señalan que su consumo habitual podría marcar una diferencia real en la salud a largo plazo.",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/generacion-silver/2026/10/12/el-pescado-que-dos-expertos-en-longevidad-recomiendan-para-el-cerebro-y-los-huesos-que-pasa-si-lo-comes-tres-veces-por-semana/",
+    "imagen": "https://www.infobae.com/resizer/v2/LSB5BHPDEVEIXIR66P2R7GV7EU.png?auth=ae632e3cc51e82d013fe5b6debef3e69566bf451339c2b7d103abba2dc266018&smart=true&width=2752&height=1536",
+    "fecha": "2026-10-12T03:27:54+00:00",
+    "id": "0d5d1563",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "titulo": "Expertos en longevidad destacan un pescado por su vitamina D, su proteína y sus ácidos grasos DHA y EPA",
+    "resumen": "Dos especialistas en longevidad señalan que este pescado aporta nutrientes útiles para el cerebro y los huesos, y que su consumo habitual podría notarse a largo plazo.",
+    "categoria": "Nutrición",
+    "explicacion": {
+      "que_dice": "Según el titular y la entradilla, dos expertos en longevidad recomiendan un pescado por su perfil nutricional, que incluye vitamina D, proteína de alto valor biológico, DHA y EPA. Señalan que su consumo habitual podría marcar una diferencia en la salud a largo plazo. La información disponible no identifica el pescado ni aporta más detalles.",
+      "contexto": "El pescado es una fuente habitual de proteína y de ácidos grasos omega-3, como el DHA y el EPA, que forman parte de la estructura de las membranas celulares y se relacionan con la salud cardiovascular y cerebral. Las guías de alimentación de organismos como la OMS y de muchas sociedades científicas recomiendan incluir pescado con regularidad dentro de una dieta variada.",
+      "ten_en_cuenta": "La noticia recoge la opinión de especialistas, no los resultados de un estudio, y no indica en qué se basan ni qué pescado concreto es. Los beneficios de un alimento dependen del conjunto de la dieta y del estilo de vida, así que conviene consultar a un profesional sanitario o a un dietista si se quieren ajustar las comidas."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "expertos-en-longevidad-destacan-un-pescado-por-su-vitamina-d-su-protei-0d5d1563"
+  },
+  {
     "titulo_original": "A la rica crema de calabaza: cómo aprovechar al máximo sus betacarotenos",
     "resumen_original": "Llega octubre y empiezan a bajar las temperaturas. Los puestos del mercado cambian de color de un día para otro y donde había sandías aparecen calabazas preciosas, enteras o partidas por la mitad, con ese color naranja que anuncia que ya hemos dejado atrás el verano. En casa…",
     "idioma": "es",
@@ -1025,6 +1075,31 @@
     "version_ia": 2
   },
   {
+    "titulo_original": "Dormir 80 minutos menos durante seis semanas nos hace engordar, según un nuevo estudio",
+    "resumen_original": "",
+    "idioma": "es",
+    "fuente": "Xataka",
+    "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3Z4SlBnS18zN1drN2RSOG1IVWYtTU5Va1FaRkpyVEpmeXFxTmREeEdkVllBdzRPTlh1WWstOUJ0LWJPdnNDOVBQU01xcHpaZXVXYVZSaG5vYmgyekZSQ0Q4cUNOcHNjS29QZ21fRXlGaUtFcU1NUXVJU1FNbEdFZXhwQ0RJbHZNMi1fd1N3R2l1R2Nsb2FwUzRaOGpkaHhnR09kUlFELUV0UUdwYUhr0gG0AUFVX3lxTE4xOWRFak5iYjFVNUZjN0VWaHZhTFRfeVlDUzBnZnlqQTNtdDVvaHNBNTFrVVhhQS0yXy1vOUJuT0pVVURLUlp0QVRJSldFZ1RmalA0anhTOFBHY3hRVGVNbVJNbGIwa1JwV29fdnJJaHpGN29GVmpOOWwwV254ZVlYdHBfek9VZ1VRdnFYY28wNTRYRXc2U2c2SWYzR0h1ek5WR3EyM09acUU2WE13UF9FQzBCaA?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-10T14:30:26+00:00",
+    "id": "b9ca1481",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Dormir 80 minutos menos durante seis semanas se asocia con engordar, según un nuevo estudio",
+    "resumen": "Un nuevo estudio relaciona dormir 80 minutos menos durante seis semanas con aumento de peso. La noticia original no ofrece más detalles sobre el diseño ni los resultados.",
+    "categoria": "Sueño",
+    "explicacion": {
+      "que_dice": "Según el titular, un nuevo estudio sugiere que dormir 80 minutos menos cada día durante seis semanas se asocia con ganar peso. La entradilla no está disponible, así que la noticia original no aporta más detalles sobre cómo se hizo el estudio ni sobre sus resultados concretos.",
+      "contexto": "Dormir poco de forma sostenida se relaciona en numerosos estudios con cambios en el apetito, en las decisiones sobre la comida y en el gasto energético. Las sociedades científicas del sueño recomiendan que los adultos duerman lo suficiente y con regularidad, porque el descanso es una parte importante de la salud general.",
+      "ten_en_cuenta": "Solo disponemos del titular, así que no sabemos el tamaño ni las características de la muestra, ni si el estudio fue un ensayo o una observación. Además, una asociación no demuestra por sí sola que la falta de sueño sea la causa del aumento de peso. Conviene esperar a leer el estudio completo o más análisis antes de sacar conclusiones."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "dormir-80-minutos-menos-durante-seis-semanas-se-asocia-con-engordar-se-b9ca1481"
+  },
+  {
     "titulo_original": "La respiración lenta modifica el sistema nervioso, según confirman estudios científicos",
     "resumen_original": "Dos investigaciones distintas comprobaron que ejercicios respiratorios sostenidos reducen la ansiedad y mejoran el ánimo en personas sanas",
     "idioma": "es",
@@ -1648,6 +1723,31 @@
     "traducida": true,
     "version_ia": 2,
     "slug": "la-narcolepsia-es-mucho-mas-que-un-problema-de-sueno-una-nueva-terapia-b2734644"
+  },
+  {
+    "titulo_original": "Santé mentale: appel à participer à une étude sur un agent conversationnel",
+    "resumen_original": "",
+    "idioma": "fr",
+    "fuente": "Actualités UQAM",
+    "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpFNEdxY1huZ2JtMEJLajFnOHE4anY4ZWdDdXdOcV9scF9mVll1bk8tZmNvTWU4Z1BYSlZWOW1MZDlXNXFoRHVVY084cEt2WXE5RXVlQy1VSUlIcXFmdl9DVWsxN0VYd0VmM0tsU1NNd3pSaVpKZjNLZ3RoUFlXVWxkWUpXdjJWXzI5S0lOeHNIRUJqY2VjaUh6aTRnNmliSnBGM2dDbTdZZw?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-09T20:37:05+00:00",
+    "id": "0069dfce",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Salud mental: se busca participantes para un estudio sobre un agente conversacional",
+    "resumen": "Una publicación de Actualités UQAM hace un llamamiento para participar en un estudio sobre un agente conversacional vinculado a la salud mental. La noticia original no ofrece más detalles.",
+    "categoria": "Salud mental",
+    "explicacion": {
+      "que_dice": "Según el titular, Actualités UQAM difunde una convocatoria para participar en un estudio sobre un agente conversacional relacionado con la salud mental. La noticia original no da más detalles sobre el objetivo, el diseño, las personas que se buscan ni cómo inscribirse.",
+      "contexto": "Los agentes conversacionales son programas que mantienen una conversación con la persona, y en los últimos años se han probado herramientas digitales de apoyo al bienestar emocional. La OMS subraya que la salud mental es parte esencial de la salud general y que las herramientas digitales pueden complementar, pero no sustituir, la atención de un profesional cualificado.",
+      "ten_en_cuenta": "Es un anuncio de reclutamiento: no muestra resultados ni evidencia sobre la eficacia de la herramienta. Si atraviesas un malestar emocional, conviene hablar con un profesional de la salud mental y no depender solo de un chat automatizado."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "salud-mental-se-busca-participantes-para-un-estudio-sobre-un-agente-co-0069dfce"
   },
   {
     "titulo_original": "Dormir com cachorro atrapalha o sono? Estudo encontra resposta que surpreende",
@@ -4725,6 +4825,31 @@
     "slug": "hacer-ejercicio-en-pareja-se-asocia-con-mejor-comunicacion-y-menos-est-6e2244ea"
   },
   {
+    "titulo_original": "Does your sleep tracker get it right? A Pittsburgh neuroscientist weighs in",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "The Conversation",
+    "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnV1Z3FydzROdUFPbGxsVmZPcjRFNzZ6cHdULW92ZzNQMlRrbkRlUnpJeEoybWVvS1BUMzFLbHF5eGxZZTRBd2s5dDdRTzN2UU9TMVBtRHo4RTZzbloxQ0JuR1RyWlFKWlJNeDg5Tlg4V0FfaHZnLThpVXRxWWV6QjJKU1Zwd3EwMlB6YmVhSHZja1JpbmxGNXAwa3R1RHQzeHhyMjBwbU92Z1FobXc?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-06T12:13:29+00:00",
+    "id": "b7550e5c",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "¿Aciertan los rastreadores de sueño? Lo explica un neurocientífico de Pittsburgh",
+    "resumen": "Un artículo de The Conversation se pregunta si los rastreadores de sueño que llevamos en la muñeca miden bien cómo dormimos, con la opinión de un neurocientífico de Pittsburgh.",
+    "categoria": "Sueño",
+    "explicacion": {
+      "que_dice": "El artículo plantea si los rastreadores de sueño, como pulseras o relojes inteligentes, dan información fiable sobre el descanso. Para responder recoge la opinión de un neurocientífico de Pittsburgh. La noticia original no da más detalles sobre sus conclusiones ni sobre los datos en que se apoyan.",
+      "contexto": "Estos dispositivos suelen estimar el sueño a partir del movimiento o del pulso, y no miden directamente la actividad cerebral como hace la polisomnografía, la prueba de referencia en clínica. Pueden ser útiles para observar tendencias a lo largo del tiempo, pero sus estimaciones de fases concretas del sueño pueden ser imprecisas.",
+      "ten_en_cuenta": "La noticia original es muy breve y solo contiene el titular, así que no podemos saber qué datos concretos se analizan. Si te preocupa tu sueño, conviene consultarlo con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "aciertan-los-rastreadores-de-sueno-lo-explica-un-neurocientifico-de-pi-b7550e5c"
+  },
+  {
     "titulo_original": "La OMS pide a las autoridades rusas más información sobre el posible caso de peste en una trabajadora de un laboratorio de alta seguridad: esto es lo que se sabe hasta ahora de la potencial amenaza",
     "resumen_original": "Por el momento, Rusia atribuye el caso a una \"neumonía de etiología desconocida\" y desmiente que haya implantado medidas de prevención de contagios Leer",
     "idioma": "es",
@@ -4898,6 +5023,31 @@
     "puntuacion": 1,
     "procesada_ia": true,
     "version_ia": 2
+  },
+  {
+    "titulo_original": "Prática obsessiva de esportes traz danos físicos e mentais, diz estudo",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "CNN Brasil",
+    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDkwWnNDYXFRSnowTm1xenFlYWRDSXRoeG9zTmhSbnRVa1NmeFpIRTNNRmx0Z01mVkVSS2liR3laNHZOcXVTWjBqVEpHQ3NKU3NKNmdBUndBVTVvclZ1cm1EZktBaTlIYk1wVTJDOEo4SjlZSmN1T0JUZ1F0SnpmMzdNQXRWUFJZbFR6VUUwdzhiRnNOQTgyR2d2Z3NkVzE0UzdJcmhGN04?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-06T06:37:14+00:00",
+    "id": "aa0af014",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Practicar deporte de forma obsesiva puede causar daños físicos y mentales, según un estudio",
+    "resumen": "Según un estudio citado por CNN Brasil, la práctica obsesiva de deportes podría acarrear problemas tanto físicos como mentales. La noticia original no da más detalles.",
+    "categoria": "Salud mental",
+    "explicacion": {
+      "que_dice": "Un estudio, según recoge CNN Brasil, concluye que practicar deportes de forma obsesiva tiene consecuencias negativas tanto para el cuerpo como para la mente. La noticia original solo incluye el titular, así que no se sabe qué personas se estudiaron, cuánto tiempo duró la investigación ni qué tipo de daños se observaron.",
+      "contexto": "El ejercicio regular es muy beneficioso para la salud física y mental, y así lo recomiendan la OMS y las sociedades científicas. Sin embargo, entrenar de forma compulsiva, sin descanso ni control de las señales del cuerpo, puede asociarse con lesiones, fatiga y malestar emocional. Lo que marca la diferencia suele ser la forma de practicar y no el ejercicio en sí.",
+      "ten_en_cuenta": "Solo se dispone del titular, sin detalles sobre el diseño, la muestra ni los resultados, por lo que no es posible valorar su solidez. Una noticia breve puede simplificar mensajes complejos. Si sientes que entrenar te genera ansiedad o te impide descansar, conviene consultarlo con un profesional de la salud."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "practicar-deporte-de-forma-obsesiva-puede-causar-danos-fisicos-y-menta-aa0af014"
   },
   {
     "titulo_original": "Los virus antiguos ocultos en nuestro genoma podrían reactivarse con la edad e influir en el envejecimiento",
