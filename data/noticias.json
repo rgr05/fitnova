@@ -1,5 +1,55 @@
 [
   {
+    "titulo_original": "Alexandre Olmos, médico: «No todas las personas necesitan la misma dosis de magnesio y muchas sufren deficiencias sin saberlo porque en una analítica no siempre aparece»",
+    "resumen_original": "Tomar suplementos es algo que está muy extendido en la sociedad actual, existiendo diferentes tipos de ellos según las necesidades o carencias que queramos cubrir. A pesar de su normalización, suplementarse es algo que debería hacerse siempre tras una valoración o consulta…",
+    "idioma": "es",
+    "fuente": "ABC · Bienestar",
+    "enlace": "https://www.abc.es/bienestar/alexandre-olmos-medico-personas-necesitan-dosis-magnesio-20261013061500-nt.html",
+    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2025/10/06/medico-kQaB-U302155766490bcG-1200x840@diario_abc.jpg",
+    "fecha": "2026-10-13T04:15:03+00:00",
+    "id": "e9ef15a7",
+    "tipo_estudio": "opinión o recomendación",
+    "relevante": true,
+    "titulo": "Un médico advierte de que no todas las personas necesitan la misma dosis de magnesio",
+    "resumen": "Según el médico entrevistado, las necesidades de magnesio varían entre personas y una analítica no siempre detecta las deficiencias. Recuerda que los suplementos conviene tomarlos tras una valoración.",
+    "categoria": "Nutrición",
+    "explicacion": {
+      "que_dice": "Es una entrevista con un médico sobre los suplementos de magnesio. Afirma que cada persona puede necesitar una dosis distinta y que muchas personas tienen deficiencias sin saberlo, porque no siempre aparecen en una analítica. Señala que suplementarse debería hacerse tras una valoración o consulta. La entradilla está cortada y la noticia original no da más detalles.",
+      "contexto": "El magnesio es un mineral necesario para numerosas funciones del organismo y se obtiene principalmente de la alimentación. Un análisis de sangre no siempre refleja las reservas totales del cuerpo, por lo que interpretar los resultados requiere criterio profesional. Tomar suplementos sin necesidad puede no aportar beneficios y, en exceso, puede causar molestias o problemas.",
+      "ten_en_cuenta": "Se trata de la opinión de un profesional en una entrevista, no de un estudio científico, y la noticia no detalla pruebas ni datos concretos. Antes de tomar magnesio u otro suplemento, conviene consultar con un médico o un profesional sanitario."
+    },
+    "puntuacion": 5,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "un-medico-advierte-de-que-no-todas-las-personas-necesitan-la-misma-dos-e9ef15a7"
+  },
+  {
+    "titulo_original": "Wie gesunde Ernährung das biologisches Altern verlangsamen kann",
+    "resumen_original": "",
+    "idioma": "de",
+    "fuente": "FAZ",
+    "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFoxWHlwcjFxLU9yODRObXlHUDJXMFJGRUNWZ3p2dGM0OURkdnZFOHgzR1otdTRkUHpLdXFkMmpWXzh0ZWRfbTlocHUwM2hlUTdpQzNZZUpyRjUxMXZQX0hNX1JYTnI1eFNoTjFWWDRhNF83RWowVTNHU1dIWmV1U3h6cjNRQWw0bl9XeW5FaVZVdkt0VDhVLUY3NFcwMlFzV21xZ0xEdjZXSFBDdUtRQUtxR3VORHowTHo5dUpPOHFFX0dBYjdxY2pWZw?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-13T03:38:26+00:00",
+    "id": "3567d0d2",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Cómo una alimentación sana puede ralentizar el envejecimiento biológico",
+    "resumen": "Según un artículo de FAZ, una alimentación saludable puede ralentizar el envejecimiento biológico. La noticia original no aporta más detalles sobre el estudio ni sobre sus resultados.",
+    "categoria": "Nutrición",
+    "explicacion": {
+      "que_dice": "El titular de FAZ sugiere que seguir una alimentación saludable puede ralentizar el envejecimiento biológico, es decir, el desgaste del organismo que no siempre coincide con la edad cronológica. La noticia original no incluye entradilla ni información adicional, así que no sabemos qué estudio o datos respaldan esta afirmación.",
+      "contexto": "El envejecimiento biológico se estudia con marcadores que intentan medir cómo envejece el organismo más allá de los años cumplidos. En términos generales, las guías de organismos como la OMS recomiendan una dieta variada, con abundante fruta, verdura, legumbres, cereales integrales y frutos secos, y con limitación de los alimentos ultraprocesados y del exceso de azúcar y sal. Ese patrón se asocia con mejor salud a lo largo de la vida, aunque una asociación no demuestra por sí sola un efecto directo sobre el envejecimiento.",
+      "ten_en_cuenta": "Solo dispones del titular, sin detalles sobre el tipo de estudio, la muestra ni los resultados, por lo que conviene leer la fuente original antes de sacar conclusiones. Si buscas orientación sobre tu alimentación, consulta con un profesional sanitario o un dietista-nutricionista."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "como-una-alimentacion-sana-puede-ralentizar-el-envejecimiento-biologic-3567d0d2"
+  },
+  {
     "titulo_original": "'Head spa': el cuero cabelludo, el gran olvidado de los masajes, se convierte en protagonista",
     "resumen_original": "Espalda, cuello, hombros, piernas… son las zonas que han concentrado por excelencia buena parte de los tratamientos de masaje manual debido a contracturas, dolores o, simplemente, por el hecho de sentir una mayor relajación corporal. Pero, ¿qué ocurre con el cuero cabelludo? Lo…",
     "idioma": "es",
