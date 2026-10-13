@@ -1,5 +1,30 @@
 [
   {
+    "titulo_original": "'Head spa': el cuero cabelludo, el gran olvidado de los masajes, se convierte en protagonista",
+    "resumen_original": "Espalda, cuello, hombros, piernas… son las zonas que han concentrado por excelencia buena parte de los tratamientos de masaje manual debido a contracturas, dolores o, simplemente, por el hecho de sentir una mayor relajación corporal. Pero, ¿qué ocurre con el cuero cabelludo? Lo…",
+    "idioma": "es",
+    "fuente": "ABC · Bienestar",
+    "enlace": "https://www.abc.es/bienestar/head-spa-cuero-cabelludo-gran-olvidado-masajes-20260925011758-nt.html",
+    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/25/masajecabeza1-Ry086mP4QtPJnGagsA4ipmN-1200x840@diario_abc.jpg",
+    "fecha": "2026-10-13T00:15:24+00:00",
+    "id": "cf02e8d2",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Head spa: el cuero cabelludo, el gran olvidado de los masajes, gana protagonismo",
+    "resumen": "Los masajes suelen centrarse en espalda, cuello o piernas, pero el cuero cabelludo empieza a ganar protagonismo con los tratamientos de head spa. La noticia no aporta datos sobre sus efectos.",
+    "categoria": "Salud general",
+    "explicacion": {
+      "que_dice": "El artículo explica que espalda, cuello, hombros y piernas son las zonas habituales de los masajes, por contracturas, dolores o simple relajación. Plantea qué ocurre con el cuero cabelludo, que se está convirtiendo en protagonista con los tratamientos de head spa. La entradilla está cortada y la noticia original no ofrece más detalles sobre el tratamiento ni sobre sus resultados.",
+      "contexto": "Los masajes en general se asocian con una sensación de relajación y con el alivio de molestias musculares, aunque la evidencia sobre sus beneficios varía según el caso. Un masaje en el cuero cabelludo es una práctica de autocuidado sencilla, pero esta noticia no describe efectos concretos que se hayan comprobado.",
+      "ten_en_cuenta": "Es una pieza de tendencia que no describe estudios ni resultados, así que no permite conclusiones sobre beneficios reales. Si se tienen molestias en el cuero cabelludo o problemas con el cabello, conviene consultar a un profesional."
+    },
+    "puntuacion": 3,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "head-spa-el-cuero-cabelludo-el-gran-olvidado-de-los-masajes-gana-prota-cf02e8d2"
+  },
+  {
     "titulo_original": "No solo importa qué comen: compartir la mesa también forma los hábitos alimentarios de niños y adolescentes",
     "resumen_original": "Durante su columna semanal en Infobae al Mediodía, la directora editorial de Infobae, Daniela Blanco, explicó el concepto de comensalidad y la importancia de construir rutinas alimentarias saludables desde la infancia",
     "idioma": "es",
@@ -448,6 +473,31 @@
     "traducida": true,
     "version_ia": 2,
     "slug": "el-modo-de-hablar-en-la-infancia-podria-dar-pistas-sobre-la-salud-ment-e90e41ca"
+  },
+  {
+    "titulo_original": "Jeito de falar das crianças pode indicar riscos mentais",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "ISTOÉ Independente",
+    "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IdGs3S3FNZWZ6cldhaUdEMm9vVVoxOG1OdXlaSDM0dHFYd0ZGSmNTWUk5SWN1SjJDbnV0NGFlQ1lsZEVKZGtiNVh6WWlGaV84dUxGRWVkY25EMUU1aGRET0hoR2doYzhCQ3VyOGlMMlRlYURKVU9R?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-12T11:15:00+00:00",
+    "id": "217453c6",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "El modo de hablar de los niños podría indicar riesgos para su salud mental",
+    "resumen": "Según un titular de ISTOÉ Independente, la forma en que hablan los niños podría señalar posibles riesgos para su salud mental. La noticia original no ofrece más detalles.",
+    "categoria": "Salud mental",
+    "explicacion": {
+      "que_dice": "Según el titular, la forma de hablar de los niños podría servir como indicio de posibles riesgos para su salud mental. La noticia original no incluye entradilla ni más datos sobre el estudio o sus resultados, así que no es posible saber qué aspectos del habla se analizaron ni con qué alcance.",
+      "contexto": "La salud mental infantil preocupa a familias y profesionales, y la detección temprana de dificultades suele considerarse útil para intervenir a tiempo. En general, los cambios persistentes en el ánimo, el comportamiento o la forma de relacionarse merecen atención. Una señal aislada no equivale a un diagnóstico.",
+      "ten_en_cuenta": "Solo disponemos del titular, sin detalles sobre el tipo de estudio, la muestra ni los resultados, por lo que no podemos valorar la solidez de la evidencia. Un indicio en el habla no demuestra por sí solo un problema; ante inquietudes, conviene consultar al pediatra o a un profesional de salud mental."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "el-modo-de-hablar-de-los-ninos-podria-indicar-riesgos-para-su-salud-me-217453c6"
   },
   {
     "titulo_original": "Nobel de Economía 2026: las decisiones individuales que mueven la economía",
@@ -1073,6 +1123,31 @@
     "traducida": true,
     "version_ia": 2,
     "slug": "expertos-en-longevidad-destacan-un-pescado-por-su-vitamina-d-su-protei-0d5d1563"
+  },
+  {
+    "titulo_original": "New Research Reveals a Surprising Link Between ADHD and Sleep",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "Inc.com",
+    "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMndIYkFsRS1hZXJZdk1ja1lPM3VYSWdobnZUdWJyTzdXUkR3STYwVmdJNDZHM2JHSUEzbDVVZTduakxXek8ycVZXVXpCd0cwclUxZ0tNdzlDMmF5djdzcFJQQjVvQkJQT19uajFKQ3RIQVp1QjVQMTNjRHV2U01RWllNUXZBd0JmNENhbDBNc1VEdGExNmtmUElzRUpMQml0NnFtUHFB?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-12T01:32:03+00:00",
+    "id": "053e9b22",
+    "tipo_estudio": "no especificado",
+    "relevante": true,
+    "titulo": "Una nueva investigación sugiere una relación entre el TDAH y el sueño",
+    "resumen": "Un artículo recoge un nuevo estudio que apunta a una conexión entre el TDAH y los problemas de sueño. La información disponible es escasa, así que conviene leerla con cautela.",
+    "categoria": "Sueño",
+    "explicacion": {
+      "que_dice": "La noticia afirma que una nueva investigación ha encontrado una relación entre el trastorno por déficit de atención con hiperactividad (TDAH) y el sueño. La entradilla original no aporta más detalles sobre el estudio, sus participantes ni sus resultados.",
+      "contexto": "El TDAH es una condición del neurodesarrollo que afecta a la atención, la impulsividad y, en algunos casos, a la actividad. Es habitual que las personas con TDAH tengan dificultades para dormir, y se sabe que un descanso insuficiente puede empeorar la concentración y el estado de ánimo. Aun así, la relación exacta entre ambos aspectos sigue siendo objeto de estudio.",
+      "ten_en_cuenta": "Al no disponer de la entradilla ni de los detalles del estudio, no se puede saber su diseño ni su tamaño. Una relación observada no demuestra que una cosa cause la otra. Si el sueño o la atención te preocupan, consulta con un profesional sanitario."
+    },
+    "puntuacion": 4,
+    "procesada_ia": true,
+    "traducida": true,
+    "version_ia": 2,
+    "slug": "una-nueva-investigacion-sugiere-una-relacion-entre-el-tdah-y-el-sueno-053e9b22"
   },
   {
     "titulo_original": "Just 10 minutes of daily exercise could unlock deeper sleep",
