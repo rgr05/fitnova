@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-14T04:47:00.158402+00:00",
+  "fecha": "2026-10-14T08:48:08.381020+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -10,7 +10,7 @@
     "El País · Salud y bienestar": 15,
     "El País · Ciencia": 15,
     "El Mundo · Salud": 15,
-    "ABC · Salud": 15,
+    "ABC · Salud": 0,
     "ABC · Bienestar": 15,
     "EFE Salud": 15,
     "Infobae · Salud": 15,
@@ -23,23 +23,23 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 479,
-  "noticias_publicadas": 390,
+  "noticias_en_archivo": 490,
+  "noticias_publicadas": 401,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg1XH1pQPay5iK4ieMM88'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg1XH3Kvt643Z2vwzoiZA'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg1XH4qTgvP9FcJPLHgrU'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg1qf7ZPds285223N79de'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg1qfB8SqdMmhKVvX7qtF'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg1qfJMXNAH1eFS8J5e89'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
   "traducidas_ahora": 11,
-  "pendientes": 58,
+  "pendientes": 69,
   "traducidas_por_servicio": {
-    "google": 2,
+    "google": 10,
     "mymemory": 0
   },
   "errores_de_traduccion": []
