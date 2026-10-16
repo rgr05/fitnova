@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-16T16:45:50.441095+00:00",
+  "fecha": "2026-10-16T20:45:33.402767+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -10,7 +10,7 @@
     "El País · Salud y bienestar": 15,
     "El País · Ciencia": 15,
     "El Mundo · Salud": 15,
-    "ABC · Salud": 15,
+    "ABC · Salud": 0,
     "ABC · Bienestar": 15,
     "EFE Salud": 15,
     "Infobae · Salud": 15,
@@ -23,23 +23,23 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 679,
-  "noticias_publicadas": 590,
+  "noticias_en_archivo": 686,
+  "noticias_publicadas": 597,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg6Fhbp7p1ktoUexZ7KjS'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg6FhhkZTX8vm7J1p2i1Q'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg6FhqHV2TDKGdFgaTdq9'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg6Zyw7H8wo1wdWScw8WZ'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg6Zz29dQyb76jYyahbxK'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg6ZzLvF2mHVrA3YJHhGG'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 13,
-  "pendientes": 258,
+  "traducidas_ahora": 7,
+  "pendientes": 265,
   "traducidas_por_servicio": {
-    "google": 7,
+    "google": 4,
     "mymemory": 0
   },
   "errores_de_traduccion": []
