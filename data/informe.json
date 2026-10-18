@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-18T08:43:11.709606+00:00",
+  "fecha": "2026-10-18T12:48:38.271119+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -23,24 +23,26 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 765,
-  "noticias_publicadas": 676,
+  "noticias_en_archivo": 770,
+  "noticias_publicadas": 681,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg9QXLGX18MN38jmtLkMv'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg9QXMpGmuB8VLrE7mwtm'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg9QXPP2qHbSkrX6Hp1wi'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg9jEs98msr3mKN147dDW'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg9jEti8fGqusMw6Z4Umw'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg9jEvH8xjmHE3RU2QRsT'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 10,
-  "pendientes": 344,
+  "traducidas_ahora": 5,
+  "pendientes": 349,
   "traducidas_por_servicio": {
-    "google": 2,
-    "mymemory": 0
+    "google": 0,
+    "mymemory": 2
   },
-  "errores_de_traduccion": []
+  "errores_de_traduccion": [
+    "google: HTTPError: HTTP Error 429: Too Many Requests"
+  ]
 }
