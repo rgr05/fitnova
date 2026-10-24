@@ -1,5 +1,50 @@
 [
   {
+    "titulo_original": "Neurodivergentes: la etiqueta de moda para los cerebros fuera de lo común",
+    "resumen_original": "El término nació como eufemismo para las personas autistas, pero hoy se ha convertido en un cajón de sastre donde entra un sinfín de trastornos y peculiaridades",
+    "idioma": "es",
+    "fuente": "El País · Salud y bienestar",
+    "enlace": "https://elpais.com/salud-y-bienestar/2026-10-24/neurodivergentes-la-etiqueta-de-moda-para-los-cerebros-fuera-de-lo-comun.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/NV6DFZHTPNE43PZ4WYGQ5NYXQ4.jpg?auth=a8417ded26a8d8bacef12fe37f4944d8785aa5c232c7fb1206cd581681b37d8e",
+    "fecha": "2026-10-24T03:30:01+00:00",
+    "id": "2e3ba241",
+    "traducida": true,
+    "titulo": "Neurodivergentes: la etiqueta de moda para los cerebros fuera de lo común",
+    "resumen": "El término nació como eufemismo para las personas autistas, pero hoy se ha convertido en un cajón de sastre donde entra un sinfín de trastornos y peculiaridades",
+    "categoria": "Salud general",
+    "slug": "neurodivergentes-la-etiqueta-de-moda-para-los-cerebros-fuera-de-lo-com-2e3ba241"
+  },
+  {
+    "titulo_original": "Carrera contrarreloj para estudiar las cuevas heladas de España antes de que desaparezcan: “Es un archivo único y lo vamos a perder”",
+    "resumen_original": "Un equipo de científicos lucha por tomar las últimas muestras del hielo fósil, que contiene restos de vegetales, virus y bacterias de hace miles de años",
+    "idioma": "es",
+    "fuente": "El País · Ciencia",
+    "enlace": "https://elpais.com/ciencia/2026-10-24/carrera-contrarreloj-para-estudiar-las-cuevas-heladas-de-espana-antes-de-que-desaparezcan-es-un-archivo-unico-y-lo-vamos-a-perder.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/VWGULAP6ANATDKHOYMVVVA24SQ.jpg?auth=bfef642a971b354195e479a4250958292705bbe39fb24c496db26319ee0c0400",
+    "fecha": "2026-10-24T03:30:01+00:00",
+    "id": "6fa33b12",
+    "traducida": true,
+    "titulo": "Carrera contrarreloj para estudiar las cuevas heladas de España antes de que desaparezcan: “Es un archivo único y lo vamos a perder”",
+    "resumen": "Un equipo de científicos lucha por tomar las últimas muestras del hielo fósil, que contiene restos de vegetales, virus y bacterias de hace miles de años",
+    "categoria": "Entrenamiento",
+    "slug": "carrera-contrarreloj-para-estudiar-las-cuevas-heladas-de-espana-antes-6fa33b12"
+  },
+  {
+    "titulo_original": "La dieta que los centenarios adoptan de forma natural y que un cardiólogo vincula con llegar a los 110 años",
+    "resumen_original": "Un cambio progresivo en la alimentación durante la vejez podría explicar, en parte, por qué algunas personas alcanzan edades tan avanzadas. La microbiota juega un papel clave en esa transformación",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/generacion-silver/2026/10/24/la-dieta-que-los-centenarios-adoptan-de-forma-natural-y-que-un-cardiologo-vincula-con-llegar-a-los-110-anos/",
+    "imagen": "https://www.infobae.com/resizer/v2/ODCKH26R7NFIJKVBU4CRKHCOAM.png?auth=922a22db446ca463439390553aaa030623ebcf1d04b028fc83abd3d9c199fcd2&smart=true&width=462&height=260",
+    "fecha": "2026-10-24T03:03:00+00:00",
+    "id": "10169944",
+    "traducida": true,
+    "titulo": "La dieta que los centenarios adoptan de forma natural y que un cardiólogo vincula con llegar a los 110 años",
+    "resumen": "Un cambio progresivo en la alimentación durante la vejez podría explicar, en parte, por qué algunas personas alcanzan edades tan avanzadas. La microbiota juega un papel clave en esa transformación",
+    "categoria": "Nutrición",
+    "slug": "la-dieta-que-los-centenarios-adoptan-de-forma-natural-y-que-un-cardiol-10169944"
+  },
+  {
     "titulo_original": "La paradoja de la vacuna de ARN contra el melanoma: una esperanza médica pese al castigo bursátil",
     "resumen_original": "La oncología mundial está este sábado pendiente del Congreso de la Sociedad Europea de Oncología Médica que se celebra en Madrid. Esta tarde se conocerán datos más precisos de una de las investigaciones más esperadas del año: un amplio estudio con 1.300 pacientes para evaluar la…",
     "idioma": "es",
@@ -13,6 +58,21 @@
     "resumen": "La oncología mundial está este sábado pendiente del Congreso de la Sociedad Europea de Oncología Médica que se celebra en Madrid. Esta tarde se conocerán datos más precisos de una de las investigaciones más esperadas del año: un amplio estudio con 1.300 pacientes para evaluar la…",
     "categoria": "Salud general",
     "slug": "la-paradoja-de-la-vacuna-de-arn-contra-el-melanoma-una-esperanza-medic-6f08339d"
+  },
+  {
+    "titulo_original": "Wie oft Stuhlgang am Tag ist normal? Forscher finden auffälligen Zusammenhang",
+    "resumen_original": "",
+    "idioma": "de",
+    "fuente": "aponet.de",
+    "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUtEbGtkYlBFbkQtQnV2XzhuUkZTbWZRdU5zNVBuZ3dVMHFQbVpzaGp5ZHVUMjBCUFVsMUxlYXExTk9YMWRHZkZyc1FTckx5ZkEwY1NIUWVndFAtem1JbDc0V3M0NEhlcEFjVjNiaml4SDV1NVlLV3RzQnRCU2lQVlp2SlFINTBSbUh4a0owTVV1eWJnM2dNZ3ZMU0s3cWJqZXE0QlllNlFYTG96eHhkdWdadw?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-24T00:04:21+00:00",
+    "id": "7e4ab675",
+    "traducida": true,
+    "titulo": "¿Cuántas deposiciones al día son normales? Los investigadores encuentran una conexión sorprendente",
+    "resumen": "",
+    "categoria": "Salud general",
+    "slug": "cuantas-deposiciones-al-dia-son-normales-los-investigadores-encuentran-7e4ab675"
   },
   {
     "titulo_original": "Eneko Fernández, exfutbolista y ganador de 'MasterChef': «Hago ayuno intermitente e intento cada semana estar 24 horas sin comer»",
@@ -3493,6 +3553,21 @@
     "resumen": "Los hábitos que una persona tenga a los 30 años, 40 o 50 determinarán cómo será su envejecimiento a los 70. Al menos, así lo considera Manuel J. Castillo, presidente del comité científico de la Sociedad Española de Medicina Antienvejecimiento y Longevidad (SEMAL) , quien aseguró…",
     "categoria": "Salud general",
     "slug": "que-dice-la-ciencia-para-desmontar-los-diez-mitos-de-la-longevidad-bc5e9102"
+  },
+  {
+    "titulo_original": "Two Years of Project SPARK: Examining What Happens to LGBTQ+ Youth Mental Health Over Time",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "The Trevor Project",
+    "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcEJlX2dDbzBPQjEzMTR2LU1ybmk3MkVWUTBmUjBlUE1Hc1JQMjdOV1Nia0tPZ1hkZ1JTU3hwVURwZENXYWlyWkp2UHl1OFZuRWpVUzExUjlSODNzWUdHbTlRUmxya2NQNmpnZzNvamsyS0hmNk5ob2dqTTRZT2RTYkx1NHVPZw?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-20T23:09:28+00:00",
+    "id": "0540b435",
+    "traducida": true,
+    "titulo": "Dos años del Proyecto SPARK: Examinando lo que sucede con la salud mental de los jóvenes LGBTQ+ a lo largo del tiempo",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "dos-anos-del-proyecto-spark-examinando-lo-que-sucede-con-la-salud-ment-0540b435"
   },
   {
     "titulo_original": "Lo que reveló un estudio sobre los sueños: el lenguaje usado para contarlos se asoció con síntomas de ansiedad y depresión",
