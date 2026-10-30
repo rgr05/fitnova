@@ -1,5 +1,65 @@
 [
   {
+    "titulo_original": "La ‘proteína de Borges’ muestra cómo aliviar las pérdidas de memoria con la edad",
+    "resumen_original": "Un monumental estudio con millones de moscas demuestra que el mismo tipo de proteínas asociadas a las enfermedades neurodegenerativas interviene en la formación de recuerdos, y apunta a cómo protegerlos a edades avanzadas",
+    "idioma": "es",
+    "fuente": "El País · Ciencia",
+    "enlace": "https://elpais.com/ciencia/2026-10-30/la-proteina-de-borges-muestra-como-aliviar-las-perdidas-de-memoria-con-la-edad.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/7TRPND326ZEU3MDYL2LEKEDHOQ.jpg?auth=17d717bbe8e32ca40b2754d81d2180011343477c0f5e2b1698a34d525d88bca5",
+    "fecha": "2026-10-30T16:12:53+00:00",
+    "id": "b84f3f2b",
+    "traducida": true,
+    "titulo": "La ‘proteína de Borges’ muestra cómo aliviar las pérdidas de memoria con la edad",
+    "resumen": "Un monumental estudio con millones de moscas demuestra que el mismo tipo de proteínas asociadas a las enfermedades neurodegenerativas interviene en la formación de recuerdos, y apunta a cómo protegerlos a edades avanzadas",
+    "categoria": "Salud mental",
+    "slug": "la-proteina-de-borges-muestra-como-aliviar-las-perdidas-de-memoria-con-b84f3f2b"
+  },
+  {
+    "titulo_original": "Desaparecida en el accidente de trenes Marta Shahbazi, una de las científicas españolas más brillantes",
+    "resumen_original": "La investigadora, al mando de un laboratorio propio en Cambridge, iba a recoger un premio a la excelencia en un congreso en Huelva",
+    "idioma": "es",
+    "fuente": "El País · Ciencia",
+    "enlace": "https://elpais.com/ciencia/2026-10-30/desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cientificas-espanolas-mas-brillantes.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/7TEEWVLMDBCNZGFPZVUG3L7B5E.jpg?auth=49079f420f2cf0c34c6144534287291463e81628235383b90f39822cc84262cd",
+    "fecha": "2026-10-30T15:47:01+00:00",
+    "id": "1cc54e36",
+    "traducida": true,
+    "titulo": "Desaparecida en el accidente de trenes Marta Shahbazi, una de las científicas españolas más brillantes",
+    "resumen": "La investigadora, al mando de un laboratorio propio en Cambridge, iba a recoger un premio a la excelencia en un congreso en Huelva",
+    "categoria": "Salud general",
+    "slug": "desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cient-1cc54e36"
+  },
+  {
+    "titulo_original": "Exercício físico em excesso pode afetar a química do cérebro, diz estudo",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "TNH1",
+    "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWlsMUFQdmtOakUwX3BTNUhGYWtVS1ZkZ1E4QmZ3S19XdlhSeUZCZGlNbWNaTlNYSGo1SFNLTldDcHlfS2RBeXZ0TVRqYjdrSE9WNC1LdUhES3kwZWxPOVotd2NjOGlfZEh1N3BPbUR6c1UwYkh6cFBKY2d4WVNwc0N0cVNKMU15UGlKQlA3VnEzbWZtU2ZKVHZLS0x3NzFvQXFycVU5UzhXSF9w0gGnAUFVX3lxTE9LeTVmQWdDVUVPYkN6U19xdC1oOTlMUnZRdHZ1UFVNX3lnT2NCcVh1MzRaazg0SUp6MXdIWWhBUEg2UUF1ZUtGeV9iakYyN0FCLUlKVEVTaHd3SDEyQ2FLWW40SkVuQWlLM2FDaE00LU5xZ3VwVXVHM2ZlWVVnaVlTak1uWVdYX2dJa0R6ajBVRExHOUJkdVJ5RHQ4RHEyYmY5ZjlXZ2NV?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-30T15:37:14+00:00",
+    "id": "9836f2c0",
+    "traducida": true,
+    "titulo": "El ejercicio físico excesivo puede afectar la química del cerebro, según un estudio",
+    "resumen": "",
+    "categoria": "Entrenamiento",
+    "slug": "el-ejercicio-fisico-excesivo-puede-afectar-la-quimica-del-cerebro-segu-9836f2c0"
+  },
+  {
+    "titulo_original": "Caffeina nei bambini e adolescenti: gli effetti su cervello e sonno",
+    "resumen_original": "",
+    "idioma": "it",
+    "fuente": "Il Fatto Alimentare",
+    "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGR5WDBoUHdmR0ZLZTRDTGlkUWd4ZWtFR0tjNkdKMTNnRFF2UlRZMXBHamFJeERfTmNrVWZLbjBVZDdWTXhnWVlHdWtvdlo1eEZVTFdEWDQ0NFhfNlR4WnNxLU0tNml0ZFBxTXludjFmTXdibS1rYWtSZlFYMWZhV09nby1KZw?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-30T15:35:11+00:00",
+    "id": "4a7fd2c4",
+    "traducida": true,
+    "titulo": "Cafeína en niños y adolescentes: efectos sobre el cerebro y el sueño",
+    "resumen": "",
+    "categoria": "Sueño",
+    "slug": "cafeina-en-ninos-y-adolescentes-efectos-sobre-el-cerebro-y-el-sueno-4a7fd2c4"
+  },
+  {
     "titulo_original": "Mittagsschlaf: Neue Studie zeigt überraschendes Gesundheitsrisiko",
     "resumen_original": "",
     "idioma": "de",
@@ -60,6 +120,21 @@
     "slug": "cuantos-abdominales-por-minuto-se-deben-hacer-segun-la-edad-y-que-mide-7f257a17"
   },
   {
+    "titulo_original": "¿Por qué nos da asco la comida en mal estado de forma innata?",
+    "resumen_original": "Basta un olor para que el estómago se encoja antes de que sepamos qué lo provoca. Esa arcada ante un alimento pasado no es un capricho: responde a un circuito cerebral que actúa más rápido que el pensamiento.",
+    "idioma": "es",
+    "fuente": "Muy Interesante · Salud",
+    "enlace": "https://muyinteresante.okdiario.com/salud/por-que-nos-da-asco-la-comida-en-mal-estado-de-forma-innata.html",
+    "imagen": "",
+    "fecha": "2026-10-30T12:01:38+00:00",
+    "id": "90088168",
+    "traducida": true,
+    "titulo": "¿Por qué nos da asco la comida en mal estado de forma innata?",
+    "resumen": "Basta un olor para que el estómago se encoja antes de que sepamos qué lo provoca. Esa arcada ante un alimento pasado no es un capricho: responde a un circuito cerebral que actúa más rápido que el pensamiento.",
+    "categoria": "Nutrición",
+    "slug": "por-que-nos-da-asco-la-comida-en-mal-estado-de-forma-innata-90088168"
+  },
+  {
     "titulo_original": "L'accordo tra HYROX e World Triathlon trasforma l'allenamento ibrido in uno sport olimpico",
     "resumen_original": "",
     "idioma": "it",
@@ -73,6 +148,21 @@
     "resumen": "",
     "categoria": "Entrenamiento",
     "slug": "el-acuerdo-entre-hyrox-y-world-triathlon-transforma-el-entrenamiento-h-deb0f283"
+  },
+  {
+    "titulo_original": "Mehr Gemüse, mehr Testosteron: Was finnische Studie zeigt",
+    "resumen_original": "",
+    "idioma": "de",
+    "fuente": "24vita.de",
+    "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGNBRnoxcTJ0UTZMNEgxOFNSQ0dNWWxGVjVFc3dZRDdWZnVscXptd1NkMjdnYnhNNXVIRW1iZW5EMEhHTzJXSVJuOHhidmtxS1ZfeW9pMDlydWVGRTFlbDNQZjM4czN2WWwxbGZ4RklzUnFDRjZkTnZkUENCQ1BaZlA1Wl9WQ1ZMLV9qdDJoajRLalRkRTA1MVFkaFZsY3JwaEh1TWJ2bldyaEpfZGtQVVNuSQ?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-30T11:17:00+00:00",
+    "id": "472f610d",
+    "traducida": true,
+    "titulo": "Más verduras, más testosterona: lo que muestra un estudio finlandés",
+    "resumen": "",
+    "categoria": "Salud general",
+    "slug": "mas-verduras-mas-testosterona-lo-que-muestra-un-estudio-finlandes-472f610d"
   },
   {
     "titulo_original": "Volveremos a coger trenes como si nada hubiera pasado",
@@ -255,6 +345,21 @@
     "slug": "cuanto-tardan-en-crecer-las-cejas-y-que-cuidados-pueden-contribuir-a-r-14d1313c"
   },
   {
+    "titulo_original": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "NPR",
+    "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0tmbENqSFV4d2NCN2NNUG9hakdWc3F2b1F2OEViWnZCcERZSVRrcVRCZmloY1JWLVhtWG9xRW8wNVVSY0RTTDgtYWxmUWxCakpXdVoyT2ZYM1dSbGdOWVBIbWd5Mm00akJscUh6S1pfRlFoSGYtckNUY2Fqd3cwbDRaQ2gtRURkVEFTc3hfcWJ4X0lzVmE4dm80cXQzM2o4SHc?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-30T09:00:00+00:00",
+    "id": "2765e684",
+    "traducida": true,
+    "titulo": "Casi 2 de cada 3 adolescentes y preadolescentes utilizan chatbots de IA, según muestra una nueva investigación",
+    "resumen": "",
+    "categoria": "Salud general",
+    "slug": "casi-2-de-cada-3-adolescentes-y-preadolescentes-utilizan-chatbots-de-i-2765e684"
+  },
+  {
     "titulo_original": "Alcol: un nuovo studio ribalta le conoscenze finora acquisite",
     "resumen_original": "",
     "idioma": "it",
@@ -268,6 +373,21 @@
     "resumen": "",
     "categoria": "Salud general",
     "slug": "alcohol-un-nuevo-estudio-derriba-los-conocimientos-adquiridos-hasta-ah-1ef9f71b"
+  },
+  {
+    "titulo_original": "Solomon Center Hosts Discussion on Careers in Mental Health Policy",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "Yale Law School",
+    "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXy1lVUw0QXB0aFFERHE5N1JjazBsZDA5OC1KNDdpN3d4dm1tVDZsNnlCZURrc05UNUZvQ2RJd2ctdktKNlRxa0ZRUEwtOFpFaGQwc3g2WG8tR01kc1pqa0x0ano1aFVBMnNwb3RDb2lNNlhEc3M2UDlLMEczOEQyYmNZTXhTaEJOVktLeUtCSWlfSjgzUW04enJpWWo?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-30T08:39:16+00:00",
+    "id": "8c785a6d",
+    "traducida": true,
+    "titulo": "El Centro Solomon organiza un debate sobre carreras en políticas de salud mental",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "el-centro-solomon-organiza-un-debate-sobre-carreras-en-politicas-de-sa-8c785a6d"
   },
   {
     "titulo_original": "Edilizia sicura, salute mentale e diritto allo studio: a Saronno gli studenti tornano in piazza",
@@ -448,6 +568,21 @@
     "resumen": "Esta patología afecta a una de cada cuatro personas en España y obliga a un tercio de los pacientes a abandonar su trabajo, según el barómetro del dolor crónico",
     "categoria": "Salud general",
     "slug": "la-enfermedad-invisible-del-dolor-cronico-24-horas-al-dia-sin-dejar-de-e5ed0f1d"
+  },
+  {
+    "titulo_original": "When nutrition research became a nightmare",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "American Council on Science and Health",
+    "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzlDZWJYWHQ1amhFUHdqeXdjRWlpdGdTM3d6bjZlVmtKYmJqaDdwX0lRR3dsMTVsSUJXMkdfVlkySTRtdzZGd3otWHQ4WHM4M1lzMkFYOVNNMkcwcTJSZTNBd0pSaXZSeWcxaWVKTm5Idjg2UEtnMHRUTldVcWxzR0dnSHMzbHp3X3FB?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-30T04:00:00+00:00",
+    "id": "1b9396ec",
+    "traducida": true,
+    "titulo": "Cuando la investigación sobre nutrición se convirtió en una pesadilla",
+    "resumen": "",
+    "categoria": "Nutrición",
+    "slug": "cuando-la-investigacion-sobre-nutricion-se-convirtio-en-una-pesadilla-1b9396ec"
   },
   {
     "titulo_original": "Lavori di notte in gravidanza? L’impatto sui figli che non ti aspetti",
@@ -928,6 +1063,21 @@
     "resumen": "Aunque suele quedar en segundo plano, esta costumbre podría ser clave para cuidar la salud a largo plazo",
     "categoria": "Sueño",
     "slug": "cual-es-el-habito-de-sueno-que-muchos-descuidan-y-afecta-el-descanso-6f36e3b2"
+  },
+  {
+    "titulo_original": "Pesquisa descobre como parasita da malária reage a hormônio do sono",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "Correio Braziliense",
+    "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcnBQLXg1d2FtOWxzdS1MYmxIdktvR2pTdUhMTGZkU2ZHdzczRlNNY25DVWZJWXM5ZENGeDNCWVVHWFhWcUZVTFdCWlpiM3owel9fWUNBb1ZlN21PTkc2eTFjS2NfOW50dE8wVk9XLXFUajM4NFZDRmJ3b2h1SHpqckJ6S05UcTBZYmhTSldlOFNWaWV5VWxLQVlMR0FfZm1TZjItV2tBRDJXR2JVUVpCc0FwaHJBOHNmaXBHNi1rbmRsMW9MNnhzTTBaU3NLb2ZwMWktZ2xCTzJMQdIB3wFBVV95cUxPOHZPTUg0ZzZGbGJvN2FNMUVCWHN0Zm9NVEUxU1YwZ0d0dXh5RUxKT0dlZUtYT185MlppWnRhYklBM3NKUDJucnB4NzlTVFZMZFIxbkNtOGJzaVlDSHV2cVhRWVl5bE56YVdFb0FxUWk0TG9rT1hkU0pEMmZnZTJUQ2FMRVBUQ2lja2tmSVRYbjRybS1ubkFmanRER1dZeGdxanJVZHUwNEdFTXBqdU9CX1dycmotZWxfcjJ3M2ZRUlAxS3dKVklNRzE1S1RGUXpSRml5LW9PSkM2aURWNTZz?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-29T16:40:00+00:00",
+    "id": "2ccbea61",
+    "traducida": true,
+    "titulo": "Una investigación descubre cómo reacciona el parásito de la malaria a la hormona del sueño",
+    "resumen": "",
+    "categoria": "Sueño",
+    "slug": "una-investigacion-descubre-como-reacciona-el-parasito-de-la-malaria-a-2ccbea61"
   },
   {
     "titulo_original": "Yoga o esercizio? Il trial indiano non rileva vantaggi distinti",
@@ -2908,6 +3058,21 @@
     "resumen": "",
     "categoria": "Salud mental",
     "slug": "investigacion-de-la-ufersa-investiga-los-impactos-de-la-violencia-en-l-29fb2f6c"
+  },
+  {
+    "titulo_original": "Not walking or strength training - study reveals the workout to prioritise after 55 to maintain fitness and balance",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "Woman & Home",
+    "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hTWZXZ3loN0EtTDA0U0pGem1oUkhEU3RnSTkyNVBLRUJKLUtEZXlVdzdJQXVHVjNiS3dOUFNWRm1mQXBGVEZTRTE3ZTdoWE5FQUtWSG1yZkhWcHhJYzNUNjNNenhmOV9EUjNRdDZmX2dINUVhd3k4T0FWMkZQZw?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-27T19:00:00+00:00",
+    "id": "95ee7cfd",
+    "traducida": true,
+    "titulo": "No caminar ni hacer entrenamiento de fuerza: un estudio revela el entrenamiento a priorizar después de los 55 años para mantener la forma física y el equilibrio",
+    "resumen": "",
+    "categoria": "Entrenamiento",
+    "slug": "no-caminar-ni-hacer-entrenamiento-de-fuerza-un-estudio-revela-el-entre-95ee7cfd"
   },
   {
     "titulo_original": "Aranhas podem sonhar? Estudo encontra sinais de sono semelhantes aos dos humanos",
@@ -29858,31 +30023,6 @@
       "ten_en_cuenta": "La entradilla no indica el tamaño de la muestra, el diseño ni si se trata de una asociación o de una causa, y no explica cómo se midieron los rasgos. Un hallazgo de imagen cerebral de este tipo no sirve para diagnosticar a nadie ni tiene consecuencias prácticas para el cuidado personal."
     },
     "puntuacion": 3,
-    "procesada_ia": true,
-    "version_ia": 2
-  },
-  {
-    "titulo_original": "The creepy feeling in old buildings might have a surprising cause",
-    "resumen_original": "A hidden force may be quietly shaping how you feel—and you’d never even know it. Infrasound, an ultra-low-frequency vibration below the range of human hearing, is everywhere from traffic to old buildings. In a small experiment, people exposed to it became more irritable, less…",
-    "idioma": "en",
-    "fuente": "ScienceDaily · Salud mental",
-    "enlace": "https://www.sciencedaily.com/releases/2026/05/260502233901.htm",
-    "imagen": "",
-    "fecha": "2026-05-03T15:27:24+00:00",
-    "id": "00b2a5af",
-    "traducida": true,
-    "titulo": "Los infrasonidos, vibraciones que no oímos, podrían alterar el ánimo según un pequeño experimento",
-    "resumen": "Un pequeño experimento sugiere que exponerse a infrasonidos, vibraciones por debajo del rango auditivo humano, puede hacer a las personas más irritables. La noticia original no da más detalles.",
-    "categoria": "Salud mental",
-    "slug": "la-sensacion-espeluznante-en-los-edificios-antiguos-podria-tener-una-c-00b2a5af",
-    "tipo_estudio": "ensayo en humanos",
-    "relevante": true,
-    "explicacion": {
-      "que_dice": "La noticia describe un pequeño experimento en el que personas expuestas a infrasonidos, vibraciones ultrabajas que no se perciben al oír, se volvieron más irritables. Según el texto, estos infrasonidos están presentes en el tráfico y en edificios antiguos. La entradilla aparece cortada y la noticia original no ofrece más detalles sobre el resultado ni sobre el diseño del experimento.",
-      "contexto": "Los infrasonidos son sonidos de frecuencia tan baja que no los percibimos como tales, aunque sí pueden generar sensaciones físicas y son habituales en entornos urbanos e industriales. La investigación sobre sus efectos en la salud y el bienestar es todavía limitada, y sus resultados no son concluyentes. Por eso conviene tomar con cautela cualquier relación con el malestar o la inquietud que a veces se atribuye a determinados lugares.",
-      "ten_en_cuenta": "Se trata de un experimento pequeño, sin cifras ni detalles metodológicos en la noticia, por lo que no permite extraer conclusiones firmes. Un único estudio de este tipo no demuestra que los infrasonidos cotidianos afecten al ánimo de la población general."
-    },
-    "puntuacion": 4,
     "procesada_ia": true,
     "version_ia": 2
   }
