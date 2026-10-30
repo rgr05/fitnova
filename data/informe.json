@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-30T09:03:47.512092+00:00",
+  "fecha": "2026-10-30T13:07:53.512798+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -23,27 +23,26 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 1689,
-  "noticias_publicadas": 1600,
+  "noticias_en_archivo": 1712,
+  "noticias_publicadas": 1623,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgY9nKFFfc9Xz266Vq1GW'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgY9ngZf8ncZ2Le4PSmuk'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgY9nhzUp7UsbmbpUGFTK'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgYUQ2bypMAn8iuCDrMzC'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgYUQAyXiGctPSK84YFuo'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgYUQF1NLqZGdCWBYcKr7'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 13,
-  "pendientes": 1268,
+  "traducidas_ahora": 24,
+  "pendientes": 1291,
   "traducidas_por_servicio": {
-    "google": 0,
-    "mymemory": 3
+    "google": 11,
+    "mymemory": 1
   },
   "errores_de_traduccion": [
-    "google: HTTPError: HTTP Error 429: Too Many Requests",
-    "mymemory: TypeError: argument of type 'NoneType' is not iterable"
+    "google: HTTPError: HTTP Error 500: Internal Server Error"
   ]
 }
