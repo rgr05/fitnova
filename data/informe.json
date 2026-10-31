@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-10-31T08:53:22.951123+00:00",
+  "fecha": "2026-10-31T12:59:21.928726+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -11,7 +11,7 @@
     "El País · Ciencia": 15,
     "El Mundo · Salud": 15,
     "ABC · Salud": 15,
-    "ABC · Bienestar": 0,
+    "ABC · Bienestar": 15,
     "EFE Salud": 15,
     "Infobae · Salud": 15,
     "The Conversation España": 15,
@@ -23,23 +23,23 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 1760,
-  "noticias_publicadas": 1671,
+  "noticias_en_archivo": 1769,
+  "noticias_publicadas": 1680,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cga2p7nRswcSh9Js4jH2Q'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cga2p9JTgKgSGEtG1HFFB'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cga2pAoVvK5zpgLCQsmfk'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgaMZjTKwQLnT2JLEdCf8'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgaMZm8HagtZFVVMyiB4H'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgaMZtATMnDkfgNsR2HD5'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 11,
-  "pendientes": 1340,
+  "traducidas_ahora": 9,
+  "pendientes": 1349,
   "traducidas_por_servicio": {
-    "google": 3,
+    "google": 6,
     "mymemory": 0
   },
   "errores_de_traduccion": []
