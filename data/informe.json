@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-02T17:15:06.262653+00:00",
+  "fecha": "2026-11-02T20:54:29.873048+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -23,26 +23,26 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 1893,
-  "noticias_publicadas": 1804,
+  "noticias_en_archivo": 1909,
+  "noticias_publicadas": 1820,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgeUgGg3UT8iChK2mvcZY'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgeUgJPEPRvhFbNXKyi4x'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgeUgL4SL1C5gmHCgGaPP'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgemQwEos5nx5DnnzoqEs'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgemQxwWT8bYwWjCNvcS4'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgemQzewVM7Ff2L4eynYC'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 17,
-  "pendientes": 1473,
+  "traducidas_ahora": 16,
+  "pendientes": 1489,
   "traducidas_por_servicio": {
-    "google": 10,
-    "mymemory": 1
+    "google": 0,
+    "mymemory": 5
   },
   "errores_de_traduccion": [
-    "google: HTTPError: HTTP Error 500: Internal Server Error"
+    "google: HTTPError: HTTP Error 429: Too Many Requests"
   ]
 }

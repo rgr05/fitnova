@@ -1,5 +1,65 @@
 [
   {
+    "titulo_original": "El mapa del bienestar en Argentina: qué provincias registran los mejores y peores indicadores de salud y educación",
+    "resumen_original": "El Programa de las Naciones Unidas para el Desarrollo (PNUD) presentó una plataforma interactiva que examina el desarrollo humano de cada distrito en el territorio nacional. La herramienta busca visibilizar las brechas locales y ofrecer un diagnóstico sobre las condiciones de…",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/tendencias/2026/11/02/el-mapa-del-bienestar-en-argentina-que-provincias-registran-los-mejores-y-peores-indicadores-de-salud-y-educacion/",
+    "imagen": "https://www.infobae.com/resizer/v2/RBYN3HIPJBGWTDXVF5IU3ZWLRI.png?auth=78c65d0d943529d50e82a20d32c7ffd75a7106b441a65d8140f1a08f27e689f5&smart=true&width=1408&height=768",
+    "fecha": "2026-11-02T20:24:50+00:00",
+    "id": "9f3a6b69",
+    "traducida": true,
+    "titulo": "El mapa del bienestar en Argentina: qué provincias registran los mejores y peores indicadores de salud y educación",
+    "resumen": "El Programa de las Naciones Unidas para el Desarrollo (PNUD) presentó una plataforma interactiva que examina el desarrollo humano de cada distrito en el territorio nacional. La herramienta busca visibilizar las brechas locales y ofrecer un diagnóstico sobre las condiciones de…",
+    "categoria": "Salud general",
+    "slug": "el-mapa-del-bienestar-en-argentina-que-provincias-registran-los-mejore-9f3a6b69"
+  },
+  {
+    "titulo_original": "¿Cómo superar el duelo y la culpa?: “No es lo mismo verlo de lejos que vivirlo”",
+    "resumen_original": "La terapeuta Yuli de Sosa y el sacerdote Edwin Baños describieron cómo el resentimiento y la culpa pueden prolongarse años después de una pérdida. La muerte por suicidio, señalaron, deja preguntas que difícilmente se silencian",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/el-salvador/2026/11/02/como-superar-el-duelo-y-la-culpa-no-es-lo-mismo-verlo-de-lejos-que-vivirlo/",
+    "imagen": "https://www.infobae.com/resizer/v2/DZPX7CJQ4FDWZHNML35IQCUMJE.JPG?auth=beabfbf61accd345675547a4c486815843e3e1740c5050c1760b1cebb65d6514&smart=true&width=5152&height=3440",
+    "fecha": "2026-11-02T19:35:11+00:00",
+    "id": "a109365e",
+    "traducida": true,
+    "titulo": "¿Cómo superar el duelo y la culpa?: “No es lo mismo verlo de lejos que vivirlo”",
+    "resumen": "La terapeuta Yuli de Sosa y el sacerdote Edwin Baños describieron cómo el resentimiento y la culpa pueden prolongarse años después de una pérdida. La muerte por suicidio, señalaron, deja preguntas que difícilmente se silencian",
+    "categoria": "Salud general",
+    "slug": "como-superar-el-duelo-y-la-culpa-no-es-lo-mismo-verlo-de-lejos-que-viv-a109365e"
+  },
+  {
+    "titulo_original": "ASN: los inhibidores del SGLT2 benefician a los mayores con enfermedad renal crónica",
+    "resumen_original": "Healthday Spanish",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/salud/2026/11/02/asn-los-inhibidores-del-sglt2-benefician-a-los-mayores-con-enfermedad-renal-cronica/",
+    "imagen": "https://www.infobae.com/resizer/v2/7NIWWCGGUZAUHPD34FRPVLAR3E.jpg?auth=5032395ff54cb3af6022b1f6f817858c64eb3225cc17b211e7888d56f5e7e084&smart=true&width=1200&height=725",
+    "fecha": "2026-11-02T17:30:29+00:00",
+    "id": "4da53805",
+    "traducida": true,
+    "titulo": "ASN: los inhibidores del SGLT2 benefician a los mayores con enfermedad renal crónica",
+    "resumen": "Healthday Spanish",
+    "categoria": "Salud general",
+    "slug": "asn-los-inhibidores-del-sglt2-benefician-a-los-mayores-con-enfermedad-4da53805"
+  },
+  {
+    "titulo_original": "Publican recomendaciones para el tratamiento de la colangitis biliar primaria",
+    "resumen_original": "Healthday Spanish",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/salud/2026/11/02/publican-recomendaciones-para-el-tratamiento-de-la-colangitis-biliar-primaria/",
+    "imagen": "https://www.infobae.com/resizer/v2/F353EAYNCNCPREBM6QCH7CCIVU.jpg?auth=d66b351efab64c0da1073bf2f8696986f04f99ebc1a33fe4398010e2064411ac&smart=true&width=1200&height=799",
+    "fecha": "2026-11-02T17:15:26+00:00",
+    "id": "617b6a26",
+    "traducida": true,
+    "titulo": "Publican recomendaciones para el tratamiento de la colangitis biliar primaria",
+    "resumen": "Healthday Spanish",
+    "categoria": "Salud general",
+    "slug": "publican-recomendaciones-para-el-tratamiento-de-la-colangitis-biliar-p-617b6a26"
+  },
+  {
     "titulo_original": "Reme Navarro, nutricionista: «Si duermes del lado derecho, lo estás haciendo mal»",
     "resumen_original": "Dormir es una actividad fundamental para el bienestar físico y mental , que va más allá de simplemente descansar. Durante el sueño, nuestro cuerpo realiza procesos esenciales como la reparación de tejidos, la consolidación de la memoria y la regulación de hormonas que controlan…",
     "idioma": "es",
@@ -13,6 +73,21 @@
     "resumen": "Dormir es una actividad fundamental para el bienestar físico y mental , que va más allá de simplemente descansar. Durante el sueño, nuestro cuerpo realiza procesos esenciales como la reparación de tejidos, la consolidación de la memoria y la regulación de hormonas que controlan…",
     "categoria": "Sueño",
     "slug": "reme-navarro-nutricionista-si-duermes-del-lado-derecho-lo-estas-hacien-1178bf0b"
+  },
+  {
+    "titulo_original": "Wie ernährt sich Deutschland? Max-Rubner-Institut wählt Lachendorf für Studie aus",
+    "resumen_original": "",
+    "idioma": "de",
+    "fuente": "Cellesche Zeitung",
+    "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc1pVMTdCaU1VUC0wSTZOSlY4bkdWZEoyWHpLSjRlalBxQ2NrRWUwTjlWcWJ2ZW16ZEkzUk5TQTFjTzBQTFJSTl83TG1qTThxMkJTV1Vzel9NemRRdEZVcFJfdEM2MlpSdFpaYXBVOFpyNWJBclV0VFlvQkltdThDaVprUkpINjJNTjNpUGRmdk1xaVFRd0ZlWjJNNWN6YXBmblBHaDRjRkJVcG5Tb2lhcjJ1RmhqWEdEQTVKNll3ejR0UlhPWFFQYjNrVm0xalBLN1VJdWZjZjRXZ1lwTkpSYjA0STZ2dmJydHdYOVlOMmVDRnlMOUIw0gGTAkFVX3lxTFAtZ2l1Mlp6QTNYYUVBX1hQZDNsLV9jaF9sNkN2Z2tmZjFvTGRZZXl2VnlvVzlWc09vMDg3T2xKelNEVGVaMkZKYlRfSHNKM2F3NzdHWWxNb0FBNktLUWNZVjB0akhKWkJaVHVlYW1seFFvX0VXT0o1aUZZcXREem84QlpoWFl5bHFkczUxUlZHbi1LMm5lMV9VZGtMaU5xNnZrTU1HRUI4ajJuTkhkX1FBSHRLaEVOdThSaG4yUHhSbzR2LTFqUmlEM0N0NlRQN1pTX0pJd1k3R05VTWg4Zkd2a1lhbXIxcUVHMUI5WDRNVVZnMkNKVy1PQ2lIZDlrZzVZSUJXbU1lc0JGd1hkeXBEMFRz?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-02T16:59:00+00:00",
+    "id": "5429f147",
+    "traducida": true,
+    "titulo": "¿Cómo se alimenta Alemania? El Instituto Max Rubner selecciona a Lachendorf para su estudio",
+    "resumen": "",
+    "categoria": "Salud general",
+    "slug": "como-se-alimenta-alemania-el-instituto-max-rubner-selecciona-a-lachend-5429f147"
   },
   {
     "titulo_original": "La cirugía laparoscópica de las metástasis hepáticas colorrectales provoca menos complicaciones posoperatorias que la cirugía abierta",
@@ -90,6 +165,21 @@
     "slug": "la-insolita-historia-del-toro-aquiles-y-el-burro-patroclo-sexo-caricia-a840bb92"
   },
   {
+    "titulo_original": "El cáncer de cuello uterino matará a más de medio millón de mujeres en el mundo en 2050",
+    "resumen_original": "El crecimiento y el envejecimiento de la población femenina harán que este tumor siga aumentando en las próximas décadas, a pesar de la eficacia de las vacunas y los cribados. El mayor estudio global sobre este cáncer sitúa a España con una de las tasas de incidencia y…",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/02/6ae892af21efa01e2b8b4596.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936338860680.jpg",
+    "fecha": "2026-11-02T16:00:00+00:00",
+    "id": "c53a0b13",
+    "traducida": true,
+    "titulo": "El cáncer de cuello uterino matará a más de medio millón de mujeres en el mundo en 2050",
+    "resumen": "El crecimiento y el envejecimiento de la población femenina harán que este tumor siga aumentando en las próximas décadas, a pesar de la eficacia de las vacunas y los cribados. El mayor estudio global sobre este cáncer sitúa a España con una de las tasas de incidencia y…",
+    "categoria": "Salud general",
+    "slug": "el-cancer-de-cuello-uterino-matara-a-mas-de-medio-millon-de-mujeres-en-c53a0b13"
+  },
+  {
     "titulo_original": "Anemia, ferropenia y déficit de hierro: cómo identificar cada una y cuáles son sus consecuencias",
     "resumen_original": "La falta de este mineral puede avanzar sin síntomas hasta afectar la producción de glóbulos rojos y el transporte de oxígeno. Qué valores permiten detectarla",
     "idioma": "es",
@@ -103,6 +193,21 @@
     "resumen": "La falta de este mineral puede avanzar sin síntomas hasta afectar la producción de glóbulos rojos y el transporte de oxígeno. Qué valores permiten detectarla",
     "categoria": "Salud general",
     "slug": "anemia-ferropenia-y-deficit-de-hierro-como-identificar-cada-una-y-cual-f52b6160"
+  },
+  {
+    "titulo_original": "WashU Expert: Addressing the youth mental health crisis",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "WashU",
+    "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmdqQXROYkYyWGxEQjMzOHB3aURhM1o4T3BFQ2FwS2tGRGFHV2U2dEs1TFl6Z0EzV0xMLTJKQUpZcFE4VUs1bm5DT1NUa3VNXzFSTzA2YWhQVGNfOTFjb21famppbnBNOXhEaXdBWnBhSzA0ZVBQZW1HRHhKZXd1T0NxaFpxbmtjZS1YbC1ScElzQQ?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-02T15:41:10+00:00",
+    "id": "bfe98b28",
+    "traducida": true,
+    "titulo": "Experto de WashU: abordando la crisis de salud mental juvenil",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "experto-de-washu-abordando-la-crisis-de-salud-mental-juvenil-bfe98b28"
   },
   {
     "titulo_original": "Las personas que sufren un infarto en zonas rurales tienen casi el triple de probabilidades de morir antes de llegar al hospital",
@@ -165,6 +270,36 @@
     "slug": "mas-de-la-cuarta-parte-de-los-estadounidenses-miente-para-conseguir-an-b669be2e"
   },
   {
+    "titulo_original": "La Agencia del Medicamento de EEUU aprueba una versión genérica de un tratamiento preventivo contra el VIH",
+    "resumen_original": "Se espera que el coste de 40 dólares al año por paciente del lenacapavir genérico facilite la prevención en países de ingresos bajos y medios Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/02/6ae8a186e85ece475a8b4578.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936314534859.jpg",
+    "fecha": "2026-11-02T15:01:43+00:00",
+    "id": "70429019",
+    "traducida": true,
+    "titulo": "La Agencia del Medicamento de EEUU aprueba una versión genérica de un tratamiento preventivo contra el VIH",
+    "resumen": "Se espera que el coste de 40 dólares al año por paciente del lenacapavir genérico facilite la prevención en países de ingresos bajos y medios Leer",
+    "categoria": "Salud general",
+    "slug": "la-agencia-del-medicamento-de-eeuu-aprueba-una-version-generica-de-un-70429019"
+  },
+  {
+    "titulo_original": "Study Reveals Concerning Trends in Global Mental Health",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "Columbia University Mailman School of Public Health",
+    "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdldQWHEyanFUTDJYUklQWVNmVm9SSjBMUm1xckVnTVZVZVI1N2FFSVlCTDd6N1lBdVZBU0VmXzR0bTdvQmdJT2NfWWN1SGlWNHMtSzNPdVlQNWRYS0prN1A5UW9sXy1WbjdSS0MtUm5WZnRkbDQ1NEwxUENtNWdHMENwXzNHc3hKT294SXUxcHJId2RxNk5GWFdLWQ?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-02T14:02:07+00:00",
+    "id": "09562f42",
+    "traducida": true,
+    "titulo": "Un estudio revela las tendencias de la salud mental a nivel mundial",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "un-estudio-revela-las-tendencias-de-la-salud-mental-a-nivel-mundial-09562f42"
+  },
+  {
     "titulo_original": "Extra weight may be aging your brain faster than you think",
     "resumen_original": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns…",
     "idioma": "en",
@@ -208,6 +343,21 @@
     "resumen": "",
     "categoria": "Nutrición",
     "slug": "el-tofu-es-elegido-la-mejor-fuente-de-proteinas-en-un-estudio-sobre-nu-8de3a0b1"
+  },
+  {
+    "titulo_original": "Activan una alerta europea grave tras intoxicarse nueve personas con norovirus en Tarragona al comer navajas contaminadas",
+    "resumen_original": "La alerta ha sido tramitada a través de las autoridades de Cataluña y la Agencia Española de Seguridad Alimentaria y Nutrición. Como medida de prevención, se ha ordenado la retirada del producto afectado de los canales de comercialización Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/02/6ae88530e85ece7b5a8b459f.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936233239281.jpg",
+    "fecha": "2026-11-02T12:42:30+00:00",
+    "id": "d54a3f6b",
+    "traducida": true,
+    "titulo": "Activan una alerta europea grave tras intoxicarse nueve personas con norovirus en Tarragona al comer navajas contaminadas",
+    "resumen": "La alerta ha sido tramitada a través de las autoridades de Cataluña y la Agencia Española de Seguridad Alimentaria y Nutrición. Como medida de prevención, se ha ordenado la retirada del producto afectado de los canales de comercialización Leer",
+    "categoria": "Nutrición",
+    "slug": "activan-una-alerta-europea-grave-tras-intoxicarse-nueve-personas-con-n-d54a3f6b"
   },
   {
     "titulo_original": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
@@ -585,6 +735,21 @@
     "slug": "incluso-el-consumo-moderado-de-alcohol-esta-relacionado-con-el-cancer-d3bb11c4"
   },
   {
+    "titulo_original": "En marge des institutions : les enjeux de représentations des lieux d’exercice du pouvoir (Campus Condorcet, Aubervilliers)",
+    "resumen_original": "",
+    "idioma": "fr",
+    "fuente": "Fabula, la recherche en littérature",
+    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjkxZGtuNENDNG9GU1BGNV8wR0Fkd0FzallOcnlsdEtITGRFNEpyNGZEd1RMXzNpUU1ET1RSTWlSZmpUejhvUERRRlVXbndJa0RUVlhWNlN2VmtvYVNjZW1rekZxQ0tRbzk2bnVabHZYZmcwMWVKVE8wWHFQbkNsVXp0eWxWMWNFdnFkQ1VDa3B0OWFKWmItc1pNdERaZTJ4LW5iUDNEenE?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-02T04:01:00+00:00",
+    "id": "901b2356",
+    "traducida": true,
+    "titulo": "Al margen de las instituciones: los desafíos de las representaciones de los lugares de ejercicio del poder (Campus Condorcet, Aubervilliers)",
+    "resumen": "",
+    "categoria": "Entrenamiento",
+    "slug": "al-margen-de-las-instituciones-los-desafios-de-las-representaciones-de-901b2356"
+  },
+  {
     "titulo_original": "Ce fruit riche en vitamine C pourrait vous aider à mieux dormir, selon une étude",
     "resumen_original": "",
     "idioma": "fr",
@@ -765,6 +930,21 @@
     "slug": "una-noche-corta-no-tiene-el-mismo-impacto-segun-la-edad-7145f90e"
   },
   {
+    "titulo_original": "Atrapados en su mente: diseñan un software que permite comunicarse a pacientes de la UCI que parecían estar en coma",
+    "resumen_original": "Un algoritmo desarrollado en la Universidad de Columbia logra que pacientes inmóviles y sin respuesta física regulen el pitido de una máquina. La idea es evolucionar el sistema para que transmita necesidades básicas como hambre o dolor Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/01/6ade59ade9cf4a41288b4592.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935535622970.jpg",
+    "fecha": "2026-11-01T21:43:38+00:00",
+    "id": "83e62fa5",
+    "traducida": true,
+    "titulo": "Atrapados en su mente: diseñan un software que permite comunicarse a pacientes de la UCI que parecían estar en coma",
+    "resumen": "Un algoritmo desarrollado en la Universidad de Columbia logra que pacientes inmóviles y sin respuesta física regulen el pitido de una máquina. La idea es evolucionar el sistema para que transmita necesidades básicas como hambre o dolor Leer",
+    "categoria": "Salud general",
+    "slug": "atrapados-en-su-mente-disenan-un-software-que-permite-comunicarse-a-pa-83e62fa5"
+  },
+  {
     "titulo_original": "Sonno e umore: cosa mostra lo studio su 240 donne",
     "resumen_original": "",
     "idioma": "it",
@@ -943,6 +1123,36 @@
     "resumen": "",
     "categoria": "Salud mental",
     "slug": "puede-la-creatina-ayudar-a-tu-salud-mental-520916f9"
+  },
+  {
+    "titulo_original": "Las alergias no solo son primaverales: así puede prevenir las del otoño",
+    "resumen_original": "Más de tres millones de personas se enfrentan de nuevo en esta época del año a los síntomas de la alergia. Además del polen tardío, la humedad hace 'florecer' a hongos y ácaros del polvo Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/01/6ae473d1e4d4d8764a8b457a.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933717887768.jpg",
+    "fecha": "2026-11-01T11:45:06+00:00",
+    "id": "84abfddd",
+    "traducida": true,
+    "titulo": "Las alergias no solo son primaverales: así puede prevenir las del otoño",
+    "resumen": "Más de tres millones de personas se enfrentan de nuevo en esta época del año a los síntomas de la alergia. Además del polen tardío, la humedad hace 'florecer' a hongos y ácaros del polvo Leer",
+    "categoria": "Salud general",
+    "slug": "las-alergias-no-solo-son-primaverales-asi-puede-prevenir-las-del-otono-84abfddd"
+  },
+  {
+    "titulo_original": "'Caña', enfermo de ELA, y su esposa Andrea: \"Vamos a ser papás\"",
+    "resumen_original": "Antonio Cañaveral, diagnosticado en 2022, ha recuperado su voz gracias a la inteligencia artificial y espera su primer hijo, concebido mediante fecundación 'in vitro' Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/01/6ae72283e9cf4a925b8b456e.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935329071338.jpg",
+    "fecha": "2026-11-01T11:36:59+00:00",
+    "id": "85fb5cb1",
+    "traducida": true,
+    "titulo": "'Caña', enfermo de ELA, y su esposa Andrea: \"Vamos a ser papás\"",
+    "resumen": "Antonio Cañaveral, diagnosticado en 2022, ha recuperado su voz gracias a la inteligencia artificial y espera su primer hijo, concebido mediante fecundación 'in vitro' Leer",
+    "categoria": "Salud general",
+    "slug": "cana-enfermo-de-ela-y-su-esposa-andrea-vamos-a-ser-papas-85fb5cb1"
   },
   {
     "titulo_original": "Qué ejercicios pueden mejorar el ánimo durante la menopausia",
@@ -1185,6 +1395,21 @@
     "slug": "hoy-es-el-dia-mundial-del-vegano-los-frijoles-el-tofu-y-la-quinua-supe-42bfa53b"
   },
   {
+    "titulo_original": "Stéphane Bancel, CEO de Moderna: \"Trabajamos en una vacuna preventiva contra el cáncer provocado por síndrome de Lynch\"",
+    "resumen_original": "El CEO de Moderna aborda el abanico de soluciones basadas en ARN más allá de los recientes resultados positivos en melanoma Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/01/6ae4b411e9cf4ab6778b4597.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933731932085.jpg",
+    "fecha": "2026-11-01T01:24:44+00:00",
+    "id": "b1e9d4d5",
+    "traducida": true,
+    "titulo": "Stéphane Bancel, CEO de Moderna: \"Trabajamos en una vacuna preventiva contra el cáncer provocado por síndrome de Lynch\"",
+    "resumen": "El CEO de Moderna aborda el abanico de soluciones basadas en ARN más allá de los recientes resultados positivos en melanoma Leer",
+    "categoria": "Salud general",
+    "slug": "stephane-bancel-ceo-de-moderna-trabajamos-en-una-vacuna-preventiva-con-b1e9d4d5"
+  },
+  {
     "titulo_original": "Más de 40 y sin experiencia con pesas: tres claves para empezar a entrenar fuerza",
     "resumen_original": "Ejercicios básicos, dos sesiones semanales y una carga acorde al nivel inicial pueden ayudar a mejorar movilidad, salud ósea y autonomía",
     "idioma": "es",
@@ -1303,6 +1528,21 @@
     "resumen": "Especialistas explican cómo este ingrediente puede influir en los niveles de glucosa después de comidas ricas en carbohidratos, qué factores condicionan sus posibles beneficios y cuáles son las precauciones para consumirlo",
     "categoria": "Nutrición",
     "slug": "que-efecto-tiene-una-cucharada-de-vinagre-de-manzana-sobre-el-azucar-e-4b8adc7e"
+  },
+  {
+    "titulo_original": "Excesso de Treino Desregula Química do Cérebro: Estudo da USP Revela Impacto na Dopamina e Alerta para Riscos à Saúde Mental",
+    "resumen_original": "",
+    "idioma": "pt",
+    "fuente": "jornaldearuja.com",
+    "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHJ0R0dTU0RIM19TTkdnLVNQN3JFWU5kbHhINWR2ZkJkcjhjZlZoWXBoWWh1d0JyVW9oZWJfcHBnbHdzTHhRejVNQlBHbnBUQXFNZEpVVUdidldNam12VF9rSVl0UU5SQlhfNmlmSE1uYi1NazBYWmNwQ2JkaWItWjhteWw3cGU2dWJPMFJzMVpZaDkwYU5pa05UaTlhcXVsOTRRWjdkMjZoWVFDY2t5d2RDUUNyQnNISnVkQVR1M0x5T3NTV1UyRmNOWUtsSllOTUVpOWxMNU1ZNVZZakg4alpPMXU?oc=5",
+    "imagen": "",
+    "fecha": "2026-10-31T17:56:36+00:00",
+    "id": "ff965559",
+    "traducida": true,
+    "titulo": "El sobreentrenamiento desregula la química cerebral: un estudio de la USP revela un impacto en la dopamina y alerta sobre los riesgos para la salud mental",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "el-sobreentrenamiento-desregula-la-quimica-cerebral-un-estudio-de-la-u-ff965559"
   },
   {
     "titulo_original": "Ce fruit d’automne aiderait à s’endormir plus vite, si vous le consommez bien",
