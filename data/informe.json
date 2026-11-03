@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-03T05:04:54.316627+00:00",
+  "fecha": "2026-11-03T09:02:46.286270+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -23,26 +23,27 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 1932,
-  "noticias_publicadas": 1843,
+  "noticias_en_archivo": 1940,
+  "noticias_publicadas": 1851,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgfQokJwWnYkvjHgoZHxQ'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgfQomi2hPVCGACjN9a12'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgfQoo6sAqeXVn1BD1h8x'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgfivgR56nVjggTtojJNz'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgfiw8mbR42V4Vi94Mm3Z'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgfiwNSrfXfpXZmz6WB1n'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 11,
-  "pendientes": 1512,
+  "traducidas_ahora": 5,
+  "pendientes": 1520,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 6
+    "mymemory": 2
   },
   "errores_de_traduccion": [
-    "google: HTTPError: HTTP Error 429: Too Many Requests"
+    "google: HTTPError: HTTP Error 429: Too Many Requests",
+    "mymemory: TypeError: argument of type 'NoneType' is not iterable"
   ]
 }
