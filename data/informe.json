@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-03T09:02:46.286270+00:00",
+  "fecha": "2026-11-03T13:17:29.895087+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -23,27 +23,26 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 1940,
-  "noticias_publicadas": 1851,
+  "noticias_en_archivo": 1964,
+  "noticias_publicadas": 1875,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgfivgR56nVjggTtojJNz'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgfiw8mbR42V4Vi94Mm3Z'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgfiwNSrfXfpXZmz6WB1n'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgg4MbmwC9zaSKrM87Jpd'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgg4MdQuDiugu5HwtLJUj'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgg4Mf19bhTQ7FGZFfHRE'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 5,
-  "pendientes": 1520,
+  "traducidas_ahora": 27,
+  "pendientes": 1544,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 2
+    "mymemory": 13
   },
   "errores_de_traduccion": [
-    "google: HTTPError: HTTP Error 429: Too Many Requests",
-    "mymemory: TypeError: argument of type 'NoneType' is not iterable"
+    "google: HTTPError: HTTP Error 429: Too Many Requests"
   ]
 }
