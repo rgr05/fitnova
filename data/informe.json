@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-04T09:07:13.611319+00:00",
+  "fecha": "2026-11-04T13:18:14.765265+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -23,27 +23,24 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 2033,
-  "noticias_publicadas": 1944,
+  "noticias_en_archivo": 2044,
+  "noticias_publicadas": 1955,
   "descartadas_por_ia": 89,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cghd6ZLWzGTKVfxwhfiMz'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cghd6akqbGWvjRyxTDKtq'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cghd6c9vXEVkwRsH3VEjD'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CghxF363ZaSzmEN1KgCyS'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CghxF4gJSEzBxqkaE6prc'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CghxF6BLeMsWUwHBqa494'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 9,
-  "pendientes": 1613,
+  "traducidas_ahora": 12,
+  "pendientes": 1624,
   "traducidas_por_servicio": {
-    "google": 0,
-    "mymemory": 2
+    "google": 6,
+    "mymemory": 0
   },
-  "errores_de_traduccion": [
-    "google: HTTPError: HTTP Error 429: Too Many Requests",
-    "mymemory: TypeError: argument of type 'NoneType' is not iterable"
-  ]
+  "errores_de_traduccion": []
 }
