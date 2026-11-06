@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-06T17:02:33.170871+00:00",
+  "fecha": "2026-11-06T20:56:26.174267+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -10,7 +10,7 @@
     "El País · Salud y bienestar": 15,
     "El País · Ciencia": 15,
     "El Mundo · Salud": 15,
-    "ABC · Salud": 0,
+    "ABC · Salud": 15,
     "ABC · Bienestar": 15,
     "EFE Salud": 15,
     "Infobae · Salud": 15,
@@ -23,24 +23,24 @@
     "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 2212,
-  "noticias_publicadas": 2124,
+  "noticias_en_archivo": 2218,
+  "noticias_publicadas": 2130,
   "descartadas_por_ia": 88,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgn2xqbeopzm7xgWiD8zK'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgn2y1D6VWCg5oXuETUNw'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgn2y2sonTW8w6J7FBZwN'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgnLoRacgprVz4ojKxKoS'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgnLoaqVKbsdeW8Jdyajf'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgnLocXSPw2S8DhVvi6XV'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 11,
-  "pendientes": 1793,
+  "traducidas_ahora": 6,
+  "pendientes": 1799,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 5
+    "mymemory": 4
   },
   "errores_de_traduccion": [
     "google: HTTPError: HTTP Error 429: Too Many Requests"
