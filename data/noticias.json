@@ -1,5 +1,50 @@
 [
   {
+    "titulo_original": "Roberto Espinosa, físico: «La luz roja no es una solución milagrosa, pero tampoco una moda sin fundamento»",
+    "resumen_original": "«Mucha luz durante el día, poca luz durante la noche y oscuridad para dormir». La luz roja está de moda. Paneles, mascarillas y dispositivos prometen más energía, mejor piel, menos dolor y una recuperación más rápida. Pero, entre tanto entusiasmo, ¿qué dice realmente la ciencia?…",
+    "idioma": "es",
+    "fuente": "ABC · Bienestar",
+    "enlace": "https://www.abc.es/bienestar/roberto-espinosa-experto-luz-roja-problema-recibir-20261107100000-nt.html",
+    "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/11/07/newspaint-1793960457881-1200x840-R9G3yABg5KUDzBTo99BmU3O-1200x840@diario_abc.jpg",
+    "fecha": "2026-11-07T12:17:58+00:00",
+    "id": "55e4a7a1",
+    "traducida": true,
+    "titulo": "Roberto Espinosa, físico: «La luz roja no es una solución milagrosa, pero tampoco una moda sin fundamento»",
+    "resumen": "«Mucha luz durante el día, poca luz durante la noche y oscuridad para dormir». La luz roja está de moda. Paneles, mascarillas y dispositivos prometen más energía, mejor piel, menos dolor y una recuperación más rápida. Pero, entre tanto entusiasmo, ¿qué dice realmente la ciencia?…",
+    "categoria": "Sueño",
+    "slug": "roberto-espinosa-fisico-la-luz-roja-no-es-una-solucion-milagrosa-pero-55e4a7a1"
+  },
+  {
+    "titulo_original": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+    "resumen_original": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Nutrición",
+    "enlace": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+    "imagen": "",
+    "fecha": "2026-11-07T10:16:19+00:00",
+    "id": "73f4dce5",
+    "traducida": true,
+    "titulo": "Beber de 2 a 3 tazas de café al día está relacionado con un riesgo de demencia drásticamente menor",
+    "resumen": "Beber dos o tres tazas de café con cafeína al día se relacionó con un riesgo dramáticamente menor de demencia y un mejor funcionamiento cognitivo en un estudio que abarcó hasta 43 años. Los beneficios aparecieron independientemente del riesgo genético, pero el café descafeinado no mostró los mismos…",
+    "categoria": "Salud general",
+    "slug": "beber-de-2-a-3-tazas-de-cafe-al-dia-esta-relacionado-con-un-riesgo-de-73f4dce5"
+  },
+  {
+    "titulo_original": "Avoir un chat pourrait-il influencer votre santé mentale ? Ce que révèlent les études scientifiques",
+    "resumen_original": "",
+    "idioma": "fr",
+    "fuente": "Futura, le média qui explore le monde",
+    "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbW9FNzl5TlpBS19zOHRkOVRVTGFJNnVoSHFpT2pJNGNJMHV0MVp4bDRYSktlT1hucjhkczhuSHRzemtxU1VfOWFzZWczS21zWVBObjRicXMxbjBWTmxWLTNvRlMtSUFKZ0xVbUlhV0dwOS1mNnRlbHNYOTNLWVdDLVJlU29DeXFNTnpZcGVmUnRvc1hCWWliQXp4YUdCME5oblJXOUtqMXZxbnFlekg2YXNHZ3pXZ1QtQk5UWmFJaEowYjdyTXdTdXNiaWllc2hSdnlHd2c5VEphTVlpUTMw?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-07T09:26:48+00:00",
+    "id": "ed2600d2",
+    "traducida": true,
+    "titulo": "¿Tener un gato podría afectar tu salud mental? Lo que revelan los estudios científicos",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "tener-un-gato-podria-afectar-tu-salud-mental-lo-que-revelan-los-estudi-ed2600d2"
+  },
+  {
     "titulo_original": "Neue Typ-2-Diabetes-Studie: Kampfansage mit Sport und Ernährung",
     "resumen_original": "",
     "idioma": "de",
@@ -193,6 +238,21 @@
     "resumen": "Proteínas distribuidas, frutas, legumbres y agua frecuente conforman una base nutricional asociada al mantenimiento de la fuerza física en la vejez",
     "categoria": "Entrenamiento",
     "slug": "que-comer-despues-de-los-60-para-sostener-musculos-y-energia-4cb2254f"
+  },
+  {
+    "titulo_original": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+    "resumen_original": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially…",
+    "idioma": "en",
+    "fuente": "ScienceDaily · Salud mental",
+    "enlace": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+    "imagen": "",
+    "fecha": "2026-11-07T00:33:47+00:00",
+    "id": "103f28aa",
+    "traducida": true,
+    "titulo": "Los hongos mágicos reconfiguran el cerebro de una manera que los científicos no esperaban",
+    "resumen": "Un descubrimiento sorprendente revela cómo la psilocibina, el compuesto activo de los hongos mágicos, remodela rápidamente el cerebro creando nuevas conexiones neuronales y fortaleciéndolas. Los investigadores descubrieron que el fármaco se comporta de manera diferente en ratones sanos y con estrés crónico, potencialmente...",
+    "categoria": "Salud mental",
+    "slug": "los-hongos-magicos-reconfiguran-el-cerebro-de-una-manera-que-los-cient-103f28aa"
   },
   {
     "titulo_original": "Julie Andrews revela el hábito que ayuda a mantener el cerebro activo a los 91 años",
@@ -478,6 +538,21 @@
     "resumen": "",
     "categoria": "Entrenamiento",
     "slug": "este-ejercicio-fisico-permitiria-bajar-la-presion-arterial-segun-un-nu-41842b63"
+  },
+  {
+    "titulo_original": "Erkrath nimmt an deutschlandweiter Ernährungsstudie teil",
+    "resumen_original": "",
+    "idioma": "de",
+    "fuente": "Super Tipp Online",
+    "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUJyVjdCS0dlZVZTOGw3MXR0S1JLdEkzWkhTeWRGNVFPSlRsbVlGMmlrcHJ0Wm1TN1pWdEY3Mi1YNTRiVWF3bDhBa0xRU1pYMXZyMjItNVZXclNsQk5fT0NzaVU1eGtnWTRKdDFmQTFQQ2VyR2xkeEJUM2JUalVJLTJtVGpyTzUxWkpuRExKaDZXRVVSUXcxNWJMR2JIS1owaER4SG1yWjc0YWJqRUFjSXlNM0gxRTZ1Mm10dmNHUnZJNm04WmhZLQ?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-06T13:41:16+00:00",
+    "id": "bcb6ba4f",
+    "traducida": true,
+    "titulo": "Erkrath participa en un estudio de nutrición en toda Alemania",
+    "resumen": "",
+    "categoria": "Nutrición",
+    "slug": "erkrath-participa-en-un-estudio-de-nutricion-en-toda-alemania-bcb6ba4f"
   },
   {
     "titulo_original": "Grupo Hospiten inaugura en Boadilla del Monte su segundo hospital en Madrid",
@@ -1528,6 +1603,21 @@
     "resumen": "",
     "categoria": "Sueño",
     "slug": "el-estudio-senala-limitar-el-tiempo-para-tomar-cafe-y-proteger-el-cora-27448569"
+  },
+  {
+    "titulo_original": "¿Influye la temperatura del dormitorio en el sueño de las personas con diabetes tipo 2? Un estudio analiza 1.307 noches",
+    "resumen_original": "",
+    "idioma": "es",
+    "fuente": "La Razón",
+    "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV01MMmJVTzZndl9sbDA2MlMwMW84UEgxUlp2ZGdFQTlXcVpOLXJCN2FQb25IcGM5a0puNnhjellySXdYdFgySmJqZHJvR2FsdDJ4RlREUE9ySHFkTGU2emxkUk5ZSU1lREp6bUZtMDFCMXpOanliT2lROG5xMFlvTjk0WU5YYkRScURtTjlNNzl0RVdKZkRMSnBWSVdZMDRmeXd3Znh4VmZBMTh0ZDdCT21ueDd3ajVrM2RuWXpOQzFjaTdibjc1ZFFTOTY5QVI1X0Fwc0M1ZmtYellzdmdJT3RRSEh4bDlmLWlRQ9IBgAJBVV95cUxQb01yeGloVjAyV3BCNjFGZm9kdEVmTFVDM2czbHZhUHF3RDF2S2JfYmxzUFJWMjdxY2Z0LTlCWTZ3SVNUOUhmQjcxTi1ROURHLUlsaV82RmY3U2VrS3Azdzl4U09SMFNGR0dBSU5LZTFfM3N5YUFWcDNvSFVOSWVaUzZBdGpKUXAyLWpYc3JrNjFtWncxZ2JtSnk4RmRobVIxNkZCT19kQkNFZTduZ1o3aktxdTBwekhIMlhaVkQwaDExNFZVRExiREk4NUUwV1RyZGZzOExoM1o2OEw2ZGJiR1dDRW5sUl9NME52eVctTW5RbmZ1VVFrS1RubmcxaXNW?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-05T11:21:03+00:00",
+    "id": "fed333a5",
+    "traducida": true,
+    "titulo": "¿Influye la temperatura del dormitorio en el sueño de las personas con diabetes tipo 2? Un estudio analiza 1.307 noches",
+    "resumen": "",
+    "categoria": "Sueño",
+    "slug": "influye-la-temperatura-del-dormitorio-en-el-sueno-de-las-personas-con-fed333a5"
   },
   {
     "titulo_original": "Un estudio evalúa la influencia del ejercicio en entornos naturales en personas con patologías cardiovasculares",
@@ -5128,6 +5218,21 @@
     "resumen": "En un descubrimiento sorprendente, los científicos descubrieron que ciertas dietas asociadas con la obesidad pueden hacer que la inmunoterapia contra el cáncer sea más efectiva en ratones, desafiando las suposiciones tradicionales sobre la dieta y el tratamiento del cáncer. Los hallazgos sugieren que el secreto puede estar en cómo interactúan los alimentos...",
     "categoria": "Nutrición",
     "slug": "los-cientificos-descubren-que-algunas-dietas-poco-saludables-pueden-po-6f36cdea"
+  },
+  {
+    "titulo_original": "Una sola serie basta per aumentare la massa muscolare?",
+    "resumen_original": "",
+    "idioma": "it",
+    "fuente": "Men's Health",
+    "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlBaa2NBTHhJMjltS1Q4a0MtN0xLdE9tOWhJV2R4LVVEb2dyY3NKeHFaZmhKMWYzdnhwRGRpRUlZVDhtZmJVRGJ5NVVrM1RxY2ZTOFBVbUR3ZnlPb3RNLTRObEc0dkxmcXNzcGVWUzdBc2VDTU50TE1pWXJwOW1hX2lmSmFYWlRGRzhValBUMmg2anVSTUZDYW9R?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-02T12:05:33+00:00",
+    "id": "a09405b8",
+    "traducida": true,
+    "titulo": "¿Es suficiente una sola serie para aumentar la masa muscular?",
+    "resumen": "",
+    "categoria": "Entrenamiento",
+    "slug": "es-suficiente-una-sola-serie-para-aumentar-la-masa-muscular-a09405b8"
   },
   {
     "titulo_original": "Por qué las mujeres tienen mayor riesgo de desarrollar el síndrome RED-S y cuáles son las medidas que ayudan a prevenirlo",
