@@ -1,5 +1,50 @@
 [
   {
+    "titulo_original": "Obesidad sin filtros: el negocio de decirte que estás enfermo",
+    "resumen_original": "Los fármacos adelgazantes no pueden anunciarse. Sin embargo, la calle e internet están llenos de ellos",
+    "idioma": "es",
+    "fuente": "El País · Salud y bienestar",
+    "enlace": "https://elpais.com/salud-y-bienestar/2026-11-08/obesidad-sin-filtros-el-negocio-de-decirte-que-estas-enfermo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/LZCOZDDPLNC6BN6AM675GBCPRU.jpg?auth=1fed759f4f2dc90d4a0192860d424d4aa094fe23e9aeee1f9caabcea4db975da",
+    "fecha": "2026-11-08T04:30:01+00:00",
+    "id": "cc58e639",
+    "traducida": true,
+    "titulo": "Obesidad sin filtros: el negocio de decirte que estás enfermo",
+    "resumen": "Los fármacos adelgazantes no pueden anunciarse. Sin embargo, la calle e internet están llenos de ellos",
+    "categoria": "Nutrición",
+    "slug": "obesidad-sin-filtros-el-negocio-de-decirte-que-estas-enfermo-cc58e639"
+  },
+  {
+    "titulo_original": "¿Cuándo podrá superarse el actual límite de 120 años?: la respuesta de un reconocido endocrinólogo",
+    "resumen_original": "Jesús Fernández-Tresguerres, miembro de la Real Academia Nacional de Medicina de España, dice que hoy le interesa más la calidad del envejecimiento que su extensión, pero que ya se trabaja en generar “piezas de recambio” para todo lo que se va dañando en el organismo",
+    "idioma": "es",
+    "fuente": "Infobae · Salud",
+    "enlace": "https://www.infobae.com/generacion-silver/2026/11/08/cuando-podra-superarse-el-actual-limite-de-120-anos-la-respuesta-de-un-reconocido-endocrinologo/",
+    "imagen": "https://www.infobae.com/resizer/v2/6OUTWUGWNFD4ZMOIOHVT7VFAYY.png?auth=8c9bde4b40c4f4483a8a5eee68dae90f1f56d125019d97a6290afa60508dcb3c&smart=true&width=2752&height=1536",
+    "fecha": "2026-11-08T03:03:00+00:00",
+    "id": "10cde4b5",
+    "traducida": true,
+    "titulo": "¿Cuándo podrá superarse el actual límite de 120 años?: la respuesta de un reconocido endocrinólogo",
+    "resumen": "Jesús Fernández-Tresguerres, miembro de la Real Academia Nacional de Medicina de España, dice que hoy le interesa más la calidad del envejecimiento que su extensión, pero que ya se trabaja en generar “piezas de recambio” para todo lo que se va dañando en el organismo",
+    "categoria": "Salud general",
+    "slug": "cuando-podra-superarse-el-actual-limite-de-120-anos-la-respuesta-de-un-10cde4b5"
+  },
+  {
+    "titulo_original": "Hombro congelado, una dolencia desesperante que afecta más a las mujeres y para la que las terapias se centran en el corto plazo",
+    "resumen_original": "Según un macroestudio sobre la capsulitis adhesiva publicado en 'The BMJ', las ondas de choque y la movilización bajo anestesia son las únicas vías eficaces para lograr un alivio inmediato Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/08/6aecd676e9cf4a8a1e8b457e.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17939099582352.jpg",
+    "fecha": "2026-11-08T00:37:42+00:00",
+    "id": "43e0f960",
+    "traducida": true,
+    "titulo": "Hombro congelado, una dolencia desesperante que afecta más a las mujeres y para la que las terapias se centran en el corto plazo",
+    "resumen": "Según un macroestudio sobre la capsulitis adhesiva publicado en 'The BMJ', las ondas de choque y la movilización bajo anestesia son las únicas vías eficaces para lograr un alivio inmediato Leer",
+    "categoria": "Salud general",
+    "slug": "hombro-congelado-una-dolencia-desesperante-que-afecta-mas-a-las-mujere-43e0f960"
+  },
+  {
     "titulo_original": "«¿Tienes cara de ferritina?»: el fenómeno viral que preocupa a médicos",
     "resumen_original": "Piel apagada, seca y sin luz, ojeras por dormir poco, labios secos y agrietados y, en general, ir agotado por la vida y con una fatiga o falta de energía evidente, sumado a uñas quebradizas y un debilitamiento capilar . Estos rasgos con los que muchos conviven a diario son los…",
     "idioma": "es",
@@ -43,6 +88,21 @@
     "resumen": "La tenista bielorrusa, número dos del mundo, explicó que buscó apoyo especializado para manejar la presión, dejar de sobreanalizar y recuperar confianza de cara al cierre de la temporada. Su caso vuelve a poner en foco la importancia de la asistencia profesional en el deporte de…",
     "categoria": "Entrenamiento",
     "slug": "aryna-sabalenka-revelo-por-que-volvio-a-trabajar-con-una-psicologa-ant-60b58a4d"
+  },
+  {
+    "titulo_original": "Consejos prácticos para aumentar la fertilidad masculina: dieta rica en antioxidantes",
+    "resumen_original": "Aunque los hombres producen gametos durante toda la vida, a partir de los 45 años los espermatozoides pierden velocidad y capacidad de movilidad. Unos hábitos saludables son el combustible perfecto para recuperar capacidades Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/08/6aef08cfe9cf4ae0018b456f.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/07/17940502178348.jpg",
+    "fecha": "2026-11-07T23:46:05+00:00",
+    "id": "abcc03bc",
+    "traducida": true,
+    "titulo": "Consejos prácticos para aumentar la fertilidad masculina: dieta rica en antioxidantes",
+    "resumen": "Aunque los hombres producen gametos durante toda la vida, a partir de los 45 años los espermatozoides pierden velocidad y capacidad de movilidad. Unos hábitos saludables son el combustible perfecto para recuperar capacidades Leer",
+    "categoria": "Nutrición",
+    "slug": "consejos-practicos-para-aumentar-la-fertilidad-masculina-dieta-rica-en-abcc03bc"
   },
   {
     "titulo_original": "Gaseosas, snacks y comidas listas: un estudio vinculó los ultraprocesados con lesiones silenciosas en el cerebro",
@@ -148,6 +208,21 @@
     "resumen": "",
     "categoria": "Sueño",
     "slug": "problemas-para-dormir-segun-un-estudio-este-deporte-mejora-mejor-la-ca-16c1b0af"
+  },
+  {
+    "titulo_original": "Duro revés a la investigación frente a la lipoproteína (a): su reducción no evita el riesgo de sufrir problemas cardiovasculares",
+    "resumen_original": "Los resultados de fase III con pelacarsen suponen un jarro de agua fría a la hipótesis según la cual este compuesto protegería frente al desarrollo de enfermedades del corazón Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/07/6aef01c8e9cf4afc6e8b456f.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/06/10/17495466875576.jpg",
+    "fecha": "2026-11-07T14:50:00+00:00",
+    "id": "81b29b05",
+    "traducida": true,
+    "titulo": "Duro revés a la investigación frente a la lipoproteína (a): su reducción no evita el riesgo de sufrir problemas cardiovasculares",
+    "resumen": "Los resultados de fase III con pelacarsen suponen un jarro de agua fría a la hipótesis según la cual este compuesto protegería frente al desarrollo de enfermedades del corazón Leer",
+    "categoria": "Entrenamiento",
+    "slug": "duro-reves-a-la-investigacion-frente-a-la-lipoproteina-a-su-reduccion-81b29b05"
   },
   {
     "titulo_original": "La semilla que una cardióloga recomienda en el desayuno para bajar el colesterol",
@@ -465,6 +540,21 @@
     "slug": "anna-romeu-psicologa-no-es-que-haya-mas-pas-ahora-simplemente-se-descu-1d16157d"
   },
   {
+    "titulo_original": "La falta de tratamientos para la menopausia obliga a los hospitales a pagar el triple y a algunas pacientes hasta 20 veces más",
+    "resumen_original": "Un mes después de que Cataluña propusiera la formulación magistral para hacer frente a la falta de tratamientos hormonales para la menopausia, la Aemps autoriza ahora a los hospitales españoles a recurrir a los medicamentos extranjeros Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/07/6aee06b521efa0585e8b458d.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/01/30/17066299997039.jpg",
+    "fecha": "2026-11-07T00:00:15+00:00",
+    "id": "4961765a",
+    "traducida": true,
+    "titulo": "La falta de tratamientos para la menopausia obliga a los hospitales a pagar el triple y a algunas pacientes hasta 20 veces más",
+    "resumen": "Un mes después de que Cataluña propusiera la formulación magistral para hacer frente a la falta de tratamientos hormonales para la menopausia, la Aemps autoriza ahora a los hospitales españoles a recurrir a los medicamentos extranjeros Leer",
+    "categoria": "Salud general",
+    "slug": "la-falta-de-tratamientos-para-la-menopausia-obliga-a-los-hospitales-a-4961765a"
+  },
+  {
     "titulo_original": "Research explores new ways to inspire healthy exercise",
     "resumen_original": "",
     "idioma": "en",
@@ -508,6 +598,21 @@
     "resumen": "",
     "categoria": "Salud mental",
     "slug": "dando-forma-al-futuro-del-diagnostico-de-salud-mental-materna-a-traves-232c2df9"
+  },
+  {
+    "titulo_original": "Ehab Hanna, el cirujano que más sabe sobre los cánceres que se confunden con una sinusitis",
+    "resumen_original": "La gran diversidad de tumores nasosinusales dificulta su detección y tratamiento, pero los avances en diagnóstico molecular están allanando el camino Leer",
+    "idioma": "es",
+    "fuente": "El Mundo · Salud",
+    "enlace": "https://www.elmundo.es/salud/2026/11/06/6aec7f96e85ece05718b456f.html",
+    "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938851258898.jpg",
+    "fecha": "2026-11-06T21:45:18+00:00",
+    "id": "3a0148d7",
+    "traducida": true,
+    "titulo": "Ehab Hanna, el cirujano que más sabe sobre los cánceres que se confunden con una sinusitis",
+    "resumen": "La gran diversidad de tumores nasosinusales dificulta su detección y tratamiento, pero los avances en diagnóstico molecular están allanando el camino Leer",
+    "categoria": "Salud general",
+    "slug": "ehab-hanna-el-cirujano-que-mas-sabe-sobre-los-canceres-que-se-confunde-3a0148d7"
   },
   {
     "titulo_original": "Fuerza no es lo mismo que potencia: el factor vinculado con una mejor movilidad después de los 60 años",
@@ -568,6 +673,21 @@
     "resumen": "",
     "categoria": "Sueño",
     "slug": "el-secreto-de-pogacar-tambien-esta-en-su-cama-un-estudio-revela-cuanto-afec403e"
+  },
+  {
+    "titulo_original": "The Princeton Review names SRU to its 2027 Mental Health Services Honor Roll",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "Slippery Rock University",
+    "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdUdaYVkxeE5JLVBVamZyQXhoUi0wZTlGaWNGYVA3aGRUdkxUU0VVMGVZQnFuelotYXpJQXFPUnF1VlV6VG1fMEZraFUtc1dqUVF2d1dhMFpKYzUtQXYtQUFXWEJfY0tkVm9zcVJES0xTSUg4Rk9hcGV0MkF2U3hsNGtJcURJb0xxTUxhOXpnNlVzQzUwODg4QUFwZEkwSlppQVRneF93?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-06T17:28:02+00:00",
+    "id": "dbc084a3",
+    "traducida": true,
+    "titulo": "The Princeton Review nombra a SRU a su Cuadro de Honor de Servicios de Salud Mental 2027",
+    "resumen": "",
+    "categoria": "Salud mental",
+    "slug": "the-princeton-review-nombra-a-sru-a-su-cuadro-de-honor-de-servicios-de-dbc084a3"
   },
   {
     "titulo_original": "L'aérobie semble faciliter l'apprentissage moteur, selon une étude",
@@ -2908,6 +3028,21 @@
     "resumen": "Healthday Spanish",
     "categoria": "Salud general",
     "slug": "artrosis-de-rodilla-sintomas-diagnostico-y-tratamiento-cf8faad5"
+  },
+  {
+    "titulo_original": "Study suggests pulse oximetry-based scoring may miss sleep apnea events in Black patients",
+    "resumen_original": "",
+    "idioma": "en",
+    "fuente": "Mass General Brigham",
+    "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXBQY0RicTFpdnBSd2RoNWJOQVRsbkpWSTVNd09oU0ZVOXV3RUxncUtLOTVEaHZZZzg5eWJrN0RuOTNHTTlQbGJRajViQ2VyRE11Ym9Lakx1cFFpSUx5TURoS1pTNWRFV0tMUFg2WVZZUzd0TnVhZ2RUYTFXTDBaY3dTeWk2UHdfRkQxUlNJYWNYTTNpZXpsSmJBOW5fMDlp?oc=5",
+    "imagen": "",
+    "fecha": "2026-11-04T13:43:15+00:00",
+    "id": "2563c9e4",
+    "traducida": true,
+    "titulo": "El estudio sugiere que la puntuación basada en la oximetría de pulso puede pasar por alto los eventos de apnea del sueño en pacientes negros",
+    "resumen": "",
+    "categoria": "Sueño",
+    "slug": "el-estudio-sugiere-que-la-puntuacion-basada-en-la-oximetria-de-pulso-p-2563c9e4"
   },
   {
     "titulo_original": "La trabajadora social que logró su sueño de estudiar Enfermería: \"La mirada social ayuda a ver al paciente en su totalidad\"",
