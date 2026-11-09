@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-09T01:22:54.428409+00:00",
+  "fecha": "2026-11-09T05:18:16.494592+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -20,27 +20,27 @@
     "Google News (ES)": 15,
     "Google News (FR)": 15,
     "Google News (DE)": 15,
-    "Google News (IT)": 9,
+    "Google News (IT)": 5,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 2314,
-  "noticias_publicadas": 2226,
+  "noticias_en_archivo": 2319,
+  "noticias_publicadas": 2231,
   "descartadas_por_ia": 88,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgrUjbXyuBaNvLTswrn5Z'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgrUjdDCLjivPA6sJqG3c'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgrUjenSsJWrU2uYfVDku'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgrngvdDPCHvMyyiaD4o1'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgrngxBEH9nJaiK3LEdWV'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgrngyhFf1HjcmMKEvbGC'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 13,
-  "pendientes": 1895,
+  "traducidas_ahora": 5,
+  "pendientes": 1900,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 5
+    "mymemory": 4
   },
   "errores_de_traduccion": [
     "google: HTTPError: HTTP Error 429: Too Many Requests"
