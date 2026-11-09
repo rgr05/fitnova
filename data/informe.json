@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-09T09:23:34.144802+00:00",
+  "fecha": "2026-11-09T13:27:03.068593+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -20,27 +20,29 @@
     "Google News (ES)": 15,
     "Google News (FR)": 15,
     "Google News (DE)": 15,
-    "Google News (IT)": 6,
+    "Google News (IT)": 4,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 2333,
-  "noticias_publicadas": 2245,
+  "noticias_en_archivo": 2343,
+  "noticias_publicadas": 2255,
   "descartadas_por_ia": 88,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgs7PsdcpEW9aWdFGwymr'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgs7PuFM8vrTs9r7kTTNt'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgs7PvnsdNma58HX5UdTv'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgsRxSs7hDXE9yFXvxLZG'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgsRxUSMuYRwSNUpU8MjV'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgsRxhM1SZCFGrNWkc33S'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 14,
-  "pendientes": 1914,
+  "traducidas_ahora": 10,
+  "pendientes": 1924,
   "traducidas_por_servicio": {
-    "google": 1,
-    "mymemory": 0
+    "google": 0,
+    "mymemory": 7
   },
-  "errores_de_traduccion": []
+  "errores_de_traduccion": [
+    "google: HTTPError: HTTP Error 429: Too Many Requests"
+  ]
 }
