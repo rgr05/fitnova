@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-11T16:12:02.262568+00:00",
+  "fecha": "2026-11-11T22:43:31.934665+00:00",
   "por_fuente": {
     "ScienceDaily · Fitness": 15,
     "ScienceDaily · Nutrición": 15,
@@ -20,27 +20,27 @@
     "Google News (ES)": 15,
     "Google News (FR)": 15,
     "Google News (DE)": 15,
-    "Google News (IT)": 8,
+    "Google News (IT)": 15,
     "Google News (PT)": 15
   },
-  "noticias_en_archivo": 2471,
-  "noticias_publicadas": 2383,
+  "noticias_en_archivo": 2497,
+  "noticias_publicadas": 2409,
   "descartadas_por_ia": 88,
   "procesadas_con_ia_ahora": 0,
   "ia_activada": true,
   "errores_ia": [
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwS8HFww88RdFBnXWfDf'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwS8SCTskZ78Wu5i4c8z'}",
-    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwS8TtugreSz3YuLswjj'}"
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwwzbaZ92NC6QHzFcXXW'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwwzdDGdPe95RJwuvei2'}",
+    "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwwzemJ49s3CMXe8j7Az'}"
   ],
   "fichas_descartadas_por_cifras": [
     "01f46b24"
   ],
-  "traducidas_ahora": 32,
-  "pendientes": 2054,
+  "traducidas_ahora": 26,
+  "pendientes": 2080,
   "traducidas_por_servicio": {
     "google": 0,
-    "mymemory": 17
+    "mymemory": 10
   },
   "errores_de_traduccion": [
     "google: HTTPError: HTTP Error 429: Too Many Requests"
